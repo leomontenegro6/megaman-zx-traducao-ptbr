@@ -2,90 +2,90 @@
 <#####################>
 
 <p 02><a 2D><n 21>
-What wonderful timing!
+Sincronismo perfeito!
 <--------------------->
 
 <p 02><a 2D><n 21>
-We're on the verge of
-running out of aid kits
-again.
+Estamos à beira de
+esgotar os kits de
+socorro de novo.
 <--------------------->
 
 <p 02><a 2D><n 21>
-Could you spare some
-time to bring me
-another one?
+Você poderia dispôr de
+algum tempo para me
+trazer outro?
 <*********************>
 
 <p 02><a 2D><n 21>
-Whatever you can find
-might be enough to save
-a life.
+Qualquer um que achar,
+pode ser o suficiente
+para salvar uma vida.
 <--------------------->
 
 <p 02><a 2D><n 21>
-As you know, Area L
-is a big Maverick
-stockpile.
+Como você sabe, Área L
+é um grande lixão de
+Maverick.
 <--------------------->
 
-You might find
-something there.
+Você pode encontrar
+alguma coisa lá.
 <*********************>
 
 <p 02><a 02><n 55>
-Bring back an aid kit
-from the enemy supply
-container.
+Pegue kit de socorro
+do container de
+suprimento do inimigo.
 <*********************>
 
 <e 01><a 02><n 55>
-  Yes
-  No
+  Sim
+  Não
 <*********************>
 
 <p 02><a 2D><n 21>
-You still haven't found
-the medical supplies
-yet, have you?
+Você ainda não achou
+suprimentos médicos, 
+achou?
 <--------------------->
 
 <p 02><a 2D><n 21>
-I'll help the wounded
-as long as I can, but
-we need supplies.
+Ajudarei os feridos,
+mas preciso de
+suprimentos.
 <*********************>
 
 <p 02><a 2D><n 21>
-Magnificent work, dear!
-You brought the
-supplies!
+Belo trabalho, querida!
+Você trouxe os
+suprimentos.
 <--------------------->
 
 <p 02><a 2D><n 21>
-You're a little angel.
+Você é uma anjinha.
 <--------------------->
 
 <p 02><a 2D><n 21>
-I know Rose is amazed
-by all of your efforts
-to help.
+Sei que Rose está
+maravilhada com todo 
+seu esforço em ajudar.
 <*********************>
 
 <p 02><a 2D><n 21>
-We may run low again.
-If we do, I'll be sure
-to ask for your help.
+Se ficarmos com poucos
+suprimentos novamente,
+pedirei sua ajuda.
 <*********************>
 
 <p 02><a 02><n 55>
-Quest completed.
+Busca completa.
 <--------------------->
 
 <p 02><a 02><n 55>
-150 EC have been
-transferred to your
-account.
+Foram transferidos
+150 CE para a sua 
+conta.
 <*********************>
 
 <FIM>
