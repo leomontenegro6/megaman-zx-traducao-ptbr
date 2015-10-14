@@ -1,0 +1,778 @@
+<script_info tipo='Missão 7' personagem='Aile' tamanho='7332' inicio_ponteiros='4' fim_ponteiros='61' inicio_textos='62' />
+<#####################>
+
+<p 02><d 591B><a 02><n 55>
+The office district in
+Area G is under heavy
+fire from Mavericks.
+<--------------------->
+
+<p 02><d 5A1B><a 02><n 55>
+There are several
+Guardians in the area,
+<--------------------->
+
+but they're calling for
+backup.
+<--------------------->
+
+<p 02><d 5B1B><a 02><n 55>
+I'm also detecting the
+presence of a Biometal
+<--------------------->
+
+signature among the
+Mavericks.
+<--------------------->
+
+<p 02><d 5C1B><a 02><n 55>
+Head to Area G and face
+down the Maverick
+threat.
+<*********************>
+
+<p 03><d 5D1B><a 23><n 2C>
+Oww... The other
+Guardians went further
+<--------------------->
+
+on to try and save more
+people.
+<--------------------->
+
+<p 03><d 5E1B><a 23><n 2C>
+They were surrounded by
+Mavericks and haven't
+come back.
+<--------------------->
+
+<p 03><d 5F1B><a 23><n 2C>
+Use this old portable
+transerver. Please, you
+have to save everyone!
+<*********************>
+
+<p 03><d 601B><a 21><n 16>
+Ah the Guardian's Mega
+Man has arrived...
+<--------------------->
+
+To think their great
+hero would be just a
+little girl.
+<--------------------->
+
+<p 03><d 611B><a 21><n 16>
+But I suppose if the
+Mavericks have chosen
+you,
+<--------------------->
+
+then you must be the
+one.
+<--------------------->
+
+<p 02><d 621B><a 07><n 02>
+Mavericks choosing me?
+What are you talking
+about!?
+<--------------------->
+
+<p 03><d 631B><a 21><n 16>
+The Mavericks were not
+causing all of that
+<--------------------->
+
+trouble just for fun
+you know.
+<--------------------->
+
+<p 03><d 641B><a 21><n 16>
+They were trying to
+locate the perfect
+vessel for Model W.
+<--------------------->
+
+<p 03><d 651B><a 21><n 16>
+It is all tied into the
+holders of the
+Biometal.
+<--------------------->
+
+The chosen ones. The
+Mega Men. You.
+<--------------------->
+
+<p 03><d 661B><a 21><n 16>
+After all, you survived
+the Maverick raid those
+many years ago.
+<--------------------->
+
+<p 02><d 671B><a 07><n 02>
+Are you trying to say
+the Mavericks let me
+live!? That can't be!
+<--------------------->
+
+<p 03><d 681B><a 21><n 16>
+Ah, it appears you are
+not willing to accept
+the truth.
+<--------------------->
+
+It does not matter,
+Model W will have the
+sacrifice it requires.
+<--------------------->
+
+<p 03><d 691B><a 21><n 16>
+The name is Fistleo, I
+am the Model F
+Pseudoroid.
+<--------------------->
+
+<p 03><d 6A1B><a 21><n 16>
+If you will not accept
+your destiny, then you
+<--------------------->
+
+will have to accept
+your end.
+<*********************>
+
+<p 03><d 6B1B><a 21><n 16>
+Hmph. That should have
+been easier. I must
+continue my training.
+<*********************>
+
+<p 03><d 6C1B><a 21><n 16>
+How could this happen!?
+I was transformed into
+a Pseudoroid...
+<--------------------->
+
+<p 03><d 6D1B><a 21><n 16>
+I was supposed to have
+the power of a god...
+<--------------------->
+
+But I was beaten by a
+little girl!
+<*********************>
+
+<p 03><d 6E1B><a 34><n 08>
+Yahoo! Thanks for
+saving me!
+<--------------------->
+
+<p 03><d 6F1B><a 34><n 08>
+I am the Biometal of
+the Flame, Model F!
+<--------------------->
+
+<p 03><d 701B><a 34><n 08>
+Let's get a move on!
+Who are we gonna take
+down next?
+<--------------------->
+
+<p 02><d 711B><a 05><n 02>
+W-wait! I haven't even
+explained anything yet!
+<--------------------->
+
+<p 03><d 721B><a 34><n 08>
+I know, I know, Serpent
+is up to something
+<--------------------->
+
+sneaky with that
+Model W.
+<--------------------->
+
+<p 03><d 731B><a 34><n 08>
+It's all so
+complicated.
+<--------------------->
+
+I don't really know
+what's going on.
+<--------------------->
+
+<p 03><d 741B><a 34><n 08>
+I just know that he
+used my power to do his
+dirty work.
+<--------------------->
+
+<p 03><d 751B><a 34><n 08>
+If you're out for
+payback, I'm your
+model!
+<--------------------->
+
+Got a problem with
+that?
+<--------------------->
+
+<p 02><d 761B><a 05><n 02>
+Well no...
+<--------------------->
+
+<p 03><d 771B><a 34><n 08>
+Oh, the password.
+<--------------------->
+
+Sorry, but I can't give
+the whole thing to you
+yet.
+<--------------------->
+
+<p 03><d 781B><a 34><n 08>
+Serpent split my power
+down the middle and the
+<--------------------->
+
+other part is with
+another Pseudoroid.
+<--------------------->
+
+<p 03><d 791B><a 34><n 08>
+If you can take that
+one down, I can give
+you the password.
+<*********************>
+
+<p 02><a 23><n 2F>
+You there! Are you here
+to help with the rescue
+operation?
+<--------------------->
+
+<p 02><a 23><n 2F>
+Beyond that window,
+one of us went inside
+to help,
+<--------------------->
+
+<p 02><a 23><n 2F>
+but the fire has
+surrounded them and now
+they are trapped.
+<--------------------->
+
+<p 02><a 23><n 2F>
+If you stand in front
+of the window and press
+<--------------------->
+
+up on the +Control Pad,
+you can enter inside.
+<*********************>
+
+<p 02><a 23><n 30>
+We came to help too,
+<--------------------->
+
+<p 02><a 23><n 30>
+but we got surrounded
+by the flames.
+<--------------------->
+
+<p 02><a 23><n 30>
+There are others who
+need your help in the
+area.
+<--------------------->
+
+<p 02><a 23><n 30>
+Please, you have to
+help them!
+<--------------------->
+
+<p 02><a 23><n 30>
+Oh! By the way, make
+sure you aren't
+transformed when you
+<--------------------->
+
+talk to the
+townspeople.
+<*********************>
+
+<p 02><a 24><n 29>
+I came here to try and
+help people,
+<--------------------->
+
+<p 02><a 24><n 29>
+but I can't get through
+the flames.
+<--------------------->
+
+<p 02><a 24><n 29>
+You could use the dash
+jump to leap over them!
+<--------------------->
+
+<p 02><a 24><n 29>
+Please! Do whatever you
+can to help the others!
+<*********************>
+
+<p 02><a 24><n 2A>
+Thank you for coming to
+save us!
+<--------------------->
+
+<p 02><a 24><n 2A>
+Just remember to
+transform back to
+<--------------------->
+
+normal before talking
+to people.
+<--------------------->
+
+<p 02><a 24><n 2A>
+Otherwise they'll be
+too afraid to accept
+your help.
+<--------------------->
+
+<p 02><a 24><n 2A>
+Of course us Guardians
+know you and won't be
+afraid.
+<*********************>
+
+<p 02><a 37><n 32>
+Nooo! I can't find
+Bosch!
+<--------------------->
+
+<p 02><a 37><n 32>
+Someone! Please save
+him!
+<*********************>
+
+<p 02><a 40><n 3B>
+It's so hot and
+scary...
+<--------------------->
+
+<p 02><a 40><n 3B>
+Where are mommy and
+daddy?
+<--------------------->
+
+<p 02><a 40><n 3B>
+I want to see mommy and
+daddy! I wanna go home!
+<*********************>
+
+<p 02><a 44><n 3F>
+*cough cough* Who are
+you? Did you come to
+save us?
+<--------------------->
+
+<p 02><a 44><n 3F>
+As you can see, this
+room is covered in
+smoke.
+<--------------------->
+
+<p 02><a 44><n 3F>
+Some of the people
+escaped through the
+room windows.
+<--------------------->
+
+<p 02><a 44><n 3F>
+They might still be
+waiting for help on the
+other side.
+<*********************>
+
+<p 02><a 45><n 40>
+Did you come to help
+us?
+<--------------------->
+
+<p 02><a 45><n 40>
+Thank you... I think
+someone is controlling
+the Mavericks.
+<--------------------->
+
+<p 02><a 45><n 40>
+This fire is all his
+fault!
+<--------------------->
+
+<p 02><a 45><n 40>
+He should be at the top
+of this building,
+<--------------------->
+
+getting ready to head
+to the next one over.
+<--------------------->
+
+<p 02><a 45><n 40>
+You've got to teach him
+that if you play with
+fire, you get burned!
+<*********************>
+
+<p 02><a 48><n 43>
+W-who are you? Are you
+from the rescue unit?
+<--------------------->
+
+<p 02><e 01><a 48><n 43>
+Help! Please!
+  Yes
+  No
+<*********************>
+
+<p 02><a 48><n 43>
+Thank you! I thought I
+was done for!
+<--------------------->
+
+<p 02><a 48><n 43>
+One of the Mavericks
+that attacked this
+place stood out.
+<--------------------->
+
+<p 02><a 48><n 43>
+He was terrifying,
+with flames covering
+his body.
+<--------------------->
+
+<p 02><a 48><n 43>
+He took several of the
+captives away.
+<--------------------->
+
+<p 02><a 48><n 43>
+Be careful if you spot
+him...
+<--------------------->
+
+<p 02><a 48><n 43>
+He looks very
+dangerous.
+<*********************>
+
+<p 02><s 01><a 48><n 43>
+What!? Stop kidding
+around and help me!
+<--------------------->
+
+<p 02><a 48><n 43>
+I don't know what else
+to say but...
+<--------------------->
+
+<p 02><a 48><n 43>
+Thank you.
+<*********************>
+
+<p 02><a 4D><n 48>
+I was too slow and
+couldn't escape in
+time.
+<--------------------->
+
+<p 02><a 4D><n 48>
+If you hadn't come
+along, I would have
+<--------------------->
+
+become one extra crispy
+old man.
+<--------------------->
+
+<p 02><a 4D><n 48>
+There are a lot of
+others that need
+rescuing.
+<*********************>
+
+<p 02><a 51><n 4C>
+I sprained my ankle and
+fell behind.
+<--------------------->
+
+<p 02><a 51><n 4C>
+I was worried I
+wouldn't make it out of
+<--------------------->
+
+here alive since I
+couldn't move.
+<--------------------->
+
+<p 02><a 51><n 4C>
+I'm so lucky you came
+along when you did!
+<--------------------->
+
+<p 02><a 51><n 4C>
+Please, take this.
+<*********************>
+
+<p 02><a 55><n 51>
+Why me!? How did I end
+up in this mess?
+<--------------------->
+
+<p 02><a 55><n 51>
+Hey, you there! Would
+you give me a hand?
+<--------------------->
+
+<p 02><a 55><n 51>
+I'll make it worth your
+while!
+<--------------------->
+
+<p 02><a 55><n 51>
+This is nothing
+compared to the value
+of a life.
+<--------------------->
+
+<p 02><a 55><n 51>
+Please take it. It's
+yours!
+<*********************>
+
+<p 02><a 56><n 52>
+Yiiip! Woof woof!
+<*********************>
+
+<p 02><a 23><n 2F>
+Thank you for saving
+me.
+<--------------------->
+
+There are other people
+trapped here too.
+<--------------------->
+
+<p 02><a 23><n 2F>
+You can reach the next
+building over from the
+top floor...
+<--------------------->
+
+<p 02><a 23><n 2F>
+The sprinkler system
+controls are locked
+away in there.
+<--------------------->
+
+<p 02><a 23><n 2F>
+Here, take this key and
+you should be able to
+access them.
+<*********************>
+
+<p 02><a 23><n 30>
+Thank you for saving
+me.
+<--------------------->
+
+There are other people
+trapped here too.
+<--------------------->
+
+<p 02><a 23><n 30>
+You can reach the next
+building over from the
+top floor...
+<--------------------->
+
+<p 02><a 23><n 30>
+The sprinkler system
+controls are over there
+and locked.
+<--------------------->
+
+<p 02><a 23><n 30>
+Take this key and you
+should be able to
+access them.
+<*********************>
+
+<p 02><a 44><n 3F>
+Thank you for saving
+me.
+<--------------------->
+
+There are other people
+trapped here too.
+<--------------------->
+
+<p 02><a 44><n 3F>
+You can reach the next
+building over from the
+top floor...
+<--------------------->
+
+<p 02><a 44><n 3F>
+The sprinkler system
+controls are over there
+and locked.
+<--------------------->
+
+<p 02><a 44><n 3F>
+Take this key and you
+should be able to
+access them.
+<*********************>
+
+<p 02><a 45><n 40>
+Thank you for saving
+me.
+<--------------------->
+
+There are other people
+trapped here too.
+<--------------------->
+
+<p 02><a 45><n 40>
+You can reach the next
+building over from the
+top floor...
+<--------------------->
+
+<p 02><a 45><n 40>
+The sprinkler system
+controls are over there
+and locked.
+<--------------------->
+
+<p 02><a 45><n 40>
+Take this key and you
+should be able to
+access them.
+<*********************>
+
+<p 02><a 24><n 29>
+Thank you for saving
+me.
+<--------------------->
+
+There are other people
+trapped here too.
+<--------------------->
+
+<p 02><a 24><n 29>
+You can reach the next
+building over from the
+top floor...
+<--------------------->
+
+<p 02><a 24><n 29>
+The sprinkler system
+controls are over there
+and locked.
+<--------------------->
+
+<p 02><a 24><n 29>
+Take this key and you
+should be able to
+access them.
+<*********************>
+
+<p 02><a 24><n 2A>
+Thank you for saving
+me.
+<--------------------->
+
+There are other people
+trapped here too.
+<--------------------->
+
+<p 02><a 24><n 2A>
+You can reach the next
+building over from the
+top floor...
+<--------------------->
+
+<p 02><a 24><n 2A>
+The sprinkler system
+controls are over there
+and locked.
+<--------------------->
+
+<p 02><a 24><n 2A>
+Take this key and you
+should be able to
+access them.
+<*********************>
+
+<p 02><a 48><n 43>
+Thank you for saving
+me.
+<--------------------->
+
+There are other people
+trapped here too.
+<--------------------->
+
+<p 02><a 48><n 43>
+You can reach the next
+building over from the
+top floor...
+<--------------------->
+
+<p 02><a 48><n 43>
+The sprinkler system
+controls are over there
+and locked.
+<--------------------->
+
+<p 02><a 48><n 43>
+Take this key and you
+should be able to
+access them.
+<*********************>
+
+<p 02><a 51><n 4C>
+Thank you for saving
+me.
+<--------------------->
+
+There are other people
+trapped here too.
+<--------------------->
+
+<p 02><a 51><n 4C>
+You can reach the next
+building over from the
+top floor...
+<--------------------->
+
+<p 02><a 51><n 4C>
+The sprinkler system
+controls are over there
+and locked.
+<--------------------->
+
+<p 02><a 51><n 4C>
+Take this key and you
+should be able to
+access them.
+<*********************>
+
+<FIM>

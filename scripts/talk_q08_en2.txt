@@ -1,0 +1,168 @@
+<script_info tipo='Quest 8' personagem='Aile' tamanho='1481' inicio_ponteiros='4' fim_ponteiros='23' inicio_textos='24' />
+<#####################>
+
+<p 02><a 2A><n 1E>
+Hey Aile! I hate to
+bother you, but I have
+a favor to ask.
+<--------------------->
+
+<p 02><a 2A><n 1E>
+I was hoping you could
+deliver this letter to
+a girl.
+<--------------------->
+
+<p 02><a 2A><n 1E>
+You're surprised to
+hear people still write
+<--------------------->
+
+letters in this day and
+age?
+<--------------------->
+
+<p 02><a 2A><n 1E>
+Nothing beats a letter
+for capturing the human
+heart.
+<--------------------->
+
+<p 02><a 2A><n 1E>
+Please, Aile.
+<--------------------->
+
+<p 02><a 2A><n 1E>
+I'll compensate you for
+your time!
+<--------------------->
+
+<p 02><a 2A><n 1E>
+As for the name of the
+girl of my dreams...
+I'm not sure.
+<--------------------->
+
+<p 02><a 2A><n 1E>
+But I did see her
+near the fountain in
+town the other day.
+<*********************>
+
+<p 02><a 2A><n 1E>
+Aile, I'll send the
+letter to the
+transerver.
+<--------------------->
+
+<p 02><a 2A><n 1E>
+Whatever you do, don't
+open it!
+<--------------------->
+
+<p 02><a 2A><n 1E>
+You're a transporter,
+so I'm sure you know
+<--------------------->
+
+better than to invade a
+client's privacy.
+<*********************>
+
+<p 02><a 02><n 55>
+Deliver the letter to
+the woman in Area C-2.
+<*********************>
+
+<e 01><a 02><n 55>
+  Yes
+  No
+<*********************>
+
+<p 02><a 2A><n 1E>
+You haven't delivered
+the letter yet, have
+you?
+<--------------------->
+
+<p 02><a 2A><n 1E>
+My heart is racing! I
+wonder what she'll
+say...
+<--------------------->
+
+<p 02><a 2A><n 1E>
+She should be near the
+fountain, so make sure
+she gets it.
+<*********************>
+
+<p 02><a 4B><n 46>
+Oh, you're a
+transporter. You have a
+letter? For me?
+<--------------------->
+
+<p 02><a 4B><n 46>
+I wonder who it's
+from...
+<--------------------->
+
+<p 02><a 4B><n 46>
+Let's see now... "Would
+you like to have dinner
+sometime?"
+<--------------------->
+
+<p 02><a 4B><n 46>
+The nerve! Do I look
+that easy to ask out on
+a date!?
+<*********************>
+
+<p 02><a 2A><n 1E>
+Did she say anything
+about the letter?
+<--------------------->
+
+<p 02><a 2A><n 1E>
+I hope she writes one
+back to me!
+<*********************>
+
+<p 02><a 4B><n 46>
+Hey transporter!
+<--------------------->
+
+<p 02><a 4B><n 46>
+Tell that guy to knock
+it off!
+<--------------------->
+
+<p 02><a 4B><n 46>
+I don't even know him
+that well.
+<*********************>
+
+<p 02><a 02><n 55>
+Quest completed.
+<--------------------->
+
+<p 02><a 02><n 55>
+100 EC have been
+transferred to your
+account.
+<*********************>
+
+<p 02><a 4B><n 46>
+I know it's just your
+job to deliver things.
+<--------------------->
+
+<p 02><a 4B><n 46>
+But I'll be honest, I
+found that letter
+creepy!
+<*********************>
+
+<FIM>

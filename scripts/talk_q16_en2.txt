@@ -1,0 +1,155 @@
+<script_info tipo='Quest 22' personagem='Aile' tamanho='1320' inicio_ponteiros='4' fim_ponteiros='21' inicio_textos='22' />
+<#####################>
+
+<p 02><a 2E><n 22>
+Uhm... Aile?
+<--------------------->
+
+<p 02><a 2E><n 22>
+I have something I need
+to ask you.
+<--------------------->
+
+<p 02><a 2E><n 22>
+Old Muguet is looking
+really tired lately.
+<--------------------->
+
+<p 02><a 2E><n 22>
+Could you find
+something to pick her
+spirits up?
+<--------------------->
+
+<p 02><a 2E><n 22>
+Please, help an old
+woman out.
+<*********************>
+
+<p 02><a 2E><n 22>
+Muguet is treating all
+of the wounded here by
+herself.
+<--------------------->
+
+<p 02><a 2E><n 22>
+And they just keep
+coming.
+<--------------------->
+
+<p 02><a 2E><n 22>
+I don't have enough
+training to be of much
+help to her.
+<--------------------->
+
+<p 02><a 2E><n 22>
+But I do what I can.
+<--------------------->
+
+<p 02><a 2E><n 22>
+I want to at least do
+something to ease her
+burden.
+<--------------------->
+
+<p 02><a 2E><n 22>
+That's why I want to
+find something to give
+her a boost!
+<*********************>
+
+<p 02><a 02><n 55>
+Find the requested item
+in an Area L container.
+<*********************>
+
+<e 01><a 02><n 55>
+  Yes
+  No
+<*********************>
+
+<p 02><a 2E><n 22>
+Did you find it yet?
+<--------------------->
+
+<p 02><a 2E><n 22>
+I can't find anything
+either...
+<--------------------->
+
+<p 02><a 2E><n 22>
+I know you're busy, but
+please look for it if
+you have time.
+<*********************>
+
+<p 02><a 2E><n 22>
+That's it! I'm sure
+this will perk her up
+when she uses it.
+<--------------------->
+
+<p 02><a 2E><n 22>
+Thanks for all of the
+help!
+<*********************>
+
+<p 02><a 2E><n 22>
+I sent a little thank
+you to the transerver.
+<--------------------->
+
+<p 02><a 2E><n 22>
+Don't forget to pick
+it up!
+<*********************>
+
+<p 02><a 02><n 55>
+Quest completed.
+<--------------------->
+
+<p 02><a 02><n 55>
+150 EC have been
+transferred to your
+account.
+<*********************>
+
+<p 02><a 2E><n 22>
+H-hello Aile.
+<--------------------->
+
+<p 02><a 2E><n 22>
+Remember the energy
+pack you brought me
+before?
+<--------------------->
+
+<p 02><a 2E><n 22>
+I modified it a bit and
+gave it to Muguet.
+<--------------------->
+
+<p 02><a 2E><n 22>
+She was so happy that
+she used it right away.
+<--------------------->
+
+<p 02><a 2E><n 22>
+I'm usually not very
+useful to poor old
+Muguet.
+<--------------------->
+
+<p 02><a 2E><n 22>
+But this time it feels
+like I finally made a
+difference.
+<--------------------->
+
+<p 02><a 2E><n 22>
+It's all thanks to you,
+Aile.
+<*********************>
+
+<FIM>

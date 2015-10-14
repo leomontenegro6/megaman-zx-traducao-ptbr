@@ -1,0 +1,110 @@
+<script_info tipo='Quest 17' personagem='Vent' tamanho='978' inicio_ponteiros='4' fim_ponteiros='19' inicio_textos='20' />
+<#####################>
+
+<p 02><a 2F><n 23>
+Oh, it's you Vent!
+<--------------------->
+
+<p 02><a 2F><n 23>
+I have something I want
+to ask you.
+<--------------------->
+
+<p 02><a 2F><n 23>
+I'm trying to put
+something together,
+<--------------------->
+
+<p 02><a 2F><n 23>
+but I'm missing a key
+component.
+<--------------------->
+
+<p 02><a 2F><n 23>
+That piece is sealed
+away inside of a rock
+found in Area K-1.
+<--------------------->
+
+<p 02><a 2F><n 23>
+Unfortunately, I can't
+go and get it.
+<--------------------->
+
+<p 02><a 2F><n 23>
+Would you be willing to
+find it and bring it
+back for me?
+<*********************>
+
+<p 02><a 2F><n 23>
+If only I was young
+like you, I could get
+that rock myself.
+<*********************>
+
+<p 02><a 02><n 55>
+Find the special rock
+in Area K-1 and
+deliver it to Silure.
+<*********************>
+
+<e 01><a 02><n 55>
+  Yes
+  No
+<*********************>
+
+<p 02><a 2F><n 23>
+Did you find the rock
+already?
+<--------------------->
+
+<p 02><a 2F><n 23>
+I'm sorry to make such
+a difficult request.
+<--------------------->
+
+<p 02><a 2F><n 23>
+But if you search
+carefully in Area K-1, 
+<--------------------->
+
+you should find it
+lying around somewhere.
+<*********************>
+
+<p 02><a 2F><n 23>
+This is it! Thank you!
+<--------------------->
+
+<p 02><a 2F><n 23>
+Now that I have the
+final piece, I can make
+something good.
+<--------------------->
+
+<p 02><a 2F><n 23>
+You'll see what it is
+soon enough.
+<*********************>
+
+<p 02><a 2F><n 23>
+I'll send you a little
+something to compensate
+<--------------------->
+
+you for your trouble to
+the transerver.
+<*********************>
+
+<p 02><a 02><n 55>
+Quest completed.
+<--------------------->
+
+<p 02><a 02><n 55>
+200 EC have been
+transferred to your
+account.
+<*********************>
+
+<FIM>

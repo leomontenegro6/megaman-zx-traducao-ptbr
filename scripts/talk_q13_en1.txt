@@ -1,0 +1,185 @@
+<script_info tipo='Quest 19' personagem='Vent' tamanho='1734' inicio_ponteiros='4' fim_ponteiros='25' inicio_textos='26' />
+<#####################>
+
+<p 02><a 30><n 24>
+Hey there Vent!
+<--------------------->
+
+<p 02><a 30><n 24>
+I just went to Area K
+to fix the cable lift.
+<--------------------->
+
+<p 02><a 30><n 24>
+While I was working,
+some screws flew out of
+my bag.
+<--------------------->
+
+<p 02><a 30><n 24>
+And what's worse, they
+dropped into the
+geyser.
+<--------------------->
+
+<p 02><a 30><n 24>
+Without those screws, I
+can't finish work on my
+pet project.
+<--------------------->
+
+<p 02><a 30><n 24>
+I tried to go after
+them, but the lava flow
+almost toasted me!
+<--------------------->
+
+<p 02><a 30><n 24>
+Could you find a way to
+retrieve them for me?
+<*********************>
+
+<p 02><a 30><n 24>
+Those screws are made
+of special
+heat-resistant
+<--------------------->
+
+materials, so they
+should be okay.
+<--------------------->
+
+<p 02><a 30><n 24>
+If my boss finds out,
+I'm going to be the one
+in hot water...
+<--------------------->
+
+<p 02><a 30><n 24>
+Maybe I should've taken
+my chance with the
+lava...
+<*********************>
+
+<p 02><a 02><n 55>
+Recover 5 screws from
+the lava fields.
+<*********************>
+
+<e 01><a 02><n 55>
+  Yes
+  No
+<*********************>
+
+<p 02><a 30><n 24>
+Hey again Vent. You've
+gotta get those screws
+<--------------------->
+
+for me or my boss will
+never let me hear the
+end of it!
+<--------------------->
+
+<e 20><a 30><n 24>
+Did you give up?
+  Yes
+  No
+<*********************>
+
+<p 02><a 30><n 24>
+I won't be able to
+finish my special
+project for you then...
+<--------------------->
+
+<p 02><a 30><n 24>
+Are you sure you want
+to give up? Really,
+really sure?
+<*********************>
+
+<p 02><a 30><n 24>
+Oh good. Once you bring
+the screws back,
+<--------------------->
+
+I can finish the thing
+I'm working on.
+<*********************>
+
+<p 02><a 30><n 24>
+Vent! You brought back
+all of the screws. This
+is great!
+<--------------------->
+
+<p 02><a 30><n 24>
+I should've known it
+would be no sweat for
+an ace transporter.
+<--------------------->
+
+<p 02><a 30><n 24>
+Now I can finish what I
+was working on.
+<*********************>
+
+<p 02><a 30><n 24>
+Once I'm done, I'll
+send the item to the
+transerver for you.
+<--------------------->
+
+<p 02><a 30><n 24>
+You'll get it when you
+file your report.
+<*********************>
+
+<p 02><a 02><n 55>
+Quest completed.
+<--------------------->
+
+<p 02><a 02><n 55>
+200 EC and an item have
+been transferred to
+your account.
+<*********************>
+
+<p 02><a 30><n 24>
+I hope you're getting
+some use out of what I
+made for you.
+<--------------------->
+
+<p 02><a 30><n 24>
+Use it well to make a
+stand against evil!
+<--------------------->
+
+<p 02><a 30><n 24>
+When I realize that I'm
+making a real
+<--------------------->
+
+difference in the
+world...
+<--------------------->
+
+<p 02><a 30><n 24>
+I just get a nice warm,
+fuzzy feeling inside.
+<--------------------->
+
+<p 02><a 30><n 24>
+I'm sure the road
+before you is a
+dangerous one,
+<--------------------->
+
+<p 02><a 30><n 24>
+but never give up,
+Vent!
+<*********************>
+
+<FIM>

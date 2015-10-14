@@ -1,0 +1,145 @@
+<script_info tipo='Quest 12' personagem='Vent' tamanho='1270' inicio_ponteiros='4' fim_ponteiros='23' inicio_textos='24' />
+<#####################>
+
+<p 02><a 2A><n 1E>
+Hey Vent! I'm so sorry
+to bother you again,
+<--------------------->
+
+but I have another
+favor to ask.
+<--------------------->
+
+<p 02><a 2A><n 1E>
+What is it?
+<--------------------->
+
+<p 02><a 2A><n 1E>
+Well, I'm sure you can
+guess what it is...
+<--------------------->
+
+<p 02><a 2A><n 1E>
+Don't worry, I'll
+reward you again for
+your help.
+<*********************>
+
+<p 02><a 2A><n 1E>
+I've passed the letter
+on to the transerver.
+<--------------------->
+
+<p 02><a 2A><n 1E>
+I can just feel the
+love growing with every
+letter I write!
+<*********************>
+
+<p 02><a 02><n 55>
+Deliver the letter to
+the woman in Area C-2.
+<*********************>
+
+<e 01><a 02><n 55>
+  Yes
+  No
+<*********************>
+
+<p 02><a 2A><n 1E>
+You still haven't
+delivered the letter
+right?
+<--------------------->
+
+<p 02><a 2A><n 1E>
+Five times, and my
+heart is racing like
+<--------------------->
+
+it's the first time all
+over again!
+<*********************>
+
+<p 02><a 4B><n 46>
+Agh! It's you! Just
+leave me alone!
+<--------------------->
+
+<p 02><a 4B><n 46>
+Fine, I'll read it! The
+sooner I read it, the
+sooner you'll go away!
+<--------------------->
+
+<p 02><a 4B><n 46>
+"You are my
+sunshine..."
+<--------------------->
+
+<p 02><a 4B><n 46>
+"My only sunshine...
+And I'll forever be
+your shining star."
+<--------------------->
+
+<p 02><a 4B><n 46>
+This guy just can't get
+over himself can he?
+<--------------------->
+
+<p 02><a 4B><n 46>
+I wish his star would
+shine elsewhere!
+<*********************>
+
+<p 02><a 2A><n 1E>
+She wants me to shine
+elsewhere?
+<--------------------->
+
+Poor girl, she must
+feel like she isn't
+good enough for me...
+<--------------------->
+
+<p 02><a 2A><n 1E>
+What a sweetheart!
+<*********************>
+
+<p 02><a 4B><n 46>
+Yo transporter! Make
+sure you tell him this
+for me!
+<--------------------->
+
+<p 02><a 4B><n 46>
+Get a clue!
+<*********************>
+
+<p 02><a 02><n 55>
+Quest completed.
+<--------------------->
+
+<p 02><a 02><n 55>
+300 EC have been
+transferred to your
+account.
+<*********************>
+
+<p 02><a 4B><n 46>
+Would you mind ending
+this game for me!?
+<--------------------->
+
+<p 02><a 4B><n 46>
+It doesn't seem to
+matter how many times I
+say no,
+<--------------------->
+
+this is never going to
+end!
+<*********************>
+
+<FIM>

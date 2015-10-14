@@ -1,0 +1,381 @@
+<script_info tipo='Missão 8' personagem='Aile' tamanho='3793' inicio_ponteiros='4' fim_ponteiros='25' inicio_textos='26' />
+<#####################>
+
+<p 02><d 411F><a 02><n 55>
+The radar is picking up
+a Biometal signature.
+<--------------------->
+
+<p 02><d 421F><a 02><n 55>
+It's on the move and
+has entered Area H on
+its own.
+<--------------------->
+
+<p 02><d 431F><a 02><n 55>
+Area H is where the
+amusement park was
+<--------------------->
+
+attacked in a Maverick
+raid ten years ago.
+<--------------------->
+
+<p 02><d 441F><a 02><n 55>
+It's abandoned, but it
+seems as though some of
+<--------------------->
+
+the machinery is still
+in operation.
+<--------------------->
+
+<p 02><d 451F><a 02><n 55>
+Head to Area H and
+secure the Biometal.
+<*********************>
+
+<p 02><d 461F><a 02><n 04>
+Aile! Mavericks are
+concentrating in that
+area!
+<--------------------->
+
+<p 02><d 471F><a 02><n 04>
+It looks like they're
+after the Biometal too,
+so be careful!
+<--------------------->
+
+<p 02><d 481F><a 08><n 02>
+...
+<--------------------->
+
+<p 02><d 491F><a 02><n 04>
+Aile? Did you hear me?
+What's wrong?
+<--------------------->
+
+<p 02><d 4A1F><a 05><n 02>
+Oh! I'm okay. I'm going
+to proceed with the
+mission now.
+<--------------------->
+
+<p 02><d 4B1F><a 08><n 02>
+I can't believe I have
+to fight here...
+<*********************>
+
+<p 02><d 4C1F><a 07><n 02>
+Hmm, this isn't the one
+with the Biometal.
+<--------------------->
+
+I wonder where it could
+be?
+<*********************>
+
+<p 02><d 4D1F><a 02><n 04>
+Aile, what's going on?
+<--------------------->
+
+You've been acting
+strange ever since this
+mission started.
+<--------------------->
+
+<p 02><d 4E1F><a 07><n 02>
+Prairie, can you tell
+me where that Biometal
+signature is coming
+<--------------------->
+
+from!? Just hurry up
+and tell me!
+<--------------------->
+
+<p 02><d 4F1F><a 02><n 04>
+Aile, calm down! What's
+going on with you?
+<*********************>
+
+<p 02><d 501F><a 08><n 02>
+Ten years ago I was
+attacked by the
+Mavericks...
+<--------------------->
+
+<p 02><d 511F><a 08><n 02>
+I was separated from my
+mom during the panic,
+<--------------------->
+
+and Giro is the one
+that found and rescued
+me.
+<--------------------->
+
+<p 02><d 521F><a 02><n 04>
+You were there ten
+years ago during the
+Maverick raid...
+<--------------------->
+
+<p 02><d 531F><a 08><n 02>
+This place has a lot of
+memories for me, both
+good and bad.
+<--------------------->
+
+<p 02><d 541F><a 08><n 02>
+I just don't want
+anything to happen to
+those memories.
+<--------------------->
+
+I want them to stay
+the way they are.
+<--------------------->
+
+<p 02><d 551F><a 02><n 04>
+Now I understand. I'm
+sorry, I...
+<--------------------->
+
+<p 02><d 561F><a 05><n 02>
+No, I'm sorry. I was
+getting all worked up
+<--------------------->
+
+with the memories of my
+mom and Giro flooding
+back.
+<--------------------->
+
+<p 02><d 571F><a 02><n 04>
+Aile, please remember
+that you are never
+alone.
+<--------------------->
+
+<p 02><d 581F><a 02><n 04>
+You've got me and the
+other Guardians...
+<--------------------->
+
+And you've got Giro
+watching over you too.
+<--------------------->
+
+<p 02><d 591F><a 02><n 04>
+We'll save this country
+together.
+<*********************>
+
+<p 02><d 5A1F><a 05><n 02>
+Thank you Prairie.
+<--------------------->
+
+<p 02><d 5B1F><a 06><n 02>
+Recommencing mission!
+<*********************>
+
+<p 03><d 5C1F><a 1D><n 12>
+Ook! Ook! So a
+Maverick has come to
+take me back eh?
+<--------------------->
+
+<p 03><d 5D1F><a 1D><n 12>
+Lord Serpent just
+doesn't understand how
+to treat his employees!
+<--------------------->
+
+<p 02><d 5E1F><a 07><n 02>
+So you're the one with
+the Biometal!
+<--------------------->
+
+I'm sorry but I'll be
+taking it now.
+<--------------------->
+
+<p 03><d 5F1F><a 1D><n 12>
+Oh, so you're not one
+of the Mavericks? Then
+get out of my park!
+<--------------------->
+
+<p 02><d 601F><a 07><n 02>
+I'm the one with the
+memories here. You get
+out of my park!
+<--------------------->
+
+<p 03><d 611F><a 1D><n 12>
+Ook? You aren't
+actually going to
+challenge an
+<--------------------->
+
+officer of Slither Inc.
+are you? This should be
+interesting.
+<--------------------->
+
+<p 03><d 631F><a 1D><n 12>
+I'll show you just how
+powerful the Pseudoroid
+Purprill really is!
+<*********************>
+
+<p 03><d 641F><a 1D><n 12>
+Ook! Ook! That'll teach
+you to interrupt me
+<--------------------->
+
+with nonsense about
+memories.
+<--------------------->
+
+<p 03><d 651F><a 1D><n 12>
+I'm an executive
+officer!
+<--------------------->
+
+Did you really think
+I'd be done in by the
+likes of you?
+<*********************>
+
+<p 03><d 661F><a 1D><n 12>
+N-nooo! I'm too
+powerful to be beaten!
+I'm an... officer...
+<--------------------->
+
+<p 03><d 671F><a 1D><n 12>
+I should be...
+unstoppable... Ooook!!!
+<*********************>
+
+<p 03><d 681F><a 36><n 0A>
+Drowning in his own
+power...
+<--------------------->
+
+What an appropriate end
+for a low-life that
+wanted it so badly.
+<--------------------->
+
+<p 03><d 691F><a 36><n 0A>
+I am the Biometal of
+the Shadows, Model P.
+You fought bravely.
+<--------------------->
+
+<p 03><d 6A1F><a 36><n 0A>
+Model X, since you are
+lending your power to
+<--------------------->
+
+this one, am I to
+assume the time has
+come?
+<--------------------->
+
+<p 02><d 6B1F><a 31><n 05>
+It has. Someone is
+trying to revive
+Model W.
+<--------------------->
+
+Will you help us stop
+him?
+<--------------------->
+
+<p 03><d 6C1F><a 36><n 0A>
+It is our destiny
+across the ages to
+<--------------------->
+
+protect the world of
+Man.
+<--------------------->
+
+<p 03><d 6D1F><a 36><n 0A>
+Let us once again
+become humanity's blade
+for striking down evil.
+<--------------------->
+
+<p 03><d 6E1F><a 36><n 0A>
+I apologize that I
+cannot hand over the
+password.
+<--------------------->
+
+Serpent split my data
+up into two parts.
+<--------------------->
+
+<p 03><d 6F1F><a 36><n 0A>
+The other part is
+contained in a
+different Pseudoroid.
+<--------------------->
+
+<p 03><d 701F><a 36><n 0A>
+As long as that
+Pseudoroid is
+<--------------------->
+
+operational, you will
+never reach Model W.
+<--------------------->
+
+<p 02><d 711F><a 05><n 02>
+I better stay alert if
+there's another enemy
+<--------------------->
+
+out there with the
+power of Model P.
+<*********************>
+
+<p 02><d 461F><a 02><n 04>
+Aile! Mavericks are
+concentrating in that
+area!
+<--------------------->
+
+<p 01><p 02><d 471F><a 02><n 04>
+It looks like they're
+after the Biometal too,
+so be careful!
+<--------------------->
+
+<p 02><d 481F><a 05><n 02>
+...
+<--------------------->
+
+<p 02><d 491F><a 02><n 04>
+Aile? Did you hear me?
+What's wrong?
+<--------------------->
+
+<p 02><d 4A1F><a 05><n 02>
+Oh! I'm okay. I'm going
+to proceed with the
+mission now.
+<--------------------->
+
+<p 02><d 4B1F><a 05><n 02>
+I can't believe I have
+to fight here...
+<*********************>
+
+<FIM>

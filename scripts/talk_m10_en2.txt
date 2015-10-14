@@ -1,0 +1,1092 @@
+<script_info tipo='Missão 16' personagem='Aile' tamanho='11032' inicio_ponteiros='4' fim_ponteiros='121' inicio_textos='122' />
+<#####################>
+
+<p 02><d 813E><a 0B><n 04>
+Aile. We've tracked
+down Model W's
+location.
+<--------------------->
+
+<p 02><d 823E><a 0B><n 04>
+It's in the tallest
+building right in the
+center of the country -
+<--------------------->
+
+Slither Inc's head
+office.
+<*********************>
+
+<p 01><p 02><d 833E><a 0B><n 04>
+I'm detecting a huge
+concentration of energy
+<--------------------->
+
+amassing within the
+building.
+<--------------------->
+
+<p 01><p 02><d 843E><a 0B><n 04>
+Something big is about
+to happen. It's going
+to be dangerous.
+<--------------------->
+
+<p 01><p 03><d 853E><a 05><n 02>
+It probably will be,
+but I don't have much
+choice now.
+<*********************>
+
+<p 02><d 863E><a 0C><n 04>
+Aile. I know it's a
+little late for this,
+but...
+<*********************>
+
+<p 02><d 873E><a 0C><n 04>
+I'm so sorry that I
+didn't tell you about
+Giro and his mission
+<--------------------->
+
+to watch over you.
+<--------------------->
+
+<p 02><d 883E><a 0C><n 04>
+Please believe me when
+I say that we didn't
+want to deceive you.
+<--------------------->
+
+<p 02><d 893E><a 0C><n 04>
+Giro's face always lit
+up so much when he
+talked about you...
+<--------------------->
+
+<p 02><d 8A3E><a 0C><n 04>
+Giro... He loved you
+very much.
+<--------------------->
+
+<p 03><d 8B3E><a 05><n 02>
+Prairie, did you have
+feelings for him?
+<*********************>
+
+<p 02><d 8C3E><a 0C><n 04>
+W-what!?
+<--------------------->
+
+<p 03><d 8D3E><a 06><n 02>
+Hahaha! Maybe Giro
+resembles someone you
+cared about.
+<--------------------->
+
+<p 03><d 8E3E><a 06><n 02>
+Every time you talk
+about him, you look so
+happy.
+<--------------------->
+
+<p 03><d 8F3E><a 06><n 02>
+Don't worry, I won't
+hold it against you if
+you did like him.
+<--------------------->
+
+<p 03><d 903E><a 06><n 02>
+It's thanks to all of
+you that I'm finally
+able to fight for
+<--------------------->
+
+what's important.
+<--------------------->
+
+<p 02><d 913E><a 09><n 04>
+Aile...
+<--------------------->
+
+<p 03><d 923E><a 05><n 02>
+I'll be right back.
+<--------------------->
+
+<p 03><d 933E><a 05><n 02>
+I'm going to finish
+this battle. For the
+people of this country,
+<--------------------->
+
+and to honor the memory
+of the man we cared
+about.
+<--------------------->
+
+<p 02><d 943E><a 09><n 04>
+The final mission data
+has been added to the
+transerver.
+<--------------------->
+
+<p 02><d 953E><a 09><n 04>
+Aile. Make sure you
+come back to us okay?
+<*********************>
+
+<p 02><d 963E><a 02><n 55>
+There is a Biometal
+signature coming from
+<--------------------->
+
+Slither Inc.'s head
+office in Area D.
+<--------------------->
+
+<p 02><d 973E><a 02><n 55>
+It's Model W.
+<--------------------->
+
+<p 02><d 983E><a 02><n 55>
+Go to Slither Inc.'s
+head office and destroy
+it.
+<*********************>
+
+<p 03><d 993E><a 1B><n 10>
+The curtain is rising
+on a new age!
+<--------------------->
+
+Unfortunately, you
+won't be around to see
+it.
+<--------------------->
+
+<p 03><d 9A3E><a 1B><n 10>
+The light of the new
+world burns too
+<--------------------->
+
+brightly for people
+like you!
+<*********************>
+
+<p 01><p 03><d 9B3E><a 1B><n 10>
+You just don't have
+what it takes to
+<--------------------->
+
+understand our true
+vision. What a shame...
+<*********************>
+
+<p 03><d 9C3E><a 1B><n 10>
+*cough* *cough* I have
+no fear of the end!
+<--------------------->
+
+<p 03><d 9D3E><a 1B><n 10>
+My spirit will fuse
+with Model W and Lord
+Serpent!
+<*********************>
+
+<p 03><d 9E3E><a 1A><n 0F>
+Unbelievable! You've
+been bothering poor
+<--------------------->
+
+Lord Serpent this whole
+time!
+<--------------------->
+
+<p 03><d 9F3E><a 1A><n 0F>
+You little brat! I'm
+going to grind you up!
+<*********************>
+
+<p 01><p 03><d A03E><a 1A><n 0F>
+Oh my! Was that all you
+had?
+<--------------------->
+
+<p 01><p 03><d A13E><a 1A><n 0F>
+You little monster,
+you barely put up a
+fight!
+<*********************>
+
+<p 03><d A23E><a 1A><n 0F>
+Oh! Lord Serpent...
+Take my spirit... it's
+yours to have!
+<--------------------->
+
+<p 03><d A33E><a 1A><n 0F>
+As for you, I hope you
+get squished like the
+bug you are!
+<*********************>
+
+<p 03><d A43E><a 21><n 16>
+Another chance to fight
+the kid. My spirit is
+on fire!
+<--------------------->
+
+<p 03><d A53E><a 21><n 16>
+Alright little girl!
+Show me your strength!
+<*********************>
+
+<p 03><d A63E><a 21><n 16>
+Your mind was too
+clouded with trivial
+memories.
+<--------------------->
+
+You did not stand a
+chance against
+Serpent!
+<*********************>
+
+<p 03><d A73E><a 21><n 16>
+Even if it is only in
+spirit, I will continue
+to fight!
+<--------------------->
+
+I will become one with
+Model W!
+<--------------------->
+
+<p 03><d A83E><a 21><n 16>
+This... this is what
+Serpent must have been
+saying about the power
+<--------------------->
+
+of a god! It is
+incredible... Simply
+incredible!
+<*********************>
+
+<p 03><d A93E><a 1D><n 12>
+Ook! Ook! It's a
+miracle! I'm back and
+I'm feeling great!
+<--------------------->
+
+<p 03><d AA3E><a 1D><n 12>
+I'm sorry, this won't
+be a fair fight!
+<--------------------->
+
+I'll probably take you
+down with one hit!
+<*********************>
+
+<p 03><d AB3E><a 1D><n 12>
+Ook! Ook! Your spirit
+is far too weak to be
+absorbed into Model W!
+<*********************>
+
+<p 03><d AC3E><a 1D><n 12>
+Ook... Ook! Done in
+again!
+<--------------------->
+
+Oh well, at least I was
+back for a little
+while.
+<--------------------->
+
+<p 03><d AD3E><a 1D><n 12>
+Lord Serpent! Take my
+spirit, I freely give
+it to Model W!
+<*********************>
+
+<p 03><d AE3E><a 1C><n 11>
+Hmph. You're a real
+pest! Still trying to
+fight the inevitable.
+<--------------------->
+
+Lord Serpent will be
+victorious!
+<--------------------->
+
+<p 03><d AF3E><a 1C><n 11>
+I'll carve you up and
+then you'll realize how
+futile your battle was!
+<*********************>
+
+<p 03><d B03E><a 1C><n 11>
+You must have been
+quite brave to dare
+challenge me!
+<--------------------->
+
+<p 03><d B13E><a 1C><n 11>
+Well, bravery isn't
+everything.
+<*********************>
+
+<p 03><d B23E><a 1C><n 11>
+Agh! I will continue to
+live on as one with
+Model W...
+<--------------------->
+
+<p 03><d B33E><a 1C><n 11>
+I don't care how long
+it takes, I will defeat
+you!
+<*********************>
+
+<p 03><d B43E><a 1E><n 13>
+Youth truly is wasted
+on the young.
+<--------------------->
+
+You still continue to
+defy Lord Serpent!?
+<--------------------->
+
+<p 03><d B53E><a 1E><n 13>
+You're blind to
+reality! The world that
+Lord Serpent is
+<--------------------->
+
+building is the next
+step in humanity's
+evolution!
+<*********************>
+
+<p 03><d B63E><a 1E><n 13>
+Youth was against
+you...
+<--------------------->
+
+It takes maturity
+beyond your years to
+be a true Mega Man!
+<*********************>
+
+<p 03><d B73E><a 1E><n 13>
+If only you could
+become one with
+Model W, you too would
+<--------------------->
+
+understand the truth.
+<--------------------->
+
+<p 03><d B83E><a 1E><n 13>
+We must evolve... with
+a new world.
+<*********************>
+
+<p 03><d B93E><a 1F><n 14>
+Haha! You should thank
+me. I went through all
+<--------------------->
+
+the trouble of
+diggin' your grave!
+<--------------------->
+
+<p 03><d BA3E><a 1F><n 14>
+Now I just have to bury
+ya!
+<*********************>
+
+<p 03><d BB3E><a 1F><n 14>
+Hmm! It would take a
+lot of work to put
+<--------------------->
+
+ya back together
+again...
+<--------------------->
+
+<p 03><d BC3E><a 1F><n 14>
+I guess I'll just
+scatter some dust on ya
+and skip the grave!
+<*********************>
+
+<p 03><d BD3E><a 1F><n 14>
+I can sense the
+shockwaves of Model W
+ripplin' underground...
+<--------------------->
+
+<p 03><d BE3E><a 1F><n 14>
+Feel free to take your
+dirt nap when Model W
+is done with you!
+<*********************>
+
+<p 03><d BF3E><a 20><n 15>
+I never expected you to
+make it all the way to
+our head office...
+<--------------------->
+
+But this is where your
+journey ends.
+<--------------------->
+
+<p 03><d C03E><a 20><n 15>
+Your smug sense of
+righteousness will be
+your undoing!
+<*********************>
+
+<p 03><d C13E><a 20><n 15>
+You should feel proud!
+You have become the
+first stepping
+<--------------------->
+
+stone on the road to a
+new world!
+<*********************>
+
+<p 03><d C23E><a 20><n 15>
+Lord Serpent... He will
+leave a big footprint
+in history!
+<--------------------->
+
+<p 03><d C33E><a 20><n 15>
+The footprint left
+behind where he
+crushes you!
+<*********************>
+
+<p 02><d C43E><a 07><n 02>
+How could there be so
+many Cyber-elves
+everywhere!?
+<*********************>
+
+<p 03><d C53E><a 14><n 0C>
+You must be wondering
+why we need so many
+<--------------------->
+
+Cyber-elves to awaken
+Model W...
+<--------------------->
+
+<p 03><d C63E><a 14><n 0C>
+Hmph! A child like you
+could never understand.
+<*********************>
+
+<p 03><d C73E><a 14><n 0C>
+Their fright...
+<--------------------->
+
+It becomes the power
+that drives Model W!
+<*********************>
+
+<p 02><d C83E><a 07><n 02>
+What!?
+<*********************>
+
+<p 03><d C93E><a 14><n 0C>
+Model W, it's time! The
+despair and fear of
+this country are yours!
+<*********************>
+
+<p 03><d CA3E><a 14><n 0C>
+By joining us, the weak
+are freed from their
+suffering!
+<--------------------->
+
+<p 03><d CB3E><a 14><n 0C>
+The chosen one, Mega
+Man, will save the
+people!
+<--------------------->
+
+That is the glory of
+Project Haven!
+<--------------------->
+
+<p 02><d CC3E><a 07><n 02>
+Mega Man will save the
+people!?
+<--------------------->
+
+<p 02><d CD3E><a 07><n 02>
+How is sacrificing the
+people of this country
+going to save them!?
+<--------------------->
+
+<p 03><d CE3E><a 14><n 0C>
+Precious misguided
+little girl.
+<--------------------->
+
+It's time for you to
+come off of your high
+horse.
+<--------------------->
+
+<p 03><d CF3E><a 14><n 0C>
+Our power is the result
+of many sacrifices. We
+are the chosen ones.
+<--------------------->
+
+It is destiny for the
+last of our kind to
+rule.
+<--------------------->
+
+<p 03><d D03E><a 14><n 0C>
+Model W is not about
+destruction.
+<--------------------->
+
+It is about rebirth and
+evolution!
+<--------------------->
+
+<p 03><d D13E><a 14><n 0C>
+I am the giver of
+meaning to the lives of
+people who cannot
+<--------------------->
+
+keep up with the tide
+of evolution.
+<--------------------->
+
+<p 02><d D23E><a 07><n 02>
+The only thing you are
+is afraid. Afraid of
+your past.
+<--------------------->
+
+Afraid of yourself and
+what you've become!
+<--------------------->
+
+<p 02><d D33E><a 07><n 02>
+Your fear is what
+drives your desire to
+rule!
+<--------------------->
+
+You think this is
+evolution!? Is this
+really what you want!?
+<--------------------->
+
+<p 03><d D43E><a 14><n 0C>
+You think I'm doing
+this all out of fear?
+That's nonsense!
+<--------------------->
+
+<p 03><d D63E><a 14><n 0C>
+The spirits of the
+people have given me
+what I need
+<--------------------->
+
+to obtain the power of
+Model W!
+<--------------------->
+
+<p 03><d D73E><a 14><n 0C>
+Look at you! You're
+only able to stand
+before me today thanks
+<--------------------->
+
+to the power of Model Z
+absorbed from that red
+Mega Man!
+<--------------------->
+
+<p 03><d D83E><a 14><n 0C>
+Evolution requires
+sacrifice! The ones who
+will determine what
+<--------------------->
+
+needs to be sacrificed
+are the Mega Men!
+<*********************>
+
+<p 01><p 03><d D93E><a 15><n 0C>
+Your fear and despair
+combined with my joy in
+victory...
+<--------------------->
+
+<p 01><p 03><d DA3E><a 15><n 0C>
+They shall be the
+ultimate gift to
+Model W!
+<*********************>
+
+<p 03><d DB3E><a 15><n 0C>
+Gyahahaha!
+<--------------------->
+
+<p 02><d DC3E><a 07><n 02>
+What do you find so
+hilarious about all
+this, Serpent?
+<--------------------->
+
+<p 03><d DD3E><a 15><n 0C>
+It's just as Prometheus
+and Pandora said. You
+are the final key.
+<--------------------->
+
+<p 03><d DE3E><a 15><n 0C>
+Right now... you are
+being controlled by a
+powerful emotion...
+<*********************>
+
+<p 03><d DF3E><a 15><n 0C>
+Emotion so powerful
+it exceeds even mine!
+<*********************>
+
+<p 02><d E03E><a 07><n 02>
+My transformation was
+cancelled. What's
+happening to me!?
+<*********************>
+
+<p 03><d E13E><a 15><n 0C>
+The emotion driving you
+now...
+<--------------------->
+
+<p 03><d E23E><a 15><n 0C>
+That emotion is not
+bravery...
+<--------------------->
+
+It's not born out of
+some sense of
+righteousness...
+<--------------------->
+
+<p 03><d E33E><a 15><n 0C>
+It's hate. Your hate
+for me and everything
+I've taken from you!
+<--------------------->
+
+<p 02><d E43E><a 07><n 02>
+What!?
+<*********************>
+
+<p 02><d E53E><a 08><n 02>
+That's impossible. I'm
+the key to awakening
+the power of Model W?
+<--------------------->
+
+<p 02><d E63E><a 08><n 02>
+All my fighting and I
+did nothing more than
+<--------------------->
+
+fulfill some madman's
+destiny!
+<--------------------->
+
+<p 02><d E73E><a 31><n 05>
+Don't give up yet.
+<*********************>
+
+<p 02><d E83E><a 32><n 06>
+Your battle is not
+over.
+<--------------------->
+
+<p 02><d E93E><a 08><n 02>
+Huh!?
+<*********************>
+
+<p 02><d EA3E><a 33><n 07>
+We did not lend you our
+power just to let you
+<--------------------->
+
+carry out some kind of
+petty revenge...
+<--------------------->
+
+<p 02><d EB3E><a 34><n 08>
+Beating up someone just
+because you don't like
+<--------------------->
+
+them is nothing more
+than the action of a
+playground bully.
+<--------------------->
+
+<p 02><d EC3E><a 35><n 09>
+Don't give in to the
+hate.
+<--------------------->
+
+If you fight the flow,
+you just end up
+swimming in place.
+<--------------------->
+
+<p 02><d ED3E><a 36><n 0A>
+Even in the darkest
+tunnel, there is always
+<--------------------->
+
+a light at the end of
+it for you to follow.
+<*********************>
+
+<p 02><d EE3E><a 31><n 05>
+Your power is not
+based on hate.
+<--------------------->
+
+<p 02><d EF3E><a 31><n 05>
+Your real power. Your
+wellspring of bravery
+lies within you!
+<--------------------->
+
+<p 02><d F03E><a 32><n 06>
+Look within yourself!
+<*********************>
+
+<p 02><d F13E><a 07><n 02>
+You're right. I made a
+promise to you on that
+day!
+<--------------------->
+
+<p 02><d F23E><a 07><n 02>
+I said I will protect
+the people! All of
+them!
+<--------------------->
+
+<p 03><d F33E><a 16><n 0C>
+Well then. If you're so
+sure of yourself, let's
+find out which Mega Man
+<--------------------->
+
+is destined to rule the
+world!
+<--------------------->
+
+<p 02><d F43E><a 07><n 02>
+I'm not interested in
+ruling the world!
+<--------------------->
+
+<p 02><d F53E><a 07><n 02>
+Serpent, if you want to
+be the Mega Man
+destined to rule the
+<--------------------->
+
+<p 02><d F63E><a 07><n 02>
+world, then I am the
+Mega Man that is
+destined to save it!
+<*********************>
+
+<p 02><d F73E><a 07><n 02>
+This is the end of the
+line. I will never
+become like you!
+<--------------------->
+
+<p 03><d F83E><a 17><n 0C>
+Never become like me,
+eh? Gyahaha! You just
+don't get it do you?
+<--------------------->
+
+<p 03><d F93E><a 17><n 0C>
+The Mega Men are all
+designed with one
+purpose, to destroy
+<--------------------->
+
+each other and
+survive to control
+Model W.
+<--------------------->
+
+<p 03><d FA3E><a 17><n 0C>
+It's all just a game,
+his game. We are all
+pieces on the board,
+<--------------------->
+
+and the winner becomes
+the ruler of the world!
+<--------------------->
+
+<p 02><d FB3E><a 07><n 02>
+"His game!?"
+<--------------------->
+
+<p 03><d FC3E><a 17><n 0C>
+Ah yes! His blood flows
+in your veins too!
+<--------------------->
+
+<p 03><d FD3E><a 17><n 0C>
+The man who made
+Model W!
+<--------------------->
+
+<p 02><d FE3E><a 07><n 02>
+No... No, that can't
+be!
+<*********************>
+
+<p 02><d 053F><a 31><n 05>
+Aile! Everything's
+falling apart! You've
+got to get out of here!
+<*********************>
+
+<p 02><d 063F><a 08><n 02>
+His blood flows in my
+veins...
+<--------------------->
+
+<p 02><d 073F><a 08><n 02>
+The power within me...
+Is the power to control
+the world?
+<*********************>
+
+<p 03><d 083F><a 0D><n 03>
+Hey, I don't want to
+hear that kind of talk.
+<--------------------->
+
+You promised to
+continue the fight
+where I left off.
+<*********************>
+
+<p 03><d 093F><a 0D><n 03>
+Don't tell me you
+forgot your promise
+already.
+<--------------------->
+
+You did mean it, right?
+<--------------------->
+
+<p 02><d 0A3F><a 05><n 02>
+Giro!? But, the blood
+that flows in me...
+<--------------------->
+
+<p 03><d 0B3F><a 0D><n 03>
+Is just blood. Are you
+going to let some man
+<--------------------->
+
+you don't even know
+decide your destiny for
+you?
+<--------------------->
+
+<p 03><d 0C3F><a 0D><n 03>
+Destiny is not
+something that is given
+to us by others.
+<--------------------->
+
+<p 03><d 0D3F><a 0D><n 03>
+Destiny comes from the
+concept of "destine,"
+or directing something
+<--------------------->
+
+towards a given end. Be
+the one doing the
+directing.
+<--------------------->
+
+<p 03><d 0E3F><a 0D><n 03>
+Only you can decide
+your destiny.
+<--------------------->
+
+<p 02><d 0F3F><a 05><n 02>
+Only I can decide my
+destiny...
+<*********************>
+
+<p 01><p 03><d 103F><a 0D><n 03>
+Yes. Forget the past.
+It means nothing.
+<--------------------->
+
+<p 01><p 03><d 113F><a 0D><n 03>
+The power you contain
+within is the key to
+creating your future.
+<--------------------->
+
+<p 01><p 02><d 123F><a 05><n 02>
+Serpent said that my
+power is a result of
+many sacrifices...
+<*********************>
+
+<p 01><p 02><d 133F><a 05><n 02>
+But those sacrifices
+didn't just give me
+power.
+<--------------------->
+
+<p 01><p 02><d 143F><a 05><n 02>
+The first commander who
+first made the
+Biometal...
+<--------------------->
+
+<p 01><p 02><d 153F><a 05><n 02>
+You, who protected me
+for all those years.
+The Guardians...
+<--------------------->
+
+<p 01><p 02><d 163F><a 05><n 02>
+All of your sacrifices
+have given me something
+beyond just power.
+<--------------------->
+
+They gave me the will
+to protect the world.
+<--------------------->
+
+<p 01><p 02><d 173F><a 07><n 02>
+And I will protect it!
+<*********************>
+
+<p 03><d 183F><a 0E><n 03>
+Then it looks like you
+have decided to direct
+your own destiny.
+<--------------------->
+
+Take this world into
+the tomorrow you
+desire.
+<*********************>
+
+<p 03><d 1C3F><a 0E><n 03>
+That's my last job
+request for you,
+transporter.
+<*********************>
+
+<p 03><d 1C3F><a 0E><n 03>
+That's my last job
+request for you,
+transporter.
+<*********************>
+
+<p 02><d 1D3F><a 31><n 05>
+Aile, I have faith in
+you and your courage.
+<--------------------->
+
+<p 02><d 1E3F><a 31><n 05>
+I believe that the
+tomorrow you create
+will be a bright one.
+<--------------------->
+
+<p 02><d 1F3F><a 32><n 06>
+Face your destiny and
+carve out a new future
+for yourself.
+<--------------------->
+
+<p 02><d 203F><a 32><n 06>
+That's the struggle
+that you and every
+living thing
+<--------------------->
+
+on the planet must cope
+with.
+<*********************>
+
+<p 02><d 213F><a 0A><n 04>
+Aile!
+<*********************>
+
+<p 01><p 03><d 223F><a 05><n 02>
+Facing our destinies
+and carving out the
+future...
+<--------------------->
+
+That's our struggle.
+<--------------------->
+
+<p 01><p 03><d 233F><a 05><n 02>
+Everyone has fought to
+give me something
+precious.
+<--------------------->
+
+<p 01><p 03><d 243F><a 05><n 02>
+I have a power, and
+with that power comes
+responsibility.
+<--------------------->
+
+<p 01><p 03><d 253F><a 06><n 02>
+I will fight!
+<--------------------->
+
+<p 01><p 03><d 263F><a 06><n 02>
+I will fight for what
+matters!
+<*********************>
+
+<FIM>

@@ -1,0 +1,169 @@
+<script_info tipo='Quest 1' personagem='Aile' tamanho='1478' inicio_ponteiros='4' fim_ponteiros='25' inicio_textos='26' />
+<#####################>
+
+<p 02><a 4A><n 45>
+You're the transporter
+from Giro Express
+aren't you?
+<--------------------->
+
+<p 02><a 4A><n 45>
+I was wondering if you
+could help me out.
+<--------------------->
+
+<p 02><a 4A><n 45>
+There's a miracle
+flower growing in the
+<--------------------->
+
+forest and I'd really
+like to have it.
+<--------------------->
+
+<p 02><a 4A><n 45>
+I'll put in an official
+request with Giro
+Express, so please
+<--------------------->
+
+check the transerver
+for the mission data if
+you can help.
+<--------------------->
+
+<p 02><a 4A><n 45>
+I'll make it worth your
+while!
+<*********************>
+
+<p 02><a 4A><n 45>
+The flower grows in a
+place I can't reach
+myself.
+<--------------------->
+
+<p 02><a 4A><n 45>
+It's so miraculous, it
+doesn't grow just
+anywhere.
+<--------------------->
+
+<p 02><a 4A><n 45>
+It's usually on high
+cliffsides and hard to
+reach places like that.
+<--------------------->
+
+Please help me find it.
+<*********************>
+
+<p 02><a 02><n 55>
+Find the miracle
+flower growing in the
+forest.
+<*********************>
+
+<e 01><a 02><n 55>
+  Yes
+  No
+<*********************>
+
+<p 02><a 4A><n 45>
+I see you haven't found
+the flower yet...
+<--------------------->
+
+<p 02><a 4A><n 45>
+It must be difficult to
+find if even a
+<--------------------->
+
+transporter can't
+locate it.
+<--------------------->
+
+<p 02><a 4A><n 45>
+I can't shake this
+feeling...
+<--------------------->
+
+<p 02><a 4A><n 45>
+I know I saw something
+on the clifftop in Area
+A-1...
+<*********************>
+
+<p 02><a 4A><n 45>
+This is it!
+<--------------------->
+
+<p 02><a 4A><n 45>
+It's beautiful, don't
+you think?
+<--------------------->
+
+<p 02><a 4A><n 45>
+Thank you! I'll
+transfer some
+<--------------------->
+
+E-Crystals to your
+account!
+<*********************>
+
+<p 02><a 4A><n 45>
+Don't forget to pick
+the E-Crystals up at
+the transerver.
+<*********************>
+
+<p 02><a 02><n 55>
+Quest completed.
+<--------------------->
+
+<p 02><a 02><n 55>
+200 EC have been
+transferred to your
+account.
+<*********************>
+
+<p 02><a 4A><n 45>
+Thank you for your help
+earlier.
+<--------------------->
+
+<p 02><a 4A><n 45>
+I never get tired of
+looking at this
+beautiful flower...
+<--------------------->
+
+<p 02><a 4A><n 45>
+Which one of us do you
+think is prettier?
+<--------------------->
+
+<e 1D><a 4A><n 45>
+Well?
+  You, of course!
+  The flower!
+<*********************>
+
+<p 02><a 4A><n 45>
+Really? Wow, thank you!
+You're a sweet
+transporter!
+<*********************>
+
+<p 02><a 4A><n 45>
+What!?
+<--------------------->
+
+<p 02><a 4A><n 45>
+Of all the... You sure
+know how to make a girl
+feel good... Hmph!
+<*********************>
+
+<FIM>

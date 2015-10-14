@@ -1,0 +1,24 @@
+<script_info tipo='rep' personagem='indefinido' tamanho='212' inicio_ponteiros='4' fim_ponteiros='11' inicio_textos='12' />
+<#####################>
+
+
+<dpad> <esquerda>/<direita>: Selecionar
+Botão <btn_a>: OK Botão <btn_b>: Cancelar
+<*********************>
+
+
+<dpad> <cima>/<baixo>: Selecionar
+Botão <btn_a>: OK Botao <btn_b>: Cancelar
+<*********************>
+
+
+<dpad> <cima>/<baixo>: Selecionar
+Cristais insuficientes
+<*********************>
+
+
+<dpad> <cima>/<baixo>: Selecionar
+Reparo desnecessário
+<*********************>
+
+<FIM>

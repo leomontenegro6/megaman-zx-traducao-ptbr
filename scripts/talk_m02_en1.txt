@@ -1,0 +1,207 @@
+<script_info tipo='Missão 2' personagem='Vent' tamanho='1976' inicio_ponteiros='4' fim_ponteiros='19' inicio_textos='20' />
+<#####################>
+
+<p 02><d D107><a 02><n 55>
+Giro, o transportador,
+parece estar lidando
+<--------------------->
+
+com agressões de
+Mavericks na Área B.
+<--------------------->
+
+<p 02><d D207><a 02><n 55>
+Vá à Área B e descubra
+o seu paradeiro.
+<*********************>
+
+<p 02><d D307><a 05><n 01>
+Há sinais de luta lá.
+<--------------------->
+
+<p 02><d D407><a 05><n 01>
+Seguindo esse caminho,
+devo encontrar meu
+chefe.
+<*********************>
+
+<p 02><d D507><a 02><n 04>
+Vent? À escuta?
+<--------------------->
+
+<p 02><d D607><a 02><n 04>
+Sobre o Maverick que
+nos atacou,
+<--------------------->
+
+há algo nessa coisa
+toda que está me
+incomodando.
+<--------------------->
+
+<p 02><d D707><a 02><n 04>
+Deve haver uma pista
+nas ruínas
+<--------------------->
+
+sobre o que estaria
+causando os surtos
+dos Mavericks.
+<--------------------->
+
+<p 02><d D807><a 02><n 04>
+Verifique-as e veja se
+consegue encontrar
+algo.
+<*********************>
+
+<p 02><d D907><a 02><n 04>
+Deve haver uma pista
+nas ruínas
+<--------------------->
+
+sobre o que estaria
+causando os surtos
+dos Mavericks.
+<--------------------->
+
+<p 02><d DA07><a 02><n 04>
+Verifique-as e veja se
+consegue encontrar
+algo.
+<*********************>
+
+<p 02><d DB07><a 05><n 01>
+Isso é um chip de
+computador?
+<--------------------->
+
+<p 02><d DC07><a 02><n 04>
+Deve ser de um pedaço
+de metal que caiu de
+um dos Mavericks.
+<--------------------->
+
+<p 02><d DD07><a 02><n 04>
+Se trouxer de volta ao
+QG, podemos analisá-lo.
+<--------------------->
+
+Pode nos dar a pista
+que precisamos.
+<--------------------->
+
+<p 02><d DE07><a 02><n 04>
+Se encontrar qualquer
+outra coisa, traga
+de volta também.
+<*********************>
+
+<p 03><d DF07><a 07><n 01>
+Este é o poder do
+Biometal?
+<--------------------->
+
+<p 02><d E007><a 11><n 00>
+Parece que você também
+conectou-se ao
+Biometal.
+<*********************>
+
+<p 03><d E107><a 05><n 01>
+Chefe!
+<--------------------->
+
+<p 02><d E207><a 0D><n 03>
+Quando os Mavericks me
+cercara,
+<--------------------->
+
+o Biometal de repente
+começou a brilhar.
+<--------------------->
+
+<p 02><d E307><a 0D><n 03>
+E no mesmo instante,
+estava combatendo-os
+nesta forma.
+<--------------------->
+
+<p 02><d E407><a 0D><n 03>
+Sabia que estávamos
+transportando algo
+importante.
+<--------------------->
+
+<p 02><d E507><a 0D><n 03>
+Mas não fazia ideia do
+poder que estava escon-
+dido nessa encomenda.
+<--------------------->
+
+<p 03><d E607><a 05><n 01>
+Ahn? Como sabe sobre
+o Biometal?
+<--------------------->
+
+<p 02><d E707><a 0D><n 03>
+Ah... Bem... Ouvi sobre
+isso quando aceitei o
+pedido.
+<--------------------->
+
+<p 02><d E807><a 0D><n 03>
+Me disseram para manter
+segredo porque seria
+arriscado demais
+<--------------------->
+
+permitir que qualquer
+um soubesse do conteúdo
+da encomenda.
+<--------------------->
+
+<p 03><d E907><a 05><n 01>
+Ah... Entendi.
+<--------------------->
+
+<p 02><d EA07><a 0D><n 03>
+Pelo menos sabemos que
+os dois fragmentos de
+Biometal estão seguros.
+<--------------------->
+
+<p 02><d ED07><a 0D><n 03>
+Vou usar o transervidor
+para voltar ao QG
+dos Guardiões.
+<--------------------->
+
+<p 02><d EE07><a 0D><n 03>
+Estarei esperando.
+Não demore muito.
+<*********************>
+
+<p 02><d EF07><a 02><n 04>
+Parece que conseguiu
+encontrar Giro. É um
+alívio.
+<--------------------->
+
+<p 02><d F007><a 02><n 04>
+Ah, não esqueça de ir
+ao transervidor na sala
+de trás
+<--------------------->
+
+e escolher a opção
+"Relatar Missão".
+<--------------------->
+
+<p 02><d F107><a 02><n 04>
+Isso enviará ao QG a
+confirmação de que a
+missão foi concluída.
+<*********************>
+
+<FIM>

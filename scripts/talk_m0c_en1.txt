@@ -1,0 +1,183 @@
+<script_info tipo='Missão 12' personagem='Vent' tamanho='1800' inicio_ponteiros='4' fim_ponteiros='19' inicio_textos='20' />
+<#####################>
+
+<p 02><d E12E><a 02><n 55>
+We've located an old
+research lab in Area L.
+<--------------------->
+
+<p 02><d E22E><a 02><n 55>
+The facility's layout
+is similar to the one
+<--------------------->
+
+where the first
+commander discovered
+Model X.
+<--------------------->
+
+<p 02><d E32E><a 02><n 55>
+There might be some
+clues about the
+Biometal around there.
+<--------------------->
+
+<p 02><d E42E><a 02><n 55>
+The enemy is already
+moving into the area.
+<--------------------->
+
+<p 02><d E52E><a 02><n 55>
+We can't let that data
+fall into their hands.
+<--------------------->
+
+<p 02><d E62E><a 02><n 55>
+Head to Area L and
+acquire the data before
+they do.
+<*********************>
+
+<p 02><d E72E><a 02><n 04>
+Vent! The enemy has
+commenced their attack!
+<--------------------->
+
+<p 02><d E82E><a 02><n 04>
+If we don't hurry, all
+of the data in the
+<--------------------->
+
+research lab will be
+lost!
+<--------------------->
+
+<p 02><d E92E><a 02><n 04>
+The room with the data
+should be up ahead!
+<*********************>
+
+<p 03><d EA2E><a 20><n 15>
+You've come at last...
+<--------------------->
+
+The foolish Mega Man
+who has sided with the
+Guardians.
+<--------------------->
+
+<p 03><d EB2E><a 20><n 15>
+All of the data that
+was found here is now
+<--------------------->
+
+in my internal data
+disk.
+<--------------------->
+
+<p 03><d EC2E><a 20><n 15>
+I just need to destroy
+this room with you in
+it,
+<--------------------->
+
+and all of the loose
+ends will be tied up.
+<--------------------->
+
+<p 03><d ED2E><a 20><n 15>
+I am the Model P
+Pseudoroid, Protectos!
+<--------------------->
+
+<p 03><d EE2E><a 20><n 15>
+I will crush anyone
+that stands in our way!
+<*********************>
+
+<p 03><d EF2E><a 20><n 15>
+Hmph! Your pathetic
+sense of righteousness
+got you nowhere.
+<*********************>
+
+<p 03><d F02E><a 20><n 15>
+Ugh! No! How could
+anyone break through my
+armor!
+<--------------------->
+
+<p 03><d F12E><a 20><n 15>
+Rrraaagh!
+<*********************>
+
+<p 03><d F22E><a 36><n 0A>
+Oh how the mighty have
+fallen.
+<--------------------->
+
+Strong armor is
+nothing compared to
+the power of will.
+<--------------------->
+
+<p 03><d F32E><a 36><n 0A>
+It will take some time
+before I am capable of
+<--------------------->
+
+recovering the
+password.
+<--------------------->
+
+<p 03><d F42E><a 36><n 0A>
+The password will be
+ready when you need it.
+<*********************>
+
+<p 02><d F52E><a 02><n 04>
+That data disk was left
+behind by Sis. It had
+to be.
+<--------------------->
+
+<p 02><d F62E><a 02><n 04>
+Please don't forget to
+bring it back to HQ.
+<*********************>
+
+<p 02><a 01><n 00>
+Biometal Report
+Classification #315000
+* Model W *
+<--------------------->
+
+<p 02><a 01><n 00>
+...discovered...
+conscious...metal...Bio
+...tal Model W.
+<--------------------->
+
+<p 02><a 01><n 00>
+.......................
+<--------------------->
+
+<p 02><d F72E><a 08><n 01>
+It looks like the data
+was corrupted. I can't
+read it.
+<--------------------->
+
+<p 02><d F82E><a 02><n 04>
+We might still have
+something that can
+recover the data at HQ.
+<--------------------->
+
+<p 02><d F92E><a 02><n 04>
+Please send it to us
+along with your mission
+report.
+<*********************>
+
+<FIM>

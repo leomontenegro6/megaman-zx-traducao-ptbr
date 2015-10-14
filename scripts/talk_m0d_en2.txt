@@ -1,0 +1,386 @@
+<script_info tipo='Missão 13' personagem='Aile' tamanho='3705' inicio_ponteiros='4' fim_ponteiros='65' inicio_textos='66' />
+<#####################>
+
+<p 02><d C932><a 02><n 04>
+Aile! Can you hear me!?
+Come in!
+<--------------------->
+
+<p 02><d CA32><a 02><n 04>
+HQ radar has spotted
+multiple Slither Inc.
+airships!
+<--------------------->
+
+<p 02><d CB32><a 02><n 04>
+Their fleet is flying
+full speed straight
+at us!
+<--------------------->
+
+<p 02><d CC32><a 02><n 04>
+Aile! Get back here! We
+need your help!
+<*********************>
+
+<p 03><d CD32><a 07><n 02>
+Prairie, what's the
+current situation with
+the enemy fleet!?
+<*********************>
+
+<p 02><d CE32><a 0B><n 04>
+Not good! They're
+right on top of us!
+<--------------------->
+
+<p 02><d CF32><a 0B><n 04>
+This ship wasn't
+designed for heavy
+battle.
+<--------------------->
+
+If the enemy boards us,
+we're done for!
+<*********************>
+
+<p 02><d D032><a 02><n 55>
+Slither Inc.'s
+fleet has fired an
+opening volley!
+<--------------------->
+
+<p 02><d D132><a 02><n 55>
+Returning fire!
+<*********************>
+
+<p 02><d D232><a 0B><n 04>
+All hands man the port
+and starboard machine
+guns!
+<--------------------->
+
+<p 02><d D332><a 0B><n 04>
+Don't let them get
+any closer!
+<*********************>
+
+<p 02><d D432><a 0B><n 04>
+Aile! You have to get
+to the deck and do what
+<--------------------->
+
+you can to stop those
+boarding parties!
+<*********************>
+
+<p 03><d D532><a 07><n 02>
+I'm on it! I won't let
+anyone get hurt!
+<--------------------->
+
+<p 03><d D632><a 07><n 02>
+I'll keep every last
+Guardian safe!
+<*********************>
+
+<p 02><d D732><a 07><n 02>
+Wait a second. I've
+seen them before!
+<--------------------->
+
+<p 02><d D832><a 02><n 04>
+Enemy troops have
+boarded the ship!
+<--------------------->
+
+<p 02><d D932><a 02><n 04>
+They're heading for the
+engine room down below!
+<--------------------->
+
+<p 02><d DA32><a 02><n 04>
+You have to get down
+there and protect the
+engines! Hurry!
+<--------------------->
+
+<p 02><d DB32><a 07><n 02>
+Hmph! I'll stop 'em!
+<*********************>
+
+<p 02><d DC32><a 23><n 2C>
+Hey you! Stand away
+from the reactor!
+<*********************>
+
+<p 03><d DD32><a 19><n 0E>
+Move aside...
+<*********************>
+
+<p 02><d DE32><a 07><n 02>
+Prairie! Are you okay?
+<--------------------->
+
+<p 02><d DF32><a 0B><n 04>
+Aile!
+<*********************>
+
+<p 01><p 03><d E032><a 19><n 0E>
+You... The girl from
+before... Model X...
+Model Z... together...
+<--------------------->
+
+<p 01><p 03><d E132><a 18><n 0D>
+Or should we just say
+Model ZX now?
+<--------------------->
+
+<p 01><p 03><d E232><a 18><n 0D>
+I came here to crush
+the Guardians once and
+for all,
+<--------------------->
+
+but it's such a shame
+it has to end so
+easily.
+<--------------------->
+
+<p 01><p 03><d E332><a 18><n 0D>
+I'll find out whether
+or not you're worthy of
+<--------------------->
+
+being a pawn in his
+grand game!
+<--------------------->
+
+<p 01><p 02><d E432><a 07><n 02>
+Game!? Who's game!?
+<*********************>
+
+<p 03><d E532><a 19><n 0E>
+Prometheus... It's not
+fair...
+<--------------------->
+
+<p 03><d E632><a 18><n 0D>
+Don't worry, I'll be
+sure to leave some fun
+for you.
+<--------------------->
+
+<p 03><d E732><a 18><n 0D>
+That is unless she's
+too fragile and gets
+blown to pieces.
+<*********************>
+
+<p 02><d E832><a 0B><n 04>
+Aile!
+<--------------------->
+
+<p 02><d E932><a 07><n 02>
+Stay back Prairie! I'll
+take care of him!
+<*********************>
+
+<p 03><d EA32><a 18><n 0D>
+Interesting... You're
+more powerful than I
+expected.
+<--------------------->
+
+<p 03><d EB32><a 18><n 0D>
+You are worthy of being
+one of us.
+<--------------------->
+
+<p 03><d EC32><a 18><n 0D>
+Consider yourself part
+of the game!
+<*********************>
+
+<p 02><d ED32><a 07><n 02>
+One of you!? You must
+be joking!
+<*********************>
+
+<p 03><d EE32><a 18><n 0D>
+Your name was Aile<c 01>,
+<c 00>wasn't it?
+<--------------------->
+
+Well, I like your
+spirit, so I'll let you
+off this time!
+<*********************>
+
+<p 02><d EF32><a 07><n 02>
+W-wait!
+<--------------------->
+
+<p 03><d F032><a 18><n 0D>
+Aile! You still have a
+long way to grow before
+you can hope to
+<--------------------->
+
+challenge us. Come to
+us when you are ready!
+<*********************>
+
+<p 03><d F132><a 18><n 0D>
+Model W will be waiting
+with open arms! 
+<*********************>
+
+<p 02><d F232><a 0B><n 04>
+Aile! Are you alright?
+<--------------------->
+
+<p 02><d F332><a 08><n 02>
+Who... am... I?
+<*********************>
+
+<p 02><d F632><a 02><n 55>
+Commander Prairie! The
+enemy fleet is moving
+away!
+<--------------------->
+
+<p 02><d F732><a 0B><n 04>
+The enemy has
+retreated. I want a
+damage report!
+<--------------------->
+
+<p 02><d F832><a 0C><n 04>
+And make sure the
+wounded get priority.
+<--------------------->
+
+<p 02><d F932><a 02><n 55>
+Understood.
+<*********************>
+
+<p 02><d FA32><a 0C><n 04>
+Aile, come back to the
+command center.
+<*********************>
+
+<p 03><d FB32><a 07><n 02>
+You have to tell me
+everything you know!
+<--------------------->
+
+<p 03><d FC32><a 07><n 02>
+Who am I? Why was Giro
+watching over me all of
+those years!?
+<*********************>
+
+<p 02><d FD32><a 0B><n 04>
+Calm down Aile! I don't
+know much about what's
+going on either.
+<*********************>
+
+<p 02><d FE32><a 0B><n 04>
+The one that gave Giro
+the order to protect
+<--------------------->
+
+you was the first
+commander.
+<--------------------->
+
+<p 03><d FF32><a 05><n 02>
+By first commander, you
+mean your sister right?
+<*********************>
+
+<p 01><p 02><d 0033><a 0B><n 04>
+The order was to
+protect anyone that
+<--------------------->
+
+survived the Maverick
+raid.
+<--------------------->
+
+<p 01><p 02><d 0133><a 0B><n 04>
+At first I didn't
+understand why she
+<--------------------->
+
+would give such an
+order.
+<*********************>
+
+<p 01><p 02><d 0233><a 0B><n 04>
+But when I saw Giro
+transform into the
+Model Z
+<--------------------->
+
+Mega Man, I finally
+understood the reason.
+<--------------------->
+
+<p 01><p 02><d 0333><a 0B><n 04>
+Survivors of Maverick
+raids share the ability
+<--------------------->
+
+to transform with the
+power of the Biometal.
+<--------------------->
+
+<p 01><p 02><d 0433><a 0B><n 04>
+People like you and
+Giro.
+<--------------------->
+
+<p 01><p 02><d 0533><a 0C><n 04>
+I'm telling you the
+truth when I say that's
+all I know.
+<*********************>
+
+<p 02><d 0633><a 0B><n 04>
+I have no idea why some
+are chosen to be Mega
+<--------------------->
+
+Men while others are
+not.
+<--------------------->
+
+<p 02><d 0733><a 0B><n 04>
+I'm guessing the only
+one who knows the real
+<--------------------->
+
+truth behind all of
+this is Serpent.
+<*********************>
+
+<p 03><d 0833><a 05><n 02>
+So if I want the truth,
+I'm going to have to
+keep fighting.
+<--------------------->
+
+<p 03><d 0933><a 07><n 02>
+Alright then, give me
+my next mission.
+<--------------------->
+
+I have to find out
+just who I really am!
+<*********************>
+
+<FIM>

@@ -1,0 +1,130 @@
+<script_info tipo='Missão 11' personagem='Aile' tamanho='1226' inicio_ponteiros='4' fim_ponteiros='15' inicio_textos='16' />
+<#####################>
+
+<p 02><d F92A><a 02><n 55>
+A Slither Inc. unit has
+been spotted in Area K.
+<--------------------->
+
+<p 02><d FA2A><a 02><n 55>
+They're digging up
+something. It's big.
+<--------------------->
+
+<p 02><d FB2A><a 02><n 55>
+There's a Pseudoroid
+with a Biometal
+<--------------------->
+
+fragment overseeing the
+operation.
+<--------------------->
+
+<p 02><d FC2A><a 02><n 55>
+Head to Area K and
+recover the Biometal
+from the Pseudoroid.
+<*********************>
+
+<p 02><d FD2A><a 02><n 04>
+The dig site looks like
+it continues deep
+underground.
+<--------------------->
+
+<p 02><d FE2A><a 02><n 04>
+Try to find a way down
+there.
+<*********************>
+
+<p 03><d FF2A><a 1F><n 14>
+Hmm? Oh... It's you.
+You're the one goin'
+<--------------------->
+
+around stealin' the
+Biometal.
+<--------------------->
+
+<p 03><d 002B><a 1F><n 14>
+I could feel your
+presence a mile away.
+<--------------------->
+
+It was drilling
+straight through the
+ground to me.
+<--------------------->
+
+<p 03><d 012B><a 1F><n 14>
+Lord Serpent said there
+was an even more
+powerful Biometal
+<--------------------->
+
+buried deep beneath
+the surface.
+<--------------------->
+
+<p 03><d 022B><a 1F><n 14>
+But! Nothin' is
+comin' up!
+<--------------------->
+
+<p 03><d 032B><a 1F><n 14>
+I am the Model F
+Pseudoroid, Flammole.
+<--------------------->
+
+<p 03><d 042B><a 1F><n 14>
+I'll take ya down and
+the Biometal you stole
+will be back,
+<--------------------->
+
+safe in our hands!
+<*********************>
+
+<p 03><d 052B><a 1F><n 14>
+Hah! The Biometal's
+strength was wasted on
+a runt like you!
+<*********************>
+
+<p 03><d 062B><a 1F><n 14>
+I see now... You
+weren't the one I
+sensed...
+<--------------------->
+
+<p 03><d 072B><a 1F><n 14>
+It musta been... 
+Model W? Or...
+<--------------------->
+
+Is it somethin' else
+entirely!?
+<--------------------->
+
+<p 03><d 082B><a 1F><n 14>
+Aaagh!
+<*********************>
+
+<p 03><d 092B><a 34><n 08>
+Haha! What a waste that
+a loser like that had
+my power!
+<--------------------->
+
+<p 03><d 0A2B><a 34><n 08>
+Sorry, but it'll be
+some time before I can
+recover that password.
+<--------------------->
+
+<p 03><d 0B2B><a 34><n 08>
+Don't worry, I'll get
+it for you.
+<*********************>
+
+<FIM>

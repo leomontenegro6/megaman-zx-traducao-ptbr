@@ -1,0 +1,225 @@
+<script_info tipo='Quest 16' personagem='Aile' tamanho='1835' inicio_ponteiros='4' fim_ponteiros='33' inicio_textos='34' />
+<#####################>
+
+<p 02><a 47><n 42>
+You're a transporter
+aren't ya?
+<--------------------->
+
+<p 02><a 47><n 42>
+I've got somethin' to
+ask ya.
+<--------------------->
+
+<e 2A><a 47><n 42>
+Is that cool?
+  Yes
+  No
+<*********************>
+
+<p 02><a 47><n 42>
+Thanks.
+<--------------------->
+
+<p 02><a 47><n 42>
+I'm thinkin' to ask a
+girl to marry me and I
+need to make a ring.
+<--------------------->
+
+<p 02><a 47><n 42>
+Not just any ring, but
+THE ring!
+<--------------------->
+
+<p 02><a 47><n 42>
+I need a Cold Pearl
+from a lake...
+<--------------------->
+
+As ya can guess from
+the name, it's gotta be
+a cold lake.
+<--------------------->
+
+<p 02><a 47><n 42>
+Could ya find one and
+bring it back?
+<--------------------->
+
+<p 02><a 47><n 42>
+Help a guy out.
+<*********************>
+
+<p 02><a 47><n 42>
+Oh, that's a shame.
+<--------------------->
+
+<p 02><a 47><n 42>
+If ya change your mind,
+ya know where to find
+me.
+<*********************>
+
+<p 02><a 47><n 42>
+My future happiness
+rests in your hands!
+<*********************>
+
+<p 02><a 02><n 55>
+Find the rare pearl
+from the bottom of a
+cold lake.
+<*********************>
+
+<p 02><a 02><n 55>
+  Yes
+  No
+<*********************>
+
+<p 02><a 47><n 42>
+*sigh* I'm dyin' to
+tell my girl how I
+feel...
+<--------------------->
+
+<p 02><a 47><n 42>
+Buuut, I can't make my
+move...
+<--------------------->
+
+<p 02><a 47><n 42>
+Not without that pearl.
+<*********************>
+
+<p 02><a 47><n 42>
+This is the legendary
+Cold Pearl!
+<--------------------->
+
+<p 02><a 47><n 42>
+Thanks! I'll get this
+puppy made into a ring
+right away.
+<*********************>
+
+<p 02><a 47><n 42>
+Oh yeah, I sent ya a
+little somethin' for
+your trouble.
+<--------------------->
+
+Check the transerver!
+<*********************>
+
+<p 02><a 02><n 55>
+Quest completed.
+<--------------------->
+
+<p 02><a 02><n 55>
+300 EC have been
+transferred to your
+account.
+<*********************>
+
+<p 02><a 47><n 42>
+O-oh, it's you again!
+Thanks for earlier!
+<--------------------->
+
+<p 02><a 47><n 42>
+Ya wanna know what
+happened?
+<--------------------->
+
+<e 2B><a 47><n 42>
+Well, do ya?
+  Yes
+  No
+<*********************>
+
+<p 02><a 47><n 42>
+Well, to tell ya the
+truth, right at the
+<--------------------->
+
+moment I presented the
+ring...
+<--------------------->
+
+<p 02><a 47><n 42>
+The Cold Pearl melted!
+<--------------------->
+
+<p 02><a 47><n 42>
+There was a long
+silence...
+<--------------------->
+
+<p 02><a 47><n 42>
+But then, she broke
+it...
+<--------------------->
+
+<p 02><a 47><n 42>
+"I'm just happy you
+cared so much..."
+<--------------------->
+
+<p 02><a 47><n 42>
+Hohohoho!
+<--------------------->
+
+<p 02><a 47><n 42>
+Thanks to you, I'm
+gettin' hitched!
+<*********************>
+
+<p 02><a 47><n 42>
+The ring is no good
+now...
+<--------------------->
+
+<p 02><a 47><n 42>
+But I'll work hard to
+make a new one. This
+time I'll make a set!
+<*********************>
+
+<p 02><a 47><n 42>
+Yeah, I'd prolly
+just drone on about
+it anyway.
+<--------------------->
+
+<p 02><a 47><n 42>
+I just can't help
+myself sometimes.
+<*********************>
+
+<p 02><a 4C><n 47>
+Once he gets excited,
+he forgets about the
+world around him.
+<--------------------->
+
+<p 02><a 4C><n 47>
+But I can't help loving
+the oaf.
+<--------------------->
+
+<p 02><a 4C><n 47>
+Love sometimes doesn't
+make sense...
+<--------------------->
+
+<p 02><a 4C><n 47>
+Do you have a special
+someone?
+<--------------------->
+
+Someone that means more
+to you than anything?
+<*********************>
+
+<FIM>

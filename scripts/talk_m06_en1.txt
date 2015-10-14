@@ -1,0 +1,436 @@
+<script_info tipo='Missão 6' personagem='Vent' tamanho='4199' inicio_ponteiros='4' fim_ponteiros='31' inicio_textos='32' />
+<#####################>
+
+<p 02><d 7117><a 02><n 55>
+I've detected a
+distress call coming
+from Area F.
+<--------------------->
+
+<p 02><d 7217><a 02><n 55>
+There are Maverick and
+Biometal signatures in
+close proximity.
+<--------------------->
+
+<p 02><d 7317><a 02><n 55>
+Whoever sent the
+distress call is being
+<--------------------->
+
+pinned down by the
+Mavericks.
+<--------------------->
+
+<p 02><d 7417><a 02><n 55>
+It's likely that they
+are innocent civilians
+trying to flee.
+<--------------------->
+
+<p 02><d 7517><a 02><n 55>
+Head to Area F and
+rescue those people.
+<--------------------->
+
+<p 02><d 7617><a 02><n 55>
+Secure the Biometal
+while you're at it.
+<*********************>
+
+<p 02><d 7717><a 02><n 04>
+The distress call
+definitely came from
+this area.
+<--------------------->
+
+<p 02><d 7817><a 02><n 04>
+The signal is too weak
+to pinpoint the exact
+location.
+<--------------------->
+
+<p 02><d 7917><a 05><n 01>
+I can't get a lock on
+it either.
+<--------------------->
+
+I'll proceed and let
+you know if I find
+anything.
+<*********************>
+
+<p 02><d 7A17><a 01><n 00>
+...
+<--------------------->
+
+<p 02><d 7B17><a 07><n 01>
+Hey! Is anyone here! I
+came to help! Tell me
+where you are!
+<--------------------->
+
+<p 02><d 7C17><a 01><n 00>
+...
+<--------------------->
+
+<p 02><d 7D17><a 05><n 01>
+Strange. There's no
+reply.
+<*********************>
+
+<p 02><d 7E17><a 02><n 04>
+The source of the
+signal is definitely
+<--------------------->
+
+coming from near your
+position.
+<--------------------->
+
+<p 02><d 7F17><a 02><n 04>
+The device emitting the
+signal should be close.
+Try to locate it.
+<*********************>
+
+<p 02><d 8017><a 05><n 01>
+Prairie, I found the
+terminal that has been
+sending out the signal.
+<--------------------->
+
+<p 02><d 8117><a 05><n 01>
+But there's no one
+around.
+<*********************>
+
+<p 02><d 8217><a 02><n 04>
+What? I wonder what
+could have happened
+there?
+<*********************>
+
+<p 03><d 8317><a 05><n 01>
+What's this? There's a
+data disk still in the
+terminal.
+<--------------------->
+
+<p 02><a 04><n 56>
+I don't have much
+longer. I pray that
+this data
+<--------------------->
+
+doesn't fall into the
+wrong hands.
+<*********************>
+
+<p 02><a 04><n 56>
+The recon unit has
+unearthed a strange
+metal in this area.
+<--------------------->
+
+<p 02><a 04><n 56>
+It seems... conscious.
+It began to speak to us
+in our minds.
+<--------------------->
+
+<p 02><a 04><n 56>
+The commander called it
+"Biometal Model W."
+<--------------------->
+
+<p 02><a 04><n 56>
+We continued to
+research the Biometal
+under her orders.
+<--------------------->
+
+<p 02><a 04><n 56>
+However, everyone
+was complaining of
+unexplained
+<--------------------->
+
+headaches and a strange
+numbness...
+<*********************>
+
+<p 02><a 04><n 56>
+Upon hearing this, she
+removed us from the
+<--------------------->
+
+site and continued the
+research on her own.
+<--------------------->
+
+<p 02><a 04><n 56>
+Despite these 
+precautions, our unit
+was annihilated.
+<--------------------->
+
+<p 02><a 04><n 56>
+One of our own had
+suddenly gone mad...
+<*********************>
+
+<p 03><d 8417><a 05><n 01>
+That's the end of the
+data.
+<--------------------->
+
+<p 02><d 8517><a 02><n 04>
+Sis... This is a report
+from the first
+commander's recon unit!
+<--------------------->
+
+<p 02><d 8617><a 02><n 04>
+The distress call must
+have been activated to
+<--------------------->
+
+make sure someone would
+find this data.
+<--------------------->
+
+<p 02><d 8717><a 02><n 04>
+But the recon unit
+is... gone.
+<--------------------->
+
+<p 03><d 8817><a 07><n 01>
+Stay with me Prairie. I
+need to know where the
+Biometal is.
+<--------------------->
+
+<p 02><d 8917><a 02><n 04>
+Vent?
+<--------------------->
+
+<p 03><d 8A17><a 05><n 01>
+Slither Inc. might have
+the rest of the data.
+<--------------------->
+
+<p 03><d 8B17><a 05><n 01>
+Don't give up on your
+sister just yet.
+<--------------------->
+
+<p 02><d 8C17><a 02><n 04>
+You're right. I'm sorry
+Vent.
+<--------------------->
+
+<p 02><d 8D17><a 02><n 04>
+I'm reading the
+Biometal signature just
+beyond the locked door.
+<--------------------->
+
+<p 02><d 8E17><a 02><n 04>
+We'll hack the lock
+from Guardian HQ.
+<--------------------->
+
+<p 03><d 8F17><a 05><n 01>
+Looks like we're back
+in business!
+<*********************>
+
+<p 03><d 9017><a 1A><n 0F>
+Oh my! What's that disk
+you've got there?
+<--------------------->
+
+<p 03><d 9117><a 1A><n 0F>
+Agh! I thought I told
+you Mavericks to leave
+<--------------------->
+
+anything of importance
+with me!
+<--------------------->
+
+<p 03><d 9217><a 1A><n 0F>
+Hmph! Worthless
+fool!
+<--------------------->
+
+<p 02><d 9317><a 07><n 01>
+I knew it. You're after
+this disk! Where's the
+rest of it?
+<--------------------->
+
+<p 03><d 9417><a 1A><n 0F>
+Oh my my... You must be
+one of those horrid
+interlopers trying
+<--------------------->
+
+to stop poor Lord
+Serpent's plan.
+<--------------------->
+
+<p 03><d 9517><a 1A><n 0F>
+Well hmph! I'm not
+telling you anything,
+<--------------------->
+
+so how do you like
+that!?
+<--------------------->
+
+<p 03><d 9617><a 1A><n 0F>
+I am the lovely
+Pseudoroid Model L,
+Lurerre.
+<--------------------->
+
+<p 03><d 9717><a 1A><n 0F>
+I'm going to tear you
+apart piece by piece!
+<--------------------->
+
+Prepare for the end
+little man!
+<*********************>
+
+<p 01><p 03><d 9817><a 1A><n 0F>
+Oh my... It looks like
+we've come to the
+end...
+<--------------------->
+
+<p 01><p 03><d 9917><a 1A><n 0F>
+Your end! Goodbye,
+little brat!
+<*********************>
+
+<p 03><d 9A17><a 1A><n 0F>
+Oh my... Oh my...
+Goodbye cruel world.
+<--------------------->
+
+<p 03><d 9B17><a 1A><n 0F>
+How could this be! Done
+in by a creepy little
+runt!
+<*********************>
+
+<p 03><d 9C17><a 35><n 09>
+I am the Biometal of
+the Ice, Model L.
+<--------------------->
+
+<p 03><d 9D17><a 35><n 09>
+Thank you for freeing
+me from that awful
+body.
+<--------------------->
+
+<p 03><d 9E17><a 35><n 09>
+You're looking for the
+rest of the data disk
+right?
+<--------------------->
+
+<p 03><d 9F17><a 35><n 09>
+I'm sorry, but it has
+already been taken away
+somewhere.
+<--------------------->
+
+<p 03><d A017><a 35><n 09>
+A hundred years have
+passed since the war,
+<--------------------->
+
+but it looks like some
+things will never
+change.
+<--------------------->
+
+<p 02><d A117><a 05><n 01>
+A man named Serpent is
+attempting to reawaken
+Model W.
+<--------------------->
+
+<p 02><d A217><a 05><n 01>
+To stop him, I need
+your help and the
+password.
+<--------------------->
+
+<p 03><d A317><a 35><n 09>
+Hmm... Model Z, I heard
+the story about
+Serpent.
+<--------------------->
+
+<p 03><d A417><a 35><n 09>
+I know you were
+linked with a host
+body, but I heard
+<--------------------->
+
+he beat you in
+combat.
+<--------------------->
+
+<p 02><d A517><a 32><n 06>
+Yes... My failure led
+to the death of a good
+man named Giro.
+<--------------------->
+
+<p 03><d A617><a 35><n 09>
+I see... Alright, I'll
+join you.
+<--------------------->
+
+<p 03><d A717><a 35><n 09>
+It should be an
+interesting challenge
+<--------------------->
+
+to take on the one who
+bested the great
+Model Z.
+<--------------------->
+
+<p 03><d A817><a 35><n 09>
+I'll give you my
+password, but the data
+<--------------------->
+
+is split into two
+halves.
+<--------------------->
+
+<p 03><d A917><a 35><n 09>
+The other Pseudoroid
+with my power has the
+remaining half.
+<--------------------->
+
+<p 03><d AA17><a 35><n 09>
+I won't be able to give
+you the complete
+<--------------------->
+
+password until you
+defeat him.
+<*********************>
+
+<FIM>

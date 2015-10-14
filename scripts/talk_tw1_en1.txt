@@ -1,0 +1,2361 @@
+<script_info tipo='NPCs Cidade' personagem='Vent' tamanho='21863' inicio_ponteiros='4' fim_ponteiros='303' inicio_textos='304' />
+<#####################>
+
+<p 02><a 37><n 32>
+Thanks mister!
+<--------------------->
+
+<p 02><a 37><n 32>
+I got a little too
+close to the fire,
+but I'll be okay.
+<--------------------->
+
+<p 02><a 37><n 32>
+You rescued me just in
+the nick of time!
+<*********************>
+
+<p 02><a 37><n 32>
+I'm scared to go
+outside, so I'm staying
+here.
+<*********************>
+
+<p 02><a 37><n 32>
+Why didn't Slither Inc.
+come and save us?
+<--------------------->
+
+<p 02><a 37><n 32>
+That building is
+theirs, isn't it?
+<*********************>
+
+<p 02><a 37><n 32>
+Their own employees
+were trapped inside
+with me.
+<--------------------->
+
+<p 02><a 37><n 32>
+Mommy used to say
+that Slither Inc. saved
+this country...
+<--------------------->
+
+<p 02><a 37><n 32>
+But I don't believe
+that anymore.
+<*********************>
+
+<p 02><a 37><n 32>
+I went outside for the
+first time yesterday!
+<--------------------->
+
+<p 02><a 37><n 32>
+But when I reached the
+highway, I got really
+scared.
+<*********************>
+
+<p 02><a 37><n 32>
+I can't just hide
+inside forever.
+<--------------------->
+
+<p 02><a 37><n 32>
+When I see people like
+you staring danger
+straight in the face...
+<--------------------->
+
+<p 02><a 37><n 32>
+I want to be strong
+too!
+<*********************>
+
+<p 02><a 37><n 32>
+Is that getup popular
+nowadays?
+<--------------------->
+
+<p 02><a 37><n 32>
+You look scary just
+like a Slither Inc.
+guard.
+<*********************>
+
+<p 02><a 4D><n 48>
+Are you the young lad
+that saved me from the
+fire?
+<--------------------->
+
+<p 02><a 4D><n 48>
+I thought so...
+<--------------------->
+
+<p 02><a 4D><n 48>
+These old bones are
+still around thanks to
+your help.
+<--------------------->
+
+<p 02><a 4D><n 48>
+Thank you.
+<*********************>
+
+<p 02><a 4D><n 48>
+Did you manage to save
+the others?
+<--------------------->
+
+<p 02><a 4D><n 48>
+It'd be such a waste if
+only this old codger
+made it out...
+<*********************>
+
+<p 02><a 4D><n 48>
+I used to go out to the
+hot springs in Area K
+with my family...
+<--------------------->
+
+<p 02><a 4D><n 48>
+Now it's too hot to go
+in without burning
+myself.
+<*********************>
+
+<p 02><a 4D><n 48>
+I wonder what kind of
+treasure might be
+<--------------------->
+
+hidden in the lava
+fields?
+<--------------------->
+
+<p 02><a 4D><n 48>
+Those Slither Inc. folk
+seem to be awfully
+interested in the area.
+<*********************>
+
+<p 02><a 4D><n 48>
+You know, I got to
+thinking...
+<--------------------->
+
+<p 02><a 4D><n 48>
+Even though the fire
+took place in a Slither
+Inc. building,
+<--------------------->
+
+<p 02><a 4D><n 48>
+there's not one peep,
+let alone an apology
+coming out of them.
+<--------------------->
+
+<p 02><a 4D><n 48>
+I hate to talk bad
+about them,
+<--------------------->
+
+but they've
+got my knickers in a
+bunch!
+<*********************>
+
+<p 02><a 4D><n 48>
+Fiddlesticks,
+I shouldn't have said
+anything bad
+<--------------------->
+
+about Slither Inc.
+<--------------------->
+
+<p 02><a 4D><n 48>
+Forget I said it...
+I know I will.
+<*********************>
+
+<p 02><a 4D><n 48>
+Jumping jehosaphat!
+What are you?
+<--------------------->
+
+<p 02><a 4D><n 48>
+Get outta here! Go on
+skedaddle!
+<*********************>
+
+<p 02><a 3B><n 36>
+I know you. You're the
+hide and seek guy!
+<--------------------->
+
+<p 02><a 3B><n 36>
+When are ya gonna come
+back and play with us!?
+<*********************>
+
+<p 02><a 3B><n 36>
+I wonder if there's
+some trick to hide and
+seek...
+<--------------------->
+
+<p 02><a 3B><n 36>
+I guess if I was too
+good,
+<--------------------->
+
+people would stop
+looking for me and
+that'd be no fun.
+<*********************>
+
+<p 02><a 3B><n 36>
+I wonder what I should
+play today...
+<--------------------->
+
+<p 02><a 3B><n 36>
+I can't play hide and
+seek without any
+seekers.
+<*********************>
+
+<p 02><a 3B><n 36>
+I'll just have to go to
+Morgan's shop in Area
+C-2 and play there.
+<--------------------->
+
+<p 02><a 3B><n 36>
+Hmm, I only have enough
+money for one game...
+<*********************>
+
+<p 02><a 3B><n 36>
+Mom always said I
+should play outside
+near mountains and
+<--------------------->
+
+forests on nice days.
+"Experience nature,"
+she says.
+<--------------------->
+
+<p 02><a 3B><n 36>
+But there are no safe
+places to play anymore.
+<--------------------->
+
+<p 02><a 3B><n 36>
+That's why I just hang
+around town all the
+time now.
+<*********************>
+
+<p 02><a 3B><n 36>
+When it's safe again, I
+wanna explore a cave or
+climb a mountain.
+<--------------------->
+
+<p 02><a 3B><n 36>
+For now, I have to wait
+until the Mavericks are
+gone.
+<*********************>
+
+<p 02><a 3B><n 36>
+Hm?
+<--------------------->
+
+<p 02><a 3B><n 36>
+Haven't I seen you
+before? Maybe it's just
+my imagination.
+<*********************>
+
+<p 02><a 55><n 51>
+You're the young boy
+that saved me, aren't
+you?
+<--------------------->
+
+<p 02><a 55><n 51>
+I'm sorry for the harsh
+words earlier.
+<*********************>
+
+<p 02><a 55><n 51>
+Four out of five
+buildings in the area
+belong to my company.
+<--------------------->
+
+<p 02><a 55><n 51>
+All of the maintenance
+is left to computers,
+<--------------------->
+
+so there aren't many
+people around.
+<--------------------->
+
+<p 02><a 55><n 51>
+Most of the employees
+are Reploids.
+<--------------------->
+
+<p 02><a 55><n 51>
+Humans are too easily
+distracted by their
+emotions.
+<--------------------->
+
+<p 02><a 55><n 51>
+I can understand why
+the president doesn't
+want to hire them.
+<*********************>
+
+<p 02><a 55><n 51>
+This country wouldn't
+be the great place it
+<--------------------->
+
+is today without
+Slither Inc.
+<--------------------->
+
+<p 02><a 55><n 51>
+I'm proud to be an
+employee of the best
+company on the planet!
+<*********************>
+
+<p 02><a 55><n 51>
+We could use someone
+like you. You should
+join us!
+<--------------------->
+
+<p 02><a 55><n 51>
+The competition to get
+in is fierce though.
+<--------------------->
+
+<p 02><a 55><n 51>
+Maybe it's better to
+give up any dreams of
+being elite like me.
+<*********************>
+
+<p 02><a 55><n 51>
+Something seems to be
+on the president's mind
+lately.
+<--------------------->
+
+<p 02><a 55><n 51>
+He keeps digging around
+in the Outlands like a
+man possessed.
+<*********************>
+
+<p 02><a 55><n 51>
+I wonder when it all
+started.
+<--------------------->
+
+<p 02><a 55><n 51>
+Seems to be around the
+time those two showed
+up...
+<--------------------->
+
+<p 02><a 55><n 51>
+I'm sure the president
+has just got a lot on
+his mind.
+<--------------------->
+
+<p 02><a 55><n 51>
+I know he has our best
+interests at heart!
+<*********************>
+
+<p 02><a 55><n 51>
+What's with that
+outfit!?
+<--------------------->
+
+<p 02><a 55><n 51>
+If you look like that,
+the security guards are
+going to go after you.
+<--------------------->
+
+<p 02><a 55><n 51>
+You better change
+clothes if you don't
+want trouble.
+<*********************>
+
+<p 02><a 3A><n 35>
+Hey mister! Good to see
+you again!
+<--------------------->
+
+<p 02><a 3A><n 35>
+What do you like to do
+besides play hide and
+seek?
+<--------------------->
+
+<p 02><a 3A><n 35>
+Me? Hmm...
+<--------------------->
+
+<p 02><a 3A><n 35>
+Soccer... Go carts...
+Board games...
+<--------------------->
+
+<p 02><a 3A><n 35>
+Oh! Kick the can,
+definitely kick the
+can.
+<--------------------->
+
+I like treasure
+hunting too.
+<*********************>
+
+<p 02><a 3A><n 35>
+Nothing beats the
+thrill of hearing the
+seeker's footsteps
+<--------------------->
+
+closing in on you when
+you're hiding.
+<--------------------->
+
+<p 02><a 3A><n 35>
+The cave in Area A-4
+is the best!
+<--------------------->
+
+<p 02><a 3A><n 35>
+It feels just like I'm
+in an action adventure
+movie!
+<*********************>
+
+<p 02><a 3A><n 35>
+Have you ever been to
+the other side of the
+cave in Area A-4?
+<--------------------->
+
+<p 02><a 3A><n 35>
+I heard there's an
+entrance from the sea
+in Area J.
+<--------------------->
+
+<p 02><a 3A><n 35>
+but I was too scared by
+the dark to go there.
+<*********************>
+
+<p 02><a 3A><n 35>
+Mom and dad don't want
+me going to places like
+the forest or caves.
+<--------------------->
+
+<p 02><a 3A><n 35>
+They think it's
+dangerous, but I crave
+danger.
+<--------------------->
+
+Danger is my best
+friend. Danger is...
+<*********************>
+
+<p 02><a 3A><n 35>
+Another busy day for
+you?
+<--------------------->
+
+I'm watching the place
+while everyone's out.
+<--------------------->
+
+<p 02><a 3A><n 35>
+It's so boring here
+with mom and dad gone
+all the time.
+<*********************>
+
+<p 02><a 3A><n 35>
+I'm tired of just
+playing by myself all
+the time.
+<--------------------->
+
+<p 02><a 3A><n 35>
+It's always funner with
+friends.
+<*********************>
+
+<p 02><a 3A><n 35>
+Cool armor! Where can I
+buy a suit like that?
+<*********************>
+
+<p 02><a 3A><n 35>
+Oh, hey!
+<--------------------->
+
+<p 02><a 3A><n 35>
+I have a chip that
+would be just perfect
+for your armor!
+<--------------------->
+
+<p 02><a 3A><n 35>
+It's called a Frog
+Chip. Here, check it
+out!
+<--------------------->
+
+<p 02><a 3A><n 35>
+It'll give you grip
+when sliding down
+walls.
+<--------------------->
+
+<p 02><a 3A><n 35>
+No one here uses it, so
+you can have it.
+<*********************>
+
+<p 02><a 4E><n 49>
+Aren't you the boy that
+saved us earlier?
+<--------------------->
+
+<p 02><a 4E><n 49>
+I thought bravery was
+dead, but you've
+restored my faith.
+<*********************>
+
+<p 02><a 4E><n 49>
+Thanks to you, I'm
+alive and my life's
+back to normal.
+<--------------------->
+
+<p 02><a 4E><n 49>
+I'm taking strolls in
+the forest, fishing at
+the lake...
+<--------------------->
+
+Ah, it's bliss.
+<--------------------->
+
+<p 02><a 4E><n 49>
+I want to see so much
+of the world.
+<--------------------->
+
+<p 02><a 4E><n 49>
+If only the snowy
+mountains weren't in
+the Outlands,
+<--------------------->
+
+I'd whip out the old
+ice boots and go
+climbing.
+<*********************>
+
+<p 02><a 4E><n 49>
+Why were you wearing
+those snazzy duds when
+you saved us?
+<--------------------->
+
+<p 02><a 4E><n 49>
+Ah... I get it!
+<--------------------->
+
+<p 02><a 4E><n 49>
+You're part of the
+rescue squad from
+Slither Inc.!
+<--------------------->
+
+<p 02><a 4E><n 49>
+It must be some fancy
+new suit they developed
+<--------------------->
+
+and you were testing it
+out.
+<*********************>
+
+<p 02><a 4E><n 49>
+Where can I buy a
+costume like the one
+you were wearing?
+<--------------------->
+
+<p 02><a 4E><n 49>
+With that, I could
+climb the tallest
+<--------------------->
+
+mountain and swim in
+the deepest sea!
+<*********************>
+
+<p 02><a 4E><n 49>
+I think there's a lot
+of undiscovered country
+waiting for me.
+<--------------------->
+
+<p 02><a 4E><n 49>
+I want to explore as
+many ruins and distant
+lands as possible while
+<--------------------->
+
+these legs can still
+walk.
+<*********************>
+
+<p 02><a 4E><n 49>
+Adventure is the heart
+and soul of a man.
+<--------------------->
+
+<p 02><a 4E><n 49>
+That's something that
+never changes no matter
+how old a man gets.
+<--------------------->
+
+<p 02><a 4E><n 49>
+I used to have nerves
+of steel when it came
+to facing danger.
+<--------------------->
+
+<p 02><a 4E><n 49>
+No matter how old I
+am, I always want to
+laugh in its face!
+<*********************>
+
+<p 02><a 4E><n 49>
+Hey you! Can I have a
+moment?
+<--------------------->
+
+<p 02><a 4E><n 49>
+That sparkly doo-dad of
+yours...
+<--------------------->
+
+<p 02><a 4E><n 49>
+Is it a Pink Crystal?
+<--------------------->
+
+<p 02><a 4E><n 49>
+How did you get that!?
+<--------------------->
+
+<p 02><a 4E><n 49>
+I'll trade you this
+Ice Boots Chip for it!
+<--------------------->
+
+<p 02><a 4E><n 49>
+I won't take no for an
+answer!
+<*********************>
+
+<p 02><a 4E><n 49>
+Woah! You scared me!
+<--------------------->
+
+<p 02><a 4E><n 49>
+Incredible! I wish I
+had a great costume
+like that!
+<*********************>
+
+<p 02><a 38><n 33>
+Hey mister, you want
+something with me?
+<--------------------->
+
+<p 02><a 38><n 33>
+I was captured by some
+bad guys and was being
+held in a dark room.
+<--------------------->
+
+<p 02><a 38><n 33>
+But then someone came
+along and saved me.
+<--------------------->
+
+<p 02><a 38><n 33>
+I couldn't see who it
+was though because the
+room was so dark.
+<*********************>
+
+<p 02><a 38><n 33>
+No one ever cleans the
+rooftop on this
+building.
+<--------------------->
+
+<p 02><a 38><n 33>
+Weeds keep popping up
+there all the time.
+<*********************>
+
+<p 02><a 38><n 33>
+Are you the one that
+saved me from the dark
+room before?
+<--------------------->
+
+<p 02><a 38><n 33>
+Nah... It can't be you.
+<--------------------->
+
+<p 02><a 38><n 33>
+Ah, it doesn't matter
+anyway.
+<*********************>
+
+<p 02><a 38><n 33>
+It was scary being
+trapped in such a small
+place for so long.
+<--------------------->
+
+<p 02><a 38><n 33>
+But I'm a boy, so of
+course I never cried.
+<--------------------->
+
+<p 02><a 38><n 33>
+The girl that was with
+me never stopped crying
+though...
+<*********************>
+
+<p 02><a 38><n 33>
+My grandpa keeps saying
+the same things over
+and over again.
+<--------------------->
+
+<p 02><a 38><n 33>
+He keeps telling me how
+"this country was
+without power and in
+<--------------------->
+
+terrible shape a long
+time ago."
+<--------------------->
+
+<p 02><a 38><n 33>
+"Compared to that,
+this country is a
+paradise now."
+<--------------------->
+
+<p 02><a 38><n 33>
+He loves to
+exaggerate...
+<*********************>
+
+<p 02><a 38><n 33>
+"With our cushy
+lifestyles, we take
+<--------------------->
+
+everything for granted
+nowadays..."
+<--------------------->
+
+<p 02><a 38><n 33>
+That's what grandpa
+says anyway.
+<*********************>
+
+<p 02><a 38><n 33>
+Hm? Who are you?
+<--------------------->
+
+<p 02><a 38><n 33>
+Are you a... Maverick?
+<*********************>
+
+<p 02><a 45><n 40>
+<nome>!!!
+<--------------------->
+
+<p 02><a 45><n 40>
+The name's Halison. You
+saved me from the
+burning building.
+<--------------------->
+
+<p 02><a 45><n 40>
+I may not look it, but
+I'm a cameraman.
+<--------------------->
+
+<p 02><a 45><n 40>
+Innerpeace is too...
+<--------------------->
+
+Well, peaceful. I
+thought it was my
+chance for a big break.
+<*********************>
+
+<p 02><a 45><n 40>
+My plan was to take a
+few days off, but no
+rest for the wicked.
+<--------------------->
+
+<p 02><a 45><n 40>
+Rain or shine, I have
+to go and earn a
+living.
+<--------------------->
+
+<p 02><a 45><n 40>
+I'm going to keep
+scanning the city for
+any hot scoops.
+<*********************>
+
+<p 02><a 45><n 40>
+I snapped a photo of
+the Maverick that saved
+us, but the subject was
+<--------------------->
+
+<p 02><a 45><n 40>
+too fast and all I 
+ended up with was a
+blur.
+<--------------------->
+
+<p 02><a 45><n 40>
+Oh well, it's not like
+I could have gone
+public with it...
+<--------------------->
+
+<p 02><a 45><n 40>
+If I even hinted at
+Slither Inc.'s
+negligence,
+<--------------------->
+
+I'd be snaked off
+somewhere and
+disappear.
+<*********************>
+
+<p 02><a 45><n 40>
+Nothing ever happens in
+this town...
+<--------------------->
+
+<p 02><a 45><n 40>
+I would love to bite
+into a juicy story and
+<--------------------->
+
+become famous like that
+one cameraman...
+<--------------------->
+
+<p 02><a 45><n 40>
+Old what's his name...
+<--------------------->
+
+<p 02><a 45><n 40>
+I don't remember
+exactly,
+<--------------------->
+
+but he was a famous
+wartime
+photojournalist!
+<*********************>
+
+<p 02><a 45><n 40>
+Hey <nome>!
+<--------------------->
+
+<p 02><a 45><n 40>
+Another day, and no
+scoops...
+<--------------------->
+
+<p 02><a 45><n 40>
+Guess I better expect
+the usual 20% pay cut
+this month.
+<--------------------->
+
+<p 02><a 45><n 40>
+I need to find a
+company that doesn't
+<--------------------->
+
+care about making money
+and work there.
+<*********************>
+
+<p 02><a 45><n 40>
+I've been working the
+beat and gathering the
+facts.
+<--------------------->
+
+<p 02><a 45><n 40>
+I think that Slither
+Inc...
+<--------------------->
+
+<p 02><a 45><n 40>
+May not be as good a
+company as people give
+them credit for.
+<*********************>
+
+<p 02><a 45><n 40>
+O-oh! A Maverick in
+Innerpeace!?
+<--------------------->
+
+<p 02><a 45><n 40>
+Now this is a scoop!
+Camera, camera, where's
+my camera!?
+<*********************>
+
+<p 02><a 3C><n 37>
+Hey guy! How ya doin?
+<--------------------->
+
+<p 02><a 3C><n 37>
+Me? Not so well, my
+dad's mad at me.
+<--------------------->
+
+<p 02><a 3C><n 37>
+He found out I was
+hanging out in the
+<--------------------->
+
+Outlands and playing
+around.
+<--------------------->
+
+<p 02><a 3C><n 37>
+I'll bet Jeff's mom
+squealed on me.
+<--------------------->
+
+<p 02><a 3C><n 37>
+I'm never playing with
+that guy again.
+<*********************>
+
+<p 02><a 3C><n 37>
+Hide-and-seek is a
+blast. We're lovin' it.
+<--------------------->
+
+<p 02><a 3C><n 37>
+Well, after eight days
+straight, it did get a
+little stale.
+<--------------------->
+
+<p 02><a 3C><n 37>
+Maybe the first three
+days were fun...
+<--------------------->
+
+<p 02><a 3C><n 37>
+All good things should
+be taken in moderation.
+<*********************>
+
+<p 02><a 3C><n 37>
+I heard somethin'
+interestin' from my
+grandpa.
+<--------------------->
+
+<p 02><a 3C><n 37>
+This used to be just a
+giant mountain of
+rubble.
+<--------------------->
+
+<p 02><a 3C><n 37>
+With all the wars that
+went on, nothin' will
+grow here anymore.
+<*********************>
+
+<p 02><a 3C><n 37>
+I heard somethin'
+interestin' from my
+dad.
+<--------------------->
+
+<p 02><a 3C><n 37>
+Slither Inc. saved this
+country from an energy
+crisis.
+<--------------------->
+
+<p 02><a 3C><n 37>
+They must be geniuses
+to find a way to create
+all that energy!
+<*********************>
+
+<p 02><a 3C><n 37>
+If I study hard enough,
+maybe I can be a big
+shot like the president
+<--------------------->
+
+of Slither Inc.
+someday!
+<--------------------->
+
+<p 02><a 3C><n 37>
+Huh? What's with the
+sad face?
+<*********************>
+
+<p 02><a 3C><n 37>
+Somethin' about the
+word "president" sounds
+cool.
+<--------------------->
+
+<p 02><a 3C><n 37>
+"President Frank" has a
+nice ring to it, don't
+ya think?
+<*********************>
+
+<p 02><a 3C><n 37>
+Wow! You're cool!
+<--------------------->
+
+<p 02><a 3C><n 37>
+Oh... I'm sorry...
+<--------------------->
+
+<p 02><a 3C><n 37>
+My dad told me not to
+talk to strangers.
+<*********************>
+
+<p 02><a 3D><n 38>
+Oh! Hey, aren't you the
+seeker from our hide
+and seek game?
+<--------------------->
+
+<p 02><a 3D><n 38>
+You seeking again, or
+are you hiding this
+time?
+<*********************>
+
+<p 02><a 3D><n 38>
+Oh, you were just
+looking for us because
+of Jeff's mom, right?
+<--------------------->
+
+<p 02><a 3D><n 38>
+Man, she's such a worry
+wart.
+<--------------------->
+
+<p 02><a 3D><n 38>
+What kid would want to
+study inside when they
+<--------------------->
+
+could be outside
+playing?
+<*********************>
+
+<p 02><a 3D><n 38>
+This building looks
+weird doesn't it?
+<--------------------->
+
+<p 02><a 3D><n 38>
+You can't even get in
+without ducking down.
+<--------------------->
+
+<p 02><a 3D><n 38>
+It's like they messed
+up when building it.
+<*********************>
+
+<p 02><a 3D><n 38>
+You're a transporter,
+right? Are you good
+with directions?
+<--------------------->
+
+<p 02><a 3D><n 38>
+What!? You get lost
+easily?
+<--------------------->
+
+<p 02><a 3D><n 38>
+Some transporter...
+<*********************>
+
+<p 02><a 3D><n 38>
+My mom told me not to
+go too far, so I'm
+stuck here.
+<--------------------->
+
+<p 02><a 3D><n 38>
+Mavericks are even at
+the amusement park...
+<--------------------->
+
+<p 02><a 3D><n 38>
+All of the good play
+spots are getting taken
+away.
+<*********************>
+
+<p 02><a 3D><n 38>
+I remember having a ton
+of fun at the amusement
+park when I went there.
+<--------------------->
+
+<p 02><a 3D><n 38>
+Now even the
+attractions themselves
+have become Mavericks.
+<*********************>
+
+<p 02><a 3D><n 38>
+...
+<--------------------->
+
+<p 02><a 3D><n 38>
+*whisper* I'm not
+supposed to talk to
+weirdoes.
+<*********************>
+
+<p 02><a 56><n 52>
+Woof!
+<*********************>
+
+<p 02><a 56><n 52>
+Woof woof!
+<*********************>
+
+<p 02><a 56><n 52>
+Woof!
+<*********************>
+
+<p 02><a 56><n 52>
+Rrr... Woof!
+<*********************>
+
+<p 02><a 56><n 52>
+Woof woof!
+<*********************>
+
+<p 02><a 56><n 52>
+Rrr... Woof!
+<*********************>
+
+<p 02><a 56><n 52>
+Woof woof!
+<*********************>
+
+<p 02><a 56><n 52>
+Woof woof woof!
+Woof woof woof woof!
+<*********************>
+
+<p 02><a 56><n 52>
+Woof woof!
+<*********************>
+
+<p 02><a 56><n 52>
+Woof woof woof!
+Woof woof woof woof!
+<*********************>
+
+<p 02><a 56><n 52>
+Woof woof!
+<*********************>
+
+<p 02><a 56><n 52>
+Woof woof!
+Woof woof woof!
+Woof woof woof woof!
+<*********************>
+
+<p 02><a 56><n 52>
+Bark bark!
+<*********************>
+
+<p 02><a 55><n 50>
+Who are you?
+<--------------------->
+
+<p 02><a 55><n 50>
+Oh... A transporter
+with Giro Express you
+say?
+<--------------------->
+
+<p 02><a 55><n 50>
+I've heard the name
+before, but I'm not too
+familiar with it.
+<--------------------->
+
+<p 02><a 55><n 50>
+According to the
+rumors, they take on a
+lot of dangerous work.
+<--------------------->
+
+<p 02><a 55><n 50>
+I'm warning you. Don't
+do anything suspicious
+<--------------------->
+
+in Slither Inc.
+territory.
+<*********************>
+
+<p 02><a 55><n 50>
+There's a lot going on
+that I don't know
+about...
+<--------------------->
+
+<p 02><a 55><n 50>
+But that's to be
+expected with a big
+company.
+<*********************>
+
+<p 02><a 55><n 50>
+The president seems to
+go on a lot of business
+trips lately.
+<--------------------->
+
+<p 02><a 55><n 50>
+I'm not sure what he's
+doing, but he better
+take it easy.
+<--------------------->
+
+Balance work and
+private life, you know?
+<*********************>
+
+<p 02><a 55><n 50>
+What?
+<--------------------->
+
+<p 02><a 55><n 50>
+You don't know where
+Slither Inc. is
+located?
+<--------------------->
+
+<p 02><a 55><n 50>
+It's the giant building
+facing the highway in
+Area D-2.
+<--------------------->
+
+<p 02><a 55><n 50>
+It might be a massive
+building,
+<--------------------->
+
+but it's still such a
+small part of Slither
+Inc.'s total assets.
+<*********************>
+
+<p 02><a 55><n 50>
+I met the president the
+other day.
+<--------------------->
+
+<p 02><a 55><n 50>
+He seems to be a lot
+bigger than the first
+time I saw him.
+<--------------------->
+
+<p 02><a 55><n 50>
+It must just be the
+psychological effect of
+<--------------------->
+
+his magnificent
+presence...
+<*********************>
+
+<p 02><a 55><n 50>
+Lately the president
+has been busy
+<--------------------->
+
+investigating around
+Area M.
+<--------------------->
+
+<p 02><a 55><n 50>
+I'm just glad I don't
+have to go to a
+<--------------------->
+
+dangerous place like
+that.
+<*********************>
+
+<p 02><a 55><n 50>
+I don't envy the
+dangerous work you're
+doing...
+<--------------------->
+
+<p 02><a 55><n 50>
+But I can respect a
+young person like
+yourself working hard.
+<--------------------->
+
+<p 02><a 55><n 50>
+Oh! I've got something
+for you.
+<--------------------->
+
+<p 02><a 55><n 50>
+It's an orange from my
+wife's hometown.
+<*********************>
+
+<p 02><a 55><n 50>
+Hey you! The suspicious
+character in the
+strange getup!
+<--------------------->
+
+<p 02><a 55><n 50>
+Don't move! I'm calling
+for backup, then we're
+taking you in.
+<*********************>
+
+<p 02><a 50><n 4B>
+My my, who are you?
+<--------------------->
+
+<p 02><a 50><n 4B>
+My name's Morgan and I
+run this joint.
+<--------------------->
+
+<p 02><a 50><n 4B>
+I watch over it to make
+sure kids have a safe
+place to play games.
+<--------------------->
+
+<p 02><a 50><n 4B>
+Some of the games
+have conditions to meet
+before you can play.
+<--------------------->
+
+<p 02><a 50><n 4B>
+The ones available will
+have their screens
+lit up.
+<--------------------->
+
+<p 02><a 50><n 4B>
+Stand in front and
+press up on the
++Control Pad.
+<*********************>
+
+<p 02><a 50><n 4B>
+The other door to the
+transerver in the next
+<--------------------->
+
+room outside leads out
+to the highway.
+<--------------------->
+
+<p 02><a 50><n 4B>
+The highway is
+crawling with
+Mavericks,
+<--------------------->
+
+so you'd best watch
+yourself if you go
+out there.
+<--------------------->
+
+<p 02><a 50><n 4B>
+They've split the
+road to make sure
+people don't
+<--------------------->
+
+accidentally wander
+into danger.
+<--------------------->
+
+<p 02><a 50><n 4B>
+By the way, the
+transerver in the next
+<--------------------->
+
+room is just for
+communications.
+<--------------------->
+
+<p 02><a 50><n 4B>
+To teleport, you have
+to find one of the tube
+shaped transervers
+<--------------------->
+
+designed specifically
+for that purpose.
+<*********************>
+
+<p 02><a 50><n 4B>
+The boy?
+<--------------------->
+
+<p 02><a 50><n 4B>
+My dream is for him to
+one day work for
+Slither Inc.
+<--------------------->
+
+<p 02><a 50><n 4B>
+Then he could take care
+of his old man.
+<*********************>
+
+<p 02><a 50><n 4B>
+You're a real hard
+worker. I'm impressed!
+<--------------------->
+
+<p 02><a 50><n 4B>
+I wish my boy could be
+more like you...
+<*********************>
+
+<p 02><a 50><n 4B>
+You wanna play
+anything?
+<--------------------->
+
+<p 02><a 50><n 4B>
+You look pretty busy,
+so maybe next time eh?
+<*********************>
+
+<p 02><a 50><n 4B>
+Hey <nome>, have you
+played Crusher-F yet?
+<--------------------->
+
+<p 02><a 50><n 4B>
+In that one, you punch
+balls to knock them
+into enemies.
+<--------------------->
+
+<p 02><a 50><n 4B>
+The machine used to be
+busted, but I fixed it
+up!
+<*********************>
+
+<p 02><a 50><n 4B>
+My my, what are you?
+<--------------------->
+
+<p 02><a 50><n 4B>
+You look like you
+jumped straight out of
+<--------------------->
+
+one of these here video
+games.
+<*********************>
+
+<p 02><a 3E><n 39>
+Hey there! I'll tell
+you something.
+<--------------------->
+
+<p 02><a 3E><n 39>
+There's an arcade in
+Area C-2.
+<--------------------->
+
+<p 02><a 3E><n 39>
+I'd love to play some
+games, but I don't have
+enough E-Crystals.
+<--------------------->
+
+<p 02><a 3E><n 39>
+If you ever have spare
+ones, you should check
+it out.
+<--------------------->
+
+<p 02><a 3E><n 39>
+It feels just like
+you're in the game!
+<*********************>
+
+<p 02><a 3E><n 39>
+Hey again! How do you
+like my wheels?
+<--------------------->
+
+<p 02><a 3E><n 39>
+I know it's just a toy,
+but it's so realistic!
+<--------------------->
+
+<p 02><a 3E><n 39>
+My dad bought one for
+me and one for my
+little brother.
+<--------------------->
+
+<p 02><a 3E><n 39>
+Mine's called Red
+Striker!
+<--------------------->
+
+<p 02><a 3E><n 39>
+His is the Rush
+Roadster!
+<--------------------->
+
+<p 02><a 3E><n 39>
+The real ones used to
+rule the tracks back in
+the olden days.
+<*********************>
+
+<p 02><a 3E><n 39>
+This is just a toy, so
+it doesn't go as fast
+as the real thing...
+<--------------------->
+
+<p 02><a 3E><n 39>
+The break's grip is
+good,
+<--------------------->
+
+but the accelerator
+just isn't as
+responsive as I'd like.
+<--------------------->
+
+<p 02><a 3E><n 39>
+I can put the pedal to
+the medal, but I still
+only hit 5 mph.
+<*********************>
+
+<p 02><a 3E><n 39>
+When I grow up, I want
+a fast car that I can
+cruise around town in!
+<--------------------->
+
+<p 02><a 3E><n 39>
+It would be great to
+hit the gas and go
+<--------------------->
+
+riding off into the
+sunset!
+<*********************>
+
+<p 02><a 3E><n 39>
+I want to be a racer
+someday.
+<--------------------->
+
+<p 02><a 3E><n 39>
+Don't tell Lou though,
+he'll just copy me...
+<*********************>
+
+<p 02><a 3E><n 39>
+I'll take home a mega
+huge trophy,
+<--------------------->
+
+<p 02><a 3E><n 39>
+and use all the prize
+money to buy my mom and
+dad a nice house!
+<*********************>
+
+<p 02><a 3E><n 39>
+...
+<--------------------->
+
+<p 02><a 3E><n 39>
+My teacher said not to
+talk to strangers...
+<*********************>
+
+<p 02><a 39><n 34>
+I know how mom feels...
+<--------------------->
+
+<p 02><a 39><n 34>
+I don't want to upset
+her or anything.
+<*********************>
+
+<p 02><a 39><n 34>
+I'm trying to decide 
+my own path in life,
+you know.
+<--------------------->
+
+<p 02><a 39><n 34>
+But mom just won't stop
+trying to force her
+dreams on me.
+<--------------------->
+
+<p 02><a 39><n 34>
+My future should be
+mine, not hers right?
+<*********************>
+
+<p 02><a 39><n 34>
+Why does everyone think
+Slither Inc. is so
+great?
+<--------------------->
+
+<p 02><a 39><n 34>
+Simple. They take care
+of their employees and
+have a bright future.
+<*********************>
+
+<p 02><a 39><n 34>
+I just want to do a job
+that makes me happy.
+<--------------------->
+
+<p 02><a 39><n 34>
+I probably should study
+harder to make sure
+that I can do that.
+<*********************>
+
+<p 02><a 39><n 34>
+Mom always says I
+should study more every
+time I see her.
+<--------------------->
+
+<p 02><a 39><n 34>
+She's obsessed with me
+entering Slither Inc.
+and being some suit.
+<*********************>
+
+<p 02><a 39><n 34>
+I talked to mom about
+how I feel.
+<--------------------->
+
+<p 02><a 39><n 34>
+She seemed to
+understand where I was
+coming from...
+<*********************>
+
+<p 02><a 39><n 34>
+...
+<--------------------->
+
+<p 02><a 39><n 34>
+Strangers shouldn't
+just come inside
+a person's house!
+<*********************>
+
+<p 02><a 3F><n 3A>
+Hey mister, are you one
+of those transporter
+people?
+<--------------------->
+
+<p 02><a 3F><n 3A>
+Where's your motorbike
+then?
+<--------------------->
+
+<p 02><a 3F><n 3A>
+Huh? Some bad guys
+destroyed it?
+<--------------------->
+
+<p 02><a 3F><n 3A>
+That's too bad...
+<--------------------->
+
+<p 02><a 3F><n 3A>
+I can lend you my car
+if you want.
+<*********************>
+
+<p 02><a 3F><n 3A>
+I'm going to race my
+brother someday!
+<--------------------->
+
+<p 02><a 3F><n 3A>
+But something is wrong
+with his car, so it
+moves super slow.
+<--------------------->
+
+<p 02><a 3F><n 3A>
+I'll win anytime,
+anywhere with my car!
+<*********************>
+
+<p 02><a 3F><n 3A>
+I want to tune my car
+so I can race my
+brother.
+<--------------------->
+
+<p 02><a 3F><n 3A>
+I'm no good with fixing
+things, so I want dad
+to help...
+<--------------------->
+
+<p 02><a 3F><n 3A>
+But he's no good with
+this stuff either.
+<--------------------->
+
+<p 02><a 3F><n 3A>
+After he got a hold of
+the steering wheel,
+<--------------------->
+
+the car won't turn
+right anymore...
+<*********************>
+
+<p 02><a 3F><n 3A>
+Dad said he used to be
+a mechanic!
+<--------------------->
+
+<p 02><a 3F><n 3A>
+But me and my brother
+don't believe him.
+<--------------------->
+
+<p 02><a 3F><n 3A>
+Why does he say such
+crazy things?
+<--------------------->
+
+<p 02><a 3F><n 3A>
+*sigh* That's our
+dad for you...
+<*********************>
+
+<p 02><a 3F><n 3A>
+I want to be a racer
+someday.
+<--------------------->
+
+<p 02><a 3F><n 3A>
+Don't tell Yu though!
+<*********************>
+
+<p 02><a 3F><n 3A>
+Yu complains about
+everything I do.
+<--------------------->
+
+<p 02><a 3F><n 3A>
+He always thinks he's
+number one.
+<*********************>
+
+<p 02><a 3F><n 3A>
+...
+<--------------------->
+
+<p 02><a 3F><n 3A>
+You're scary! Go away!
+<*********************>
+
+<p 02><a 44><n 3F>
+Thanks for saving me
+from that burning
+building.
+<--------------------->
+
+<p 02><a 44><n 3F>
+If it weren't for you,
+I'd be charcoal.
+<*********************>
+
+<p 02><a 44><n 3F>
+You won't be able to
+get through the red
+<--------------------->
+
+door without a card
+key.
+<--------------------->
+
+<p 02><a 44><n 3F>
+Security has been
+increased since all of
+<--------------------->
+
+the Maverick
+outbreaks...
+<--------------------->
+
+<p 02><a 44><n 3F>
+It's a big hassle, but
+it's for our safety.
+<*********************>
+
+<p 02><a 44><n 3F>
+The lava fields are
+beyond the red door.
+<--------------------->
+
+<p 02><a 44><n 3F>
+The lava keeps rising
+and has everyone
+worried.
+<--------------------->
+
+<p 02><a 44><n 3F>
+It could overflow and
+reach town at any
+moment.
+<--------------------->
+
+<p 02><a 44><n 3F>
+There used to be a spa
+resort town around the
+area,
+<--------------------->
+
+but that's gone
+now.
+<--------------------->
+
+<p 02><a 44><n 3F>
+It's hard to relax in a
+hot spring when there
+<--------------------->
+
+are dangerous Mavericks
+roaming around.
+<*********************>
+
+<p 02><a 44><n 3F>
+I can't sleep with the
+constant sounds of
+digging at night.
+<--------------------->
+
+<p 02><a 44><n 3F>
+What on earth could
+they be digging for?
+<*********************>
+
+<p 02><a 44><n 3F>
+A long time ago, war
+destroyed city and
+nature alike...
+<--------------------->
+
+<p 02><a 44><n 3F>
+But thanks to Slither
+Inc., this town is the
+<--------------------->
+
+magnificent place you
+see today.
+<*********************>
+
+<p 02><a 44><n 3F>
+I sometimes hear
+whisperings that
+<--------------------->
+
+Slither Inc. is up to
+no good...
+<--------------------->
+
+<p 02><a 44><n 3F>
+But if the rumors were
+true,
+<--------------------->
+
+it would mean the end
+of the world as we know
+it.
+<--------------------->
+
+<p 02><a 44><n 3F>
+I wouldn't worry
+yourself. They're just
+rumors after all.
+<*********************>
+
+<p 02><a 44><n 3F>
+...
+<--------------------->
+
+<p 02><a 44><n 3F>
+...
+<*********************>
+
+<p 02><a 47><n 42>
+That car over there has
+been parked for ages.
+It's blockin' the way.
+<--------------------->
+
+<p 02><a 47><n 42>
+It's probably outta
+energy. I wish
+it would get moved.
+<*********************>
+
+<p 02><a 47><n 42>
+It must be nice to have
+a car.
+<--------------------->
+
+<p 02><a 47><n 42>
+I'd love to go on a
+drive in the mountains
+with my girlfriend,
+<--------------------->
+
+<p 02><a 47><n 42>
+but I don't have a car,
+so we'd have to walk
+there...
+<*********************>
+
+<p 02><a 47><n 42>
+My girlfriend is a
+really quiet person.
+<--------------------->
+
+<p 02><a 47><n 42>
+It's kinda mysterious
+and alluring.
+<*********************>
+
+<p 02><a 47><n 42>
+We don't need words to
+know what each other
+are feeling.
+<--------------------->
+
+<p 02><a 47><n 42>
+You'll understand
+someday.
+<*********************>
+
+<p 02><a 47><n 42>
+Love and relationships
+wouldn't be possible
+<--------------------->
+
+without the peace that
+blesses us.
+<--------------------->
+
+<p 02><a 47><n 42>
+Slither Inc. deserves
+our gratitude...
+<*********************>
+
+<p 02><a 47><n 42>
+Even if the peace ended
+and we went to war...
+<--------------------->
+
+<p 02><a 47><n 42>
+I know me and my
+girlfriend would still
+<--------------------->
+
+find our happy place in
+the world.
+<--------------------->
+
+<p 02><a 4C><n 47>
+...
+<--------------------->
+
+<p 02><a 4C><n 47>
+Oh stop... You're
+embarrassing me.
+<*********************>
+
+<p 02><a 47><n 42>
+H-hold on! Who are
+ya!?
+<--------------------->
+
+<p 02><a 47><n 42>
+I'm calling the guards!
+<*********************>
+
+<p 02><a 46><n 41>
+Thanks <nome>!
+<--------------------->
+
+<p 02><a 46><n 41>
+For what? Don't tell me
+you forgot...
+<--------------------->
+
+<p 02><a 46><n 41>
+I was one of the people
+you rescued from the
+dark room.
+<--------------------->
+
+<p 02><a 46><n 41>
+I was just a hair's
+width away from
+becoming a Cyber-elf.
+<*********************>
+
+<p 02><a 46><n 41>
+I work at a warehouse
+managing inventory.
+<--------------------->
+
+<p 02><a 46><n 41>
+Actually, I've worked
+with you guys at Giro
+Express in the past.
+<*********************>
+
+<p 02><a 46><n 41>
+<nome>, you don't know
+anyone at Slither Inc.
+do you?
+<--------------------->
+
+<p 02><a 46><n 41>
+All of my friends keep
+hassling me to get a
+real job.
+<--------------------->
+
+<p 02><a 46><n 41>
+They always say the
+future is bright with
+Slither Inc.!
+<*********************>
+
+<p 02><a 46><n 41>
+I'm proud of the work I
+do now.
+<--------------------->
+
+<p 02><a 46><n 41>
+No one ever believes me
+though...
+<*********************>
+
+<p 02><a 46><n 41>
+My friends say that
+Slither Inc. has a
+huuuge warehouse...
+<--------------------->
+
+<p 02><a 46><n 41>
+Filled to the brim with
+all sorts of fancy,
+cutting-edge weaponry.
+<--------------------->
+
+<p 02><a 46><n 41>
+But that's ridiculous.
+<--------------------->
+
+Why would Slither Inc.
+be stockpiling
+weaponry?
+<*********************>
+
+<p 02><a 46><n 41>
+What!?
+<--------------------->
+
+<p 02><a 46><n 41>
+You're saying that
+Slither Inc. was behind
+our kidnapping
+<--------------------->
+
+<p 02><a 46><n 41>
+and the attempt to turn
+us into Cyber-elves?
+<--------------------->
+
+<p 02><a 46><n 41>
+That's a pretty lame
+joke <nome>.
+<--------------------->
+
+<p 02><a 46><n 41>
+It's probably the doing
+of some slimy company
+that wants to ruin
+<--------------------->
+
+Slither Inc.'s good
+name.
+<*********************>
+
+<p 02><a 46><n 41>
+Oh yeah, <nome>!
+<--------------------->
+
+<p 02><a 46><n 41>
+I wanted to thank you
+for what you did for
+me. Take this.
+<--------------------->
+
+<p 02><a 46><n 41>
+This Absorber Chip will
+help you avoid getting
+<--------------------->
+
+knocked back by enemy
+attacks.
+<--------------------->
+
+<p 02><a 46><n 41>
+I used it back when I
+worked a part-time job
+in the Outlands.
+<--------------------->
+
+<p 02><a 46><n 41>
+It still works like a
+charm.
+<*********************>
+
+<p 02><a 46><n 41>
+Woah! What's with the
+getup!?
+<--------------------->
+
+<p 02><a 46><n 41>
+Is that you <nome>?
+<--------------------->
+
+<p 02><a 46><n 41>
+You better be careful
+running around looking
+like that.
+<--------------------->
+
+Other people might
+freak out.
+<*********************>
+
+<p 02><a 4F><n 4A>
+I'm so out of shape
+lately,
+<--------------------->
+
+I just tried walking
+around and got winded.
+<--------------------->
+
+<p 02><a 4F><n 4A>
+I used to be a famous
+soccer player. Now I'm
+just getting old...
+<*********************>
+
+<p 02><a 4F><n 4A>
+Hey, do you like
+soccer?
+<--------------------->
+
+<p 02><a 4F><n 4A>
+When I saw you running,
+I thought I sensed a
+fellow soccer buff.
+<*********************>
+
+<p 02><a 4F><n 4A>
+I heard there's a game
+over in Area C-2 where
+<--------------------->
+
+you dribble a ball to
+the goal.
+<--------------------->
+
+<p 02><a 4F><n 4A>
+You might want to check
+it out if you have some
+spare E-Crystals.
+<*********************>
+
+<p 02><a 4F><n 4A>
+If I was just 10 years
+younger, I'd be there
+playing that game too.
+<--------------------->
+
+<p 02><a 4F><n 4A>
+It requires more
+coordination than this
+<--------------------->
+
+tired body can pull
+together.
+<*********************>
+
+<p 02><a 4F><n 4A>
+I tried to kick the
+ball around yesterday,
+<--------------------->
+
+but I fell flat on my
+face.
+<--------------------->
+
+<p 02><a 4F><n 4A>
+I better work harder to
+stay in shape...
+<*********************>
+
+<p 02><a 4F><n 4A>
+I may never return
+to my glory days,
+<--------------------->
+
+<p 02><a 4F><n 4A>
+but I would like to run
+around the old field
+and shoot a few goals.
+<*********************>
+
+<p 02><a 4F><n 4A>
+Aaah! W-who are you!?
+<*********************>
+
+<FIM>

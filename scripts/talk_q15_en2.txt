@@ -1,0 +1,107 @@
+<script_info tipo='Quest 21' personagem='Aile' tamanho='982' inicio_ponteiros='4' fim_ponteiros='19' inicio_textos='20' />
+<#####################>
+
+<p 02><a 2D><n 21>
+I've been so busy
+taking care of the
+injured that I
+<--------------------->
+
+<p 02><a 2D><n 21>
+haven't had a free
+moment to go and get
+more medical supplies.
+<--------------------->
+
+<p 02><a 2D><n 21>
+Hey! You're a
+transporter. Perfect!
+<--------------------->
+
+<p 02><a 2D><n 21>
+I know you're busy, but
+could you find medical
+supplies for me?
+<--------------------->
+
+<p 02><a 2D><n 21>
+Please bring back
+anything that might be
+useful.
+<--------------------->
+
+<p 02><a 2D><n 21>
+Lives are depending on
+it. I need your help.
+<*********************>
+
+<p 02><a 2D><n 21>
+Bring back anything
+that might work as a
+first aid kit.
+<--------------------->
+
+<p 02><a 2D><n 21>
+Area L is infamous for
+being a Maverick
+stockpile.
+<--------------------->
+
+You might find
+something there.
+<*********************>
+
+<p 02><a 02><n 55>
+Bring back an aid kit
+from an enemy supply
+container.
+<*********************>
+
+<e 01><a 02><n 55>
+  Yes
+  No
+<*********************>
+
+<p 02><a 2D><n 21>
+You haven't located the
+medical supplies yet?
+<--------------------->
+
+<p 02><a 2D><n 21>
+I'll do what I can to
+treat the wounded,
+<--------------------->
+
+but I'll need supplies
+soon!
+<*********************>
+
+<p 02><a 2D><n 21>
+Thank the stars! You've
+brought back aid.
+This will do nicely.
+<--------------------->
+
+<p 02><a 2D><n 21>
+Now I can finally give
+them the treatment they
+require.
+<*********************>
+
+<p 02><a 2D><n 21>
+If I start to run low
+again, I'll let you
+know.
+<*********************>
+
+<p 02><a 02><n 55>
+Quest completed.
+<--------------------->
+
+<p 02><a 02><n 55>
+150 EC have been
+transferred to your
+account.
+<*********************>
+
+<FIM>

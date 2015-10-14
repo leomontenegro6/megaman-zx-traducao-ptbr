@@ -1,0 +1,319 @@
+<script_info tipo='Missão 10' personagem='Aile' tamanho='3130' inicio_ponteiros='4' fim_ponteiros='23' inicio_textos='24' />
+<#####################>
+
+<p 02><d 1127><a 02><n 55>
+We received a report
+about the Guardian
+recon unit
+<--------------------->
+
+data disk intercepted
+by the enemy.
+<--------------------->
+
+<p 02><d 1227><a 02><n 55>
+The word is that the
+Slither Inc. unit that
+has it is on the move.
+<--------------------->
+
+<p 02><d 1327><a 02><n 55>
+The enemy is
+transporting it using a
+<--------------------->
+
+tunnel deep under the
+sea in Area J.
+<--------------------->
+
+<p 02><d 1427><a 02><n 55>
+Head to Area J and
+recover the data disk.
+<*********************>
+
+<p 02><d 1527><a 02><n 04>
+The data disk contains
+the report that Sis was
+<--------------------->
+
+working on while she
+was in the recon unit.
+<--------------------->
+
+<p 02><d 1627><a 05><n 02>
+So that disk is going
+to contain the rest of
+the data that was
+<--------------------->
+
+missing from the one we
+found at the distress
+call terminal.
+<--------------------->
+
+<p 02><d 1727><a 02><n 04>
+We found the enemy
+delivery unit along
+<--------------------->
+
+with a Biometal
+signature.
+<--------------------->
+
+<p 02><d 1827><a 02><n 04>
+There must be something
+important stored on
+that disk.
+<--------------------->
+
+<p 02><d 1927><a 02><n 04>
+The Biometal signature
+is further back in the
+same area.
+<--------------------->
+
+Be careful Aile.
+<*********************>
+
+<p 03><d 1A27><a 1E><n 13>
+Hwahaha! So you're the
+great Mega Man that
+keeps trying to
+<--------------------->
+
+interfere with our
+plans.
+<--------------------->
+
+<p 03><d 1B27><a 1E><n 13>
+I suppose it's asking
+too much to expect
+someone so young
+<--------------------->
+
+to understand what
+we're trying to do.
+<--------------------->
+
+<p 03><d 1C27><a 1E><n 13>
+You should respect your
+elders and listen to us
+old folk.
+<--------------------->
+
+<p 02><d 1D27><a 05><n 02>
+You're asking for
+respect when you're
+going around hiding
+<--------------------->
+
+the truth from the
+people?
+<--------------------->
+
+<p 02><d 1E27><a 05><n 02>
+Yeah, you're a great
+role model.
+<--------------------->
+
+<p 03><d 1F27><a 1E><n 13>
+Hwahaha! Sometimes
+ignorance is bliss
+little one!
+<--------------------->
+
+<p 03><d 2027><a 1E><n 13>
+I am the Model L
+Pseudoroid, Leganchor.
+<--------------------->
+
+<p 03><d 2127><a 1E><n 13>
+It looks like I'll have
+to teach you some
+respect.
+<*********************>
+
+<p 03><d 2227><a 1E><n 13>
+Now that's a good
+little girl.
+<--------------------->
+
+Sleep tight at the
+bottom of the sea.
+<*********************>
+
+<p 03><d 2327><a 1E><n 13>
+Why... Why do you fight
+so hard?
+<--------------------->
+
+Why do you risk your
+life for those fools?
+<--------------------->
+
+<p 03><d 2427><a 1E><n 13>
+Youth is wasted... on
+the young...
+<*********************>
+
+<p 03><d 2527><a 35><n 09>
+How could anyone give
+my power to someone
+like that!?
+<--------------------->
+
+<p 03><d 2627><a 35><n 09>
+I'm sorry, it'll take
+some time to recover
+the password.
+<--------------------->
+
+<p 03><d 2727><a 35><n 09>
+I'll make sure it's
+available before
+<--------------------->
+
+you have to take on
+Model W.
+<*********************>
+
+<p 02><d 2827><a 02><n 04>
+Aile, the data disk,
+is...
+<--------------------->
+
+<p 02><d 2927><a 05><n 02>
+Yes, the recon unit
+report is on it.
+<*********************>
+
+<p 02><a 04><n 00>
+Serpent wiped out the
+recon unit and vanished
+<*********************>
+
+<p 01><p 02><a 04><n 00>
+with the Model W
+fragment.
+<--------------------->
+
+Others had come into
+contact with the
+fragment, so I don't
+<--------------------->
+
+<p 01><p 02><a 04><n 00>
+understand the reason
+Serpent was the only
+one affected.
+<--------------------->
+
+<p 01><p 02><a 04><n 00>
+If I recall correctly,
+there was one thing
+that was different.
+<--------------------->
+
+<p 01><p 02><a 04><n 00>
+He was a Maverick raid
+survivor.
+<--------------------->
+
+<p 01><p 02><a 04><n 00>
+His passion for
+research must have been
+linked to his fear.
+<--------------------->
+
+Model W must have been
+able to manipulate his
+emotions.
+<*********************>
+
+<p 02><a 04><n 00>
+However, that still
+leaves the question of
+<--------------------->
+
+what Model W is
+after...
+<--------------------->
+
+<p 02><a 04><n 00>
+I don't have much
+longer. I pray that
+this data
+<--------------------->
+
+doesn't fall into the
+wrong hands.
+<--------------------->
+
+<p 02><d 2A27><a 02><n 04>
+Serpent was awfully
+worried about that data
+leaking out.
+<--------------------->
+
+<p 02><d 2B27><a 02><n 04>
+He must have known the
+reaction the people of
+<--------------------->
+
+this country would have
+if they knew the truth.
+<--------------------->
+
+<p 02><d 2C27><a 02><n 04>
+Send the data disk
+along with your mission
+report.
+<--------------------->
+
+<p 02><d 2D27><a 02><n 04>
+We can't allow the
+information contained
+on it to get out until
+<--------------------->
+
+we know exactly what
+it is.
+<--------------------->
+
+<p 02><d 2E27><a 08><n 02>
+So Serpent is a
+survivor of Maverick
+raids just like me...
+<--------------------->
+
+<p 02><d 2F27><a 08><n 02>
+If he became what he is
+now.
+<--------------------->
+
+What's to stop me from
+becoming the same
+thing?
+<--------------------->
+
+<p 02><d 3027><a 02><n 04>
+Aile, you won't become
+the same as him.
+<--------------------->
+
+Remember the courage
+you showed when you
+saved me.
+<--------------------->
+
+<p 02><d 3127><a 02><n 04>
+If you hold onto that
+purity, you won't stray
+from the right path.
+<--------------------->
+
+<p 02><a 05><n 02>
+...
+<*********************>
+
+<FIM>

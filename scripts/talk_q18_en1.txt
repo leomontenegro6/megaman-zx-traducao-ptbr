@@ -1,0 +1,186 @@
+<script_info tipo='Quest 24' personagem='Vent' tamanho='1627' inicio_ponteiros='4' fim_ponteiros='27' inicio_textos='28' />
+<#####################>
+
+<p 02><a 2E><n 22>
+Remember the modified
+energy pack I gave
+to old Muguet?
+<--------------------->
+
+<p 02><a 2E><n 22>
+Well now everyone in HQ
+wants one!
+<--------------------->
+
+<p 02><a 2E><n 22>
+I'm going to try my
+best to make one for
+everybody.
+<--------------------->
+
+<p 02><a 2E><n 22>
+You helped me so much
+last time Vent.
+<--------------------->
+
+<e 22><a 2E><n 22>
+Could I get your help?
+  Yes
+  No
+<*********************>
+
+<p 02><a 2E><n 22>
+Thanks Vent!
+<--------------------->
+
+<p 02><a 2E><n 22>
+Please bring me an
+energy pack like
+you did last time.
+<--------------------->
+
+<p 02><a 2E><n 22>
+With my newfound
+skill...
+<--------------------->
+
+<p 02><a 2E><n 22>
+I should be able to
+create enough of my
+<--------------------->
+
+special presents for
+everyone in HQ.
+<--------------------->
+
+<p 02><a 2E><n 22>
+I can't wait to see
+their faces!
+<*********************>
+
+<p 02><a 2E><n 22>
+Oh... I see... I'm
+sorry to hear that.
+<--------------------->
+
+<p 02><a 2E><n 22>
+I guess I should stick
+to studying medicine.
+<*********************>
+
+<p 02><a 2E><n 22>
+Where did you find the
+last one anyway?
+<--------------------->
+
+<p 02><a 2E><n 22>
+What!? You went to that
+much trouble?
+<--------------------->
+
+<p 02><a 2E><n 22>
+I didn't know you had
+to take on Mavericks
+for it.
+<--------------------->
+
+<p 02><a 2E><n 22>
+Be careful if you go
+back there. I don't
+want you to get hurt.
+<*********************>
+
+<p 02><a 02><n 55>
+Find the requested item
+in an Area L container.
+<*********************>
+
+<e 01><a 02><n 55>
+  Yes
+  No
+<*********************>
+
+<p 02><a 2E><n 22>
+Did you have any luck?
+<--------------------->
+
+<p 02><a 2E><n 22>
+It's no rush, so take
+your time.
+<--------------------->
+
+<p 02><a 2E><n 22>
+I'll be waiting here
+until you bring it
+back.
+<*********************>
+
+<p 02><a 2E><n 22>
+Vent! You brought it!
+<--------------------->
+
+<p 02><a 2E><n 22>
+I'll hand my special
+presents out later when
+they're done.
+<*********************>
+
+<p 02><a 2E><n 22>
+The special present
+can only be used
+once unfortunately...
+<--------------------->
+
+<p 02><a 2E><n 22>
+If they want more
+later, I might have to
+<--------------------->
+
+ask you for your help
+again.
+<*********************>
+
+<p 02><a 2E><n 22>
+I appreciate your
+assistance.
+<--------------------->
+
+<p 02><a 2E><n 22>
+Actually, I modified my
+present even more this
+time.
+<--------------------->
+
+<p 02><a 2E><n 22>
+And guess what? I
+discovered how to make
+an entirely new item!
+<--------------------->
+
+<p 02><a 2E><n 22>
+I sent one to the
+transerver for you too,
+Vent!
+<*********************>
+
+<p 02><a 02><n 55>
+Quest completed.
+<--------------------->
+
+<p 02><a 02><n 55>
+150 EC and a Sub Tank
+have been transferred
+to your account.
+<*********************>
+
+<p 02><a 02><n 55>
+Quest completed.
+<--------------------->
+
+<p 02><a 02><n 55>
+150 EC has been
+transferred to your
+account.
+<*********************>
+
+<FIM>

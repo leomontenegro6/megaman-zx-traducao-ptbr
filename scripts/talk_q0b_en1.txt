@@ -1,0 +1,174 @@
+<script_info tipo='Quest 11' personagem='Vent' tamanho='1611' inicio_ponteiros='4' fim_ponteiros='23' inicio_textos='24' />
+<#####################>
+
+<p 02><a 2A><n 1E>
+Hey Vent! I'm so sorry
+to bother you again,
+<--------------------->
+
+but I have another
+favor to ask.
+<--------------------->
+
+<p 02><a 2A><n 1E>
+I've got a new letter
+for you-know-who.
+<--------------------->
+
+<p 02><a 2A><n 1E>
+I can feel it this
+time. This letter is
+the real deal!
+<--------------------->
+
+<p 02><a 2A><n 1E>
+I can just picture her
+lovely, smiling face
+reading my letter.
+<--------------------->
+
+<p 02><a 2A><n 1E>
+Don't worry, I'll
+reward you again for
+your help.
+<*********************>
+
+<p 02><a 2A><n 1E>
+I've passed the letter
+on to the transerver.
+<--------------------->
+
+<p 02><a 2A><n 1E>
+You're probably tired
+of hearing this, but
+whatever you do,
+<--------------------->
+
+don't open the letter!
+<--------------------->
+
+<p 02><a 2A><n 1E>
+It's so good, it might
+as well be a manual on
+love.
+<--------------------->
+
+<p 02><a 2A><n 1E>
+It's way too soon for a
+young boy like you to
+be seeing it.
+<*********************>
+
+<p 02><a 02><n 55>
+Deliver the letter to
+the woman in Area C-2.
+<*********************>
+
+<e 01><a 02><n 55>
+  Yes
+  No
+<*********************>
+
+<p 02><a 2A><n 1E>
+She hasn't read the
+letter yet, huh?
+<--------------------->
+
+<p 02><a 2A><n 1E>
+This is the fourth one
+now, but my heart just
+won't stop racing!
+<*********************>
+
+<p 02><a 4B><n 46>
+Surprise, surprise,
+it's the transporter...
+<--------------------->
+
+Let me guess, a letter
+for me from Casanova?
+<--------------------->
+
+<p 02><a 4B><n 46>
+"I just have to ask,
+how much do I mean to
+you?"
+<--------------------->
+
+<p 02><a 4B><n 46>
+Is this guy nuts?
+<--------------------->
+
+<p 02><a 4B><n 46>
+I've only seen him once
+in town, why would he
+mean anything to me!?
+<--------------------->
+
+<p 02><a 4B><n 46>
+He's like a star
+shining at high noon.
+<--------------------->
+
+<p 02><a 4B><n 46>
+Out of sight, out of
+mind.
+<*********************>
+
+<p 02><a 2A><n 1E>
+Well, what did she say?
+<--------------------->
+
+<p 02><a 2A><n 1E>
+She said I'm like a
+star? That's
+incredible!
+<--------------------->
+
+She must realize how
+strongly my love shines
+for her.
+<*********************>
+
+<p 02><a 4B><n 46>
+Transporter!
+<--------------------->
+
+<p 02><a 4B><n 46>
+I have just one thing
+to say to the guy that
+wrote that letter!
+<--------------------->
+
+<p 02><a 4B><n 46>
+Being forced to read
+this nonsense is
+pure torture!
+<*********************>
+
+<p 02><a 02><n 55>
+Quest completed.
+<--------------------->
+
+<p 02><a 02><n 55>
+250 EC have been
+transferred to your
+account.
+<*********************>
+
+<p 02><a 4B><n 46>
+I know you're a
+transporter, but do you
+<--------------------->
+
+have to deliver these
+letters?
+<--------------------->
+
+<p 02><a 4B><n 46>
+I'm getting a migraine
+just thinking about the
+next one...
+<*********************>
+
+<FIM>

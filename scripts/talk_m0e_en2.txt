@@ -1,0 +1,491 @@
+<script_info tipo='Missão 14' personagem='Aile' tamanho='4633' inicio_ponteiros='4' fim_ponteiros='69' inicio_textos='70' />
+<#####################>
+
+<p 02><d B136><a 02><n 04>
+We finally have all six
+Biometal fragments.
+<--------------------->
+
+<p 02><d B236><a 02><n 04>
+We must regroup and
+prepare. Head back to
+HQ.
+<*********************>
+
+<p 02><d B336><a 09><n 04>
+Good work.
+<--------------------->
+
+<p 02><d B436><a 09><n 04>
+We've successfully
+recovered the content
+on the data disk you
+<--------------------->
+
+brought back from the
+research lab.
+<--------------------->
+
+<p 02><d B536><a 09><n 04>
+It was left behind by
+Sis after all.
+<*********************>
+
+<p 03><d B636><a 05><n 02>
+It seemed to be a
+report on the Biometal.
+<--------------------->
+
+There was some kind of
+message on it too.
+<--------------------->
+
+<p 02><d B736><a 09><n 04>
+The message is to the
+chosen one. In other
+words, you.
+<--------------------->
+
+<p 02><d B836><a 09><n 04>
+I'm going to play it
+back now.
+<--------------------->
+
+<p 03><d B936><a 05><n 02>
+...
+<*********************>
+
+<p 03><d BA36><a 05><n 02>
+...
+<--------------------->
+
+<p 02><d BB36><a 0B><n 04>
+The chosen one can
+decide their own path.
+<--------------------->
+
+They can become a hero,
+or they can control the
+world.
+<--------------------->
+
+<p 02><d BC36><a 0B><n 04>
+That explains why
+Prometheus said you
+were one of them.
+<--------------------->
+
+<p 03><d BD36><a 05><n 02>
+The power within me is
+for protecting the
+<--------------------->
+
+people and ideals I
+care about.
+<--------------------->
+
+<p 03><d BE36><a 07><n 02>
+I refuse to be anything
+like Prometheus and the
+others!
+<*********************>
+
+<p 03><d BF36><a 31><n 05>
+I'm relieved to hear
+you say that, Aile.
+<--------------------->
+
+<p 03><d C036><a 31><n 05>
+It looks as if all of
+the passwords have been
+reassembled.
+<*********************>
+
+<p 03><d CA36><a 31><n 05>
+With them, you can
+enter the ruins where
+the Model W Core lies.
+<*********************>
+
+<p 03><d CA36><a 31><n 05>
+With them, you can
+enter the ruins where
+the Model W Core lies.
+<*********************>
+
+<p 03><d CB36><a 05><n 02>
+We should hurry!
+They're already digging
+<--------------------->
+
+and must be close to
+the core by now.
+<*********************>
+
+<p 02><d CC36><a 09><n 04>
+You're right! I'll
+enter the mission data
+<--------------------->
+
+into the transerver
+right away!
+<--------------------->
+
+<p 02><d CD36><a 09><n 04>
+Aile, I believe in you.
+<*********************>
+
+<p 02><d CE36><a 02><n 55>
+Slither Inc. is at the
+ruins.
+<--------------------->
+
+<p 02><d CF36><a 02><n 55>
+They're digging down to
+the Model W Core.
+<--------------------->
+
+<p 02><d D036><a 02><n 55>
+Head to Area M and stop
+the dig.
+<*********************>
+
+<p 02><d D136><a 05><n 02>
+Model W must be nearby.
+<*********************>
+
+<p 02><d D236><a 32><n 06>
+We'll open the door
+when you're ready.
+<*********************>
+
+<p 02><d D336><a 07><n 02>
+I'm ready. Open it.
+<*********************>
+
+<p 02><d D436><a 31><n 05>
+Everyone... Input your
+passwords.
+<*********************>
+
+<p 02><d D536><a 33><n 07>
+I am the wind that
+blows through the sky,
+Ventus Airus.
+<*********************>
+
+<p 02><d D636><a 35><n 09>
+I am the water that
+flows across the land,
+Glacius Passio.
+<*********************>
+
+<p 02><d D736><a 34><n 08>
+I am the fire that
+brings heat to all
+life, Flamma Wies.
+<*********************>
+
+<p 02><d D836><a 36><n 0A>
+I am the shadow that
+never leaves the side
+of justice,
+<--------------------->
+
+Umbra Profess.
+<*********************>
+
+<p 02><d D936><a 31><n 05>
+I am the light that
+illuminates all
+possibilities,
+<--------------------->
+
+Lumine Infinitus...
+<*********************>
+
+<p 02><d DA36><a 32><n 06>
+I am the courage that
+fights for beliefs,
+Fortitude Creed...
+<*********************>
+
+<p 02><d DB36><a 31><n 05>
+Let's go!
+<*********************>
+
+<p 02><d DC36><a 32><n 06>
+The rest is up to you.
+<*********************>
+
+<p 01><p 03><d DD36><a 14><n 0C>
+Well well, it looks
+like you found me.
+<--------------------->
+
+<p 01><p 03><d DE36><a 14><n 0C>
+I never imagined that
+you could survive this
+long, child.
+<--------------------->
+
+<p 01><p 02><d DF36><a 07><n 02>
+Serpent!
+<--------------------->
+
+<p 01><p 03><d E036><a 14><n 0C>
+It's a shame you're too
+late.
+<--------------------->
+
+<p 01><p 03><d E136><a 14><n 0C>
+Witness the power to
+control the world! The
+true form of Model W!
+<*********************>
+
+<p 01><p 02><d E236><a 07><n 02>
+!!!
+<--------------------->
+
+<p 01><p 03><d E336><a 14><n 0C>
+Do you feel it!? Its
+glorious presence is
+starting to rise!
+<--------------------->
+
+<p 01><p 03><d E436><a 14><n 0C>
+Even the precious
+Biometal in your
+possession is
+<--------------------->
+
+insignificant compared
+to the might of
+Model W!
+<--------------------->
+
+<p 01><p 03><d E536><a 14><n 0C>
+Finally, the power is
+mine! All of it!
+<*********************>
+
+<p 03><d E636><a 14><n 0C>
+Pandora!
+<*********************>
+
+<p 03><d E736><a 14><n 0C>
+The young lady has
+honored us with her
+presence.
+<--------------------->
+
+Make sure to take good
+care of her.
+<--------------------->
+
+<p 03><d E836><a 19><n 0E>
+I will...
+<--------------------->
+
+<p 03><d E936><a 14><n 0C>
+Project Haven is now in
+its final stage!
+<--------------------->
+
+<p 03><d EA36><a 14><n 0C>
+Gaze upon the
+beginning of a brand
+new age!
+<*********************>
+
+<p 03><d EB36><a 19><n 0E>
+Model ZX... Mega Man...
+<--------------------->
+
+<p 03><d EC36><a 19><n 0E>
+You will not...
+interfere...
+<*********************>
+
+<p 02><d ED36><a 07><n 02>
+No! Model W!
+<--------------------->
+
+<p 03><d EE36><a 19><n 0E>
+The wheel of fate... in
+motion...
+<--------------------->
+
+No one can stop... our
+destiny of
+destruction...
+<--------------------->
+
+<p 03><d EF36><a 19><n 0E>
+Not you... Not
+Serpent... No one...
+<--------------------->
+
+<p 02><d F036><a 07><n 02>
+Huh!?
+<*********************>
+
+<p 02><d F136><a 07><n 02>
+Destiny of
+destruction!? Just what
+are they up to!?
+<*********************>
+
+<p 02><d F236><a 02><n 04>
+Aile! The Slither Inc.
+fleet is on the move!
+<--------------------->
+
+<p 02><d F336><a 07><n 02>
+I couldn't stop them
+from digging up Model
+W! Can you catch them?
+<*********************>
+
+<p 02><d F436><a 02><n 04>
+We'll do what we can!
+Hold on!
+<--------------------->
+
+<p 02><d F536><a 02><n 04>
+Wh-what's this!?
+<--------------------->
+
+<p 02><d F636><a 02><n 04>
+There is a massive
+outbreak of Mavericks
+<--------------------->
+
+detected in the western
+region of Area D!
+<--------------------->
+
+<p 02><d F736><a 02><n 04>
+The readings are off
+the chart and
+interfering with
+<--------------------->
+
+our ability to track
+Model W!
+<--------------------->
+
+<p 02><d F836><a 07><n 02>
+Serpent. How
+appropriate that you
+would slither
+<--------------------->
+
+away from me like a
+snake in the grass!
+<--------------------->
+
+<p 02><d F936><a 02><n 04>
+I've added the mission
+data for the Mavericks!
+<--------------------->
+
+<p 02><d FA36><a 02><n 04>
+Get prepared and start
+the mission ASAP!
+<--------------------->
+
+<p 02><d FB36><a 02><n 04>
+I'll do what I can to
+get a fix on Model W's
+signature!
+<--------------------->
+
+<p 02><d FC36><a 07><n 02>
+Please do what you can!
+<*********************>
+
+
+Final key assembled!
+<*********************>
+
+<p 01><p 02><a 04><n 00>
+Biometal Report
+Classification #555913
+* Chosen One *
+<--------------------->
+
+<p 01><p 02><a 04><n 00>
+This message is
+intended for the chosen
+one who will one day
+<--------------------->
+
+find the Biometal I
+have created.
+<--------------------->
+
+<p 01><p 02><a 04><n 00>
+In order to fight
+against Model W,
+<--------------------->
+
+which has been causing
+the Maverick outbreaks,
+<--------------------->
+
+<p 01><p 02><a 04><n 00>
+I have constructed
+Model X and Model Z
+<--------------------->
+
+with the data I have
+obtained on ancient
+heroes.
+<--------------------->
+
+<p 01><p 02><a 04><n 00>
+There is still so much
+I don't understand...
+<--------------------->
+
+<p 01><p 02><a 04><n 00>
+And I was forced to use
+the research on Model W
+as a basis for
+<--------------------->
+
+constructing the other
+two models.
+<--------------------->
+
+<p 01><p 02><a 04><n 00>
+In other words, the
+ones with the potential
+to use Model X and Z,
+<--------------------->
+
+<p 01><p 02><a 04><n 00>
+are the same ones with
+the potential to
+unleash Model W.
+<--------------------->
+
+<p 01><p 02><a 04><n 00>
+As a chosen one, you
+have the power to save
+or destroy the world.
+<--------------------->
+
+<p 01><p 02><a 04><n 00>
+I can only hope you use
+the power for good and
+that you will decide to
+<--------------------->
+
+guide the people to a
+bright future.
+<*********************>
+
+<FIM>

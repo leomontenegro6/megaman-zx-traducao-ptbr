@@ -1,0 +1,67 @@
+<script_info tipo='back' personagem='indefinido' tamanho='449' inicio_ponteiros='4' fim_ponteiros='31' inicio_textos='32' />
+<#####################>
+
+
+Vazio
+<*********************>
+
+
+Dados corrompidos
+<*********************>
+
+
+<dpad> <cima>/<baixo>: Selecionar
+Botão <btn_a>: Salvar Botão <btn_b>: Cancelar
+<*********************>
+
+
+<dpad> <cima>/<baixo>: Escolher jogo
+Botão <btn_a>: Carregar Botão <btn_b>: Cancelar
+<*********************>
+
+
+<dpad> <cima>/<baixo>: Escolher jogo
+Botão <btn_a>: Deletar Botão <btn_b>: Cancelar
+<*********************>
+
+
+Sobrescrever dados?
+  Sim    Não
+<*********************>
+
+
+Carregar jogo?
+  Sim    Não
+<*********************>
+
+
+Deletar jogo salvo?
+  Sim    Não
+<*********************>
+
+
+Jogo salvo
+<*********************>
+
+
+Jogo carregado
+<*********************>
+
+
+Jogo excluído
+<*********************>
+
+
+Erro ao salvar jogo
+<*********************>
+
+
+Salvando jogo...
+Não desligue o portátil.
+<*********************>
+
+
+Erro ao deletar jogo
+<*********************>
+
+<FIM>

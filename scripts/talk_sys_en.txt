@@ -1,0 +1,796 @@
+<script_info tipo='Sistema' personagem='indefinido' tamanho='6600' inicio_ponteiros='4' fim_ponteiros='261' inicio_textos='262' />
+<#####################>
+
+<m><a 02><n 55>
+  Missões Pendentes
+  Gerenciar Dados
+  Transportar
+<*********************>
+
+<m><a 02><n 55>
+  Relatar Missão
+  Gerenciar Dados
+  Transportar
+<*********************>
+
+<m><a 02><n 55>
+  Abortar Mission
+  Gerenciar Dados
+  Transportar
+<*********************>
+
+<m><a 02><n 55>
+  Missões Pendentes
+  Gerenciar Dados
+  Sair
+<*********************>
+
+<m><a 02><n 55>
+  Relatar Missão
+  Gerenciar Dados
+  Sair
+<*********************>
+
+<m><a 02><n 55>
+  Abortar Missão
+  Gerenciar Dados
+  Sair
+<*********************>
+
+<e 63><a 02><n 55>
+O que deseja fazer?
+  Gerenciar Dados
+  Transportar
+<*********************>
+
+<e 63><a 02><n 55>
+O que deseja fazer?
+  Gerenciar Dados
+  Sair
+<*********************>
+
+<e 63><a 02><n 55>
+O que deseja fazer?
+  Relatar Missão
+  Gerenciar Dados
+<*********************>
+
+<e 63><a 02><n 55>
+Abortar a missão?
+  Não
+  Sim
+<*********************>
+
+<a 02><n 55>
+Continuando missão
+<*********************>
+
+<a 02><n 55>
+Missão abortada
+<*********************>
+
+<m><a 02><n 55>
+  Salvar Jogo
+  Carregar Jogo
+  Apagar Jogo
+<*********************>
+
+<p 02><a 02><n 55>
+Término da missão
+confirmado.
+100 CE transferidos.
+<*********************>
+
+<p 02><a 02><n 55>
+Término da missão
+confirmado.
+150 CE transferidos.
+<*********************>
+
+<p 02><a 02><n 55>
+Término da missão
+confirmado.
+200 CE transferidos.
+<*********************>
+
+<p 02><a 02><n 55>
+Término da missão
+confirmado.
+250 CE transferidos.
+<*********************>
+
+<p 02><a 02><n 55>
+Término da missão
+confirmado.
+300 CE transferidos.
+<*********************>
+
+<p 02><a 02><n 55>
+Término da missão
+confirmado.
+350 CE transferidos.
+<*********************>
+
+<p 02><a 02><n 55>
+Término da missão
+confirmado.
+400 CE transferidos.
+<*********************>
+
+<p 02><a 02><n 55>
+Término da missão
+confirmado.
+450 CE transferidos.
+<*********************>
+
+<p 02><a 02><n 55>
+Término da missão
+confirmado.
+500 CE transferidos.
+<*********************>
+
+<p 02><a 02><n 55>
+<nome>!
+<--------------------->
+
+<p 02><a 02><n 55>
+Enviei um cartão-chave
+amarelo para o
+servidor.
+<--------------------->
+
+<p 02><a 02><n 55>
+Com ele, você poderá
+abrir portas amarelas.
+<*********************>
+
+
+Hivolt foi visto na Área E-7
+<*********************>
+
+
+Lurerre foi vista na Área F-5
+<*********************>
+
+
+Fistleo foi visto na Área G-5
+<*********************>
+
+
+Purprill foi visto na Área H-4
+<*********************>
+
+
+Hurricaune vista na Área I-3
+<*********************>
+
+
+Leganchor visto na Área J-5
+<*********************>
+
+
+Flammole foi visto na Área K-4
+<*********************>
+
+
+Protectos visto na Área L-4
+<*********************>
+
+<a 04><n 56>
+Sistema de Suprimento
+de Energia da Fonte.
+Está ligado.
+<--------------------->
+
+<e 63><a 04><n 56>
+Desligar?
+  Sim
+  Não
+<*********************>
+
+<a 04><n 56>
+Sistema de Suprimento
+de Energia da Fonte.
+Está desligado.
+<--------------------->
+
+<e 63><a 04><n 56>
+Ligar?
+  Sim
+  Não
+<*********************>
+
+<a 04><n 00>
+O inimigo pôs este dis-
+positivo para controlar
+o fluxo de lava.
+<*********************>
+
+<a 03><n 56>
+Sistema de Controle
+do Fluxo de Lava
+<--------------------->
+
+<e 02><a 03><n 56>
+Mudar velocidade:
+  Lenta
+  Normal
+<--------------------->
+
+<a 03><n 56>
+Velocidade do fluxo
+definida como "lenta".
+<*********************>
+
+<s 02><a 03><n 56>
+Velocidade do fluxo
+definida como "normal".
+<*********************>
+
+<a 04><n 00>
+A porta da Área K-1
+foi destrancada.
+<*********************>
+
+<p 01><a 04><n 57>
+Modo Difícil liberado.
+<*********************>
+
+<p 01><a 04><n 57>
+Novo jogo adicionado
+à loja de Morgan.
+<*********************>
+
+<p 01><a 04><n 57>
+Agora você pode se
+transformar no Modelo X
+mesmo após obter o ZX.
+<*********************>
+
+<p 01><e 50><a 04><n 57>
+Salvar jogo finalizado?
+  Sim
+  Não
+<*********************>
+
+
+Encontrou um <c 03>Coração<c 00>!
+<*********************>
+
+
+Encontrou um <c 03>Sub Tanque<c 00>!
+<*********************>
+
+<a 04><n 57>
+Jogar este jogo?
+<--------------------->
+
+<m><a 04><n 57>
+  Sim
+  Nao
+  Descrição
+<*********************>
+
+<a 04><n 57>
+Cristais insuficientes
+<*********************>
+
+<a 04><n 57>
+<c 03>[Corrida de Dribles]
+<c 00>Cada partida custa
+20 CE.
+<--------------------->
+
+<a 04><n 57>
+Drible a bola até o gol
+antes do tempo acabar.
+<*********************>
+
+<a 04><n 57>
+<c 03>[Destruidor F]
+<c 00>Cada partida custa
+40 CE.
+<--------------------->
+
+<a 04><n 57>
+Soque a bola na direção
+do inimigo para
+derrotá-lo.
+<*********************>
+
+<a 04><n 57>
+<c 03>[Mega Destruidor F]
+<c 00>Cada partida custa
+50 CE.
+<--------------------->
+
+<a 04><n 57>
+Soque a bola na direção
+do inimigo para
+derrotá-lo.
+<--------------------->
+
+<a 04><n 57>
+Esta versão do
+Destruidor F é mais
+difícil que a outra.
+<*********************>
+
+<a 04><n 57>
+<c 03>[Conversor de Energia]
+<c 00>Cada partida custa
+80 CE.
+<--------------------->
+
+<a 04><n 57>
+Combine jóias de mesma
+cor para ajudar a
+destruir inimigos.
+<--------------------->
+
+<a 04><n 57>
+Os blocos não sumirão
+se um bloco preto
+estiver entre eles.
+<--------------------->
+
+<a 04><n 57>
+Combine blocos pretos
+para apagá-los.
+<--------------------->
+
+<a 04><n 57>
+Combine jóias e blocos
+enquanto caem.
+<--------------------->
+
+<a 04><n 57>
+Um novo inimigo surge
+toda vez que a energia
+de um outro se esgota.
+<*********************>
+
+<a 04><n 57>
+Preciso de algo para
+abrir esta porta...
+<*********************>
+
+<a 04><n 57>
+É necessário o cartucho
+do Mega Man Zero 3,
+de Game Boy Advance.
+<*********************>
+
+<a 04><n 57>
+É necessário o cartucho
+do Mega Man Zero 4,
+de Game Boy Advance.
+<*********************>
+
+<a 04><n 57>
+Desligue o portátil,
+e então insira o
+cartucho.
+<*********************>
+
+<e 63><a 04><n 57>
+Sair do jogo?
+  Sim
+  Não
+<*********************>
+
+
+O Guardião fugiu!
+<--------------------->
+
+Transforme-se de volta ao normal
+<*********************>
+
+<p 01><a 02><n 55>
+Escolha a missão.
+<dpad>: Selecionar
+Botão <btn_a>: Confirmar
+<*********************>
+
+<p 01><e 01><a 02><n 55>
+O que deseja?
+  Ouvir Descrição
+  Aceitar Missão
+<*********************>
+
+<p 02><a 23><n 2C>
+Fomos enviados aqui
+para checar a armadilha
+na área.
+<--------------------->
+
+<p 02><a 23><n 2C>
+De acordo com relatos,
+lava vulcânica flui
+até a área seguinte
+<--------------------->
+
+<p 02><a 23><n 2C>
+e espanta os intrusos
+no processo.
+<--------------------->
+
+<p 02><a 23><n 2C>
+Cuidado, pois se a lava
+encostar, você morrerá.
+<*********************>
+
+<p 02><a 23><n 2C>
+Ah, quase esqueci!
+Tenho outra coisa
+para contar.
+<--------------------->
+
+<p 02><a 23><n 2C>
+Dizem que há um dispo-
+sitivo que controla o
+fluxo de lava na área.
+<--------------------->
+
+<p 02><a 23><n 2C>
+Se não conseguir atra-
+vessar a região, tente
+desligar o fluxo.
+<*********************>
+
+<p 02><a 37><n 32>
+...
+<--------------------->
+
+<p 02><a 37><n 32>
+Bosch! Socorro! É um
+estranho com uma cara
+assustadora!
+<*********************>
+
+<p 02><a 40><n 3B>
+Socorro!!! Um estranho
+está tentando me
+sequestrar!
+<*********************>
+
+<p 02><a 44><n 3F>
+Quem é você?!
+Para trás!
+<*********************>
+
+<p 02><a 45><n 40>
+Você é... um Maverick?
+Caraca, que furo de
+reportagem!
+<--------------------->
+
+<p 02><a 45><n 40>
+Ah não! O furo de
+reportagem da minha
+vida, e acabou o filme!
+<*********************>
+
+<p 02><a 48><n 43>
+Q-Quem é você!?
+<--------------------->
+
+<p 02><a 48><n 43>
+Não ligo pra sua cara
+feia! Você não me
+assusta!
+<*********************>
+
+<p 02><a 4D><n 48>
+Valha me Deus! Qual é
+a dessa fantasia?!
+<--------------------->
+
+<p 02><a 4D><n 48>
+Só doido mesmo pra
+eu pedir ajuda a um
+esquisitão como você.
+<*********************>
+
+<p 02><a 51><n 4C>
+...
+<*********************>
+
+<p 02><a 55><n 51>
+Você aí! Foi você que
+começou este incêndio?!
+<--------------------->
+
+<p 02><a 55><n 51>
+Hmph! Espero que esteja
+satisfeito!
+<--------------------->
+
+<p 02><a 55><n 51>
+A Serpent Ltda não vai
+pegar leve com um
+Maverick como você!
+<*********************>
+
+<p 02><a 3A><n 35>
+Vou encontrar vocês,
+pessoal!!!
+<--------------------->
+
+<p 02><a 3A><n 35>
+Quem é você? Não falo
+com estranhos!
+<*********************>
+
+<p 02><a 3B><n 36>
+Estou aqui, venha me
+pegar!!!
+<--------------------->
+
+<p 02><a 3B><n 36>
+Quem é tu? Eu não falo
+com gente estranha.
+<*********************>
+
+<p 02><a 3C><n 37>
+Estou aqui, venha me
+pegar!!!
+<--------------------->
+
+<p 02><a 3C><n 37>
+Quem é tu? Eu não falo
+com gente estranha.
+<*********************>
+
+<p 02><a 3D><n 38>
+Vamos acabar parando
+nossa brincadeira de
+esconde-esconde.
+<--------------------->
+
+<p 02><a 3D><n 38>
+Não posso conversar
+com você, pois estou
+no meio da brincadeira.
+<*********************>
+
+<p 02><a 39><n 34>
+Estou ocupado brincando
+de esconde-esconde.
+<--------------------->
+
+<p 02><a 39><n 34>
+Com esse traje, os
+outros vão acabar me
+achando! Vai embora!
+<*********************>
+
+
+Ganhou um <c 03>Bolo<c 00>!
+<*********************>
+
+
+Ganhou um <c 03>E-Tanque<c 00>!
+<*********************>
+
+
+Ganhou um <c 03>A-Tanque<c 00>!
+<*********************>
+
+
+Ganhou uma <c 03>Laranja<c 00>!
+<*********************>
+
+
+Ganhou um <c 03>Doce<c 00>!
+<*********************>
+
+
+Ganhou um <c 03>Pão<c 00>!
+<*********************>
+
+
+Ganhou uma <c 03>Maçã<c 00>!
+<*********************>
+
+
+Ganhou <c 03>Sais de Cheiro<c 00>!
+<*********************>
+
+
+Ganhou o <c 03>Chip Absorsor<c 00>!
+<*********************>
+
+
+Ganhou o <c 03>Chip Peso-Pena<c 00>!
+<*********************>
+
+
+Ganhou o <c 03>Chip Extensor<c 00>!
+<*********************>
+
+
+Ganhou o <c 03>Chip Carga Rápida<c 00>!
+<*********************>
+
+
+Ganhou o <c 03>Chip Botas de Gelo<c 00>!
+<*********************>
+
+
+Ganhou o <c 03>Chip Botas de Vento<c 00>!
+<*********************>
+
+
+Ganhou o <c 03>Chip Sapo<c 00>!
+<*********************>
+
+
+Ganhou o <c 03>Chip Corta-Projéteis<c 00>!
+<*********************>
+
+
+Encontrou uma <c 03>Flor Milagrosa<c 00>!
+<*********************>
+
+
+Ganhou um <c 03>Bicho de Pelúcia<c 00>!
+<*********************>
+
+
+Ganhou um <c 03>Cristal Rosa<c 00>!
+<*********************>
+
+
+Encontrou um <c 03>Pássaro Verde<c 00>!
+<*********************>
+
+
+Encontrou um <c 03>Cogumelo<c 00>!
+<*********************>
+
+
+Recebeu uma <c 03>Carta<c 00>!
+<*********************>
+
+
+Encontrou uma <c 03>Pochete<c 00>!
+<*********************>
+
+
+Encontrou uma <c 03>Pérola Fria<c 00>!
+<*********************>
+
+
+Encontrou uma <c 03>Pedra<c 00> <c 03>Especial<c 00>!
+<*********************>
+
+
+Encontrou <c 03>Ceratânio<c 00>!
+<*********************>
+
+
+Encontrou um <c 03>Parafuso<c 00>!
+<*********************>
+
+
+Encontrou um <c 03>Kit de Socorros<c 00>!
+<*********************>
+
+
+Encontrou um <c 03>Pacote de Energia<c 00>!
+<*********************>
+
+
+Encontrou uma <c 03>Pedra Misteriosa<c 00>!
+<*********************>
+
+
+Encontrou um <c 03>Chip de Computador<c 00>!
+<*********************>
+
+
+Encontrou um <c 03>Cartão-Chave Roxo<c 00>!
+<*********************>
+
+
+Encontrou um <c 03>Disco de Dados<c 00>!
+<*********************>
+
+
+Encontrou um <c 03>Cartão-Chave Amarelo<c 00>!
+<*********************>
+
+
+Encontrou um <c 03>Cartão-Chave Verde<c 00>!
+<*********************>
+
+
+Encontrou um <c 03>Cartão-Chave Vermelho<c 00>!
+<*********************>
+
+
+Encontrou um <c 03>Cartão-Chave Azul<c 00>!
+<*********************>
+
+
+Encontrou um <c 03>Cartão-Chave Branco<c 00>!
+<*********************>
+
+
+Livrou-se do <c 03>Cogumelo
+<*********************>
+
+
+Agora pode usar o Modelo OX!
+<*********************>
+
+
+O 8º andar está aberto!
+<*********************>
+
+
+Entregou a <c 03>Flor Milagrosa
+<*********************>
+
+
+Entregou o <c 03>Cristal Rosa
+<*********************>
+
+
+Entregou o <c 03>Pássaro Verde
+<*********************>
+
+
+Entregou o <c 03>Cogumelo
+<*********************>
+
+
+Entregou a <c 03>Carta
+<*********************>
+
+
+Entregou a <c 03>Pochete
+<*********************>
+
+
+Entregou a <c 03>Pérola Fria
+<*********************>
+
+
+Encontrou a <c 03>Pedra<c 00> <c 03>Especial
+<*********************>
+
+
+Entregou o <c 03>Ceratânio
+<*********************>
+
+
+Entregou os <c 03>Parafusos
+<*********************>
+
+
+Entregou o <c 03>Kit de Socorros
+<*********************>
+
+
+Entregou o <c 03>Pacote de Energia
+<*********************>
+
+
+Entregou a <c 03>Pedra Misteriosa
+<*********************>
+
+
+Entregou o <c 03>Chip de Computador
+<*********************>
+
+
+Devolveu o <c 03>Disco de Dados
+<*********************>
+
+
+Recebeu o <c 03>Cogumelo<c 00> de volta
+<*********************>
+
+<FIM>

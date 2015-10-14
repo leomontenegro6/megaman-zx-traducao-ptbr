@@ -1,0 +1,142 @@
+<script_info tipo='Quest 10' personagem='Vent' tamanho='1237' inicio_ponteiros='4' fim_ponteiros='23' inicio_textos='24' />
+<#####################>
+
+<p 02><a 2A><n 1E>
+Hey Vent! I'm so sorry
+to bother you again,
+<--------------------->
+
+but I have another
+favor to ask.
+<--------------------->
+
+<p 02><a 2A><n 1E>
+I've got a new letter
+for you-know-who.
+<--------------------->
+
+<p 02><a 2A><n 1E>
+Not to toot my own
+horn, but this one's a
+winner!
+<--------------------->
+
+<p 02><a 2A><n 1E>
+I must be a romantic
+genius!
+<--------------------->
+
+<p 02><a 2A><n 1E>
+Don't worry, I'll
+reward you again for
+your help.
+<*********************>
+
+<p 02><a 2A><n 1E>
+I've passed the letter
+on to the transerver.
+<--------------------->
+
+<p 02><a 2A><n 1E>
+I'll just warn you,
+whatever you do, do not
+read the letter!
+<--------------------->
+
+<p 02><a 2A><n 1E>
+A young man like
+yourself wouldn't
+understand love...
+<*********************>
+
+<p 02><a 02><n 55>
+Deliver the letter to
+the woman in Area C-2.
+<*********************>
+
+<e 01><a 02><n 55>
+  Yes
+  No
+<*********************>
+
+<p 02><a 2A><n 1E>
+I'm guessing she hasn't
+seen the letter yet...
+<--------------------->
+
+<p 02><a 2A><n 1E>
+I know the third time's
+the charm, but my heart
+is still racing!
+<*********************>
+
+<p 02><a 4B><n 46>
+Oh, it's the
+transporter again. Yet
+another letter? For me?
+<--------------------->
+
+<p 02><a 4B><n 46>
+Let me guess who this
+one's from...
+<--------------------->
+
+<p 02><a 4B><n 46>
+"Ugly but rich or
+handsome but poor."
+<--------------------->
+
+<p 02><a 4B><n 46>
+"What's your type?"
+<--------------------->
+
+<p 02><a 4B><n 46>
+Unbelievable!
+<--------------------->
+
+<p 02><a 4B><n 46>
+Of course they're both
+important.
+<--------------------->
+
+<p 02><a 4B><n 46>
+Either way I answer, I
+lose!
+<*********************>
+
+<p 02><a 2A><n 1E>
+What did she say?
+<--------------------->
+
+<p 02><a 2A><n 1E>
+Neither? She's so
+mysterious. Who
+wouldn't love that?
+<*********************>
+
+<p 02><a 4B><n 46>
+Transporter! I have a
+message for old boy.
+<--------------------->
+
+<p 02><a 4B><n 46>
+Learn how to treat a
+lady!
+<*********************>
+
+<p 02><a 02><n 55>
+Quest completed.
+<--------------------->
+
+<p 02><a 02><n 55>
+200 EC have been
+transferred to your
+account.
+<*********************>
+
+<p 02><a 4B><n 46>
+All these letters are
+giving me a headache...
+<*********************>
+
+<FIM>

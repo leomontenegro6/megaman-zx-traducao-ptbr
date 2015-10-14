@@ -1,0 +1,1326 @@
+<script_info tipo='sub' personagem='indefinido' tamanho='11960' inicio_ponteiros='4' fim_ponteiros='427' inicio_textos='428' />
+<#####################>
+
+
+Choose the model
+<*********************>
+
+
+Cannot transform now
+<*********************>
+
+
+Return to human form
+<*********************>
+
+
+Transform into Model X
+<*********************>
+
+
+Transform into Model ZX
+<*********************>
+
+
+Transform into Model HX
+<*********************>
+
+
+Transform into Model FX
+<*********************>
+
+
+Transform into Model LX
+<*********************>
+
+
+Transform into Model PX
+<*********************>
+
+
+Transform into Model OX
+<*********************>
+
+
+Switch main weapon and
+sub weapon
+<*********************>
+
+
+Cannot change weapons with
+this model
+<*********************>
+
+
+Cannot equip weapons in
+human form
+<*********************>
+
+
+Surplus life energy can
+be stored for later
+<*********************>
+
+
+Recover energy
+Energy Remaining:<c 01>30
+<*********************>
+
+
+Sub tank is empty
+Cannot use
+<*********************>
+
+
+No need to use a sub tank now
+<*********************>
+
+
+Recover energy
+Energy Remaining:<c 01>29
+<*********************>
+
+
+Recover energy
+Energy Remaining:<c 01>28
+<*********************>
+
+
+Recover energy
+Energy Remaining:<c 01>27
+<*********************>
+
+
+Recover energy
+Energy Remaining:<c 01>26
+<*********************>
+
+
+Recover energy
+Energy Remaining:<c 01>25
+<*********************>
+
+
+Recover energy
+Energy Remaining:<c 01>24
+<*********************>
+
+
+Recover energy
+Energy Remaining:<c 01>23
+<*********************>
+
+
+Recover energy
+Energy Remaining:<c 01>22
+<*********************>
+
+
+Recover energy
+Energy Remaining:<c 01>21
+<*********************>
+
+
+Recover energy
+Energy Remaining:<c 01>20
+<*********************>
+
+
+Recover energy
+Energy Remaining:<c 01>19
+<*********************>
+
+
+Recover energy
+Energy Remaining:<c 01>18
+<*********************>
+
+
+Recover energy
+Energy Remaining:<c 01>17
+<*********************>
+
+
+Recover energy
+Energy Remaining:<c 01>16
+<*********************>
+
+
+Recover energy
+Energy Remaining:<c 01>15
+<*********************>
+
+
+Recover energy
+Energy Remaining:<c 01>14
+<*********************>
+
+
+Recover energy
+Energy Remaining:<c 01>13
+<*********************>
+
+
+Recover energy
+Energy Remaining:<c 01>12
+<*********************>
+
+
+Recover energy
+Energy Remaining:<c 01>11
+<*********************>
+
+
+Recover energy
+Energy Remaining:<c 01>10
+<*********************>
+
+
+Recover energy
+Energy Remaining:<c 01>9
+<*********************>
+
+
+Recover energy
+Energy Remaining:<c 01>8
+<*********************>
+
+
+Recover energy
+Energy Remaining:<c 01>7
+<*********************>
+
+
+Recover energy
+Energy Remaining:<c 01>6
+<*********************>
+
+
+Recover energy
+Energy Remaining:<c 01>5
+<*********************>
+
+
+Recover energy
+Energy Remaining:<c 01>4
+<*********************>
+
+
+Recover energy
+Energy Remaining:<c 01>3
+<*********************>
+
+
+Recover energy
+Energy Remaining:<c 01>2
+<*********************>
+
+
+Recover energy
+Energy Remaining:<c 01>1
+<*********************>
+
+
+Recover energy
+Energy Remaining:<c 01>0
+<*********************>
+
+
+SELECT:Buster Editor
+Edit using the bottom screen
+<*********************>
+
+
+Select Edit/Default/Exit
+<*********************>
+
+
+Select the weapon to edit
+<*********************>
+
+
+Align the squares so that the
+buster path is connected
+<*********************>
+
+
+Usable items
+None in possession
+<*********************>
+
+
+Usable items
+<btn_a>Button:OK <btn_b>Button:Cancel
+<*********************>
+
+
+No need to use this now
+<*********************>
+
+
+<dpad> <esquerda>/<direita>: Selecionar
+Botão <btn_a>: OK Botão <btn_b>: Cancelar
+<*********************>
+
+
+Equippable items
+None in possession
+<*********************>
+
+
+Equippable items
+<btn_a>Button:OK <btn_b>Button:Cancel
+<*********************>
+
+
+<dpad>Control Pad <esquerda>/<direita>:Select
+<btn_a>Button:Equip
+<*********************>
+
+
+<dpad>Control Pad <esquerda>/<direita>:Select
+<btn_a>Button:Unequip
+<*********************>
+
+
+Auto-use items
+None in possession
+<*********************>
+
+
+Auto-use items
+<*********************>
+
+
+<dpad>Control Pad <esquerda>/<direita>:Select
+<btn_b>Button:Back
+<*********************>
+
+
+Change button layout
+<dpad>Control Pad <esquerda>/<direita>:Select
+<*********************>
+
+
+Change offensive mode
+<dpad>Control Pad <esquerda>/<direita>:Select
+<*********************>
+
+
+Change action mode
+<dpad>Control Pad <esquerda>/<direita>:Select
+<*********************>
+
+
+<dpad>Control Pad <esquerda>/<direita>:Type
+<*********************>
+
+
+<dpad>Control Pad <esquerda>/<direita>:Type
+<dpad>Control Pad <cima>/<baixo>:Button
+<*********************>
+
+
+<dpad>Control Pad <cima>/<baixo>:Category
+<dpad>Control Pad <esquerda>/<direita>:Type
+<*********************>
+
+
+<dpad>Control Pad:Scan Area Map
+<*********************>
+
+
+Server located in the area
+<dpad>Control Pad:Scan Area Map
+<*********************>
+
+
+2 servers located in the area
+<dpad>Control Pad:Scan Area Map
+<*********************>
+
+
+<c 01>Cake
+<c 00>A slice of
+birthday cake.
+Restores 8
+points of life.
+<*********************>
+
+
+<c 01>E Tank
+<c 00>This completely
+restores life.
+The technology
+used to make it
+is quite old.
+<*********************>
+
+
+<c 01>W Tank
+<c 00>Restores all of
+the energy for
+Biometal in
+possession.
+<*********************>
+
+
+<c 01>Orange
+<c 00>An orange from
+Max. It looks
+very sweet and
+juicy! Restores
+4 points of
+life.
+<*********************>
+
+
+<c 01>Candy
+<c 00>This piece of
+strawberry
+candy was a
+crane game
+prize. It
+restores 4
+points of life.
+<*********************>
+
+
+<c 01>Bread
+<c 00>Freshly baked
+bread courtesy
+of Lucia. It
+restores 6
+points of life.
+<*********************>
+
+
+<c 01>Apple
+<c 00>This apple
+didn't fall far
+from the tree
+in Area A-3. It
+restores 8
+points of life.
+<*********************>
+
+
+<c 01>Smelling Salts
+<c 00>Recover from
+the ill effects
+of the jamming
+satellites.
+<*********************>
+
+
+<c 01>Absorber
+<c 00>It will cushion
+the blow and
+eliminate
+knockback
+effects from
+getting hit.
+<*********************>
+
+
+<c 01>Featherweight
+<c 00>This allows
+movement on
+surfaces that
+would normally
+sink or crumble
+underfoot.
+<*********************>
+
+
+<c 01>Extender
+<c 00>The period of
+invincibility
+after a hit is
+stretched out a
+little longer.
+<*********************>
+
+
+<c 01>Quick Charger
+<c 00>The time it
+takes to charge
+up an attack is
+reduced.
+<*********************>
+
+
+<c 01>Ice Boots
+<c 00>Can walk across
+ice without
+slipping on the
+surface.
+<*********************>
+
+
+<c 01>Wind Boots
+<c 00>Grips the
+surface to
+prevent getting
+pushed around
+by wind and
+tornados.
+<*********************>
+
+
+<c 01>Frog
+<c 00>Reduces the
+speed of 
+sliding down
+walls.
+<*********************>
+
+
+<c 01>Eraser
+<c 00>This gives
+saber weapons
+the power to
+destroy enemy
+energy shots.
+<*********************>
+
+
+<c 01>Absorber
+<c 00>It will cushion
+the blow and
+eliminate
+knockback
+effects from
+getting hit.
+(Equipped)
+<*********************>
+
+
+<c 01>Featherweight
+<c 00>This allows
+movement on
+surfaces that
+would normally
+sink or crumble
+underfoot.
+(Equipped)
+<*********************>
+
+
+<c 01>Extender
+<c 00>The period of
+invincibility
+after a hit is
+stretched out a
+little longer.
+(Equipped)
+<*********************>
+
+
+<c 01>Quick Charger
+<c 00>The time it
+takes to charge
+up an attack is
+reduced.
+(Equipped)
+<*********************>
+
+
+<c 01>Ice Boots
+<c 00>Can walk across
+ice without
+slipping on the
+surface.
+(Equipped)
+<*********************>
+
+
+<c 01>Wind Boots
+<c 00>Grips the
+surface to
+prevent getting
+pushed around
+by wind and
+tornados.
+(Equipped)
+<*********************>
+
+
+<c 01>Frog
+<c 00>Reduces the
+speed of 
+sliding down
+walls.
+(Equipped)
+<*********************>
+
+
+<c 01>Eraser
+<c 00>This gives
+saber weapons
+the power to
+destroy enemy
+energy shots.
+(Equipped)
+<*********************>
+
+
+<c 01>Miracle Flower
+<c 00>A mystical
+flower found on
+a quest for
+Michelle. The
+scent is quite
+refreshing.
+<*********************>
+
+
+<c 01>Stuffed Animal
+<c 00>This is very
+precious to
+Prairie. It
+serves as proof
+of passing the
+Guardian test.
+<*********************>
+
+
+<c 01>Pink Crystal
+<c 00>A mysterious
+mineral
+received from
+Lou. Someone
+would probably
+appreciate this
+very much.
+<*********************>
+
+
+<c 01>Green Bird
+<c 00>A small bird
+found in the
+forest. It's so
+tame it must
+have been
+someone's pet.
+<*********************>
+
+
+<c 01>Mushroom
+<c 00>This small
+fungi is from
+the forest.
+It's always
+wise to avoid
+eating strange
+mushrooms.
+<*********************>
+
+
+<c 01>Letter
+<c 00>This letter is
+from Truite. It
+needs to be
+delivered to a
+woman in Area
+C-2.
+<*********************>
+
+
+<c 01>Letter #2
+<c 00>This letter is
+from Truite. It
+needs to be
+delivered to a
+woman in Area
+C-2.
+<*********************>
+
+
+<c 01>Letter #3
+<c 00>This letter is
+from Truite. It
+needs to be
+delivered to a
+woman in Area
+C-2.
+<*********************>
+
+
+<c 01>Letter #4
+<c 00>This letter is
+from Truite. It
+needs to be
+delivered to a
+woman in Area
+C-2.
+<*********************>
+
+
+<c 01>Letter #5
+<c 00>This letter is
+from Truite. It
+needs to be
+delivered to a
+woman in Area
+C-2.
+<*********************>
+
+
+<c 01>Letter #6
+<c 00>This letter is
+from Truite. It
+needs to be
+delivered to a
+woman in Area
+C-2.
+<*********************>
+
+
+<c 01>Letter #7
+<c 00>This letter is
+from Melody. It
+needs to be
+delivered to
+Truite in
+Guardian HQ.
+<*********************>
+
+
+<c 01>Pochette
+<c 00>This small
+purse that Luca
+lost was found
+in Area B. It's
+quite elegant
+for a kid to
+have.
+<*********************>
+
+
+<c 01>Cold Pearl
+<c 00>This pearl was
+found for
+Raven. It only
+grows at the
+bottom of 
+freezing cold
+lakebeds.
+<*********************>
+
+
+<c 01>Special Rock
+<c 00>A small stone
+found near a
+geyser. It
+looks like
+something is
+stuck inside.
+<*********************>
+
+
+<c 01>Ceratanium
+<c 00>This small
+piece was
+separated from
+a rock using
+the crusher at
+the power
+plant.
+<*********************>
+
+
+<c 01>Screw A
+<c 00>By finding all
+of these small
+screws that
+Anguille
+dropped, he'll
+be able to make
+something new.
+<*********************>
+
+
+<c 01>Screw B
+<c 00>By finding all
+of these small
+screws that
+Anguille
+dropped, he'll
+be able to make
+something new.
+<*********************>
+
+
+<c 01>Screw C
+<c 00>By finding all
+of these small
+screws that
+Anguille
+dropped, he'll
+be able to make
+something new.
+<*********************>
+
+
+<c 01>Screw D
+<c 00>By finding all
+of these small
+screws that
+Anguille
+dropped, he'll
+be able to make
+something new.
+<*********************>
+
+
+<c 01>Screw E
+<c 00>By finding all
+of these small
+screws that
+Anguille
+dropped, he'll
+be able to make
+something new.
+<*********************>
+
+
+<c 01>Aid Kit
+<c 00>This medical
+supply kit is
+for Muguet in
+order to help
+treat the
+wounded.
+<*********************>
+
+
+<c 01>Energy Pack
+<c 00>Rose wanted
+this supply of
+energy for
+Muguet.
+<*********************>
+
+
+<c 01>Aid Kit
+<c 00>This medical
+supply kit is
+for Muguet in
+order to help
+treat the
+wounded.
+<*********************>
+
+
+<c 01>Energy Pack
+<c 00>Rose wanted
+this supply of
+energy for the
+people back at
+Guardian HQ.
+<*********************>
+
+
+<c 01>Mysterious Rock
+<c 00>This small
+stone found in
+Area N is
+giving off a
+mysterious
+aura.
+<*********************>
+
+
+<c 01>Computer Chip
+<c 00>This chip was
+found on the
+remains of a
+Maverick in
+Area B.
+<*********************>
+
+
+<c 01>Purple Card Key
+<c 00>Obviously this
+key goes to
+purple doors.
+<*********************>
+
+
+<c 01>Data Disk 1
+<c 00>This data disk
+was left behind
+in a terminal.
+It contains the
+Guardian recon
+unit report.
+<*********************>
+
+
+<c 01>Data Disk 2
+<c 00>The disk that
+Leganchor had
+in his
+possession.
+Part of the
+recon unit
+report is here.
+<*********************>
+
+
+<c 01>Data Disk 3
+<c 00>The disk that
+was found in
+the room with
+Protectos. The
+rest of the
+recon unit
+report is here.
+<*********************>
+
+
+<c 01>Yellow Card Key
+<c 00>It's easy to
+guess this
+unlocks yellow
+doors.
+<*********************>
+
+
+<c 01>Green Card Key
+<c 00>It can only be
+assumed this
+opens green
+doors.
+<*********************>
+
+
+<c 01>Red Card Key
+<c 00>This probably
+opens red
+doors.
+<*********************>
+
+
+<c 01>Blue Card Key
+<c 00>It should come
+as no surprise
+that this goes
+to blue doors.
+<*********************>
+
+
+<c 01>White Card Key
+<c 00>It doesn't take
+a genius to
+figure out this
+opens white
+doors.
+<*********************>
+
+
+No missions underway
+<*********************>
+
+
+Mission:Catch the Maverick
+Destination:Area A-2
+<*********************>
+
+
+Mission:Locate Giro
+Destination:Area B-1/B-2
+<*********************>
+
+
+Mission:Pass the Test
+Destination:Area C-1/C-2
+<*********************>
+
+
+Mission:Troop Reinforcement
+Destination:Area D-2
+<*********************>
+
+
+Mission:Search the Plant
+Destination:Area E-7
+<*********************>
+
+
+Mission:Find the Survivors
+Destination:Area F
+<*********************>
+
+
+Mission:Fight the Mavericks
+Destination:Area G
+<*********************>
+
+
+Mission:Secure the Biometal
+Destination:Area H-4
+<*********************>
+
+
+Mission:Save the People
+Destination:Area I-3
+<*********************>
+
+
+Mission:Recover the Disk
+Destination:Area J-5
+<*********************>
+
+
+Mission:Attack the Excavators
+Destination:Area K-4
+<*********************>
+
+
+Mission:Protect the Lab
+Destination:Area L-4
+<*********************>
+
+
+Mission:Protect HQ
+Destination:Area X (HQ)
+<*********************>
+
+
+Mission:Stop the Dig
+Destination:Area M
+<*********************>
+
+
+Mission:Repel the Army
+Destination:Area O
+<*********************>
+
+
+Mission:Destroy Model W
+Destination:Area D-4/D-5
+<*********************>
+
+
+Quest:Find the Flower
+Destination:Area A-1
+<*********************>
+
+
+Quest:Trim the Weeds
+Destination:Area C-2
+<*********************>
+
+
+Quest:Find the Boy
+Destination:Area G-1/G-2
+<*********************>
+
+
+Quest:Quiz Partner
+Destination:Area C-1/C-3
+<*********************>
+
+
+Quest:Another Quiz
+Destination:Area C-1/C-3
+<*********************>
+
+
+Quest:Purify the Lakes
+Destination:Area B-4
+<*********************>
+
+
+Quest:Find Mushroom
+Destination:Area A-2
+<*********************>
+
+
+Quest:Sending a Letter
+Destination:Area C-2
+<*********************>
+
+
+Quest:Sending Another Letter
+Destination:Area C-2
+<*********************>
+
+
+Quest:Yet Another Letter
+Destination:Area C-2
+<*********************>
+
+
+Quest:Not Another Letter
+Destination:Area C-2
+<*********************>
+
+
+Quest:Guess What? A Letter
+Destination:Area C-2
+<*********************>
+
+
+Quest:One More Letter
+Destination:Area C-2
+<*********************>
+
+
+Quest:Deliver a Reply
+Destination:Area X-1 (HQ)
+<*********************>
+
+
+Quest:Find the Purse
+Destination:Area B-2
+<*********************>
+
+
+Quest:Find the Pearl
+Destination:Area F-2
+<*********************>
+
+
+Quest:Find the Rock
+Destination:Area K-1
+<*********************>
+
+
+Quest:Smash the Rock
+Destination:Area E-4
+<*********************>
+
+
+Quest:Gather the Screws
+Destination:Area K-3/K-4/K-5
+<*********************>
+
+
+Quest:Clean the Room
+Destination:Area C-1
+<*********************>
+
+
+Quest:Deliver the Aid Kit
+Destination:Area L-1/L-2/L-3
+<*********************>
+
+
+Quest:Deliver the Energy Pack
+Destination:Area L-1/L-2/L-3
+<*********************>
+
+
+Quest:Deliver the Aid Kit
+Destination:Area L-1/L-2/L-3
+<*********************>
+
+
+Quest:Deliver the Energy Pack
+Destination:Area L-1/L-2/L-3
+<*********************>
+
+
+Mission:Catch the Maverick
+File a mission report
+<*********************>
+
+
+Mission:Locate Giro
+File a mission report
+<*********************>
+
+
+Mission:Pass the Test
+File a mission report
+<*********************>
+
+
+Mission:Troop Reinforcement
+File a mission report
+<*********************>
+
+
+Mission:Search the Plant
+File a mission report
+<*********************>
+
+
+Mission:Find the Survivors
+File a mission report
+<*********************>
+
+
+Mission:Fight the Mavericks
+File a mission report
+<*********************>
+
+
+Mission:Secure the Biometal
+File a mission report
+<*********************>
+
+
+Mission:Save the People
+File a mission report
+<*********************>
+
+
+Mission:Recover the Disk
+File a mission report
+<*********************>
+
+
+Mission:Attack the Excavators
+File a mission report
+<*********************>
+
+
+Mission:Protect the Lab
+File a mission report
+<*********************>
+
+
+Mission:Protect HQ
+File a mission report
+<*********************>
+
+
+Mission:Stop the Dig
+File a mission report
+<*********************>
+
+
+Mission:Repel the Army
+File a mission report
+<*********************>
+
+
+Mission:Destroy Model W
+File a mission report
+<*********************>
+
+
+Quest:Find the Flower
+File a mission report
+<*********************>
+
+
+Quest:Trim the Weeds
+File a mission report
+<*********************>
+
+
+Quest:Find the Boy
+File a mission report
+<*********************>
+
+
+Quest:Quiz Partner
+File a mission report
+<*********************>
+
+
+Quest:Another Quiz
+File a mission report
+<*********************>
+
+
+Quest:Purify the Lakes
+File a mission report
+<*********************>
+
+
+Quest:Find Mushroom
+File a mission report
+<*********************>
+
+
+Quest:Sending a Letter
+File a mission report
+<*********************>
+
+
+Quest:Sending Another Letter
+File a mission report
+<*********************>
+
+
+Quest:Yet Another Letter
+File a mission report
+<*********************>
+
+
+Quest:Not Another Letter
+File a mission report
+<*********************>
+
+
+Quest:Guess What? A Letter
+File a mission report
+<*********************>
+
+
+Quest:One More Letter
+File a mission report
+<*********************>
+
+
+Quest:Deliver a Reply
+File a mission report
+<*********************>
+
+
+Quest:Find the Purse
+File a mission report
+<*********************>
+
+
+Quest:Find the Pearl
+File a mission report
+<*********************>
+
+
+Quest:Find the Rock
+File a mission report
+<*********************>
+
+
+Quest:Smash the Rock
+File a mission report
+<*********************>
+
+
+Quest:Gather the Screws
+File a mission report
+<*********************>
+
+
+Quest:Clean the Room
+File a mission report
+<*********************>
+
+
+Quest:Deliver the Aid Kit
+File a mission report
+<*********************>
+
+
+Quest:Deliver the Energy Pack
+File a mission report
+<*********************>
+
+
+Quest:Deliver the Aid Kit
+File a mission report
+<*********************>
+
+
+Quest:Deliver the Energy Pack
+File a mission report
+<*********************>
+
+<FIM>

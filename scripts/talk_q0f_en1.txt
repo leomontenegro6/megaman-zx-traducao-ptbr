@@ -1,0 +1,103 @@
+<script_info tipo='Quest 15' personagem='Vent' tamanho='887' inicio_ponteiros='4' fim_ponteiros='21' inicio_textos='22' />
+<#####################>
+
+<p 02><a 43><n 3E>
+I was just walking
+through a mountain pass
+when a springy machine
+<--------------------->
+
+jumped out and startled
+me.
+<--------------------->
+
+<p 02><a 43><n 3E>
+I was so surprised, I
+dropped my pochette...
+<--------------------->
+
+<p 02><a 43><n 3E>
+It's a special purse
+that mother bought
+for me.
+<--------------------->
+
+<p 02><a 43><n 3E>
+Please... You must find
+it...
+<*********************>
+
+<p 02><a 43><n 3E>
+If I lose that
+pochette, mother
+will be oh so upset.
+<*********************>
+
+<p 02><a 02><n 55>
+Find the pochette
+dropped in the Area B
+mountain pass.
+<*********************>
+
+<e 01><a 02><n 55>
+  Yes
+  No
+<*********************>
+
+<p 02><a 43><n 3E>
+Well? Have you found it
+yet?
+<--------------------->
+
+<p 02><a 43><n 3E>
+Oh! I almost forgot!
+<--------------------->
+
+<p 02><a 43><n 3E>
+I think a bird might
+have grabbed it after I
+dropped it and
+<--------------------->
+
+taken it up to a high
+place.
+<*********************>
+
+<p 02><a 43><n 3E>
+My pochette!!! Thank
+you so much!
+<*********************>
+
+<p 02><a 43><n 3E>
+I'll send you a little
+something. Just don't
+tell mother...
+<--------------------->
+
+<p 02><a 43><n 3E>
+It'll be there by the
+time you go to the
+transerver.
+<*********************>
+
+<p 02><a 02><n 55>
+Quest completed.
+<--------------------->
+
+<p 02><a 02><n 55>
+100 EC have been
+transferred to your
+account.
+<*********************>
+
+<p 02><a 43><n 3E>
+Thank you oh so much
+for your help earlier.
+<--------------------->
+
+<p 02><a 43><n 3E>
+Now mother won't be
+upset at me.
+<*********************>
+
+<FIM>

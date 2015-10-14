@@ -1,0 +1,259 @@
+<script_info tipo='Missão 2' personagem='Aile' tamanho='2473' inicio_ponteiros='4' fim_ponteiros='19' inicio_textos='20' />
+<#####################>
+
+<p 02><d D107><a 02><n 55>
+Giro, o transportador,
+parece estar lidando
+<--------------------->
+
+com agressões de
+Mavericks na Área B.
+<--------------------->
+
+<p 02><d D207><a 02><n 55>
+Vá à Área B e descubra
+o seu paradeiro.
+<*********************>
+
+<p 02><d D307><a 05><n 02>
+Parece que houve uma
+luta aqui.
+<--------------------->
+
+<p 02><d D407><a 05><n 02>
+Posso tentar seguir
+essa estrada. Talvez
+leve ao Giro.
+<*********************>
+
+<p 02><d D507><a 02><n 04>
+Aile? À escuta?
+<--------------------->
+
+<p 02><d D607><a 02><n 04>
+Sobre o Maverick que
+nos atacou,
+<--------------------->
+
+há algo nessa coisa
+toda que está me
+incomodando.
+<--------------------->
+
+<p 02><d D707><a 02><n 04>
+Deve haver uma pista
+nas ruínas
+<--------------------->
+
+sobre o que estaria
+causando os surtos
+dos Mavericks.
+<--------------------->
+
+<p 02><d D807><a 02><n 04>
+Verifique-as e veja se
+consegue encontrar
+algo.
+<*********************>
+
+<p 02><d D907><a 02><n 04>
+Deve haver uma pista
+nas ruínas
+<--------------------->
+
+sobre o que estaria
+causando os surtos
+dos Mavericks.
+<--------------------->
+
+<p 02><d DA07><a 02><n 04>
+Verifique-as e veja se
+consegue encontrar
+algo.
+<*********************>
+
+<p 02><d DB07><a 05><n 02>
+O que é isso? É um
+chip de computador?
+<--------------------->
+
+<p 02><d DC07><a 02><n 04>
+Deve ser de um pedaço
+de metal que caiu de
+um dos Mavericks.
+<--------------------->
+
+<p 02><d DD07><a 02><n 04>
+Se trouxer de volta ao
+QG, podemos analisá-lo.
+<--------------------->
+
+Pode nos dar a pista
+que precisamos.
+<--------------------->
+
+<p 02><d DE07><a 02><n 04>
+Se encontrar qualquer
+outra coisa, traga
+de volta também.
+<*********************>
+
+<p 02><d DF07><a 32><n 06>
+Então esta é a
+escolhida do Modelo X?
+<--------------------->
+
+<p 02><d E007><a 11><n 00>
+Sim, ela é muito
+especial para mim.
+<*********************>
+
+<p 02><d E107><a 0D><n 03>
+Aile, parece que você
+também foi escolhida
+pelo Biometal.
+<--------------------->
+
+<p 03><d E207><a 07><n 02>
+Giro! O que é esse tal
+Biometal?
+<--------------------->
+
+Não entendo o que está
+acontecendo!
+<--------------------->
+
+<p 02><d E307><a 0D><n 03>
+Este é meu parceiro,
+o Biometal Model Z.
+<--------------------->
+
+<p 02><d E407><a 0D><n 03>
+Desculpe por ter guar-
+dado segredo disso
+de você.
+<--------------------->
+
+mas sou um membro dos
+Guardiões.
+<--------------------->
+
+<p 02><d E507><a 0D><n 03>
+Você e eu somos ambos
+escolhidos.
+<--------------------->
+
+Podemos nos transformar
+com o poder do
+Biometal.
+<--------------------->
+
+<p 02><d E607><a 0D><n 03>
+Recebi uma ordem para
+protegê-la das pessoas
+<--------------------->
+
+que estão atrás do
+poder que agora
+reside em você.
+<--------------------->
+
+<p 03><d E707><a 05><n 02>
+Sou uma escolhida?
+<--------------------->
+
+<p 02><d E807><a 10><n 03>
+Não queria esconder
+isto de você. Eu plane-
+java contar tudo
+<--------------------->
+
+assim que o Biometal
+fosse entregue em
+segurança.
+<--------------------->
+
+<p 02><d E907><a 0D><n 03>
+Aile. Você se juntará
+a mim e os outros
+Guardiões?
+<--------------------->
+
+<p 02><d EA07><a 0D><n 03>
+O Biometal é a chave
+para entender o motivo
+<--------------------->
+
+pelo qual os surtos
+dos Mavericks estão
+acontecendo.
+<--------------------->
+
+<p 03><d EB07><a 08><n 02>
+Isso tudo é demais pra
+mim. Não sei se devo,
+Giro...
+<--------------------->
+
+<p 02><d EC07><a 0D><n 03>
+Não quero força-la a
+fazer algo contra sua
+vontade.
+<--------------------->
+
+É sua decisão.
+<--------------------->
+
+<p 02><d ED07><a 0D><n 03>
+Vou usar o transervidor
+para voltar ao QG
+dos Guardiões.
+<--------------------->
+
+<p 02><d EE07><a 0D><n 03>
+Estarei aguardando sua
+decisão lá.
+<--------------------->
+
+Por favor, não demore
+muto.
+<*********************>
+
+<p 02><d EF07><a 02><n 04>
+Parece que conseguiu
+encontrar Giro. É um
+alívio.
+<--------------------->
+
+<p 02><d F007><a 02><n 04>
+Ah, não esqueça de ir
+ao transervidor na sala
+de trás
+<--------------------->
+
+e escolher a opção
+"Relatar Missão".
+<--------------------->
+
+<p 02><d F107><a 02><n 04>
+Isso enviará ao QG a
+confirmação de que a
+missão foi concluída.
+<--------------------->
+
+<p 03><d F207><a 08><n 02>
+Será que Giro esteve
+comigo por todos esses
+anos
+<--------------------->
+
+só porque tinha ordens
+de proteger a mim,
+uma escolhida?
+<--------------------->
+
+<p 03><d F307><a 08><n 02>
+Me sinto tão confusa...
+<*********************>
+
+<FIM>

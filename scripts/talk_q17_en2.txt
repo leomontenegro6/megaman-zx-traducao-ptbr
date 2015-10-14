@@ -1,0 +1,91 @@
+<script_info tipo='Quest 23' personagem='Aile' tamanho='818' inicio_ponteiros='4' fim_ponteiros='19' inicio_textos='20' />
+<#####################>
+
+<p 02><a 2D><n 21>
+What wonderful timing!
+<--------------------->
+
+<p 02><a 2D><n 21>
+We're on the verge of
+running out of aid kits
+again.
+<--------------------->
+
+<p 02><a 2D><n 21>
+Could you spare some
+time to bring me
+another one?
+<*********************>
+
+<p 02><a 2D><n 21>
+Whatever you can find
+might be enough to save
+a life.
+<--------------------->
+
+<p 02><a 2D><n 21>
+As you know, Area L
+is a big Maverick
+stockpile.
+<--------------------->
+
+You might find
+something there.
+<*********************>
+
+<p 02><a 02><n 55>
+Bring back an aid kit
+from the enemy supply
+container.
+<*********************>
+
+<e 01><a 02><n 55>
+  Yes
+  No
+<*********************>
+
+<p 02><a 2D><n 21>
+You still haven't found
+the medical supplies
+yet, have you?
+<--------------------->
+
+<p 02><a 2D><n 21>
+I'll help the wounded
+as long as I can, but
+we need supplies.
+<*********************>
+
+<p 02><a 2D><n 21>
+Magnificent work, dear!
+You brought the
+supplies!
+<--------------------->
+
+<p 02><a 2D><n 21>
+You're a little angel.
+<--------------------->
+
+<p 02><a 2D><n 21>
+I know Rose is amazed
+by all of your efforts
+to help.
+<*********************>
+
+<p 02><a 2D><n 21>
+We may run low again.
+If we do, I'll be sure
+to ask for your help.
+<*********************>
+
+<p 02><a 02><n 55>
+Quest completed.
+<--------------------->
+
+<p 02><a 02><n 55>
+150 EC have been
+transferred to your
+account.
+<*********************>
+
+<FIM>

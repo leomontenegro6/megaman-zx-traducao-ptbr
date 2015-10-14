@@ -1,0 +1,1555 @@
+<script_info tipo='NPCs Cidade' personagem='Vent' tamanho='14580' inicio_ponteiros='4' fim_ponteiros='187' inicio_textos='188' />
+<#####################>
+
+<p 02><a 42><n 3D>
+If you go a little
+further to the right
+down this road,
+<--------------------->
+
+you'll see a door
+leading to a
+transerver.
+<--------------------->
+
+<p 02><a 42><n 3D>
+The other door in the
+room leads to the
+highway.
+<--------------------->
+
+<p 02><a 42><n 3D>
+The highway is within
+Innerpeace, but there
+have been a lot of
+<--------------------->
+
+Mavericks showing up
+there lately.
+<--------------------->
+
+<p 02><a 42><n 3D>
+That's why mommy always
+says I shouldn't go
+there.
+<--------------------->
+
+<p 02><a 42><n 3D>
+You have to use the
+highway to reach the
+buildings in Area G.
+<--------------------->
+
+<p 02><a 42><n 3D>
+I need to go there to
+buy pet food or my poor
+pets will go hungry.
+<*********************>
+
+<p 02><a 42><n 3D>
+Last year, I went on a
+picnic to the snowy
+<--------------------->
+
+mountains with my
+family.
+<--------------------->
+
+<p 02><a 42><n 3D>
+It wasn't easy to cross
+the road in Area B-1
+<--------------------->
+
+because it was under
+construction.
+<--------------------->
+
+<p 02><a 42><n 3D>
+I wish the roads were a
+little more convenient.
+<*********************>
+
+<p 02><a 42><n 3D>
+My doggy's name is
+Canis. That's a cute
+name don't you think?
+<--------------------->
+
+<p 02><a 42><n 3D>
+His name used to be
+"Rollover," but he
+didn't respond to that.
+<--------------------->
+
+<p 02><a 42><n 3D>
+So I changed it to
+Canis!
+<--------------------->
+
+<p 02><a 42><n 3D>
+Canis! You like your
+new name don't you boy?
+<--------------------->
+
+<p 02><a 57><n 54>
+Woof!
+<*********************>
+
+<p 02><a 42><n 3D>
+I love pets!
+<--------------------->
+
+<p 02><a 42><n 3D>
+I'm going to ask mommy
+for a salamander!
+<--------------------->
+
+<p 02><a 42><n 3D>
+Why a salamander?
+<--------------------->
+
+<p 02><a 42><n 3D>
+Because being like
+everyone else is
+boring.
+<*********************>
+
+<p 02><a 42><n 3D>
+I enjoy taking Canis
+out for our little
+walks,
+<--------------------->
+
+<p 02><a 42><n 3D>
+but he always sits down
+on the way and won't
+budge.
+<--------------------->
+
+<p 02><a 42><n 3D>
+As soon as it's
+lunchtime though, he
+comes to life.
+<--------------------->
+
+<p 02><a 42><n 3D>
+You're too smart for
+your own good...
+<--------------------->
+
+<p 02><a 57><n 54>
+Woof!
+<*********************>
+
+<p 02><a 42><n 3D>
+Canis just learned how
+to shake hands.
+<--------------------->
+
+<p 02><a 42><n 3D>
+I wonder what I should
+teach him next...
+<*********************>
+
+<p 02><a 42><n 3D>
+Yikes! Who are you?
+<--------------------->
+
+<p 02><a 42><n 3D>
+Canis is nervous around
+strangers, so please
+don't come any closer!
+<--------------------->
+
+<p 02><a 57><n 54>
+Rrr...
+<*********************>
+
+<p 02><a 53><n 4E>
+You're already working?
+At your age?
+<--------------------->
+
+<p 02><a 53><n 4E>
+That's amazing! I don't
+envy the tough work you
+must be doing.
+<--------------------->
+
+<p 02><a 53><n 4E>
+I've never seen a
+transporter delivering
+things on foot though.
+<*********************>
+
+<p 02><a 53><n 4E>
+Work is important, but
+you should study too!
+<--------------------->
+
+<p 02><a 53><n 4E>
+It'll be too late to
+go back and study
+when you grow up.
+<*********************>
+
+<p 02><a 53><n 4E>
+Did you see it!?
+<--------------------->
+
+<p 02><a 53><n 4E>
+See what you say? The
+flash in the sky just
+now...
+<--------------------->
+
+<p 02><a 53><n 4E>
+I could've sworn that I
+heard a rumble too,
+like thunder.
+<--------------------->
+
+<p 02><a 53><n 4E>
+The weather forecast
+didn't call for any
+storms today though...
+<--------------------->
+
+Must just be my
+imagination.
+<*********************>
+
+<p 02><a 53><n 4E>
+I've heard that here in
+the Outlands,
+<--------------------->
+
+a lot of Mavericks are
+running around.
+<--------------------->
+
+<p 02><a 53><n 4E>
+But I don't see what
+the big deal is.
+<--------------------->
+
+<p 02><a 53><n 4E>
+If there's a problem,
+Slither Inc. will take
+care of it.
+<*********************>
+
+<p 02><a 53><n 4E>
+I'm so busy nowadays...
+<--------------------->
+
+<p 02><a 53><n 4E>
+I've got a lot on my
+mind with my son's
+future and all.
+<--------------------->
+
+<p 02><a 53><n 4E>
+As a mom,
+<--------------------->
+
+<p 02><a 53><n 4E>
+I would love to see him
+work for Slither Inc.
+someday!
+<*********************>
+
+<p 02><a 53><n 4E>
+Lately Slither Inc.
+seems to be really busy
+too.
+<--------------------->
+
+<p 02><a 53><n 4E>
+I've seen a lot of them
+heading into the cave.
+<*********************>
+
+<p 02><a 53><n 4E>
+...
+<--------------------->
+
+<p 02><a 53><n 4E>
+...
+<*********************>
+
+<p 02><a 40><n 3B>
+Thank you for before,
+sir!
+<--------------------->
+
+<p 02><a 40><n 3B>
+I was just out shopping
+when the fire started.
+<--------------------->
+
+<p 02><a 40><n 3B>
+I saw the fire getting
+closer and closer. I
+was so scared!
+<*********************>
+
+<p 02><a 40><n 3B>
+I want to forget about
+the fire.
+<--------------------->
+
+<p 02><a 40><n 3B>
+My legs tremble when I
+even think about
+leaving my house.
+<*********************>
+
+<p 02><a 40><n 3B>
+Even the feeling of
+heat scares me,
+<--------------------->
+
+so I can't bake my
+favorite cookies
+anymore...
+<--------------------->
+
+<p 02><a 40><n 3B>
+If I can't bake my
+world famous cookies,
+<--------------------->
+
+how am I going to make
+friends?
+<--------------------->
+
+<p 02><a 40><n 3B>
+Will you be my friend
+even if I can't make
+cookies?
+<--------------------->
+
+<p 02><a 40><n 3B>
+Yes? I don't believe
+you...
+<*********************>
+
+<p 02><a 40><n 3B>
+*sigh* Bored, bored,
+bored.
+<--------------------->
+
+<p 02><a 40><n 3B>
+I just want to go
+outside and play...
+<*********************>
+
+<p 02><a 40><n 3B>
+It's so hard to enter
+and leave this room.
+<--------------------->
+
+<p 02><a 40><n 3B>
+Whoever made this
+building must have been
+a little nutso.
+<*********************>
+
+<p 02><a 40><n 3B>
+I want to move to a
+bigger house!
+<--------------------->
+
+<p 02><a 40><n 3B>
+A giant palace with
+four kitchens and
+four living rooms!
+<*********************>
+
+<p 02><a 40><n 3B>
+Have I seen you before?
+<--------------------->
+
+<p 02><a 40><n 3B>
+Hmm, I must be thinking
+of someone else.
+<*********************>
+
+<p 02><a 41><n 3C>
+Oh! You're the man that
+saved all of us when
+<--------------------->
+
+we were being held in
+that room.
+<--------------------->
+
+<p 02><a 41><n 3C>
+I knew it was you! 
+Even though you look a
+bit different now...
+<--------------------->
+
+<p 02><a 41><n 3C>
+I'm sorry I never got
+to thank you for what
+you did.
+<*********************>
+
+<p 02><a 41><n 3C>
+Hey! You're a
+transporter? Wow,
+that's cool!
+<--------------------->
+
+<p 02><a 41><n 3C>
+I didn't know
+transporters rescued
+hostages too...
+<--------------------->
+
+<p 02><a 41><n 3C>
+You're like some kind
+of super hero!
+<*********************>
+
+<p 02><a 41><n 3C>
+I was scared, being
+trapped in that dark
+room...
+<--------------------->
+
+<p 02><a 41><n 3C>
+The boy that was with
+me was scared too. He
+cried the whole time.
+<*********************>
+
+<p 02><a 41><n 3C>
+We were both imagining
+the worst.
+<--------------------->
+
+<p 02><a 41><n 3C>
+I never thought I would
+feel the sunshine
+again.
+<*********************>
+
+<p 02><a 41><n 3C>
+At night when it's
+dark,
+<--------------------->
+
+I sometimes remember
+how scary it was in
+that room...
+<--------------------->
+
+<p 02><a 41><n 3C>
+I can't sleep with the
+lights off yet.
+<*********************>
+
+<p 02><a 41><n 3C>
+Hey.
+<--------------------->
+
+<p 02><a 41><n 3C>
+Do you have any ideas
+for helping me get over
+my fear of the dark?
+<--------------------->
+
+<p 02><a 41><n 3C>
+If I count one more
+sheep, I'm gonna
+scream.
+<*********************>
+
+<p 02><a 41><n 3C>
+Hey Transporter!
+<--------------------->
+
+<p 02><a 41><n 3C>
+Take this!
+<--------------------->
+
+<p 02><a 41><n 3C>
+It's your birthday
+today, isn't it?
+<--------------------->
+
+<p 02><a 41><n 3C>
+I'd like to say I made
+it all by myself from
+scratch,
+<--------------------->
+
+<p 02><a 41><n 3C>
+but my sister helped me
+with most of it.
+<*********************>
+
+<p 02><a 41><n 3C>
+You're the one that
+rescued me earlier...
+Aren't you?
+<--------------------->
+
+<p 02><a 41><n 3C>
+If my mom catches
+me talking to you with
+that costume on,
+<--------------------->
+
+she'll get mad at me.
+<*********************>
+
+<p 02><a 51><n 4C>
+Thank you for rescuing
+me from that fire.
+<--------------------->
+
+<p 02><a 51><n 4C>
+My leg injury is not as
+bad as I thought it
+would be.
+<--------------------->
+
+<p 02><a 51><n 4C>
+I would never have
+expected that area to
+come under attack.
+<--------------------->
+
+<p 02><a 51><n 4C>
+It used to be part of
+Innerpeace...
+<*********************>
+
+<p 02><a 51><n 4C>
+What to do now...
+<--------------------->
+
+<p 02><a 51><n 4C>
+My favorite store was
+in that building.
+<*********************>
+
+<p 02><a 51><n 4C>
+Why am I worrying?
+<--------------------->
+
+<p 02><a 51><n 4C>
+Slither Inc. will just
+build an even better
+building in its place!
+<*********************>
+
+<p 02><a 51><n 4C>
+I guess in the meantime
+I'll just shop around
+here.
+<--------------------->
+
+<p 02><a 51><n 4C>
+It's just a residential
+area though, so the
+shopping's not so hot.
+<*********************>
+
+<p 02><a 51><n 4C>
+Does Giro Express
+even deliver to the
+Outlands?
+<--------------------->
+
+<p 02><a 51><n 4C>
+That sounds dangerous!
+Be careful out there!
+<*********************>
+
+<p 02><a 51><n 4C>
+You poor child. Being
+forced to handle such
+risky business.
+<--------------------->
+
+<p 02><a 51><n 4C>
+What kind of person
+would let a child do
+all their dirty work?
+<*********************>
+
+<p 02><a 51><n 4C>
+Who... Or what are you?
+<--------------------->
+
+<p 02><a 51><n 4C>
+And what's with the
+Halloween costume? Just
+leave me alone please!
+<*********************>
+
+<p 02><a 48><n 43>
+Oh, you...
+<--------------------->
+
+<p 02><a 48><n 43>
+You're the one that
+saved us from the
+<--------------------->
+
+burning building,
+aren't you?
+<--------------------->
+
+<p 02><a 48><n 43>
+It has to be you! I
+couldn't get a good
+<--------------------->
+
+look with all of the
+smoke,
+<--------------------->
+
+<p 02><a 48><n 43>
+but I remember your
+voice clear as day!
+<--------------------->
+
+<p 02><a 48><n 43>
+I'm very good at
+remembering voices!
+<*********************>
+
+<p 02><a 48><n 43>
+Thanks to you, I'm
+doing fine.
+<--------------------->
+
+<p 02><a 48><n 43>
+The doctor said I
+should keep off my feet
+as much as possible.
+<--------------------->
+
+<p 02><a 48><n 43>
+I had a lot of plans,
+like going out on dates
+and shopping,
+<--------------------->
+
+but those are all out
+the window now.
+<*********************>
+
+<p 02><a 48><n 43>
+I was in the building
+looking for a present
+for my boyfriend.
+<--------------------->
+
+<p 02><a 48><n 43>
+My parents are dead set
+against our
+relationship.
+<--------------------->
+
+<p 02><a 48><n 43>
+Just the other day,
+they tried to introduce
+me to a guy...
+<--------------------->
+
+<p 02><a 48><n 43>
+Man! Dad is so behind
+the times, he's living
+in the Stone Age!
+<--------------------->
+
+<p 02><a 48><n 43>
+Speaking of the Stone
+Age,
+<--------------------->
+
+<p 02><a 48><n 43>
+that guy he introduced
+me to was a fossil!
+<*********************>
+
+<p 02><a 48><n 43>
+I know dad's just
+worried about me and
+wants me to be happy,
+<--------------------->
+
+<p 02><a 48><n 43>
+but he needs to get a
+clue.
+<--------------------->
+
+<p 02><a 48><n 43>
+Don't you think?
+<*********************>
+
+<p 02><a 48><n 43>
+I finally introduced my
+boyfriend to my
+parents.
+<--------------------->
+
+<p 02><a 48><n 43>
+They saw how much he
+cares and have backed
+off a little bit.
+<*********************>
+
+<p 02><a 48><n 43>
+I knew it the moment I
+saw him.
+<--------------------->
+
+<p 02><a 48><n 43>
+Our love is so pure,
+nothing and no one can
+ever come between us!
+<*********************>
+
+<p 02><a 48><n 43>
+...
+<--------------------->
+
+<p 02><a 48><n 43>
+Wha-!?
+<--------------------->
+
+<p 02><a 48><n 43>
+Don't come near me with
+that weirdo outfit!
+<*********************>
+
+<p 02><a 52><n 4D>
+Oh, I see. You're a
+transporter for Giro
+Express.
+<--------------------->
+
+<p 02><a 52><n 4D>
+You were dressed
+differently last time I
+saw you.
+<--------------------->
+
+I barely recognized
+you.
+<--------------------->
+
+<p 02><a 52><n 4D>
+I was whisked away by
+some weasel monster and
+held captive.
+<--------------------->
+
+<p 02><a 52><n 4D>
+Thank you so much for
+saving me!
+<*********************>
+
+<p 02><a 52><n 4D>
+Are you trying out a
+new Giro Express
+uniform or something?
+<--------------------->
+
+<p 02><a 52><n 4D>
+It's a cool outfit, but
+others around town
+might not think so.
+<--------------------->
+
+<p 02><a 52><n 4D>
+They might think you're
+one of those Outland
+Mavericks.
+<--------------------->
+
+<p 02><a 52><n 4D>
+The Slither Inc.
+security patrols might
+try to attack you too.
+<--------------------->
+
+<p 02><a 52><n 4D>
+I know you saved me,
+but even I am a little
+nervous talking to you.
+<*********************>
+
+<p 02><a 52><n 4D>
+The weather's great
+today!
+<--------------------->
+
+<p 02><a 52><n 4D>
+Whenever it rains, I
+think back to that
+day...
+<*********************>
+
+<p 02><a 52><n 4D>
+I had a nightmare about
+that weasel monster
+last night...
+<--------------------->
+
+<p 02><a 52><n 4D>
+I want to put the past
+behind me and return to
+<--------------------->
+
+the days when I could
+be more carefree.
+<*********************>
+
+<p 02><a 52><n 4D>
+I know he doesn't look
+it, but that guy Robert
+<--------------------->
+
+over there was an
+athlete.
+<*********************>
+
+<p 02><a 52><n 4D>
+He used to be really
+big into soccer.
+<--------------------->
+
+<p 02><a 52><n 4D>
+I should know... He
+never stops talking
+about his glory days.
+<*********************>
+
+<p 02><a 52><n 4D>
+It's hard to talk to
+you when you look like
+that...
+<--------------------->
+
+<p 02><a 52><n 4D>
+There might be a
+security guard watching
+us.
+<--------------------->
+
+<p 02><a 52><n 4D>
+Could you go back to
+looking like a normal
+person for me?
+<*********************>
+
+<p 02><a 49><n 44>
+You're the one that
+saved me from the
+<--------------------->
+
+confinement facility
+earlier, aren't you?
+<--------------------->
+
+<p 02><a 49><n 44>
+You had some kind of
+armor on at the time.
+<--------------------->
+
+<p 02><a 49><n 44>
+Was that some kind of
+work uniform!?
+<*********************>
+
+<p 02><a 49><n 44>
+It seems like the
+power was out in part
+of the facility.
+<--------------------->
+
+<p 02><a 49><n 44>
+I guess the power from
+the plant got cut off
+somehow.
+<--------------------->
+
+<p 02><a 49><n 44>
+It was pitch black and
+all of the conveyor
+machinery stopped.
+<*********************>
+
+<p 02><a 49><n 44>
+It's great weather
+today. Why am I hearing
+thunder!?
+<--------------------->
+
+<p 02><a 49><n 44>
+It sounded like a big
+sound came from over
+there.
+<*********************>
+
+<p 02><a 49><n 44>
+You might want to be
+careful until we know
+what it is.
+<--------------------->
+
+<p 02><a 49><n 44>
+My kid thinks that a
+battleship fell from
+the sky!
+<--------------------->
+
+<p 02><a 49><n 44>
+Hmph. Kids...
+<*********************>
+
+<p 02><a 49><n 44>
+Don't worry about me,
+I'm fine.
+<--------------------->
+
+<p 02><a 49><n 44>
+But it does kind of
+concern me that nothing
+<--------------------->
+
+about this is making
+headlines.
+<*********************>
+
+<p 02><a 49><n 44>
+Something that big
+should be all over the
+news by now!
+<--------------------->
+
+<p 02><a 49><n 44>
+There must be a good
+reason for keeping it
+quiet.
+<*********************>
+
+<p 02><a 49><n 44>
+Who are you? Wait...
+Aren't you the one that
+saved me?
+<*********************>
+
+<p 02><a 4A><n 45>
+I'm happy that this
+country has come so far
+<--------------------->
+
+with the help of
+Slither Inc.
+<--------------------->
+
+<p 02><a 4A><n 45>
+But I wish they would
+work on adding more
+greenery to the city.
+<*********************>
+
+<p 02><a 4A><n 45>
+I love flowers!
+<--------------------->
+
+<p 02><a 4A><n 45>
+I love flowers more
+than anything.
+<--------------------->
+
+<p 02><a 4A><n 45>
+Just one look and
+that's all it takes to
+<--------------------->
+
+soothe a troubled
+heart.
+<*********************>
+
+<p 02><a 4A><n 45>
+I want to open my own
+flower shop someday.
+<--------------------->
+
+<p 02><a 4A><n 45>
+Spending all of my
+working day surrounded
+by beautiful flowers
+<--------------------->
+
+would be a dream come
+true.
+<*********************>
+
+<p 02><a 4A><n 45>
+What do you think gives
+flowers their beauty?
+<--------------------->
+
+<p 02><a 4A><n 45>
+I think it's because
+they're so delicate and
+fleeting.
+<--------------------->
+
+<p 02><a 4A><n 45>
+Like chasing something
+that always remains
+just out of reach.
+<--------------------->
+
+<p 02><a 4A><n 45>
+It's a lot like love.
+The passion is here
+today, gone tomorrow.
+<--------------------->
+
+<p 02><a 4A><n 45>
+I must be attracted to
+things that don't last
+forever.
+<*********************>
+
+<p 02><a 4A><n 45>
+Weren't you just
+walking on the guard
+rail?
+<--------------------->
+
+<p 02><a 4A><n 45>
+I thought transporters
+were sticklers for
+following the rules...
+<*********************>
+
+<p 02><a 4A><n 45>
+There aren't many
+flowers growing in this
+area.
+<--------------------->
+
+<p 02><a 4A><n 45>
+It's kind of sad
+without any.
+<--------------------->
+
+I wish Slither Inc.
+would plant some around
+town.
+<*********************>
+
+<p 02><a 4A><n 45>
+Do you have something
+you want to discuss
+with me?
+<--------------------->
+
+<p 02><a 4A><n 45>
+If you want to talk,
+you're going to have to
+ditch the crazy outfit.
+<*********************>
+
+<p 02><a 4B><n 46>
+I love this place...
+<--------------------->
+
+<p 02><a 4B><n 46>
+Doesn't it feel
+wonderful to sit next
+<--------------------->
+
+to the fountain and
+listen to the water?
+<--------------------->
+
+<p 02><a 4B><n 46>
+I always come here to
+relax when things
+aren't going my way.
+<*********************>
+
+<p 02><a 4B><n 46>
+On some days, they shut
+off the water to do
+repairs or cleaning.
+<--------------------->
+
+<p 02><a 4B><n 46>
+There's nothing sadder
+than seeing a fountain
+without water.
+<--------------------->
+
+<p 02><a 4B><n 46>
+Did you know that in
+Winter, this fountain
+freezes over?
+<--------------------->
+
+<p 02><a 4B><n 46>
+I'm not sure why, but
+frozen fountains still
+help me to relax.
+<*********************>
+
+<p 02><a 4B><n 46>
+I haven't felt like
+going out much lately,
+<--------------------->
+
+<p 02><a 4B><n 46>
+but I always make sure
+I come here once a day.
+<*********************>
+
+<p 02><a 4B><n 46>
+Have you ever been to
+the power plant on the
+<--------------------->
+
+other side of that
+fountain?
+<--------------------->
+
+<p 02><a 4B><n 46>
+Apparently Area I is
+beyond the plant, but
+I've never been there.
+<*********************>
+
+<p 02><a 4B><n 46>
+When I was young, the
+snowy mountains and
+<--------------------->
+
+lake were part of
+Innerpeace.
+<--------------------->
+
+<p 02><a 4B><n 46>
+I used to go there with
+my family to see the
+Aurora. *sigh*
+<*********************>
+
+<p 02><a 4B><n 46>
+The Outlands are slowly
+swallowing up
+Innerpeace.
+<--------------------->
+
+<p 02><a 4B><n 46>
+I'm sure Slither Inc.
+has some sort of plan
+in place though.
+<*********************>
+
+<p 02><a 4B><n 46>
+W-who are you!?
+<--------------------->
+
+<p 02><a 4B><n 46>
+Don't scare a girl like
+that!
+<*********************>
+
+<p 02><a 54><n 4F>
+I recognize that
+uniform...
+<--------------------->
+
+You're from Giro
+Express aren't you?
+<--------------------->
+
+<p 02><a 54><n 4F>
+I'm always calling on
+you guys when I send
+<--------------------->
+
+packages to my aunt in
+the next town over.
+<--------------------->
+
+<p 02><a 54><n 4F>
+I remember a long
+haired guy with a red
+outfit.
+<--------------------->
+
+<p 02><a 54><n 4F>
+I haven't seen him
+lately though. Is he
+on vacation?
+<*********************>
+
+<p 02><a 54><n 4F>
+Did you know that there
+are red switches around
+town?
+<--------------------->
+
+<p 02><a 54><n 4F>
+They're set up so that
+an impact on the switch
+<--------------------->
+
+will open a nearby
+door.
+<--------------------->
+
+<p 02><a 54><n 4F>
+What could possibly be
+hiding behind such
+protected doors?
+<*********************>
+
+<p 02><a 54><n 4F>
+Mavericks are always
+causing trouble in the
+Outlands.
+<--------------------->
+
+<p 02><a 54><n 4F>
+But we don't get that
+kind of trouble here in
+Innerpeace.
+<*********************>
+
+<p 02><a 54><n 4F>
+This ideal lifestyle is
+possible thanks to
+Slither Inc.
+<--------------------->
+
+<p 02><a 54><n 4F>
+You should thank your
+lucky stars they're
+around.
+<*********************>
+
+<p 02><a 54><n 4F>
+I come from a long line
+of bakers.
+<--------------------->
+
+<p 02><a 54><n 4F>
+My grandpa would love
+to open a bakery again
+someday.
+<*********************>
+
+<p 02><a 54><n 4F>
+For me personally, I'd
+rather open something
+other than a bakery.
+<--------------------->
+
+<p 02><a 54><n 4F>
+Maybe even a candy
+store.
+<*********************>
+
+<p 02><a 54><n 4F>
+My great great great
+great great great
+grandfather
+<--------------------->
+
+<p 02><a 54><n 4F>
+used to work in a
+village bakery.
+<--------------------->
+
+<p 02><a 54><n 4F>
+He learned his secret
+recipe for baking
+delicious bread from an
+<--------------------->
+
+old Reploid...
+<--------------------->
+
+<p 02><a 54><n 4F>
+Baking must be in my
+family's genes.
+<--------------------->
+
+<p 02><a 54><n 4F>
+Everyone loves our
+bread so much,
+<--------------------->
+
+sometimes it's hard to
+keep up with demand.
+<--------------------->
+
+<p 02><a 54><n 4F>
+Would you like to try
+some? It's fresh from
+the oven!
+<--------------------->
+
+<p 02><a 54><n 4F>
+I can't possibly eat it
+all, so go ahead and
+have some.
+<*********************>
+
+<p 02><a 54><n 4F>
+...
+<--------------------->
+
+<p 02><a 54><n 4F>
+I'm sorry, I can't talk
+to you...
+<*********************>
+
+<p 02><a 43><n 3E>
+Aaah! Who are you? How
+dare you walk into
+someone's house!
+<--------------------->
+
+<p 02><a 43><n 3E>
+I guess transporters
+aren't hired for common
+sense nowadays.
+<--------------------->
+
+<p 02><a 43><n 3E>
+You had better learn
+your Ps and Qs mister!
+<*********************>
+
+<p 02><a 43><n 3E>
+What do you think?
+<--------------------->
+
+<p 02><a 43><n 3E>
+Mother bought this
+pochette for me.
+<--------------------->
+
+<p 02><a 43><n 3E>
+What!? You don't care?
+<--------------------->
+
+<p 02><a 43><n 3E>
+Argh! I can't stand
+dense men!
+<--------------------->
+
+<p 02><a 43><n 3E>
+You'll have to learn to
+be a little nicer if
+<--------------------->
+
+you want to be a
+gentleman someday.
+<*********************>
+
+<p 02><a 43><n 3E>
+I want to be a fashion
+model someday.
+<--------------------->
+
+<p 02><e 01><a 43><n 3E>
+What do you think?  
+  You can do it!
+  No way!
+<--------------------->
+
+<p 02><a 43><n 3E>
+Aww, that is sweet of
+you to say.
+<--------------------->
+
+<p 02><a 43><n 3E>
+When I grow up...
+<--------------------->
+
+<p 02><a 43><n 3E>
+I want to wear a pretty
+dress and dance at a
+<--------------------->
+
+fancy Slither Inc.
+ball.
+<*********************>
+
+<p 02><s 01><a 43><n 3E>
+Hmph! Well I never!
+<--------------------->
+
+<p 02><a 43><n 3E>
+You really know how to
+dash a little girl's
+dreams.
+<*********************>
+
+<p 02><a 43><n 3E>
+Don't you think my
+fashion is ahead of the
+times?
+<--------------------->
+
+<p 02><e 02><a 43><n 3E>
+Well?
+  Yes
+  No
+<--------------------->
+
+<p 02><a 43><n 3E>
+I see you have quite a
+bit of fashion sense
+yourself.
+<--------------------->
+
+<p 02><a 43><n 3E>
+The stitches on the
+skirt frills are the
+latest thing.
+<--------------------->
+
+<p 02><a 43><n 3E>
+It's something that the
+big clothing companies
+can't copy.
+<*********************>
+
+<p 02><s 02><a 43><n 3E>
+You think they're
+just ordinary!?
+<--------------------->
+
+<p 02><a 43><n 3E>
+You're one to talk!
+<--------------------->
+
+<p 02><a 43><n 3E>
+You should take a look
+in the mirror sometime.
+<*********************>
+
+<p 02><a 43><n 3E>
+Slither Inc. is
+searching for models.
+<--------------------->
+
+<p 02><a 43><n 3E>
+Mother and father
+are quite opposed to my
+dreams.
+<--------------------->
+
+<p 02><a 43><n 3E>
+But if they hear it's
+Slither Inc. looking
+for models,
+<--------------------->
+
+they couldn't possibly
+be opposed.
+<*********************>
+
+<p 02><a 43><n 3E>
+Slither Inc. is where
+the future is at.
+<--------------------->
+
+<p 02><a 43><n 3E>
+If Slither Inc. ever
+went out of business,
+<--------------------->
+
+this country would be
+in trouble!
+<*********************>
+
+<p 02><a 43><n 3E>
+I almost forgot!
+<--------------------->
+
+<p 02><a 43><n 3E>
+If you'd like, I could
+give you some cool
+clothes!
+<--------------------->
+
+<p 02><a 43><n 3E>
+I'll pick something
+that suits you
+perfectly!
+<--------------------->
+
+<p 02><m><a 43><n 3E>
+  Different is good
+  I'm fine as I am
+  I like blue
+<*********************>
+
+<p 02><a 43><n 3E>
+How about this one? I
+think it's totally you.
+<--------------------->
+
+<p 02><a 43><n 3E>
+It's the same brand I'm
+wearing now.
+<--------------------->
+
+<p 02><a 43><n 3E>
+Just wear it with
+pride. The brand has an
+image to maintain.
+<*********************>
+
+<p 02><a 43><n 3E>
+Ignoring the
+fashion advice of a
+future model...
+<--------------------->
+
+<p 02><a 43><n 3E>
+Pft, whatever. It's
+your life...
+<*********************>
+
+<p 02><a 43><n 3E>
+You like blue, huh?
+<--------------------->
+
+<p 02><a 43><n 3E>
+You have to try new
+things. Fashion is
+<*********************>
+
+<p 02><a 43><n 3E>
+Eww! What's with that
+outfit!?
+<--------------------->
+
+<p 02><a 43><n 3E>
+Is that the big fashion
+somewhere else?
+<*********************>
+
+<FIM>

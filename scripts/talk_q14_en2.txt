@@ -1,0 +1,147 @@
+<script_info tipo='Quest 20' personagem='Aile' tamanho='1310' inicio_ponteiros='4' fim_ponteiros='19' inicio_textos='20' />
+<#####################>
+
+<p 02><a 4F><n 4A>
+*sigh* What am I going
+to do about my boy...
+<--------------------->
+
+<p 02><a 4F><n 4A>
+He never puts his toys
+away after playing with
+them,
+<--------------------->
+
+<p 02><a 4F><n 4A>
+and he never listens
+to a word I say.
+<--------------------->
+
+<p 02><a 4F><n 4A>
+Hey, you.
+<--------------------->
+
+<p 02><a 4F><n 4A>
+I'm not sure if you're
+the right person to ask
+about this...
+<--------------------->
+
+<p 02><a 4F><n 4A>
+But could you clean my
+place up for me?
+<--------------------->
+
+<p 02><a 4F><n 4A>
+If you could provide an
+example of someone
+cleaning,
+<--------------------->
+
+<p 02><a 4F><n 4A>
+my boy might get the
+hint.
+<*********************>
+
+<p 02><a 4F><n 4A>
+I'm frankly embarrassed
+to make such a silly
+request,
+<--------------------->
+
+<p 02><a 4F><n 4A>
+but I'll upload it to
+the transerver. I hope
+you'll consider it.
+<--------------------->
+
+<p 02><a 4F><n 4A>
+It'd be great if you
+could at least make
+sure the balls lying
+<--------------------->
+
+around are all placed
+in the room down below.
+<*********************>
+
+<p 02><a 02><n 55>
+Clean up the balls by
+moving them to the room
+down below.
+<*********************>
+
+<e 01><a 02><n 55>
+  Yes
+  No
+<*********************>
+
+<p 02><a 4F><n 4A>
+Did you put away all of
+the balls already?
+<--------------------->
+
+<p 02><a 4F><n 4A>
+I'll compensate you for
+the help,
+<--------------------->
+
+so please try to get
+them all put away.
+<--------------------->
+
+<p 02><a 4F><n 4A>
+I hurt my back
+yesterday and I just
+<--------------------->
+
+can't do it without
+your help.
+<*********************>
+
+<p 02><a 4F><n 4A>
+Oh wow! You put away
+all the balls!
+<--------------------->
+
+<p 02><a 4F><n 4A>
+Giro Express really can
+take anything,
+anywhere.
+<--------------------->
+
+<p 02><a 4F><n 4A>
+Thank you!
+<--------------------->
+
+<p 02><a 4F><n 4A>
+I sent along a little
+token of my gratitude
+to the transerver.
+<*********************>
+
+<p 02><a 02><n 55>
+Quest completed.
+<--------------------->
+
+<p 02><a 02><n 55>
+200 EC have been
+transferred to your
+account.
+<*********************>
+
+<p 02><a 4F><n 4A>
+My boy is all about
+cleaning his room now,
+<--------------------->
+
+thanks to your fine
+example.
+<--------------------->
+
+<p 02><a 4F><n 4A>
+It feels great to have
+a clean house again!
+<*********************>
+
+<FIM>

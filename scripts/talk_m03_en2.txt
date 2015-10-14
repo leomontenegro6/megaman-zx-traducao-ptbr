@@ -1,0 +1,286 @@
+<script_info tipo='Missão 3' personagem='Aile' tamanho='2810' inicio_ponteiros='4' fim_ponteiros='29' inicio_textos='30' />
+<#####################>
+
+<p 02><d B90B><a 02><n 55>
+There's a trial you
+need to pass in order
+to obtain permission
+<--------------------->
+
+to enter Guardian HQ.
+<--------------------->
+
+<p 02><d BA0B><a 02><n 55>
+There are undercover
+Guardians hiding among
+<--------------------->
+
+the inhabitants of
+Area C.
+<--------------------->
+
+<p 02><d BB0B><a 02><n 55>
+Locate them and bring
+back proof that you
+passed the trial.
+<*********************>
+
+<p 02><d BC0B><a 02><n 04>
+Hold on. It looks like
+Slither Inc.'s security
+<--------------------->
+
+force is starting to
+patrol the area.
+<--------------------->
+
+<p 02><d BD0B><a 05><n 02>
+Patrols? That's the
+first time I've ever
+<--------------------->
+
+heard of them doing
+those.
+<--------------------->
+
+<p 02><d BE0B><a 02><n 04>
+Slither Inc. must have
+already heard about the
+Maverick attack.
+<--------------------->
+
+<p 02><d BF0B><a 02><n 04>
+If you stay
+transformed, they might
+think you're in
+<--------------------->
+
+league with the
+Mavericks and attack
+you on sight.
+<--------------------->
+
+<p 02><d C00B><a 02><n 04>
+I'm sure the people
+around town will also
+find it hard to
+<--------------------->
+
+approach you if you
+look like that.
+<--------------------->
+
+<p 02><d C10B><a 02><n 04>
+In any case, it's too
+dangerous to walk
+<--------------------->
+
+around town
+transformed. Be
+careful.
+<*********************>
+
+<p 02><d C20B><a 23><n 2E>
+You're going to
+undertake the trial for
+<--------------------->
+
+permission to enter HQ
+right?
+<*********************>
+
+<p 02><d C30B><a 23><n 2E>
+There are four
+Guardians like me
+hidden throughout town.
+<--------------------->
+
+<p 02><d C40B><a 23><n 2E>
+If you can find all of
+us, you pass the test.
+<*********************>
+
+<p 02><d C50B><a 23><n 2E>
+Let the trial begin!
+Good luck!
+<*********************>
+
+<p 02><d C60B><a 24><n 28>
+Hoho! I shoulda known
+I'd get spotted in this
+hiding place.
+<--------------------->
+
+<p 02><d C70B><a 24><n 28>
+You aren't gonna catch
+my comrades so easily
+though.
+<--------------------->
+
+They're in places that
+require more than just
+strolling on in.
+<--------------------->
+
+<p 02><d C80B><a 24><n 28>
+Press the +Control Pad
+diagonally down to
+crouch while walking.
+<--------------------->
+
+<p 02><d C90B><a 24><n 28>
+Look around different
+places, you never know
+what you might find.
+<--------------------->
+
+<p 02><d CA0B><a 24><n 28>
+I'm heading back to HQ.
+Good luck with the rest
+of the trial!
+<*********************>
+
+<p 02><d CB0B><a 25><n 19>
+Oh, looks like you
+found me!
+<--------------------->
+
+<p 02><d CC0B><a 25><n 19>
+You should be careful
+of the security
+patrols.
+<--------------------->
+
+<p 02><d CD0B><a 25><n 19>
+As long as they're
+giving you the green
+light,
+<--------------------->
+
+you're safe from
+attack.
+<--------------------->
+
+<p 02><d CE0B><a 25><n 19>
+But if you're caught
+with a weapon they will
+open fire,
+<--------------------->
+
+no questions asked!
+<--------------------->
+
+<p 02><d CF0B><a 25><n 19>
+Anyway, I'm heading
+back to HQ. Good luck
+with the trial!
+<*********************>
+
+<p 02><d D00B><a 2B><n 1F>
+Yikes!
+<--------------------->
+
+<p 02><d D10B><a 2B><n 1F>
+Oh! You finally found
+me.
+<--------------------->
+
+<p 02><d D20B><a 2B><n 1F>
+I was afraid of running
+into the security force
+and getting hurt.
+<--------------------->
+
+<d D30B><a 2B><n 1F>
+That's why I've been
+hiding here.
+<--------------------->
+
+<d D40B><a 2B><n 1F>
+*phew* I thought they
+would find me for sure.
+<--------------------->
+
+Now I can finally head
+back to HQ.
+<*********************>
+
+<p 02><d D50B><a 2C><n 20>
+Grahaha! Well done
+findin' me little miss!
+<--------------------->
+
+<p 02><d D60B><a 2C><n 20>
+I wish we had more of
+your kind in the
+Guardians.
+<--------------------->
+
+<p 02><d D70B><a 2C><n 20>
+But whether you decide
+to join us or not is up
+to you.
+<--------------------->
+
+<p 02><d D80B><a 2C><n 20>
+I'll be headin' back.
+See ya later!
+<*********************>
+
+<p 02><d D90B><a 02><n 04>
+It looks like you found
+them all.
+<--------------------->
+
+<p 02><d DA0B><a 02><n 04>
+Head to Area C-2 and
+get the certification
+for passing the test.
+<--------------------->
+
+<p 02><d DB0B><a 02><n 04>
+That will conclude your
+trial.
+<*********************>
+
+<p 02><d DC0B><a 23><n 2E>
+You passed the test.
+Here, take this.
+<*********************>
+
+<p 03><d DD0B><a 05><n 02>
+A stuffed animal?
+*giggle*
+<--------------------->
+
+It's really cute, but
+is this supposed to be
+my certification!?
+<--------------------->
+
+<p 02><d DE0B><a 23><n 2E>
+You better take care of
+that.
+<--------------------->
+
+It's one of Prairie's
+most prized
+possessions.
+<--------------------->
+
+<p 02><d DF0B><a 23><n 2E>
+Anyway, that concludes
+your trial.
+<--------------------->
+
+<p 02><d E00B><a 23><n 2E>
+There's a transerver in
+the room behind me.
+<*********************>
+
+<p 02><d E10B><a 23><n 2E>
+Don't forget to file a
+mission report!
+<*********************>
+
+<FIM>

@@ -1,0 +1,819 @@
+<script_info tipo='Missão 1' personagem='Vent' tamanho='7157' inicio_ponteiros='4' fim_ponteiros='91' inicio_textos='92'  />
+<#####################>
+
+<p 02><d E903><a 0D><n 03>
+Alô! Obrigado por ligar
+para a melhor transpor-
+tadora da região!
+<--------------------->
+
+<p 02><d EA03><a 0D><n 03>
+A Girouette Expresso
+transporta seu produto
+para qualquer lugar!
+<--------------------->
+
+<p 02><d EB03><a 02><n 00>
+Giro? É você?
+<--------------------->
+
+<p 02><d EC03><a 0D><n 03>
+Ah, olá Guardiões...
+ou melhor dizendo,
+cliente.
+<--------------------->
+
+<p 02><d ED03><a 02><n 00>
+Você recebeu a
+encomenda da unidade
+<--------------------->
+
+de reconhecimento
+arqueológico?
+<--------------------->
+
+<p 02><d EE03><a 0D><n 03>
+Sim, recebi.
+<--------------------->
+
+<p 02><d EF03><a 02><n 00>
+Minha unidade está indo
+em direção ao ponto de
+encontro.
+<--------------------->
+
+<p 02><d F003><a 02><n 00>
+É um pouco mais cedo
+que o esperado, mas
+vamos nos encontrar lá.
+<--------------------->
+
+<p 02><d F103><a 0D><n 03>
+Entendido.
+<*********************>
+
+<p 02><d F203><a 0D><n 03>
+Ei, Vent! Vamos partir,
+já está pronto?
+<*********************>
+
+<p 02><d F303><a 0D><n 03>
+Está me ouvindo, Vent!?
+<--------------------->
+
+<p 03><d F403><a 05><n 01>
+...
+<*********************>
+
+<p 01><p 02><d F503><a 0D><n 03>
+O edifício da Serpent
+Ltda é tão grande que
+dá pra ver daqui.
+<--------------------->
+
+<p 01><p 02><d F603><a 0D><n 03>
+Este país certamente
+cresceu e prosperou,
+graças a eles.
+<--------------------->
+
+<p 01><p 03><d F703><a 07><n 01>
+Cresceu, mas não quer
+dizer que melhorou.
+<--------------------->
+
+<p 01><p 03><d F803><a 07><n 01>
+Há dez anos, se a força
+de segurança tivesse
+chegado mais cedo...
+<--------------------->
+
+<p 01><p 03><d F903><a 07><n 01>
+Minha mãe poderia ainda
+estar viva.
+<--------------------->
+
+<p 01><p 02><d FA03><a 0D><n 03>
+Sinto muito por você
+ter perdido sua mãe nos
+ataques dos Mavericks.
+<--------------------->
+
+<p 01><p 02><d FB03><a 0D><n 03>
+Entendo como se sente,
+mas não se deixe levar
+<--------------------->
+
+pelos seus sentimentos
+do passado.
+<--------------------->
+
+<p 01><p 02><d FC03><a 0D><n 03>
+Estávamos vivenciando
+uma crise de energia, e
+sofríamos na pele
+<--------------------->
+
+as consequências dos
+Mavericks atacando
+civis incessantemente.
+<--------------------->
+
+<p 01><p 02><d FD03><a 0D><n 03>
+Mas aí surgiu a Serpent
+Ltda, e resolveu todos
+esses problemas.
+<*********************>
+
+<p 02><d FE03><a 0D><n 03>
+Até onde as pessoas
+sabem, Serpent, o
+presidente da empresa,
+<--------------------->
+
+é tido como um herói
+para todos.
+<--------------------->
+
+<p 02><d FF03><a 0D><n 03>
+De todo modo, melhor
+irmos andando.
+<--------------------->
+
+Nosso cliente já está
+a caminho do ponto
+de encontro.
+<*********************>
+
+<p 03><d 0004><a 05><n 01>
+Ei chefe, quem são
+esses tais "Guardiões",
+<--------------------->
+
+que ofereceram esse
+trabalho que aceitamos?
+<--------------------->
+
+<p 03><d 0104><a 05><n 01>
+Eles nem nos contaram
+o que há dentro dessa
+encomenda.
+<--------------------->
+
+E ainda dizem que
+querem a encomenda
+entregue pontualmente.
+<*********************>
+
+<p 02><d 0204><a 0D><n 03>
+Os Guardiões são uma
+força defensiva de
+manutenção da paz,
+<--------------------->
+
+criada com o intuito de
+combater Mavericks.
+<--------------------->
+
+<p 02><d 0304><a 0D><n 03>
+Agora mesmo, estão se
+movendo de um lugar a
+outro,
+<--------------------->
+
+investigando a causa
+dos surtos dos
+Mavericks.
+<--------------------->
+
+<p 02><d 0404><a 0D><n 03>
+Quanto à encomenda,
+tente não fazer muitas
+perguntas.
+<--------------------->
+
+Tenho certeza que é
+algo muito importante,
+e muito perigoso.
+<--------------------->
+
+<p 02><d 0504><a 0D><n 03>
+É melhor que a gente
+não saiba.
+<*********************>
+
+<p 03><d 0604><a 07><n 01>
+O-O que está havendo!?
+<--------------------->
+
+<p 02><d 0704><a 0F><n 03>
+São Mavericks!
+Como vieram parar
+aqui?!
+<*********************>
+
+<p 02><d 0804><a 0F><n 03>
+Ah!
+<--------------------->
+
+<p 02><d 0904><a 0F><n 03>
+Devem estar atrás da
+encomenda!
+<*********************>
+
+<p 03><d 0A04><a 07><n 01>
+Aaaah!
+<--------------------->
+
+<p 02><d 0B04><a 0F><n 03>
+Vent!
+<*********************>
+
+<p 02><d 0C04><a 08><n 01>
+Ai...
+<*********************>
+
+<p 02><d 0D04><a 08><n 01>
+Urgh... Essa queda foi
+intensa.
+<*********************>
+
+<p 02><d 0E04><a 04><n 03>
+Vent! Tudo bem com
+você!?
+<--------------------->
+
+<p 02><d 0F04><a 04><n 03>
+A encomenda! Você a
+encontrou?! Deve ter
+caído perto de você.
+<*********************>
+
+<p 02><d 1004><a 05><n 01>
+Deve ser aquilo...
+<*********************>
+
+<p 02><d 1104><a 04><n 03>
+Ouça! Pegue a
+encomenda.
+<--------------------->
+
+<p 02><d 1204><a 04><n 03>
+Então leve-a ao ponto
+de encontro,
+<--------------------->
+
+e entregue-a aos
+Guardiões!
+<--------------------->
+
+<p 02><d 1304><a 04><n 03>
+Nos reencontraremos
+assim que eu cuidar das
+coisas aqui em cima!
+<--------------------->
+
+Proteja esta encomenda,
+custe o que custar!
+<*********************>
+
+<p 03><d 1404><a 23><n 2B>
+Quem é você!? O que
+está fazendo aqui!?
+<--------------------->
+
+<p 02><d 1504><a 07><n 01>
+E-Esperem! Estou aqui
+para entregar uma
+encomenda.
+<*********************>
+
+<p 03><d 1604><a 0B><n 04>
+Abaixem suas armas.
+<*********************>
+
+<p 03><d 1704><a 09><n 04>
+Você é da transpor-
+tadora?
+<*********************>
+
+<p 02><d 1804><a 05><n 01>
+Sim, sou... São vocês
+os Guardiões?
+<--------------------->
+
+<p 03><d 1904><a 09><n 04>
+Sim. Ouvimos uma
+explosão e viemos
+investigar.
+<*********************>
+
+<p 03><d 1A04><a 23><n 2C>
+O-O que é aquilo!?
+<*********************>
+
+<p 02><d 1B04><a 07><n 01>
+Deve ser o líder deste
+grupo de Mavericks.
+<*********************>
+
+<p 03><d 1C04><a 23><n 2B>
+Prairie! É muito
+perigoso!
+<--------------------->
+
+<p 03><d 1D04><a 23><n 2B>
+Pegue o Biometal e fuja
+deste lugar!
+<*********************>
+
+<p 03><d 1E04><a 23><n 2C>
+Aaargh!
+<*********************>
+
+<p 03><d 1F04><a 0C><n 04>
+Nãããão!
+<--------------------->
+
+<p 03><d 2004><a 23><n 2C>
+P-Pegue-o... e... vá!
+<*********************>
+
+<p 02><d 2104><a 07><n 01>
+Ei! Por favor, levante!
+Precisamos ir andando!
+<--------------------->
+
+<p 02><d 2204><a 07><n 01>
+Eles estão atrás da
+encomenda! Deixa isso
+pra trás!
+<--------------------->
+
+Se a gente for levar
+a encomenda, vão nos
+caçar até a morte!
+<*********************>
+
+<p 03><d 2304><a 0B><n 04>
+Mas não posso deixar o
+Biometal cair em mãos
+erradas!
+<--------------------->
+
+<p 02><d 2404><a 07><n 01>
+Seja lá o que tiver
+dentro, não deve valer
+a pena
+<--------------------->
+
+jogar sua vida fora
+pela encomenda!
+<--------------------->
+
+<p 03><d 2504><a 0C><n 04>
+Mas... A irmã...
+<--------------------->
+
+<p 03><d 2604><a 0B><n 04>
+Ela deixou isto para
+nós. É valioso demais
+para desistirmos agora!
+<*********************>
+
+<p 02><d 2704><a 07><n 01>
+Só pode estar de
+brincadeira!
+<--------------------->
+
+<p 02><d 2804><a 07><n 01>
+E agora? Não consigo
+fazer isso sozinho!
+<*********************>
+
+<p 03><d 2904><a 31><n 05>
+Mas juntos, podemos.
+<--------------------->
+
+<p 03><d 2A04>
+Emprestarei a você
+minha força.
+<*********************>
+
+<p 01><p 02><d 2B04><a 07><n 01>
+Arf... Arf...
+O poder do Biometal
+é incrível!
+<--------------------->
+
+<p 01><p 02><d 2C04><a 31><n 05>
+Não tenha medo. Sou o
+Biometal Modelo X.
+<--------------------->
+
+<p 01><p 02><d 2D04><a 07><n 01>
+Modelo... X? Eu posso
+ouvir você na minha
+mente. Como é possível?
+<--------------------->
+
+<p 01><p 02><d 2E04><a 31><n 05>
+Temos que nos afastar
+dessa região, senão
+aquela garota
+<--------------------->
+
+será atingida pelo
+fogo cruzado.
+<--------------------->
+
+<p 01><p 02><d 2F04><a 31><n 05>
+Com nossas forças
+combinadas, podemos
+derrotá-los!
+<--------------------->
+
+<p 01><p 02><d 3004><a 07><n 01>
+...
+<*********************>
+
+<p 02><d 3104><a 0B><n 04>
+Ele se transformou?!
+Será que ele é um dos
+escolhidos?
+<*********************>
+
+<p 03><d 3204><a 07><n 01>
+Ei, você!
+<--------------------->
+
+<p 03><d 3304><a 05><n 01>
+É pra eu levar o
+Biometal até o ponto
+de encontro, né?
+<--------------------->
+
+<p 03><d 3404><a 05><n 01>
+Fique esperando aqui!
+<*********************>
+
+<p 02><d 3504><a 09><n 04>
+E-Espere!
+<*********************>
+
+<p 02><d 3604><a 09><n 04>
+Eu tenho um nome!
+<--------------------->
+
+<p 02><d 3704><a 09><n 04>
+Prairie. Meu nome é
+Prairie.
+<--------------------->
+
+<p 03><d 3804><a 06><n 01>
+Desculpe. Meu nome é
+Vent, e sou o seu
+transportador!
+<--------------------->
+
+<p 03><d 3904><a 05><n 01>
+Fique aqui. Vou
+conseguir ajuda!
+<--------------------->
+
+<p 02><d 3A04><a 09><n 04>
+Certo... Tenha cuidado,
+Vent!
+<*********************>
+
+<p 02><a 09><n 04>
+Tenha cuidado, Vent!
+<*********************>
+
+<p 02><d 3B04><a 05><n 01>
+Modelo X... É assim que
+se chama, né? Por que
+você me ajudou?
+<--------------------->
+
+<p 02><d 3C04><a 31><n 05>
+Preciso de uma razão
+para ajudar pessoas?
+<--------------------->
+
+<p 02><d 3D04><a 31><n 05>
+Eu senti a sua
+determinação em ajudar
+aquela garota,
+<--------------------->
+
+mesmo apesar de nunca
+tê-la conhecido antes.
+<--------------------->
+
+<p 02><d 3E04><a 31><n 05>
+Eu apenas lhe emprestei
+meu poder. Você é um
+rapaz bem corajoso.
+<--------------------->
+
+<p 02><d 3F04><a 08><n 01>
+Eu? Corajoso?
+Não mesmo.
+<--------------------->
+
+<p 02><d 4004><a 08><n 01>
+Mas sei que, se eu não
+fizesse algo, acabaria
+me arrependendo depois.
+<--------------------->
+
+<p 02><d 4104><a 31><n 05>
+...
+<--------------------->
+
+<p 02><d 4204><a 05><n 01>
+O ponto de encontro é
+logo à frente.
+<*********************>
+
+<p 02><d 4304><a 05><n 01>
+Sou da transportadora.
+Estou com sua
+encomenda.
+<--------------------->
+
+<p 02><d 4404><a 05><n 01>
+Alguns de seus
+companheiros precisam
+de ajuda.
+<*********************>
+
+<p 03><d 4504><a 23><n 2D>
+Não pode ser! Vamos,
+homens! Prairie e os
+outros precisam de nós!
+<*********************>
+
+<p 02><d 4604><a 05><n 01>
+Todo mundo parece estar
+preocupado até demais
+com a tal da Prairie...
+<--------------------->
+
+<p 03><d 4704><a 22><n 18>
+Incrível!
+Você conseguiu
+conectar-se
+<--------------------->
+
+com o Biometal, e agora
+detém seus poderes.
+<--------------------->
+
+<p 03><d 4804><a 22><n 18>
+De todo modo, que bom
+que conseguiu chegar
+aqui são e salvo.
+<--------------------->
+
+<p 02><d 4904><a 05><n 01>
+Espere. Tinha um cara
+viajando comigo.
+<--------------------->
+
+Você chegou a ver ele
+no caminho?
+<--------------------->
+
+<p 03><d 4A04><a 22><n 18>
+Não. Só vi você aqui,
+até o momento.
+<*********************>
+
+<p 02><d 4B04><a 02><n 2D>
+Aqui é o esquadrão de
+resgate! Encontramos
+os outros!
+<--------------------->
+
+<p 02><d 4C04><a 02><n 2D>
+Trataremos os feridos
+e iremos ao Quartel
+General em seguida.
+<--------------------->
+
+<p 03><d 4D04><a 22><n 18>
+Esperem. Vocês chegaram
+a avistar outro
+transportador
+<--------------------->
+
+no trajeto até onde
+estavam os outros
+membros?
+<--------------------->
+
+<p 03><d 4E04><a 22><n 18>
+Aparentemente, um
+transportador desapa-
+receu na região.
+<--------------------->
+
+<p 02><d 4F04><a 02><n 2D>
+Ei! Há vários focos de
+fumaça surgindo na
+área à frente.
+<--------------------->
+
+<p 02><d 5004><a 02><n 2D>
+Tudo indica que alguém
+está sendo atacado!
+<--------------------->
+
+<p 02><d 5104><a 07><n 01>
+Não... Chefe!
+<*********************>
+
+<p 02><d 5204><a 07><n 01>
+Vou precisar deste
+Biometal por mais
+um tempo.
+<--------------------->
+
+Eu tenho que salvá-lo!
+<--------------------->
+
+<p 03><d 5304><a 22><n 18>
+O quê!?
+<--------------------->
+
+<p 03><d 5404><a 22><n 18>
+Vai pôr o Biometal em
+risco de novo?!
+<--------------------->
+
+<p 02><d 5504><a 07><n 01>
+Meu chefe está em
+perigo! Não tenho tempo
+para ficar discutindo!
+<--------------------->
+
+<p 03><d 5604><a 22><n 18>
+M-Mas!
+<--------------------->
+
+<p 02><d 5704><a 02><n 04>
+Espere! Fleuve!
+Deixe-o ir!
+<--------------------->
+
+<p 03><d 5804><a 22><n 18>
+Prairie!?
+<--------------------->
+
+<p 02><d 5904><a 02><n 04>
+Por favor, Fleuve.
+Ele é capaz de lutar
+contra os Mavericks.
+<--------------------->
+
+<p 02><d 5A04><a 02><n 04>
+Vent...
+<--------------------->
+
+<p 02><d 5B04><a 02><n 04>
+Você arriscou sua vida
+para me salvar, mesmo
+sem saber quem eu sou.
+<--------------------->
+
+<p 02><d 5C04><a 02><n 04>
+Eu tenho fé em você.
+<--------------------->
+
+<p 02><d 5D04><a 02><n 04>
+Resolverei as coisas
+aqui no QG dos
+Guardiões.
+<--------------------->
+
+<p 02><d 5E04><a 02><n 04>
+Vá ajudar seu amigo.
+<--------------------->
+
+<p 02><d 5F04><a 05><n 01>
+Obrigado, Prairie.
+<--------------------->
+
+<p 03><d 6004><a 22><n 18>
+Certo, forneceremos
+apoio, então.
+<--------------------->
+
+<p 03><d 6104><a 22><n 18>
+Talvez já saiba, mas
+esses são os chamados
+"Transervidores",
+<--------------------->
+
+dispositivos de dados
+espalhados por todo
+o país.
+<--------------------->
+
+<p 03><d 6204><a 22><n 18>
+Com esses dispositivos,
+você poderá salvar
+seu jogo,
+<--------------------->
+
+e verificar as missões
+pendentes para cumprir.
+<--------------------->
+
+<p 03><d 6304><a 22><n 18>
+Vamos começar salvando
+o jogo.
+<*********************>
+
+<p 03><e 01><a 22><n 18>
+Salvar o jogo?
+  Sim
+  Não
+<*********************>
+
+<p 03><d 6404><a 22><n 18>
+O jogo foi salvo
+com sucesso.
+<*********************>
+
+<p 03><d 6704><a 22><n 18>
+Não vai querer salvar
+o seu jogo?
+<--------------------->
+
+Espero que saiba
+o que está fazendo.
+<*********************>
+
+<p 03><d 6504><a 22><n 18>
+Acabei de receber
+ordens do QG.
+<--------------------->
+
+<p 03><d 6904><a 22><n 18>
+Você atualmente possui
+duas missões pendentes.
+<--------------------->
+
+<p 03><d 6A04><a 22><n 18>
+A primeira é para
+encontrar seu colega
+transportador.
+<--------------------->
+
+<p 03><d 6B04><a 22><n 18>
+A segunda é completar
+um teste para conseguir
+permissão
+<--------------------->
+
+para entrar no QG dos
+Guardiões.
+<--------------------->
+
+<p 03><d 6C04><a 22><n 18>
+Complete as duas
+missões e devolva
+o Biometal ao QG.
+<--------------------->
+
+<p 03><d 6D04><a 22><n 18>
+No QG, assinaremos a
+solicitação de recebi-
+mento da encomenda,
+<--------------------->
+
+e seu trabalho estará
+terminado.
+<--------------------->
+
+<p 03><d 6E04><a 22><n 18>
+No Transervidor, poderá
+decidir qual missão
+iniciar primeiro.
+<--------------------->
+
+<p 02><d 6F04><a 05><n 01>
+Entendo. Basta eu
+completar essas duas
+missões então.
+<--------------------->
+
+<p 02><d 7004><a 07><n 01>
+Aguente firme, Chefe!
+Estou chegando!
+<*********************>
+
+<FIM>

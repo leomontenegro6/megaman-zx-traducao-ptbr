@@ -1,0 +1,173 @@
+<script_info tipo='Quest 5' personagem='Vent' tamanho='1540' inicio_ponteiros='4' fim_ponteiros='31' inicio_textos='32' />
+<#####################>
+
+<p 02><a 3E><n 39>
+Hey again! Can you help
+a kid out?
+<--------------------->
+
+<p 02><a 3E><n 39>
+My little brother has
+another quiz ready and
+needs a challenger.
+<*********************>
+
+<p 02><a 3E><n 39>
+This time won't be as
+easy as the last time.
+<*********************>
+
+<p 02><a 02><n 55>
+Answer the quiz for
+Yu's little brother.
+<*********************>
+
+<e 01><a 02><n 55>
+  Yes
+  No
+<*********************>
+
+<p 02><a 3E><n 39>
+His quizzes can be
+ridiculously hard...
+<--------------------->
+
+<p 02><a 3E><n 39>
+But I'm sure it'll be a
+piece of cake for you.
+<*********************>
+
+<p 02><a 3F><n 3A>
+Hi again!
+<--------------------->
+
+<p 02><a 3F><n 3A>
+Are you up to the next
+Lou challenge? Let's
+get it started!
+<--------------------->
+
+<p 02><a 3F><n 3A>
+There's a giant tree
+growing in Area A-3.
+What type is it?
+<--------------------->
+
+<m><a 3F><n 3A>
+  Peach
+  Apple
+  Oak
+<*********************>
+
+<p 02><a 3F><n 3A>
+Oh, too bad! I have to
+admit, this one was
+tough.
+<--------------------->
+
+<p 02><a 3F><n 3A>
+Thanks for trying
+though.
+<--------------------->
+
+<p 02><a 3F><n 3A>
+I'll give you something
+as a consolation prize.
+<--------------------->
+
+Check the transerver
+when you get the
+chance.
+<--------------------->
+
+<p 02><a 3F><n 3A>
+Old Jack wanted it,
+but I'll give it to you
+instead.
+<*********************>
+
+<p 02><a 3F><n 3A>
+Well done! Is there 
+anything you don't
+know?
+<--------------------->
+
+<p 02><a 3F><n 3A>
+Thanks for stepping
+up to the challenge.
+<--------------------->
+
+<p 02><a 3F><n 3A>
+Oh yeah! I'll give you
+something as a reward.
+<--------------------->
+
+Check the transerver
+next time you have a
+chance.
+<--------------------->
+
+<p 02><a 3F><n 3A>
+Don't let old Jack
+know or he'll want it.
+<*********************>
+
+<p 02><a 3E><n 39>
+Well, was this quiz
+tougher than last time?
+<--------------------->
+
+<p 02><a 3E><n 39>
+I was able to answer
+within just 5 seconds!
+<*********************>
+
+<p 02><a 3F><n 3A>
+I wonder what the
+present might be?
+<--------------------->
+
+You'll just have to
+wait and see!
+<--------------------->
+
+I'm sure you'll like
+it.
+<*********************>
+
+<p 02><a 02><n 55>
+Quest completed.
+<--------------------->
+
+<p 02><a 02><n 55>
+50 EC and an item have
+been transferred to
+your account.
+<*********************>
+
+<p 02><a 02><n 55>
+Quest completed.
+<--------------------->
+
+<p 02><a 02><n 55>
+A pink crystal has
+been transferred as a
+reward.
+<*********************>
+
+<p 02><a 3E><n 39>
+Thanks for the help. My
+brother is on cloud
+<--------------------->
+
+nine after you answered
+his quiz.
+<*********************>
+
+<p 02><a 3F><n 3A>
+Did you see the present
+I gave you? Beautiful
+isn't it?
+<*********************>
+
+<FIM>

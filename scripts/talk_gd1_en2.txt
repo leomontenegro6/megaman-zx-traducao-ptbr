@@ -1,0 +1,2396 @@
+<script_info tipo='NPCs Guardiões' personagem='Aile' tamanho='22423' inicio_ponteiros='4' fim_ponteiros='275' inicio_textos='276' />
+<#####################>
+
+<p 01><p 02><a 26><n 1A>
+Are you the
+transporter, <nome>?
+<--------------------->
+
+<p 01><p 02><a 26><n 1A>
+My name's Hareng.
+<--------------------->
+
+<p 01><p 02><a 26><n 1A>
+It's too early to tell
+you my real name.
+<--------------------->
+
+Consider Hareng more
+of a codename.
+<*********************>
+
+<p 01><p 02><a 26><n 1A>
+I've heard rumors...
+<--------------------->
+
+<p 01><p 02><a 26><n 1A>
+About a tough little
+girl using the Biometal
+to fight.
+<--------------------->
+
+<p 01><p 02><a 26><n 1A>
+It's all well and good
+to be tough, but
+sometimes you have to
+<--------------------->
+
+take a step back to see
+things clearly.
+<*********************>
+
+<p 01><p 02><a 26><n 1A>
+<nome>, you're alive!
+<--------------------->
+
+<p 01><p 02><a 26><n 1A>
+The power of the
+Biometal is simply
+amazing.
+<*********************>
+
+<p 01><p 02><a 26><n 1A>
+I'm glad you're safe.
+<--------------------->
+
+<p 01><p 02><a 26><n 1A>
+That daredevil attitude
+is a good quality to
+have,
+<--------------------->
+
+but don't get in over
+your head!
+<--------------------->
+
+<p 01><p 02><a 26><n 1A>
+You need to remember
+that Giro sacrificed
+his life for you.
+<--------------------->
+
+So don't be throwing
+yours away so easily.
+<*********************>
+
+<p 01><p 02><a 26><n 1A>
+I would never have
+imagined they would
+<--------------------->
+
+launch an assault
+directly on HQ.
+<--------------------->
+
+<p 01><p 02><a 26><n 1A>
+I guess we're not safe
+even way up in the sky.
+<*********************>
+
+<p 01><p 02><a 26><n 1A>
+If only I could have
+been a chosen one...
+<--------------------->
+
+<p 01><p 02><a 26><n 1A>
+I would have given the
+enemy a run for their
+money.
+<--------------------->
+
+<p 01><p 02><a 26><n 1A>
+I wonder how chosen
+ones get chosen in the
+first place.
+<*********************>
+
+<p 01><p 02><a 26><n 1A>
+Things aren't looking
+good <nome>.
+<--------------------->
+
+<p 01><p 02><a 26><n 1A>
+We now know the danger
+behind Model W.
+<--------------------->
+
+<p 01><p 02><a 26><n 1A>
+Whatever we do, we must
+stop their plans from
+being carried out!
+<*********************>
+
+<p 01><p 02><a 26><n 1A>
+When we first met, I
+had no idea you could
+fight the way you do.
+<--------------------->
+
+<p 01><p 02><a 26><n 1A>
+I figured you were a
+goner...
+<--------------------->
+
+<p 01><p 02><a 26><n 1A>
+Now I know better.
+<--------------------->
+
+<p 01><p 02><a 26><n 1A>
+Stop Serpent's blind
+ambition before it's
+too late!
+<*********************>
+
+<p 02><a 30><n 24>
+Your name is <nome>,
+right?
+<--------------------->
+
+<p 02><a 30><n 24>
+I respect any woman as
+brave as you!
+<--------------------->
+
+<p 02><a 30><n 24>
+I sure could use some
+of your energy!
+<--------------------->
+
+<p 02><a 30><n 24>
+Oh, I'm sorry, I just
+keep droning on.
+<--------------------->
+
+<p 02><a 30><n 24>
+I'm a mechanic.
+The name's Anguille!
+<--------------------->
+
+<p 02><a 30><n 24>
+I may not look like
+much, but I've got some
+skill with machines.
+<--------------------->
+
+<p 02><a 30><n 24>
+I work for Silure and
+I help him out all
+the time.
+<*********************>
+
+<p 02><a 30><n 24>
+I may need to ask you
+for help someday <nome>.
+<--------------------->
+
+<p 02><a 30><n 24>
+Thanks in advance for
+any help you can
+provide!
+<*********************>
+
+<p 02><a 30><n 24>
+You're alive <nome>!
+<--------------------->
+
+<p 02><a 30><n 24>
+I'm so happy! I never
+thought I would see you
+again!
+<--------------------->
+
+<p 02><a 30><n 24>
+I can't imagine what we
+would do if anything
+happened to you...
+<--------------------->
+
+<p 02><a 30><n 24>
+I know you want to
+avenge your mother,
+<--------------------->
+
+but that doesn't mean
+you should take
+unnecessary risks.
+<*********************>
+
+<p 02><a 30><n 24>
+<nome>, you must live on
+and continue where Giro
+left off...
+<--------------------->
+
+<p 02><a 30><n 24>
+I know how you must
+feel, but try to be
+strong...
+<--------------------->
+
+I know he's watching
+over you.
+<*********************>
+
+<p 02><a 30><n 24>
+Are you okay <nome>?
+<--------------------->
+
+<p 02><a 30><n 24>
+I'm surprised they
+decided to directly
+assault Guardian HQ.
+<--------------------->
+
+<p 02><a 30><n 24>
+We're lucky you came
+back when you did.
+<--------------------->
+
+<p 02><a 30><n 24>
+I don't even want to
+think about what would
+<--------------------->
+
+have happened to us
+otherwise...
+<*********************>
+
+<p 02><a 30><n 24>
+In the beginning,
+everyone was saved by
+Serpent...
+<--------------------->
+
+<p 02><a 30><n 24>
+Now in the end, they
+are all to be
+sacrificed.
+<--------------------->
+
+<p 02><a 30><n 24>
+It's like we're nothing
+more than playthings to
+him.
+<--------------------->
+
+<p 02><a 30><n 24>
+He's nothing more than
+a bully preying on the
+innocent!
+<*********************>
+
+<p 02><a 30><n 24>
+Don't let Slither Inc.
+dig up the Model W
+Core!
+<--------------------->
+
+<p 02><a 30><n 24>
+The world will never
+survive if they get
+their hands on it.
+<*********************>
+
+<p 02><a 30><n 24>
+You're the only one
+that can put a stop to
+Serpent <nome>!
+<*********************>
+
+<p 02><a 25><n 19>
+Thanks for before.
+<--------------------->
+
+<p 02><a 25><n 19>
+I knew you would pass
+the test.
+<--------------------->
+
+<p 02><a 25><n 19>
+My name is Carrelet.
+Yours was <nome>,
+wasn't it?
+<--------------------->
+
+<p 02><a 25><n 19>
+If there's anything I
+can do to help, just
+ask!
+<*********************>
+
+<p 02><a 25><n 19>
+I wonder if Anguille is
+ever going to finish my
+chip...
+<--------------------->
+
+<p 02><a 25><n 19>
+I gave him everything
+he needed to work on it
+half a year ago.
+<--------------------->
+
+<p 02><a 25><n 19>
+He doesn't seem to care
+very much about being
+timely with things...
+<*********************>
+
+<p 02><a 25><n 19>
+You're alive!
+<--------------------->
+
+<p 02><a 25><n 19>
+I know the Biometal
+helped, but you did the
+rest.
+<--------------------->
+
+<p 02><a 25><n 19>
+Humans are capable of
+things that can't be
+explained by science.
+<--------------------->
+
+<p 02><a 25><n 19>
+They're incredible.
+<*********************>
+
+<p 02><a 25><n 19>
+Oh yeah.
+<--------------------->
+
+<p 02><a 25><n 19>
+You can take on
+missions and quests
+from any transerver.
+<--------------------->
+
+<p 02><a 25><n 19>
+It's probably more
+convenient to take on a
+request near the
+<--------------------->
+
+location of the
+mission.
+<*********************>
+
+<p 02><a 25><n 19>
+How are you doing?
+<--------------------->
+
+<p 02><a 25><n 19>
+You did great
+protecting this ship.
+<--------------------->
+
+<p 02><a 25><n 19>
+You passed the test,
+and then you saved us
+all.
+<--------------------->
+
+<p 02><a 25><n 19>
+But there will be more
+tests on the road
+ahead.
+<*********************>
+
+<p 02><a 25><n 19>
+It seems as if several
+Pseudoroids are
+<--------------------->
+
+standing guard in the
+Outlands.
+<--------------------->
+
+<p 02><a 25><n 19>
+You already know that
+the areas are divided
+into several blocks.
+<--------------------->
+
+<p 02><a 25><n 19>
+But you won't be able
+to tell if a Pseudoroid
+<--------------------->
+
+is in the block or not
+until you enter it.
+<--------------------->
+
+<p 02><a 25><n 19>
+Any Pseudoroids that
+have regenerated can be
+<--------------------->
+
+seen from the map
+though.
+<--------------------->
+
+<p 02><a 25><n 19>
+If the block is
+blinking red,
+<--------------------->
+
+then you know they have
+regenerated.
+<*********************>
+
+<p 02><a 25><n 19>
+You've come a long way.
+<*********************>
+
+<p 02><a 25><n 19>
+I never would have
+guessed you could make
+<--------------------->
+
+it this far fighting
+alone.
+<*********************>
+
+<p 02><a 25><n 19>
+I have something to
+tell you.
+<--------------------->
+
+<p 02><a 25><n 19>
+Anguille finally
+finished the chip I
+requested.
+<--------------------->
+
+<p 02><a 25><n 19>
+It's called an Eraser
+Chip, and it allows you
+<--------------------->
+
+to destroy enemy shots
+with your saber.
+<--------------------->
+
+<p 02><a 25><n 19>
+You could put it to
+better use than I ever
+could. Please take it.
+<*********************>
+
+<p 02><a 2B><n 1F>
+Yikes! You scared me!
+<--------------------->
+
+<p 02><a 2B><n 1F>
+Don't surprise me
+like that.
+<--------------------->
+
+<p 02><a 2B><n 1F>
+You should knock
+before entering a
+room.
+<--------------------->
+
+<p 02><a 2B><n 1F>
+Hey, aren't you the
+girl that was going
+through the test?
+<*********************>
+
+<p 02><a 2B><n 1F>
+Sorry, I never properly
+introduced myself. My
+name is Congre.
+<--------------------->
+
+<p 02><a 2B><n 1F>
+I really have no idea
+why I'm working here...
+<*********************>
+
+<p 02><a 2B><n 1F>
+Oh! It's you... You
+shouldn't sneak up on a
+guy like that...
+<*********************>
+
+<p 02><a 2B><n 1F>
+How are you holding up?
+<--------------------->
+
+<p 02><a 2B><n 1F>
+It was a million to one
+shot you could survive
+an attack like that.
+<--------------------->
+
+<p 02><a 2B><n 1F>
+I respect your
+courage...
+<--------------------->
+
+<p 02><a 2B><n 1F>
+But you should try to
+stay out of harm's way.
+<*********************>
+
+<p 02><a 2B><n 1F>
+*phew* I was so
+scared...
+<--------------------->
+
+<p 02><a 2B><n 1F>
+This is the first time
+the enemy has ever been
+<--------------------->
+
+bold enough to attack
+HQ.
+<--------------------->
+
+<p 02><a 2B><n 1F>
+We're so high up in the
+air, we never expected
+an attack.
+<*********************>
+
+<p 02><a 2B><n 1F>
+I'm holing up in my
+room for awhile.
+<--------------------->
+
+<p 02><a 2B><n 1F>
+I'm not sure if it's
+safe to go out yet or
+not.
+<--------------------->
+
+They might come back...
+<*********************>
+
+<p 02><a 2B><n 1F>
+I knew you had it in
+you,
+<--------------------->
+
+but I never imagined
+you were that good.
+<--------------------->
+
+<p 02><a 2B><n 1F>
+I wish I had even just
+1% of your courage...
+<*********************>
+
+<p 02><a 2B><n 1F>
+I know there's nothing
+I can do for you,
+<--------------------->
+
+but I'll still keep on
+rooting for you!
+<*********************>
+
+<p 02><a 28><n 1C>
+What's your name ma'am?
+<--------------------->
+
+<p 02><a 28><n 1C>
+Ooh, <nome>. That's a
+pretty name.
+<*********************>
+
+<p 02><a 28><n 1C>
+My name's Sardine.
+Prairie gave me that
+name.
+<--------------------->
+
+<p 02><a 28><n 1C>
+It's cool isn't it?
+<--------------------->
+
+<p 02><a 28><n 1C>
+I tried to name
+Prairie's stuffed
+animal for her.
+<--------------------->
+
+<p 02><a 28><n 1C>
+But she didn't like the
+name I came up with.
+<--------------------->
+
+<p 02><a 28><n 1C>
+It was a good name
+too... She's no fun.
+<*********************>
+
+<p 02><a 28><n 1C>
+Are you okay <nome>?
+<--------------------->
+
+<p 02><a 28><n 1C>
+I don't want you to get
+hurt! Please be
+careful.
+<--------------------->
+
+<p 02><a 28><n 1C>
+If you get hurt, we
+won't be able to play
+anymore...
+<--------------------->
+
+<p 02><a 28><n 1C>
+I can't lose another
+friend...
+<*********************>
+
+<p 02><a 28><n 1C>
+Will you be my friend
+forever and ever <nome>?
+<*********************>
+
+<p 02><a 28><n 1C>
+I've never seen the
+enemy attack us like
+that before.
+<--------------------->
+
+<p 02><a 28><n 1C>
+But I wasn't scared!
+<--------------------->
+
+<p 02><a 28><n 1C>
+I knew you would come
+and save us <nome>!
+<*********************>
+
+<p 02><a 28><n 1C>
+With you around, I can
+be brave too!
+<--------------------->
+
+<p 02><a 28><n 1C>
+I want to protect
+everyone when
+I grow up!
+<*********************>
+
+<p 02><a 28><n 1C>
+Get Serpent for me,
+okay <nome>?
+<--------------------->
+
+<p 02><a 28><n 1C>
+You're our only hope!
+<*********************>
+
+<p 02><a 28><n 1C>
+If peace is back,
+Silure might be able to
+make me another toy!
+<--------------------->
+
+<p 02><a 28><n 1C>
+This toy is called
+Little Moby.
+<--------------------->
+
+<p 02><a 28><n 1C>
+Silure's made me other
+toys, but...
+<--------------------->
+
+*whisper* They weren't
+that fun...
+<--------------------->
+
+<p 02><a 28><n 1C>
+One toy looked like an
+oven with legs...
+<--------------------->
+
+It was too weird to
+play with.
+<--------------------->
+
+<p 02><a 28><n 1C>
+Don't tell Old Silure
+though, he'll just get
+sad.
+<*********************>
+
+<p 02><a 2F><n 23>
+Why hello there. Aren't
+you <nome> from Giro
+Express?
+<--------------------->
+
+<p 02><a 2F><n 23>
+My name is Silure.
+Pleased to meet you.
+<--------------------->
+
+<p 02><a 2F><n 23>
+I can't believe the
+little girl in front of
+<--------------------->
+
+me is able to change
+into Model X!
+<--------------------->
+
+<p 02><a 2F><n 23>
+I don't know exactly
+how you were chosen...
+<--------------------->
+
+<p 02><a 2F><n 23>
+But I do know that
+sending such a young
+girl into danger shows
+<--------------------->
+
+how desperate these
+times are.
+<*********************>
+
+<p 02><a 2F><n 23>
+I love wiling away the
+hours fiddling with
+machines...
+<--------------------->
+
+<p 02><a 2F><n 23>
+But there's not much
+space for fixin',
+<--------------------->
+
+so I sometimes borrow
+Fleuve's lab.
+<--------------------->
+
+<p 02><a 2F><n 23>
+He seems to be working
+on something important
+in there.
+<*********************>
+
+<p 02><a 2F><n 23>
+Bless my soul, you're
+alive <nome>!
+<--------------------->
+
+<p 02><a 2F><n 23>
+I was so worried about
+you.
+<--------------------->
+
+<p 02><a 2F><n 23>
+By the way...
+<--------------------->
+
+<p 02><a 2F><n 23>
+I heard that Slither
+Inc. has begun work on
+<--------------------->
+
+using Biometal to
+design Reploids.
+<--------------------->
+
+<p 02><a 2F><n 23>
+Fleuve told me about
+them and was calling
+them Pseudoroids.
+<--------------------->
+
+<p 02><a 2F><n 23>
+I'm guessing that all
+of the incidents that
+keep popping up in the
+<--------------------->
+
+<p 02><a 2F><n 23>
+Outlands have something
+to do with the
+Pseudoroid experiments.
+<*********************>
+
+<p 02><a 2F><n 23>
+Pseudoroid Biometal is
+very fragile.
+<--------------------->
+
+<p 02><a 2F><n 23>
+That means that Slither
+Inc.'s technology for
+working with Biometal
+<--------------------->
+
+<p 02><a 2F><n 23>
+is still far from
+perfect.
+<--------------------->
+
+<p 02><a 2F><n 23>
+Some Slither Inc.
+Reploids and
+<--------------------->
+
+<p 02><a 2F><n 23>
+Mechaniloids have the
+ability to regenerate.
+<--------------------->
+
+<p 02><a 2F><n 23>
+That might be one power
+inherent in the Model W
+fragment.
+<--------------------->
+
+<p 02><a 2F><n 23>
+It sends a shiver down
+these old bones just
+thinking about it.
+<*********************>
+
+<p 02><a 2F><n 23>
+Ah, you're okay.
+<--------------------->
+
+<p 02><a 2F><n 23>
+I wasn't sure how much
+longer this old ship
+would last.
+<--------------------->
+
+<p 02><a 2F><n 23>
+I'm glad I finished
+reinforcing her
+yesterday...
+<--------------------->
+
+<p 02><a 2F><n 23>
+But she won't hold
+together through
+another battle.
+<*********************>
+
+<p 02><a 2F><n 23>
+The deck area has taken
+the worst of it.
+<--------------------->
+
+<p 02><a 2F><n 23>
+And I just don't have
+time to fix it.
+<--------------------->
+
+<p 02><a 2F><n 23>
+We'll just have to keep
+running her as-is and
+hope for the best.
+<*********************>
+
+<p 02><a 2F><n 23>
+We've come a long way.
+<--------------------->
+
+<p 02><a 2F><n 23>
+The final battle lies
+ahead <nome>.
+<*********************>
+
+<p 02><a 2F><n 23>
+This old man is in your
+corner!
+<*********************>
+
+<p 02><a 29><n 1D>
+Wow, I didn't know
+there was a cute girl
+like you around here.
+<--------------------->
+
+<p 02><a 29><n 1D>
+Ah, I know you! You're
+that girl with Giro
+Express...
+<--------------------->
+
+<p 02><a 29><n 1D>
+Earl? Or something like
+that...
+<--------------------->
+
+<p 02><a 29><n 1D>
+Wait... <nome>! How could
+I forget a lovely
+young lady's name?
+<--------------------->
+
+<p 02><a 29><n 1D>
+That's a travesty for
+one as suave as
+myself.
+<--------------------->
+
+<p 02><a 29><n 1D>
+Don't get too upset.
+Aile, Earl, close
+enough eh?
+<*********************>
+
+<p 02><a 29><n 1D>
+I was so stunned by
+your beauty that I
+forgot the intro.
+<--------------------->
+
+<p 02><a 29><n 1D>
+I'm the coolest guy in
+these parts. The name's
+Scombrésoce.
+<--------------------->
+
+<p 02><a 29><n 1D>
+I'm always here, so
+come by anytime.
+<--------------------->
+
+<p 02><a 29><n 1D>
+Everyone else is a dud
+anyway. Don't even
+bother talking to them.
+<--------------------->
+
+<p 02><a 29><n 1D>
+See ya around!
+<*********************>
+
+<p 02><a 29><n 1D>
+Hey, are you okay?
+<--------------------->
+
+<p 02><a 29><n 1D>
+Don't put your neck on
+the line just because
+you have the Biometal.
+<--------------------->
+
+<p 02><a 29><n 1D>
+If you get hurt, it's
+your body that gets
+hurt, not the Biometal.
+<--------------------->
+
+<p 02><a 29><n 1D>
+Better know your limits
+before you go and get
+yourself wasted.
+<*********************>
+
+<p 02><a 29><n 1D>
+Hey <nome>, I've got
+something to tell you.
+<--------------------->
+
+<p 02><a 29><n 1D>
+There's an area in the
+Outlands that gives off
+powerful signals.
+<--------------------->
+
+<p 02><a 29><n 1D>
+They mess with your
+senses so that left and
+right are backwards and
+<--------------------->
+
+sometimes you can't
+even fire your weapon.
+<--------------------->
+
+<p 02><a 29><n 1D>
+Not to worry though. If
+you have some smelling
+salts,
+<--------------------->
+
+you'll stay clear in
+the head.
+<--------------------->
+
+<p 02><a 29><n 1D>
+I'll sell you some for
+10 EC.
+<*********************>
+
+<p 02><a 29><n 1D>
+Who'd have thought
+they'd have the nerve
+to attack HQ?
+<--------------------->
+
+<p 02><a 29><n 1D>
+I was all set to show
+them my mad fighting
+skills too.
+<--------------------->
+
+<p 02><a 29><n 1D>
+But I was locked in.
+Too bad eh?
+<*********************>
+
+<p 02><a 29><n 1D>
+I wouldn't let them
+harm a hair on your
+head.
+<--------------------->
+
+<p 02><a 29><n 1D>
+So stick with me <nome>!
+<*********************>
+
+<p 02><a 29><n 1D>
+You're more than just a
+cute girl.
+<--------------------->
+
+<p 02><a 29><n 1D>
+You've really got some
+fight! I'd hate to
+make you mad.
+<--------------------->
+
+<p 02><a 29><n 1D>
+I value my life too
+much to do something
+that dangerous.
+<*********************>
+
+<p 02><a 29><n 1D>
+It looks like the rest
+is up to you <nome>!
+<--------------------->
+
+<p 02><a 29><n 1D>
+We won't be able to do
+anything for you in
+the coming battle.
+<*********************>
+
+<p 02><a 29><n 1D>
+What is it?
+<--------------------->
+
+<p 02><e 01><a 29><n 1D>
+Need smelling salts?  
+  Yes
+  No
+<*********************>
+
+<p 02><a 29><n 1D>
+Better safe than sorry
+eh?
+<--------------------->
+
+<p 02><a 29><n 1D>
+Just remember that it
+won't work if you use
+<--------------------->
+
+them while getting hit
+with the signal that
+scrambles your senses.
+<--------------------->
+
+<p 02><a 29><n 1D>
+I'd love to give you
+more, but I only had
+the one pack on me.
+<*********************>
+
+<p 02><a 29><n 1D>
+They're only 10 EC, but
+you still have to pay.
+<*********************>
+
+<p 02><a 29><n 1D>
+No? Well, I guess I
+can't force them on
+you.
+<*********************>
+
+<p 02><a 23><n 30>
+Thank you for your help
+<nome>!
+<--------------------->
+
+<p 02><a 23><n 30>
+My name's Sole.
+<*********************>
+
+<p 02><a 23><n 30>
+My clothes still smell
+like smoke.
+<--------------------->
+
+<p 02><a 23><n 30>
+It's a shame we had to
+meet under such
+circumstances.
+<--------------------->
+
+You only get one
+chance at a good first
+impression...
+<*********************>
+
+<p 02><a 23><n 30>
+I was surprised by
+everything that
+happened.
+<--------------------->
+
+<p 02><a 23><n 30>
+I really wish it was
+all just a bad dream.
+<*********************>
+
+<p 02><a 23><n 30>
+It's a good thing the
+HQ warehouse was
+reinforced.
+<--------------------->
+
+<p 02><a 23><n 30>
+Normally things are
+kept as thin and light
+<--------------------->
+
+as possible to make
+flying easier.
+<*********************>
+
+<p 02><a 23><n 30>
+I know I'm not the one
+that has to fight
+Serpent.
+<--------------------->
+
+<p 02><a 23><n 30>
+But I'm still so
+nervous.
+<*********************>
+
+<p 02><a 23><n 30>
+Whatever you do <nome>,
+make sure Serpent is
+stopped!
+<--------------------->
+
+<p 02><a 23><n 30>
+You're the only one who
+can do it!
+<*********************>
+
+<p 02><a 23><n 2E>
+Hey! I'm glad to see
+you passed the test.
+<--------------------->
+
+<p 02><a 23><n 2E>
+My name's Dorado.
+<*********************>
+
+<p 02><a 23><n 2E>
+It seems like there are
+more and more Mavericks
+in the Outlands lately.
+<--------------------->
+
+<p 02><a 23><n 2E>
+The situation has
+gotten to the point
+<--------------------->
+
+where we can't protect
+people anymore.
+<--------------------->
+
+<p 02><a 23><n 2E>
+Now that you're here...
+<--------------------->
+
+<p 02><a 23><n 2E>
+I hope that we can do
+something about them.
+<*********************>
+
+<p 02><a 23><n 2E>
+I can't believe it...
+Are you okay now?
+<--------------------->
+
+<p 02><a 23><n 2E>
+How you can still be
+standing after taking a
+hit like that,
+<--------------------->
+
+I have no idea.
+<--------------------->
+
+<p 02><a 23><n 2E>
+It must be the power of
+the Biometal.
+<*********************>
+
+<p 02><a 23><n 2E>
+I went to town
+yesterday for the first
+time in ages,
+<--------------------->
+
+but it was too big and
+I just got lost.
+<--------------------->
+
+<p 02><a 23><n 2E>
+I'm so stubborn, I
+didn't check my map.
+<--------------------->
+
+Don't make the same
+mistake.
+<--------------------->
+
+<p 02><a 23><n 2E>
+Press START to open the
+sub-menu then choose
+Mission.
+<--------------------->
+
+<p 02><a 23><n 2E>
+You can see the
+connection with other
+<--------------------->
+
+areas and your current
+location.
+<*********************>
+
+<p 02><a 23><n 2E>
+You weren't hurt, were
+you?
+<--------------------->
+
+<p 02><a 23><n 2E>
+The ship was shaking so
+much, I fell right on
+my butt.
+<*********************>
+
+<p 02><a 23><n 2E>
+I'm still not in great
+shape, but I can't just
+sit around.
+<*********************>
+
+<p 02><a 23><n 2E>
+Did you find out what's
+behind Model W?
+<--------------------->
+
+<p 02><a 23><n 2E>
+There are so many
+rumors flying around
+lately,
+<--------------------->
+
+I don't know what's
+real and what isn't.
+<*********************>
+
+<p 02><a 23><n 2E>
+No one but you can
+stand up to Slither
+Inc.
+<--------------------->
+
+<p 02><a 23><n 2E>
+I'm sorry that I can't
+be more helpful to
+you.
+<*********************>
+
+<p 02><a 2A><n 1E>
+...
+<--------------------->
+
+<p 02><a 2A><n 1E>
+Oh! First time I've
+seen you around here,
+little girl.
+<--------------------->
+
+<p 02><a 2A><n 1E>
+Where did you come
+from? I hope you have
+permission to be here.
+<--------------------->
+
+<p 02><a 2A><n 1E>
+Are you the girl that
+saved Prairie and the
+others in the forest?
+<--------------------->
+
+<p 02><a 2A><n 1E>
+That WAS you!?
+<--------------------->
+
+<p 02><a 2A><n 1E>
+Wow! Oh, my name's
+Truite!
+<--------------------->
+
+<p 02><a 2A><n 1E>
+You did an amazing job
+back there. Could I see
+the Biometal?
+<--------------------->
+
+<p 02><a 2A><n 1E>
+No!? Aww, come on! Show
+it to me!
+<--------------------->
+
+<p 02><a 2A><n 1E>
+If it was me, I'd put
+it in a display case so
+it didn't get dirty.
+<*********************>
+
+<p 02><a 2A><n 1E>
+...
+<--------------------->
+
+<p 02><a 2A><n 1E>
+You're a transporter,
+aren't you <nome>?
+<--------------------->
+
+<p 02><a 2A><n 1E>
+I might need your help
+someday.
+<--------------------->
+
+<p 02><a 2A><n 1E>
+Actually...
+<--------------------->
+
+<p 02><a 2A><n 1E>
+Hmm... never mind. I
+won't bother you with
+it now.
+<*********************>
+
+<p 02><a 2A><n 1E>
+...
+<--------------------->
+
+<p 02><a 2A><n 1E>
+Oh, I didn't know you
+were talking to me.
+<--------------------->
+
+<p 02><a 2A><n 1E>
+How's your body holding
+up?
+<--------------------->
+
+<p 02><a 2A><n 1E>
+All the Biometal in the
+world won't help if you
+get mortally wounded.
+<*********************>
+
+<p 02><a 2A><n 1E>
+...
+<--------------------->
+
+<p 02><a 2A><n 1E>
+Hm? You still need to
+talk to me about
+something?
+<--------------------->
+
+<p 02><a 2A><n 1E>
+I'm a little busy at
+the moment.
+<*********************>
+
+<p 02><a 2A><n 1E>
+That was a big
+earthquake just now,
+wasn't it?
+<--------------------->
+
+<p 02><a 2A><n 1E>
+Huh? It wasn't an
+earthquake?
+<--------------------->
+
+<p 02><a 2A><n 1E>
+HQ is a flying airship
+you say!?
+<*********************>
+
+<p 02><a 2A><n 1E>
+I didn't even notice we
+were under attack.
+<--------------------->
+
+<p 02><a 2A><n 1E>
+Goes to show how
+oblivious I am.
+<--------------------->
+
+I'm glad everyone else
+is on top of things.
+<*********************>
+
+<p 02><a 2A><n 1E>
+Are you looking for
+Model W?
+<--------------------->
+
+<p 02><a 2A><n 1E>
+Here I thought you were
+just working the
+<--------------------->
+
+Guardian HQ branch for
+the transporters.
+<*********************>
+
+<p 02><a 2A><n 1E>
+I didn't know you were
+entrusted with such a
+heavy burden.
+<--------------------->
+
+<p 02><a 2A><n 1E>
+I just figured you were
+the chosen one of the
+day for Model X.
+<*********************>
+
+<p 02><a 2C><n 20>
+Hey there little miss!
+<--------------------->
+
+<p 02><a 2C><n 20>
+I was worried about ya,
+but it looks like ya
+passed our test!
+<*********************>
+
+<p 02><a 2C><n 20>
+What's your name?
+<--------------------->
+
+<p 02><a 2C><n 20>
+Oh! <nome> is a nice
+name. My name's Thon!
+<--------------------->
+
+<p 02><a 2C><n 20>
+Grahaha! Ya say it
+suits a big guy like
+me?
+<*********************>
+
+<p 02><a 2C><n 20>
+Hey little miss, are
+ya okay?
+<--------------------->
+
+<p 02><a 2C><n 20>
+I can't believe they'd
+attack a little girl
+not even half my size!
+<--------------------->
+
+<p 02><a 2C><n 20>
+That Slither Inc.! They
+have no shame.
+<*********************>
+
+<p 02><a 2C><n 20>
+It always feels like
+the world is okay when
+you're up in the sky.
+<--------------------->
+
+<p 02><a 2C><n 20>
+But every time ya look
+down from the clouds,
+<--------------------->
+
+<p 02><a 2C><n 20>
+ya see the world the
+Mavericks are makin'.
+<--------------------->
+
+By takin' on Slither
+Inc.,
+<--------------------->
+
+<p 02><a 2C><n 20>
+we're effectively
+takin' on the whole
+country.
+<--------------------->
+
+<p 02><a 2C><n 20>
+We better give it
+everythin' we've got,
+or we're toast.
+<*********************>
+
+<p 02><a 2C><n 20>
+I never woulda figured
+we had a chance.
+<--------------------->
+
+<p 02><a 2C><n 20>
+I was expectin' them to
+punch a big hole right
+through the ship!
+<--------------------->
+
+<p 02><a 2C><n 20>
+Prairie was amazin'.
+Nothin' ever shakes her
+resolve...
+<--------------------->
+
+<p 02><a 2C><n 20>
+Her courage is
+awe-inspiring.
+<*********************>
+
+<p 02><a 2C><n 20>
+I don't care if they're
+the biggest company in
+the land.
+<--------------------->
+
+<p 02><a 2C><n 20>
+You make sure you pay
+them back for all the
+damage they caused us!
+<--------------------->
+
+<p 02><a 2C><n 20>
+They need to learn
+we're not to be
+messed with!
+<*********************>
+
+<p 02><a 2C><n 20>
+Good luck <nome>!
+<--------------------->
+
+<p 02><a 2C><n 20>
+I still can't hardly
+believe it.
+<--------------------->
+
+<p 02><a 2C><n 20>
+A little girl with the
+courage of a thousand
+people rolled into one.
+<*********************>
+
+<p 02><a 2C><n 20>
+You're really somethin'
+<nome>!
+<--------------------->
+
+<p 02><a 2C><n 20>
+Your little shoulders
+are bearin' a bigger
+burden than any of us
+<--------------------->
+
+can even imagine.
+<--------------------->
+
+<p 02><a 2C><n 20>
+But you've carried it
+this far. There's
+nothin' to worry about.
+<--------------------->
+
+<p 02><a 2C><n 20>
+You've still got a long
+life ahead of ya.
+<--------------------->
+
+<p 02><a 2C><n 20>
+I believe in ya! You
+should believe in
+yourself too!
+<*********************>
+
+<p 02><a 23><n 2B>
+Hey <nome>! My name's
+Bar.
+<--------------------->
+
+<p 02><a 23><n 2B>
+Thanks for saving me
+earlier.
+<--------------------->
+
+<p 02><a 23><n 2B>
+Muguet already patched
+up the injury that the
+<--------------------->
+
+snake Mechaniloid gave
+me.
+<--------------------->
+
+<p 02><a 23><n 2B>
+Muguet's a real pro,
+but she nags a bit too
+much for my taste.
+<--------------------->
+
+<p 02><a 23><n 2B>
+Rose is gentle and shy,
+so she's more my type.
+<--------------------->
+
+<p 02><a 23><n 2B>
+Maquereau hurt his leg
+in the battle. I wonder
+how he's doing.
+<*********************>
+
+<p 02><a 23><n 2B>
+I have some advice for
+you.
+<--------------------->
+
+<p 02><a 23><n 2B>
+Try not to transform
+around town.
+<--------------------->
+
+<p 02><a 23><n 2B>
+Mavericks wandering in
+from the Outlands,
+<--------------------->
+
+<p 02><a 23><n 2B>
+or security
+Mechaniloids will sense
+the weapon you hold,
+<--------------------->
+
+<p 02><a 23><n 2B>
+and attack on sight.
+<--------------------->
+
+<p 02><a 23><n 2B>
+People around town will
+be nervous around you
+because of the danger.
+<--------------------->
+
+<p 02><a 23><n 2B>
+There might come a time
+when you'll have no
+choice, but be careful.
+<*********************>
+
+<p 02><a 23><n 2B>
+<nome>, you had us all
+worried sick.
+<--------------------->
+
+<p 02><a 23><n 2B>
+I know how you feel
+about not wanting to
+stand around.
+<--------------------->
+
+But try to take it
+easy.
+<*********************>
+
+<p 02><a 23><n 2B>
+Oh yeah.
+<--------------------->
+
+<p 02><a 23><n 2B>
+I found something out
+about the Reploids
+known as Pseudoroids.
+<--------------------->
+
+<p 02><a 23><n 2B>
+They possess the
+ability to regenerate
+themselves.
+<--------------------->
+
+<p 02><a 23><n 2B>
+If left alone, they'll
+come back to life
+automatically.
+<--------------------->
+
+<p 02><a 23><n 2B>
+It looks like that's
+one of the things
+Slither Inc. was
+<--------------------->
+
+researching behind the
+scenes.
+<--------------------->
+
+<p 02><a 23><n 2B>
+People don't know any
+better and treat
+<--------------------->
+
+Serpent like some
+national hero.
+<--------------------->
+
+<p 02><a 23><n 2B>
+Oh, did you already
+know all of that?
+<*********************>
+
+<p 02><a 23><n 2B>
+Are you okay <nome>?
+<--------------------->
+
+<p 02><a 23><n 2B>
+The Guardians were okay
+thanks to the room
+security systems.
+<*********************>
+
+<p 02><a 23><n 2B>
+We got hit pretty hard.
+<--------------------->
+
+Thank the lucky stars
+no one was seriously
+injured.
+<--------------------->
+
+<p 02><a 23><n 2B>
+Well, actually we
+should be thanking you
+for that.
+<*********************>
+
+<p 02><a 23><n 2B>
+So you've found the six
+Biometal fragments
+now?
+<*********************>
+
+<p 02><a 23><n 2B>
+Now all that's left is
+for you to harness the
+power of the Biometal.
+<*********************>
+
+<p 02><a 23><n 2B>
+Oh yeah!
+<--------------------->
+
+<p 02><a 23><n 2B>
+I found this chip when
+I was patrolling the
+forest earlier.
+<--------------------->
+
+<p 02><a 23><n 2B>
+With it, your body
+won't sink or break
+<--------------------->
+
+through fragile
+surfaces.
+<--------------------->
+
+<p 02><a 23><n 2B>
+I don't go to the
+Outlands, so I won't be
+needing it.
+<--------------------->
+
+You should take it.
+<*********************>
+
+<p 02><a 22><n 18>
+Yes <nome>, what is it?
+<*********************>
+
+<p 02><m><a 22><n 18>
+  Check Database
+  Talk
+  Nothing
+<*********************>
+
+<p 02><m><a 22><n 18>
+  Repair Biometal
+  Check Database
+  Talk
+<*********************>
+
+<p 02><a 22><n 18>
+There are a lot of us
+Guardians around the
+ship.
+<--------------------->
+
+<p 02><a 22><n 18>
+If you have time,
+perhaps you should say
+hello to everyone.
+<*********************>
+
+<p 02><a 22><n 18>
+The Guardians can be
+strange sometimes, but
+they're good people.
+<--------------------->
+
+<p 02><a 22><n 18>
+Try not to get angry
+and just hear them out.
+<*********************>
+
+<p 02><a 22><n 18>
+<nome>! Are you alright!?
+<--------------------->
+
+<p 02><a 22><n 18>
+I know you want to get
+back into action,
+<--------------------->
+
+but you need to learn
+to control the
+Biometal.
+<*********************>
+
+<p 02><a 22><n 18>
+Take it easy and master
+the power of the
+Biometal.
+<*********************>
+
+<p 02><a 22><n 18>
+I'm shocked.
+<--------------------->
+
+<p 02><a 22><n 18>
+I would never have
+expected us to show up
+on the enemy's radar.
+<--------------------->
+
+<p 02><a 22><n 18>
+We must change our
+flight plans to avoid
+detection again.
+<--------------------->
+
+<p 02><a 22><n 18>
+I'll contact the
+Operators and let them
+chart us a new course.
+<*********************>
+
+<p 02><a 22><n 18>
+I've got something
+interesting to tell you
+<nome>.
+<--------------------->
+
+<p 02><a 22><n 18>
+Did you know that each
+Biometal fragment has
+been divided into two
+<--------------------->
+
+pieces and split
+across two different
+Pseudoroids?
+<--------------------->
+
+<p 02><a 22><n 18>
+If you can find both
+parts,
+<--------------------->
+
+<p 02><a 22><n 18>
+you will have access to
+two varieties of charge
+<--------------------->
+
+attacks for each
+model.
+<--------------------->
+
+<p 02><a 22><n 18>
+The usage differs
+according to the model.
+<--------------------->
+
+<p 02><a 22><n 18>
+For Models HX, LX and
+PX, you charge up to a
+second level and then
+<--------------------->
+
+<p 02><a 22><n 18>
+press +Control Pad up
+while releasing the
+attack button to fire.
+<--------------------->
+
+<p 02><a 22><n 18>
+For Model FX, charge it
+up to the second level
+and then press
+<--------------------->
+
+<p 02><a 22><n 18>
++Control Pad down while
+releasing the attack
+button to fire.
+<*********************>
+
+<p 02><a 22><n 18>
+At last! You've
+collected the six
+Biometal fragments.
+<--------------------->
+
+<p 02><a 22><n 18>
+Our future is now in
+your hands <nome>.
+<*********************>
+
+<p 02><a 22><n 18>
+You're the only one
+with the power to save
+us...
+<--------------------->
+
+<p 02><a 22><n 18>
+We have faith in you.
+<*********************>
+
+<p 02><a 22><n 18>
+Oh yes, <nome>...
+<--------------------->
+
+<p 02><a 22><n 18>
+Please take this with
+you.
+<--------------------->
+
+<p 02><a 22><n 18>
+This chip will cut your
+weapon's charging time
+down.
+<--------------------->
+
+<p 02><a 22><n 18>
+It used to belong to
+another Guardian,
+<--------------------->
+
+<p 02><a 22><n 18>
+and it took time to
+synchronize it with
+your Biometal.
+<--------------------->
+
+<p 02><a 22><n 18>
+I just finished it a
+little while ago.
+<*********************>
+
+<p 02><a 22><n 18>
+You'll need to file
+your mission report
+<--------------------->
+
+before I can repair
+your Biometal.
+<--------------------->
+
+<p 02><a 22><n 18>
+Please file it at the
+transerver and then
+come back then.
+<*********************>
+
+<p 02><a 22><n 18>
+<nome>! I have excellent
+news!
+<--------------------->
+
+<p 02><a 22><n 18>
+About the strange stone
+you found in Area N-1,
+<--------------------->
+
+<p 02><a 22><n 18>
+I think I may have
+figured something out.
+Could I have a look?
+<*********************>
+
+
+Entregou a <c 03>Pedra Misteriosa
+<*********************>
+
+<p 02><a 22><n 18>
+...
+<--------------------->
+
+<p 02><a 22><n 18>
+All done! This turns
+out to be a special
+variety of Biometal!
+<--------------------->
+
+<p 02><a 22><n 18>
+It has a very funny
+glow to it, but you
+<--------------------->
+
+should be able to use
+it to transform.
+<*********************>
+
+<p 02><a 23><n 2F>
+I feel so pathetic.
+<--------------------->
+
+<p 02><a 23><n 2F>
+I tried to rescue
+everyone from the fire,
+<--------------------->
+
+but ended up needing
+rescuing myself.
+<*********************>
+
+<p 02><a 23><n 2F>
+I'm glad you came along
+when you did.
+<--------------------->
+
+<p 02><a 23><n 2F>
+Thank you so much for
+your help.
+<--------------------->
+
+<p 02><a 23><n 2F>
+I shudder to imagine
+what would've happened
+<--------------------->
+
+if you didn't arrive
+when you did.
+<*********************>
+
+<p 02><a 23><n 2F>
+We were in a big pinch.
+<--------------------->
+
+<p 02><a 23><n 2F>
+Your moves were
+incredible as you wiped
+<--------------------->
+
+enemy after enemy off
+of our ship.
+<*********************>
+
+<p 02><a 23><n 2F>
+Slither Inc. grows more
+powerful with each
+passing second.
+<--------------------->
+
+<p 02><a 23><n 2F>
+We have to find the
+rest of the Biometal...
+<--------------------->
+
+<p 02><a 23><n 2F>
+If we don't, this world
+is as good as
+Serpent's.
+<*********************>
+
+<p 02><a 23><n 2F>
+Thanks to you, it feels
+like the Guardians
+stand a chance.
+<*********************>
+
+<p 02><a 23><n 2F>
+I hope we aren't
+holding you back. It
+feels like there's not
+<--------------------->
+
+<p 02><a 23><n 2F>
+much we can do for you
+now.
+<*********************>
+
+<p 02><a 23><n 2C>
+Hi <nome>!
+<--------------------->
+
+<p 02><a 23><n 2C>
+That lava was pretty
+scary, wasn't it?
+<--------------------->
+
+<p 02><a 23><n 2C>
+Did you happen to find
+the switch for
+controlling its flow?
+<*********************>
+
+<p 02><a 23><n 2C>
+I'm so embarrassed that
+I keep needing your
+help.
+<--------------------->
+
+<p 02><a 23><n 2C>
+I should've been the
+one to rescue all those
+people from the fire,
+<--------------------->
+
+<p 02><a 23><n 2C>
+but you had to do it
+instead.
+<--------------------->
+
+<p 02><a 23><n 2C>
+When the room was
+filled with smoke, I
+thought I was a goner,
+<--------------------->
+
+<p 02><a 23><n 2C>
+but then I saw your
+smiling face. You're
+like my guardian angel.
+<*********************>
+
+<p 02><a 23><n 2C>
+I was worried about you
+<nome>.
+<--------------------->
+
+<p 02><a 23><n 2C>
+The ship was rocking so
+much, I thought a
+meteor hit us.
+<*********************>
+
+<p 02><a 23><n 2C>
+You didn't get hurt,
+did you <nome>?
+<--------------------->
+
+<p 02><a 23><n 2C>
+I'm still wounded, so
+I've been resting here.
+<*********************>
+
+<p 02><a 23><n 2C>
+Are those the six
+Biometal fragments
+you've got there?
+<--------------------->
+
+<p 02><a 23><n 2C>
+They're amazing.
+<*********************>
+
+<p 02><a 23><n 2C>
+Incredible technology
+must be behind the
+Biometal.
+<--------------------->
+
+<p 02><a 23><n 2C>
+It's hard to believe it
+was made centuries
+ago...
+<*********************>
+
+<p 02><a 23><n 2D>
+Dudette! You're <nome>,
+aren't you?
+<--------------------->
+
+<p 02><a 23><n 2D>
+I'm Morue, and it's so
+cool to meet you.
+<--------------------->
+
+<p 02><a 23><n 2D>
+Did you get a chance to
+meet everyone in HQ?
+<--------------------->
+
+<p 02><a 23><n 2D>
+They're all good
+people, you should
+totally chat it up.
+<*********************>
+
+<p 02><a 23><n 2D>
+It looks like that road
+in Area D-1 is still
+outta commission.
+<--------------------->
+
+<p 02><a 23><n 2D>
+At least it does the
+trick for keeping out
+Mavericks on foot.
+<--------------------->
+
+<p 02><a 23><n 2D>
+The switch in front
+activates with a quick
+attack.
+<--------------------->
+
+<p 02><a 23><n 2D>
+You might be able to
+continue down the
+road now.
+<*********************>
+
+<p 02><a 23><n 2D>
+You had me worried
+<nome>!
+<--------------------->
+
+<p 02><a 23><n 2D>
+I thought you got
+wasted. I was so
+totally about to mourn.
+<--------------------->
+
+<p 02><a 23><n 2D>
+It's awesome that
+you're okay!
+<*********************>
+
+<p 02><a 23><n 2D>
+You might already know
+this,
+<--------------------->
+
+<p 02><a 23><n 2D>
+but you can only take
+on one mission or quest
+at a time.
+<--------------------->
+
+<p 02><a 23><n 2D>
+If you want to ditch
+one for another,
+<--------------------->
+
+<p 02><a 23><n 2D>
+you have to cancel the
+current one.
+<--------------------->
+
+<p 02><a 23><n 2D>
+That means everything
+you've done so far is
+for nothing though,
+<--------------------->
+
+<p 02><a 23><n 2D>
+so you'll have to start
+from scratch when you
+try it again.
+<*********************>
+
+<p 02><a 23><n 2D>
+I almost wet my pants
+when I saw all those
+ships surrounding us.
+<*********************>
+
+<p 02><a 23><n 2D>
+You're one brave
+dudette <nome>!
+<*********************>
+
+<p 02><a 23><n 2D>
+Those are the six
+Biometal fragments?
+<--------------------->
+
+<p 02><a 23><n 2D>
+It's like they're
+totally all harmonizing
+with each other.
+<*********************>
+
+<p 02><a 23><n 2D>
+Just don't let those
+Slither Inc. dudes get
+a hold of Model W.
+<--------------------->
+
+<p 02><a 23><n 2D>
+This world is so gonna
+be wasted if they get a
+hold of it!
+<*********************>
+
+<FIM>

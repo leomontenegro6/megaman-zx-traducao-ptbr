@@ -1,0 +1,399 @@
+<script_info tipo='Quest 3' personagem='Vent' tamanho='3504' inicio_ponteiros='4' fim_ponteiros='33' inicio_textos='34' />
+<#####################>
+
+<p 02><a 53><n 4E>
+*sigh* I'm worried
+sick...
+<--------------------->
+
+<p 02><a 53><n 4E>
+My son has been
+skipping his lessons
+lately...
+<--------------------->
+
+<p 02><a 53><n 4E>
+He comes home so late
+everyday, it has me
+concerned.
+<--------------------->
+
+<p 02><a 53><n 4E>
+I hope he hasn't fallen
+in with a bad crowd.
+<--------------------->
+
+<p 02><a 53><n 4E>
+I'm so worried... Could
+you do me a favor and
+go check on him?
+<*********************>
+
+<p 02><a 53><n 4E>
+He's been coming home
+late ever since the
+<--------------------->
+
+<p 02><a 53><n 4E>
+fire incident.
+<--------------------->
+
+<p 02><a 53><n 4E>
+I just don't know what
+could be causing it.
+<--------------------->
+
+<p 02><a 53><n 4E>
+What on earth could he
+be up to?
+<*********************>
+
+<p 02><a 02><n 55>
+Find the young boy 
+near the site where the
+fire broke out.
+<*********************>
+
+<e 01><a 02><n 55>
+  Yes
+  No
+<*********************>
+
+<p 02><a 53><n 4E>
+You haven't found him
+yet, have you?
+<--------------------->
+
+<p 02><a 53><n 4E>
+I'm worried sick, you
+have to hurry and find
+him!
+<--------------------->
+
+<p 02><a 53><n 4E>
+He's my little
+treasure.
+<--------------------->
+
+If you find him for me,
+I'll make sure you're
+rewarded.
+<*********************>
+
+<p 02><a 3A><n 35>
+3!
+2!
+1!
+<--------------------->
+
+<p 02><a 3A><n 35>
+0!
+Here I come!
+<*********************>
+
+<p 02><a 3A><n 35>
+Woah! You scared me!
+<--------------------->
+
+<p 02><a 3A><n 35>
+Are you hiding too,
+mister?
+<--------------------->
+
+<p 02><a 3A><n 35>
+Oh, is it time to go
+home already?
+<--------------------->
+
+<p 02><a 3A><n 35>
+I can't yet! I have to
+find everyone!
+<--------------------->
+
+<p 02><a 3A><n 35>
+Huh!? Are you going
+to help me find them?
+<--------------------->
+
+<p 02><a 3A><n 35>
+Wow, thanks! Alright,
+I'll give you a hint.
+<--------------------->
+
+<p 02><a 3A><n 35>
+The guy that was the
+seeker last time is no
+good at hiding.
+<--------------------->
+
+<p 02><a 3A><n 35>
+He's probably on a
+floor not too far from
+here.
+<--------------------->
+
+<p 02><a 3A><n 35>
+Thanks for the help!
+<*********************>
+
+<p 02><a 3B><n 36>
+Ah shoot! Ya found me!
+<--------------------->
+
+<p 02><a 3B><n 36>
+Why is everyone better
+at hiding than me?
+<--------------------->
+
+<p 02><a 3B><n 36>
+Hey mister, are you
+looking for the others?
+<--------------------->
+
+<p 02><a 3B><n 36>
+Need a hint?
+<--------------------->
+
+<p 02><a 3B><n 36>
+The hardest things to
+find are right over
+your nose.
+<*********************>
+
+<p 02><a 3C><n 37>
+Dang, ya found me!
+Hey, where's everyone
+else?
+<--------------------->
+
+<p 02><a 3C><n 37>
+You're lookin' for one
+of us?
+<--------------------->
+
+<p 02><a 3C><n 37>
+There's one really
+quiet guy.
+<--------------------->
+
+<p 02><a 3C><n 37>
+He's probably hidin' in
+a corner somewhere.
+<*********************>
+
+<p 02><a 3D><n 38>
+...Hm?
+<--------------------->
+
+<p 02><a 3D><n 38>
+I'm hiding.
+<--------------------->
+
+<p 02><a 3D><n 38>
+Hey, don't bother me.
+<--------------------->
+
+<p 02><a 3D><n 38>
+This place is great for
+hiding. It's so dark.
+<--------------------->
+
+<p 02><a 3D><n 38>
+What do you want!?
+You're gonna give me
+away! Scram!
+<--------------------->
+
+<p 02><a 3D><n 38>
+Whatever... Just make
+sure you find the other
+guy.
+<--------------------->
+
+<p 02><a 3D><n 38>
+I don't like him very
+much.
+<--------------------->
+
+<p 02><a 3D><n 38>
+He's the new guy, but
+he's already the best
+at hiding.
+<--------------------->
+
+<p 02><a 3D><n 38>
+My cousin Bonbon was
+making fun of me for
+playing kids' games.
+<--------------------->
+
+<p 02><a 3D><n 38>
+But that's beside the
+point.
+<--------------------->
+
+The new guy stole my
+place as the number one
+hider!
+<--------------------->
+
+<p 02><a 3D><n 38>
+You're going to have to
+try really hard if you
+hope to find him.
+<*********************>
+
+<p 02><a 39><n 34>
+Nooo! How could anyone
+find this prime hide
+and seek real estate?
+<--------------------->
+
+<p 02><a 39><n 34>
+Wait, I don't know you.
+<--------------------->
+
+<p 02><a 39><n 34>
+Oh, mom asked you to
+come and find me, huh?
+<--------------------->
+
+<p 02><a 39><n 34>
+I never knew playing
+with friends could be
+this much fun.
+<--------------------->
+
+<p 02><a 39><n 34>
+Whenever I get home
+from school,
+<--------------------->
+
+I've got nothing but
+homework waiting for
+me.
+<--------------------->
+
+<p 02><a 39><n 34>
+I know mom is only
+looking out for my
+future,
+<--------------------->
+
+<p 02><a 39><n 34>
+but I don't want to
+think about my future
+right now.
+<--------------------->
+
+I'm just a kid, you
+know?
+<--------------------->
+
+<p 02><a 39><n 34>
+Would you believe that
+it's harder to hide
+well in hide
+<--------------------->
+
+<p 02><a 39><n 34>
+and seek than to score
+100 percent on a test
+in school?
+<--------------------->
+
+<p 02><a 39><n 34>
+I'm gonna do what I
+wanna do from now on!
+<--------------------->
+
+<p 02><a 39><n 34>
+...But then again, I
+don't want mom to be
+sad either.
+<--------------------->
+
+<p 02><a 39><n 34>
+I'll go home now and
+tell her how I feel.
+<--------------------->
+
+Thanks for coming to
+fetch me.
+<*********************>
+
+<p 02><a 53><n 4E>
+My son is back...
+<--------------------->
+
+<p 02><a 53><n 4E>
+He was such a good kid,
+I don't know what
+happened...
+<--------------------->
+
+<p 02><a 53><n 4E>
+This is the first time
+I've ever had to punish
+him.
+<--------------------->
+
+<p 02><a 53><n 4E>
+It must be that crowd
+he hangs out with.
+<--------------------->
+
+<p 02><a 53><n 4E>
+Thank you for bringing
+him home.
+<*********************>
+
+<p 02><a 53><n 4E>
+I've sent a little
+something to the
+transerver for you.
+<*********************>
+
+<p 02><a 02><n 55>
+Quest completed.
+<--------------------->
+
+<p 02><a 02><n 55>
+400 EC have been
+transferred to your
+account.
+<*********************>
+
+<p 02><a 53><n 4E>
+I hope you found the
+amount I transferred
+enough.
+<--------------------->
+
+Thank you so much
+for your help
+finding my boy.
+<--------------------->
+
+<p 02><a 53><n 4E>
+I talked things over
+with my son and it was
+the first time
+<--------------------->
+
+<p 02><a 53><n 4E>
+I've heard him talk
+like that.
+<--------------------->
+
+<p 02><a 53><n 4E>
+It was just one crazy
+thing after another.
+<--------------------->
+
+<p 02><a 53><n 4E>
+Never let anyone say
+being a parent is easy!
+<*********************>
+
+<FIM>

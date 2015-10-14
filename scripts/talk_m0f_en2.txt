@@ -1,0 +1,207 @@
+<script_info tipo='Missão 15' personagem='Aile' tamanho='2056' inicio_ponteiros='4' fim_ponteiros='13' inicio_textos='14' />
+<#####################>
+
+<p 02><d 993A><a 02><n 55>
+I'm picking up a sudden
+Maverick outbreak in
+Area O.
+<--------------------->
+
+<p 02><d 9A3A><a 02><n 55>
+The Maverick army is
+heading down the
+<--------------------->
+
+highway right for the
+residential district.
+<--------------------->
+
+<p 02><d 9B3A><a 02><n 55>
+Head to Area O and
+respond to the Maverick
+threat.
+<*********************>
+
+<p 02><d 9C3A><a 02><n 04>
+Aile! You made it to
+Area O.
+<--------------------->
+
+<p 02><d 9D3A><a 02><n 04>
+The Maverick army is
+drawing closer to the
+<--------------------->
+
+residential district
+with every passing
+second.
+<--------------------->
+
+<p 02><d 9E3A><a 02><n 04>
+We need to stop them
+and avoid as many
+<--------------------->
+
+Guardian casualties as
+possible.
+<--------------------->
+
+<p 02><d 9F3A><a 02><n 04>
+Find the Maverick
+leading them and take
+it out!
+<*********************>
+
+<p 02><d A03A><a 07><n 02>
+Surprise, surprise. You
+two are the ones behind
+<--------------------->
+
+all this, Pandora and
+Prometheus!
+<--------------------->
+
+<p 03><d A13A><a 18><n 0D>
+Well, we've finally
+drawn the curtain and
+<--------------------->
+
+have arrived at our
+final act!
+<--------------------->
+
+<p 03><d A23A><a 18><n 0D>
+All of the chosen Mega
+Men are together for
+the grand finale.
+<--------------------->
+
+<p 03><d A33A><a 18><n 0D>
+We are all the same.
+Lives brought together
+<--------------------->
+
+by some cursed fate
+that hangs over our
+heads.
+<--------------------->
+
+<p 02><d A43A><a 07><n 02>
+I'm nothing like you!
+<--------------------->
+
+<p 03><d A53A><a 19><n 0E>
+On the contrary... You
+are the same...
+<--------------------->
+
+<p 03><d A63A><a 19><n 0E>
+A Mega Man... Holder of
+the power... Controller
+of Biometal...
+<--------------------->
+
+<p 03><d A73A><a 18><n 0D>
+Serpent has done well
+for us.
+<--------------------->
+
+Just digging up Model W
+was enough for him to
+serve his purpose.
+<--------------------->
+
+<p 03><d A83A><a 18><n 0D>
+Too bad Model W is too
+much for his weak will
+to handle and he'll end
+<--------------------->
+
+up losing more and more
+of his soul as time
+passes.
+<--------------------->
+
+<p 02><d A93A><a 07><n 02>
+So you've been using
+Serpent the whole time!
+<--------------------->
+
+<p 03><d AA3A><a 19><n 0E>
+It's too late... Model
+W... about to awaken.
+<--------------------->
+
+<p 03><d AB3A><a 18><n 0D>
+We'll keep you occupied
+while you wait Mega
+Man... Model ZX!
+<*********************>
+
+<p 02><d AC3A><a 07><n 02>
+What are you trying to
+accomplish!?
+<--------------------->
+
+And why do I have to be
+involved in all of
+this!?
+<--------------------->
+
+<p 03><d AD3A><a 19><n 0E>
+It is destiny... Mega
+Men must fight until
+only one remains.
+<--------------------->
+
+<p 03><d AE3A><a 18><n 0D>
+Hah-hahaha! If you want
+to know the truth,
+you'll have to fight!
+<--------------------->
+
+<p 03><d AF3A><a 18><n 0D>
+You. Serpent. Us.
+<--------------------->
+
+<p 03><d B03A><a 18><n 0D>
+We are all just pawns
+on the great
+board.
+<--------------------->
+
+His board.
+<*********************>
+
+<p 02><d B13A><a 02><n 04>
+The Maverick activity
+is finally subsiding.
+<--------------------->
+
+You must have taken out
+their leader!
+<--------------------->
+
+<p 02><d B23A><a 07><n 02>
+This fight is far from
+over.
+<--------------------->
+
+Have you managed to
+narrow down Model W's
+location?
+<--------------------->
+
+<p 02><d B33A><a 02><n 04>
+I'm sorry. We're going
+to need a little more
+time with that.
+<--------------------->
+
+<p 02><d B43A><a 02><n 04>
+Aile, come back to
+Guardian HQ while we
+try to find it.
+<*********************>
+
+<FIM>

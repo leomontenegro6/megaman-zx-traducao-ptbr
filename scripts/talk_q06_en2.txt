@@ -1,0 +1,110 @@
+<script_info tipo='Quest 6' personagem='Aile' tamanho='981' inicio_ponteiros='4' fim_ponteiros='19' inicio_textos='20' />
+<#####################>
+
+<p 02><a 2C><n 20>
+Ever been to the
+reservoir in Area B-4?
+<--------------------->
+
+<p 02><a 2C><n 20>
+If ya have, you'll
+know what I'm about to
+tell ya.
+<--------------------->
+
+<p 02><a 2C><n 20>
+Slither Inc. is dumpin'
+waste from their
+factory in the lakes.
+<--------------------->
+
+<p 02><a 2C><n 20>
+We've been spreadin'
+around neutralizer in
+the water.
+<--------------------->
+
+<p 02><a 2C><n 20>
+Would ya help us
+finish the job?
+<--------------------->
+
+<p 02><a 2C><n 20>
+Oh! Sorry, I should
+explain better.
+<--------------------->
+
+<p 02><a 2C><n 20>
+The neutralizer is what
+cleans up the pollution
+in the water supply.
+<*********************>
+
+<p 02><a 2C><n 20>
+I hate to think what
+would happen if the
+water from the
+<--------------------->
+
+lakes made it into
+the river...
+<--------------------->
+
+<p 02><a 2C><n 20>
+We have to neutralize
+the pollution before
+that happens.
+<*********************>
+
+<p 02><a 02><n 55>
+Spread the neutralizer
+across the lakes.
+<*********************>
+
+<e 01><a 02><n 55>
+  Yes
+  No
+<*********************>
+
+<p 02><a 2C><n 20>
+The water is still
+pretty dirty.
+<--------------------->
+
+<p 02><a 2C><n 20>
+You'll have to use all
+5 neutralizers to clean
+the lakes up!
+<*********************>
+
+<p 02><a 2C><n 20>
+Well done. Well done!
+Don't forget to file a
+report.
+<*********************>
+
+<p 02><a 02><n 55>
+Quest completed.
+<--------------------->
+
+<p 02><a 02><n 55>
+300 EC have been
+transferred to your
+account.
+<*********************>
+
+<p 02><a 2C><n 20>
+I'm definitely
+impressed.
+<--------------------->
+
+<p 02><a 2C><n 20>
+I shoulda known
+someone with the
+<--------------------->
+
+Biometal could do a
+better job than us.
+<*********************>
+
+<FIM>

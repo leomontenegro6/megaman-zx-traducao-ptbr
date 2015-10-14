@@ -1,0 +1,143 @@
+<script_info tipo='Quest 18' personagem='Aile' tamanho='1350' inicio_ponteiros='4' fim_ponteiros='27' inicio_textos='28' />
+<#####################>
+
+<p 02><a 2F><n 23>
+Oh, it's you again
+Aile!
+<--------------------->
+
+<p 02><a 2F><n 23>
+Remember the rock you
+brought me earlier?
+<--------------------->
+
+Well, it's too hard for
+me to break open.
+<--------------------->
+
+<p 02><a 2F><n 23>
+I can't make what I
+want if I can't get at
+the material inside.
+<--------------------->
+
+<p 02><a 2F><n 23>
+Could you take it and
+smash it open using the
+crusher in Area E?
+<--------------------->
+
+<p 02><a 2F><n 23>
+I sent Oeillet, another
+Guardian, to Area E.
+She should be waiting
+<--------------------->
+
+there for you, so just
+pass her the rock and
+she'll do the rest.
+<*********************>
+
+<p 02><a 2F><n 23>
+Oeillet should be
+waiting for you at the
+crusher...
+<--------------------->
+
+<p 02><a 2F><n 23>
+If you give the rock to
+her, she should be able
+to handle the rest.
+<*********************>
+
+<p 02><a 02><n 55>
+Break open the rock and
+return the material to
+Silure.
+<*********************>
+
+<e 01><a 02><n 55>
+  Yes
+  No
+<*********************>
+
+<p 02><a 2F><n 23>
+Just don't damage the
+power supply at the
+plant.
+<--------------------->
+
+<p 02><a 2F><n 23>
+The conveyor belt and
+crusher need power to
+run properly.
+<*********************>
+
+<p 02><a 24><n 28>
+I've heard the details
+from Silure.
+<--------------------->
+
+<p 02><a 24><n 28>
+Leave it to me!
+<*********************>
+
+<p 02><a 24><n 28>
+With the conveyor belt
+stopped, we can't crush
+that rock!
+<--------------------->
+
+<p 02><a 24><n 28>
+You'll have to leave
+Area E and wait for the
+power to come back on.
+<*********************>
+
+<p 02><a 2F><n 23>
+This is it! Now I can
+finally finish my
+masterpiece!
+<*********************>
+
+<p 02><a 2F><n 23>
+I'll send it to you at
+the transerver.
+<--------------------->
+
+<p 02><a 2F><n 23>
+I'm sure you'll like
+it!
+<*********************>
+
+<p 02><a 02><n 55>
+Quest completed.
+<--------------------->
+
+<p 02><a 02><n 55>
+300 EC and an item have
+been transferred to
+your account.
+<*********************>
+
+<p 02><a 2F><n 23>
+Did you like what I
+made for you?
+<--------------------->
+
+<p 02><a 2F><n 23>
+I'll be happy just
+knowing it's doing some
+good.
+<*********************>
+
+<p 02><a 24><n 28>
+Once you get the
+material that was in
+the rock,
+<--------------------->
+
+take it to Silure!
+<*********************>
+
+<FIM>

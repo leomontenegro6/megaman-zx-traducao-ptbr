@@ -1,0 +1,170 @@
+<script_info tipo='Quest 7' personagem='Aile' tamanho='1515' inicio_ponteiros='4' fim_ponteiros='27' inicio_textos='28' />
+<#####################>
+
+<p 02><a 42><n 3D>
+Oh where oh where has
+my Mushroom gone?
+<--------------------->
+
+<p 02><a 42><n 3D>
+I was just in the
+forest and I had him in
+my bag...
+<--------------------->
+
+<p 02><a 42><n 3D>
+I keep trying to look
+for him, but I just
+can't find him.
+<--------------------->
+
+<p 02><a 42><n 3D>
+You're a transporter,
+right?
+<--------------------->
+
+<p 02><a 42><n 3D>
+If you find him, could
+you bring him back for
+me?
+<*********************>
+
+<p 02><a 42><n 3D>
+I've made the 
+request, so it should
+be in the transerver.
+<*********************>
+
+<p 02><a 42><n 3D>
+I hope my poor little
+Mushroom comes back to
+me safe and sound...
+<*********************>
+
+<p 02><a 02><n 55>
+Find Mushroom for
+Arcia.
+<*********************>
+
+<e 01><a 02><n 55>
+  Yes
+  No
+<*********************>
+
+<p 02><a 42><n 3D>
+Hey, Mushroom is no
+mushroom...
+<--------------------->
+
+<p 02><a 42><n 3D>
+It's the name of my pet
+bird!
+<--------------------->
+
+<p 02><a 42><n 3D>
+Please, you have to
+find him!
+<*********************>
+
+<p 02><a 42><n 3D>
+Mushroom!!! Thank
+goodness you're okay!
+<--------------------->
+
+<p 02><a 42><n 3D>
+Mushroom only likes
+girls.
+<--------------------->
+
+<p 02><a 42><n 3D>
+I'm so grateful there
+are women transporters
+like you Aile!
+<*********************>
+
+<p 02><a 42><n 3D>
+Thank you Aile.
+<--------------------->
+
+<p 02><a 42><n 3D>
+I was so lonely without
+Mushroom these last
+three hours.
+<--------------------->
+
+<p 02><a 42><n 3D>
+Life without Mushroom
+is like dinner without
+dessert.
+<--------------------->
+
+<p 02><a 42><n 3D>
+Hm? You don't get it?
+I'm just trying to say
+it's meaningless.
+<*********************>
+
+<p 02><a 42><n 3D>
+I'll send something to
+the transerver in
+thanks!
+<*********************>
+
+<p 02><a 42><n 3D>
+Oh yeah! My grandpa had
+something too.
+<--------------------->
+
+<p 02><a 42><n 3D>
+He wanted me to give it
+to you.
+<--------------------->
+
+<p 02><a 42><n 3D>
+I'll send it to the
+transerver as well.
+<--------------------->
+
+<p 02><a 42><n 3D>
+He used to use it back
+in his ice climbing
+days.
+<--------------------->
+
+<p 02><a 42><n 3D>
+It's a bit old, but
+I'm sure it still
+works like a charm.
+<*********************>
+
+<p 02><a 02><n 55>
+Quest completed.
+<--------------------->
+
+<p 02><a 02><n 55>
+200 EC and an item have
+been transferred to
+your account.
+<*********************>
+
+<p 02><a 42><n 3D>
+Mushroom's acting kind
+of funny.
+<--------------------->
+
+<p 02><a 42><n 3D>
+It must be from all the
+time spent alone in the
+forest.
+<--------------------->
+
+<p 02><a 42><n 3D>
+He reverted a bit to
+him old wild self and
+<--------------------->
+
+bit me when I tried to
+feed him.
+<*********************>
+
+<FIM>

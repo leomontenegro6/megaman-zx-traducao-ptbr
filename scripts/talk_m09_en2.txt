@@ -1,0 +1,216 @@
+<script_info tipo='Missão 9' personagem='Aile' tamanho='2105' inicio_ponteiros='4' fim_ponteiros='19' inicio_textos='20' />
+<#####################>
+
+<p 02><d 2923><a 02><n 55>
+I've detected a
+Biometal signature
+in Area I.
+<--------------------->
+
+<p 02><d 2A23><a 02><n 55>
+In addition to the
+Biometal,
+<--------------------->
+
+there are other signs
+of life in the area.
+<--------------------->
+
+<p 02><d 2B23><a 02><n 55>
+It looks like some
+innocent citizens are
+<--------------------->
+
+being held inside of
+the facility.
+<--------------------->
+
+<p 02><d 2C23><a 02><n 55>
+Head to Area I and free
+the captives.
+<*********************>
+
+<p 02><d 2D23><a 02><n 04>
+The life signs look
+like they're located in
+<--------------------->
+
+the very back of the
+area.
+<--------------------->
+
+<p 02><d 2E23><a 02><n 04>
+Since you defeated the
+one in charge of the
+power plant operation,
+<--------------------->
+
+some of the equipment
+isn't functioning now.
+<--------------------->
+
+<p 02><d 2F23><a 02><n 04>
+If you could just find
+a way to get the
+electricity flowing...
+<--------------------->
+
+<p 02><d 3023><a 05><n 02>
+Alright, I'll find some
+way to get the power
+back on.
+<*********************>
+
+<p 02><d 3123><a 1C><n 11>
+Let me guess, you're
+here to save the poor
+folks in the next room?
+<--------------------->
+
+Quite the little
+heroine aren't you?
+<--------------------->
+
+<p 02><d 3223><a 1C><n 11>
+They're valuable
+sacrifices for the
+<--------------------->
+
+resurrection of
+Model W.
+<--------------------->
+
+<p 02><d 3323><a 1C><n 11>
+Cyber-elves exposed to
+data on fear are the
+<--------------------->
+
+key to reviving
+Model W.
+<--------------------->
+
+<p 02><d 3423><a 1C><n 11>
+I am the Model H
+Pseudoroid, Hurricaune!
+<--------------------->
+
+<p 02><d 3523><a 1C><n 11>
+You're about to become
+the next sacrifice.
+<--------------------->
+
+Just make sure to
+scream for me!
+<*********************>
+
+<p 02><d 3623><a 1C><n 11>
+Ahahaha! Your screams
+were delightful!
+<*********************>
+
+<p 02><d 3723><a 1C><n 11>
+Hah... Not bad... Do
+whatever you want with
+<--------------------->
+
+the people in the next
+room...
+<--------------------->
+
+<p 02><d 3823><a 1C><n 11>
+It won't matter anyway.
+Model W's awakening
+<--------------------->
+
+will still come to
+pass! Ahahaha!
+<*********************>
+
+<p 03><d 3923><a 33><n 07>
+It looks like you've
+recovered the password
+and my power.
+<--------------------->
+
+<p 03><d 3A23><a 33><n 07>
+I am grateful. However,
+it will take time to
+reassemble the password
+<--------------------->
+
+into something you can
+use.
+<--------------------->
+
+<p 03><d 3B23><a 33><n 07>
+Please be patient.
+<*********************>
+
+<p 02><d 3C23><a 02><n 04>
+The people are in
+that room. You have
+to free them.
+<*********************>
+
+<p 03><d 3D23><a 46><n 41>
+W-we're saved!!!
+<--------------------->
+
+<p 03><d 3E23><a 46><n 41>
+We were just about to
+become Cyber-elves!
+<--------------------->
+
+<p 03><d 3F23><a 46><n 41>
+Thank you for rescuing
+us!
+<--------------------->
+
+<p 02><d 4023><a 05><n 02>
+You were going to
+"become" Cyber-elves?
+What do you mean?
+<--------------------->
+
+<p 03><d 4123><a 46><n 41>
+Those bad guys, they
+steal our memories and
+<--------------------->
+
+change us into
+Cyber-elves.
+<--------------------->
+
+<p 03><d 4223><a 46><n 41>
+They were also trying
+to scare us before
+we changed.
+<--------------------->
+
+<p 03><d 4323><a 46><n 41>
+I saw them... I saw the
+others changing
+<--------------------->
+
+one-by-one into those
+Cyber-elves.
+<--------------------->
+
+<p 02><d 4423><a 02><n 04>
+So that's how they were
+able to create so many
+of them...
+<--------------------->
+
+<p 02><d 4523><a 02><n 04>
+They're even crueler
+than I had imagined.
+<--------------------->
+
+<p 02><d 4623><a 02><n 04>
+We'll send the people
+back to town. Thank you
+for saving them, Aile.
+<*********************>
+
+<FIM>

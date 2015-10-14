@@ -1,0 +1,1311 @@
+<script_info tipo='sdisk' personagem='indefinido' tamanho='17270' inicio_ponteiros='4' fim_ponteiros='389' inicio_textos='390' />
+<#####################>
+
+
+<dpad>Control Pad <esquerda>/<direita>: Select
+<btn_a>Button:OK <btn_b>Button:Cancel
+<*********************>
+
+
+<dpad>Control Pad: Select Disk
+<btn_a>Button:View <btn_b>Button:Cancel
+<*********************>
+
+
+Eyeballoon
+<*********************>
+
+
+This Mechaniloid was
+developed to prevent wild
+Outland birds from eating
+the crops. As this need
+faded, they were equipped
+with ring beam weapons to
+drive away other enemies.
+<*********************>
+
+
+Frostybear
+<*********************>
+
+
+This polar bear Mechaniloid
+has portable cooling units
+on its arms allowing it to
+create snowballs for hurling
+at enemies. While its arm
+temperature can drop below
+zero, it manages to stay
+warm internally.
+<*********************>
+
+
+Angle Cannon
+<*********************>
+
+
+This Mechaniloid's tough
+armor can repel any attack.
+Its powerful attack can
+also blast through any
+armor. However, every
+Achilles has a heel...
+<*********************>
+
+
+Web Bolt
+<*********************>
+
+
+This spider Mechaniloid
+lives in the wiring. Over
+time, it has evolved the
+ability to fire electric
+bolts to trap prey. With an
+infrared sensor in its
+stomach, it can operate just
+as effectively in the dark.
+<*********************>
+
+
+Rattrap
+<*********************>
+
+
+These Mechaniloid mice tend
+to come in huge numbers.
+With so many of them, they
+are sometimes prone to
+short-circuit and blow up.
+<*********************>
+
+
+Energy Cannon
+<*********************>
+
+
+This cannon has a protective
+hatch which will open up
+just long enough for it to
+fire an energy blast. Given
+time, it learns how to more
+efficiently utilize energy
+for more powerful attacks.
+<*********************>
+
+
+Shrimpstroke
+<*********************>
+
+
+This shrimp Mechaniloid
+propels backwards through
+the water. It uses its
+antennae to feel out enemies
+and will fire a shot when in
+range. The revolver-like
+segment acts like a turbine
+for propelling it.
+<*********************>
+
+
+Electric Dart
+<*********************>
+
+
+This hermit crab Mechaniloid
+is often found to crop up
+near lightning strikes and
+can use its powerful suction
+feet to move upside down on
+surfaces.
+<*********************>
+
+
+Auto Counter ECO
+<*********************>
+
+
+When hit, this Mechaniloid
+rains fire down on the
+surrounding area. It was
+originally designed for
+incinerating garbage, but is
+now being used for evil
+purposes.
+<*********************>
+
+
+Auto Counter POP
+<*********************>
+
+
+This Mechaniloid was
+originally designed to be a
+vending machine, but with a
+little tinkering it has been
+transformed into a strange
+weapon that rains junk food
+down on enemies when hit.
+<*********************>
+
+
+Cutting Gyro
+<*********************>
+
+
+This Mechaniloid regularly
+fires shots in two
+directions. The propellers
+are sharp blades that will
+cut anything that comes in
+contact with them into
+pieces.
+<*********************>
+
+
+Capsule Shooter
+<*********************>
+
+
+This cannon fires capsules
+that bounce off of floors
+and walls. Once the capsule
+settles down, it blows apart
+and shots come out.
+Cutting-edge prize machine
+technology is used to
+prevent capsule jamming.
+<*********************>
+
+
+Galleon Wing
+<*********************>
+
+
+This Galleon has a flight
+unit attached to its back.
+It can fly freely through
+the air while using its
+buster weapon to attack. Its
+frame is much lighter than a
+normal Galleon to aid in
+flight.
+<*********************>
+
+
+Galleon Shroud
+<*********************>
+
+
+This Galleon uses a bunker
+for protection. It opens a
+hatch to fire its bazooka
+and fires its buster weapon
+from a gap in the bunker. If
+the Galleon inside is
+destroyed, the bunker is
+taken down with it.
+<*********************>
+
+
+Galleon Diver
+<*********************>
+
+
+This Galleon rides an aqua
+cycle and receives
+compressed air from a pipe,
+allowing it to dive deep
+beneath the surface. If the
+pipe ruptures, the Galleon
+will succumb to water
+pressure and be destroyed.
+<*********************>
+
+
+Galleon Burner
+<*********************>
+
+
+This Galleon has a jet
+burner on each shoulder.
+When the fuel runs out, it
+will drop down and wait to
+recharge. It is outfitted
+with special heat shielding
+allowing it to withstand
+extreme temperatures.
+<*********************>
+
+
+Galleon Hunter
+<*********************>
+
+
+This is the basic Galleon
+model equipped with arm
+busters. It is programmed to
+follow orders and complete
+its mission at any cost.
+<*********************>
+
+
+Galleon Sledder
+<*********************>
+
+
+This unit has received
+training to handle its
+special features. They
+fire a bazooka from above
+and a buster from below.
+There are two jet engines
+attached to the sled.
+<*********************>
+
+
+Platform Cannon
+<*********************>
+
+
+This cannon Mechaniloid
+floats up and down in the
+air while firing shots from
+its sides. If the cannon
+gets destroyed, the floating
+platform left behind can be
+used as a foothold.
+<*********************>
+
+
+Carom
+<*********************>
+
+
+This floating security
+Mechaniloid can fire shots
+up & down or left & right.
+If it is on the receiving
+end of a powerful blast,
+it'll get sent flying.
+<*********************>
+
+
+Crickaleap
+<*********************>
+
+
+This wild Mechaniloid hops
+around erratically. A long
+time ago, an outbreak of the
+hoppers resulted in hundreds
+of casualties and they have
+been much feared ever since.
+<*********************>
+
+
+Sci-sensor
+<*********************>
+
+
+These assembly kit
+Mechaniloids were donated to
+schools all over by Slither
+Inc. They don't require glue
+or tools to put together and
+are quick to be thrown away
+when something else catches
+the child's fancy.
+<*********************>
+
+
+Spi-King
+<*********************>
+
+
+This weapon is comprised of
+30 recycled tires smashed
+together and fitted with 8
+dangerous spikes. The spikes
+give it the ability to roll
+anywhere regardless of the
+surface condition.
+<*********************>
+
+
+Springer
+<*********************>
+
+
+This security Mechaniloid
+uses its powerful springs to
+constantly leap about. It
+has a special stabilization
+system that prevents it from
+falling over.
+<*********************>
+
+
+Chain Anchor
+<*********************>
+
+
+The spike at the end of this
+Mechaniloid's chain attaches
+itself to a surface and
+sends a powerful electrical
+current coursing into the
+target. It's possible to
+grab onto the chain or use
+it as a footing.
+<*********************>
+
+
+Beanball
+<*********************>
+
+
+The principles of leverage
+are employed with this rock
+throwing Mechaniloid. If it
+manages to build up enough
+energy, the flaming rocks it
+hurls are enough to punch
+through walls and cause an
+explosion on impact.
+<*********************>
+
+
+Sphenalauncher
+<*********************>
+
+
+This iguana Mechaniloid
+fires the spikes on its back
+like missiles. It is
+normally quite docile, but
+if a perceived threat
+approaches, it will react
+aggressively.
+<*********************>
+
+
+Tornado Fencer
+<*********************>
+
+
+This drill-shaped
+Mechaniloid is constantly
+rotating at high speeds. It
+can put up a shield to block
+enemy attacks, but it has
+weak spots that can cause it
+to surge when hit.
+<*********************>
+
+
+Valkyraffe
+<*********************>
+
+
+This tall Mechaniloid is
+composed of three major
+segments - a head, neck and
+body segment. There is a
+unit contained within its
+body that can regenerate
+broken parts.
+<*********************>
+
+
+Pattrolaur
+<*********************>
+
+
+This security Mechaniloid
+was designed and developed
+by Slither Inc. It wears a
+helmet and appears in great
+numbers thanks to factory
+overproduction.
+<*********************>
+
+
+Bambooloss
+<*********************>
+
+
+This plant Mechaniloid is
+found in the forests of
+Innerpeace. Its roots are so
+deep that it's rumored all
+of them are connected to a
+single source.
+<*********************>
+
+
+Bee Rockets
+<*********************>
+
+
+These bee Mechaniloids are
+very territorial. They tend
+to travel in groups and are
+willing to sacrifice
+themselves for other
+members. On occasion, they
+will use their combined heat
+to trigger an explosion.
+<*********************>
+
+
+Whirling 38
+<*********************>
+
+
+It sprays out fire while
+spinning around at high
+speeds. Its rotational
+ability comes from an
+internal drive device. If it
+gets hit with too powerful a
+shock, it will fly off the
+rope. Exercise caution.
+<*********************>
+
+
+Whirling 44
+<*********************>
+
+
+This Mechaniloid continues
+to move up and down on a
+metal rope. Its original
+design is based on a toy
+that the designer's child
+used to play with. It was
+created to be art, but has
+become a dangerous weapon.
+<*********************>
+
+
+Fire Dart
+<*********************>
+
+
+This hermit crab Mechaniloid
+can use its powerful suction
+feet to move upside down on
+surfaces. With a little
+tinkering, these hot
+machines can be
+reverse-engineered to become
+a convenient cooking range.
+<*********************>
+
+
+Buoybuoy
+<*********************>
+
+
+This sea turtle Mechaniloid
+uses its fins to stay
+afloat. It protects itself
+from enemies by laying down
+bombs while swimming around.
+<*********************>
+
+
+Shock Face
+<*********************>
+
+
+This model of Mechaniloid
+was based on a giant face
+sculpture. It fires
+electricity that crawls
+across the ground. It used
+to let out a strange laugh,
+but that functionality was
+creepy and later removed.
+<*********************>
+
+
+Heat Face
+<*********************>
+
+
+This model of Mechaniloid is
+the second in a series based
+on giant face sculptures.
+This particular model
+breathes fire and will
+scorch any enemy that comes
+near. Many engineers were
+lost in the design phase.
+<*********************>
+
+
+Frozen Face
+<*********************>
+
+
+This model of Mechaniloid is
+the third in a series based
+on giant face sculptures. It
+fires frozen junk from its
+mouth at enemies and will
+make sad noises when no one
+is near.
+<*********************>
+
+
+Fly Chopper
+<*********************>
+
+
+These Mechaniloids tend to
+operate in groups of three
+and will vary their
+formations to try and
+confuse the enemy while they
+swoop in for an attack.
+<*********************>
+
+
+Batty
+<*********************>
+
+
+These bat Mechaniloids tend
+to appear out of nowhere and
+focus their attacks on
+weakened enemies. There's an
+urban legend that says the
+locations they congregate at
+are cursed.
+<*********************>
+
+
+Presto Cannon
+<*********************>
+
+
+This cannon has been weighed
+down with modifications to
+increase its firing and cool
+down rates. The main flaw in
+this design is that it is so
+heavy it can't move.
+<*********************>
+
+
+Hover Cannon
+<*********************>
+
+
+This cannon has two firing
+ports. If an enemy
+approaches, it attempts to
+use its hovering ability to
+run away, but it quickly
+runs out of power. It fires
+a special shot that breaks
+into three smaller shots.
+<*********************>
+
+
+Bora Bora
+<*********************>
+
+
+This fish Mechaniloid eats
+microbes, converting them to
+energy, and this helps clean
+the water making it quite
+environmentally friendly.
+However, it is not so
+friendly to enemies that
+enter its territory.
+<*********************>
+
+
+Marine General
+<*********************>
+
+
+This sea anemone Mechaniloid
+was designed from the
+beginning as a weapon. It
+was meant to provide an
+obstacle for enemies in the
+water and is based on a
+biological organism that has
+long gone extinct.
+<*********************>
+
+
+Mechadragon
+<*********************>
+
+
+These dragonfly Mechaniloids
+tend to move in groups and
+act as sentries. They begin
+to dart around upon sensing
+an enemy and transmit the
+imagery to another location.
+<*********************>
+
+
+Remettaur
+<*********************>
+
+
+A factory began to produce
+these special Mechaniloids
+on Slither Inc.'s request.
+Their helmets protect them
+from attacks and upon
+exploding, they will release
+smaller versions that run
+around and blow up.
+<*********************>
+
+
+Moth Queen
+<*********************>
+
+
+This wild Mechaniloid makes
+its home in frozen areas. It
+is mostly harmless and
+people often gather them to
+put on display.
+<*********************>
+
+
+Releaf
+<*********************>
+
+
+This Mechaniloid camouflages
+itself as a leaf. It can
+remain well-hidden in
+foliage, but will join with
+others to drive away
+threats. Their wings are
+sharper than they look and
+can cause serious damage.
+<*********************>
+
+
+Warp Prism
+<*********************>
+
+
+These mysterious entities
+were the result of research
+into ancient technology. The
+experiments conducted failed
+and resulted in these
+troublemakers. They will act
+aggressively towards
+perceived threats.
+<*********************>
+
+
+Rayfly
+<*********************>
+
+
+This giant flying machine
+drops bounce cannons from
+its cargo bays. It never
+comes in for a landing, so
+attacking it head-on is
+extremely difficult.
+<*********************>
+
+
+Omega
+<*********************>
+
+
+This mysterious Reploid was
+found in some ancient ruins.
+It was rumored to have been
+destroyed by a legendary red
+warrior.
+<*********************>
+
+
+Giga Aspis
+<*********************>
+
+
+Several large parts combine
+to create this giant snake
+Mechaniloid. Its body is
+covered in special plating
+that reflects all attacks.
+Its only weak spot is its
+head.
+<*********************>
+
+
+Giro (Model Z)
+<*********************>
+
+
+Giro transformed with the
+power of Model Z. He fell
+under the influence of
+Serpent and was used for
+evil.
+<*********************>
+
+
+Serpent (1st Form)
+<*********************>
+
+
+Serpent transformed into a
+battle form with the power
+of the Biometal Model W
+fragment. The orange horns
+associated with Model W can
+be found on his head,
+shoulders and feet.
+<*********************>
+
+
+Serpent (2nd Form)
+<*********************>
+
+
+Serpent's form after being
+absorbed into Model W. He
+continues to transform
+further upon taking damage.
+<*********************>
+
+
+Purprill
+<*********************>
+
+
+Purprill the Mandroid. Half
+of the Model P data is
+contained in his massive
+arms.
+<*********************>
+
+
+Hivolt
+<*********************>
+
+
+Hivolt the Raptoroid. Half
+of the Model H data is
+contained in his wings.
+<*********************>
+
+
+Hurricaune
+<*********************>
+
+
+Hurricaune the Wolveroid.
+Half of the Model H data is
+contained in her neck.
+<*********************>
+
+
+Pandora
+<*********************>
+
+
+The mysterious woman that
+always accompanies
+Prometheus. She has mastered
+the power of thunder and
+ice. She prefers to attack
+from a distance.
+<*********************>
+
+
+Fistleo
+<*********************>
+
+
+Fistleo the Predatoroid.
+Half of the Model F data is
+contained in his head.
+<*********************>
+
+
+Flammole
+<*********************>
+
+
+Flammole the Moleroid. Half
+of the Model F data is
+contained in his powerful
+arms.
+<*********************>
+
+
+Protectos
+<*********************>
+
+
+Protectos the Goreroid. Half
+of the Model P data is
+contained in his giant
+belly.
+<*********************>
+
+
+Prometheus
+<*********************>
+
+
+The mysterious man that
+always accompanies Pandora.
+He has mastered normal
+attacks as well as flame
+attacks. The giant scythe he
+wields is bigger than his
+body.
+<*********************>
+
+
+Lurerre
+<*********************>
+
+
+Lurerre the Abysroid. Half
+of the Model L data is
+contained in the lure she
+uses.
+<*********************>
+
+
+Leganchor
+<*********************>
+
+
+Leganchor the Gelroid. Half
+of the Model L data is
+contained in his head.
+<*********************>
+
+
+Diadrake
+<*********************>
+
+
+This Mechaniloid belonged to
+a wealthy individual.
+Several days after purchase,
+it was infected by a virus,
+began to act strangely,
+and was disposed of. It is
+equipped with a dispersion
+laser in its mouth.
+<*********************>
+
+
+Orehawk
+<*********************>
+
+
+This Mechaniloid belonged to
+a wealthy individual. It was
+programmed to obey its
+owner, but it ran away never
+to be heard from again. Its
+wings are like giant fans
+that can be launched as an
+attack mechanism. 
+<*********************>
+
+
+Deluxe Galleon Wing
+<*********************>
+
+
+A modified Galleon Wing that
+was introduced in combat on
+the assault against Guardian
+HQ. It has additional
+offensive functionality not
+found in the non-deluxe
+model such as nitro cans.
+<*********************>
+
+
+King Flyer
+<*********************>
+
+
+This giant fly Mechaniloid
+is operated by remote
+control. It uses a special
+chemical fuel called
+Methanhydrate and has only
+recently been put into
+production. Its numbers are
+still very limited.
+<*********************>
+
+
+Crushpactor
+<*********************>
+
+
+This compactor Mechaniloid
+was originally designed for
+crushing rocks, but has been
+retrofitted as a weapon.
+It's quite heavy, but once
+the treads get moving, it
+can move at incredible
+speeds.
+<*********************>
+
+
+Steephinx
+<*********************>
+
+
+This Mechaniloid belonged to
+a wealthy individual. A
+month after purchase, all
+functionality ceased and it
+was thrown away. It has
+three sets of logical
+circuits and its parts can
+operate independently.
+<*********************>
+
+
+Tentalamia
+<*********************>
+
+
+This Mechaniloid can stretch
+out tentacles from four
+different holes to attack
+enemies. It has been known
+to steal life from victims
+as well, so caution is
+required around it.
+<*********************>
+
+
+Powmettaur
+<*********************>
+
+
+This giant Mettaur moves
+about by jumping around
+despite its enormous size.
+It was designed as an
+amusement park mascot, but
+ended up being converted to
+a Mechaniloid.
+<*********************>
+
+
+Lava Demon
+<*********************>
+
+
+No attacks can penetrate the
+magma surrounding this
+Reploid. It's blind, but
+can detect enemies by their
+movements. When an enemy is
+spotted, it can transform
+into several variations for
+attacking.
+<*********************>
+
+
+Hareng
+<*********************>
+
+
+He always has to be the best
+at whatever he does. Hareng
+does what he can to act
+cool, but when push comes to
+shove he tends to lose it
+and his true personality
+comes out.
+<*********************>
+
+
+Anguille
+<*********************>
+
+
+He is quite reserved and is
+an expert at making others
+feel good about themselves.
+He serves as an assistant to
+the mechanic Silure. He can
+get emotional and when it
+comes to women, he does have
+a tendency to show off.
+<*********************>
+
+
+Operators
+<*********************>
+
+
+These three are in charge of
+Guardian HQ operations. They
+are (from left to right):
+Gardénia, Tulip and
+Marguerite.
+<*********************>
+
+
+Guardians
+<*********************>
+
+
+These are the most commonly
+seen Guardians. They might
+look alike, but they all
+have unique personalities
+once you get to know them.
+<*********************>
+
+
+Carrelet
+<*********************>
+
+
+He is passionate about his
+work and tends to dislike
+anyone that doesn't take
+their work seriously. He
+places his faith in logic
+above all else and because
+of this has issues with the
+emotional Anguille.
+<*********************>
+
+
+Congre
+<*********************>
+
+
+He is easily startled and
+his assignment as a Guardian
+soldier is one of the seven
+great Guardian mysteries.
+<*********************>
+
+
+Sardine
+<*********************>
+
+
+He is the only child Reploid
+in Guardian HQ. He is always
+playing with the toy Silure
+made him.
+<*********************>
+
+
+Silure
+<*********************>
+
+
+He is the head mechanic and
+Anguille's boss. He is busy,
+but is always willing to put
+together a toy in his free
+time. Fleuve has been known
+to consult with him from
+time to time.
+<*********************>
+
+
+Giro
+<*********************>
+
+
+This young man owns his own
+transporter business, Giro
+Express. He looks after
+children who have lost their
+parents and is wise beyond
+his years. His full name is
+Girouette, but most people
+just call him Giro.
+<*********************>
+
+
+Scombrésoce
+<*********************>
+
+
+He tends to stick his nose
+where it doesn't belong and
+this doesn't do anything to
+endear him to the other
+Guardians. Despite this bad
+side, he is always a
+gentleman to the ladies.
+<*********************>
+
+
+Cédre
+<*********************>
+
+
+She can be harsh at times,
+but it's obvious that she
+cares. She does have a
+tendency to get hot-blooded.
+In order to cool her down,
+Prairie assigned her to
+Guardian HQ instead of out
+in the field.
+<*********************>
+
+
+Serpent
+<*********************>
+
+
+This well-known president of
+Slither Inc. is considered a
+national hero for his
+handling of the energy
+crisis and the Maverick
+outbreak.
+<*********************>
+
+
+Truite
+<*********************>
+
+
+He is slow and overly
+careful about everything.
+Despite being thoughtful, he
+tends to get confused when
+talking to other people. No
+one ever has the heart to
+tell him he is wrong though.
+<*********************>
+
+
+Thon
+<*********************>
+
+
+The biggest, scariest
+Guardian of them all. He is
+a big guy, but loses his
+tough edge in front of
+Prairie.
+<*********************>
+
+
+Fleuve
+<*********************>
+
+
+He continues to perform
+research at Guardian HQ. He
+has a thirst for knowledge
+and would always choose
+reading a book as the
+perfect way to spend a free
+moment.
+<*********************>
+
+
+Prairie
+<*********************>
+
+
+The second commander of the
+Guardians. She values the
+stuffed animal the first
+commander gave her a long
+time ago.
+<*********************>
+
+
+Stuffed Animal
+<*********************>
+
+
+This cute stuffed animal is
+a present from the first
+Guardian commander to
+Prairie. It has seen better
+days and its back in
+particular seems to have
+been stitched up countless
+times.
+<*********************>
+
+
+Townspeople
+<*********************>
+
+
+These people live freely
+under the umbrella of
+Slither Inc.'s protection.
+They are very leery of
+potential Mavericks and are
+not very talkative to
+strangers.
+<*********************>
+
+
+Muguet
+<*********************>
+
+
+She is in charge of the
+medical facilities at
+Guardian HQ. Her bedside
+manner is a bit rough around
+the edges, but her treatment
+is top notch.
+<*********************>
+
+
+Rose
+<*********************>
+
+
+She is the shy assistant to
+Muguet. A lot of people make
+the mistake of thinking she
+never speaks, but once
+someone gets her talking,
+she never stops.
+<*********************>
+
+
+This secret disk has not
+been analyzed yet.
+<*********************>
+
+<FIM>

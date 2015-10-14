@@ -1,0 +1,156 @@
+<script_info tipo='Quest 13' personagem='Aile' tamanho='1329' inicio_ponteiros='4' fim_ponteiros='23' inicio_textos='24' />
+<#####################>
+
+<p 02><a 2A><n 1E>
+*sigh* Oh, it's you
+Aile...
+<--------------------->
+
+<p 02><a 2A><n 1E>
+Actually...
+<--------------------->
+
+<p 02><a 2A><n 1E>
+I've been transferred,
+so I'll be leaving HQ
+soon...
+<--------------------->
+
+<p 02><a 2A><n 1E>
+Could you deliver one
+last letter for me?
+<*********************>
+
+<p 02><a 2A><n 1E>
+I've passed the letter
+on to the transerver.
+<--------------------->
+
+<p 02><a 2A><n 1E>
+*sigh*
+<*********************>
+
+<p 02><a 02><n 55>
+Deliver the letter to
+the woman in Area C-2.
+<*********************>
+
+<e 01><a 02><n 55>
+  Yes
+  No
+<*********************>
+
+<p 02><a 2A><n 1E>
+Did you deliver it yet?
+<--------------------->
+
+<p 02><a 2A><n 1E>
+Maybe it's better if it
+never even gets
+delivered...
+<*********************>
+
+<p 02><a 4B><n 46>
+Hey transporter, you
+don't look your usual
+cheerful self.
+<--------------------->
+
+<p 02><a 4B><n 46>
+Let me take a look at
+the letter.
+<--------------------->
+
+<p 02><a 4B><n 46>
+"I've been transferred.
+I'll no longer be
+stationed at HQ..."
+<--------------------->
+
+<p 02><a 4B><n 46>
+"This will be the last
+letter I write."
+<--------------------->
+
+<p 02><a 4B><n 46>
+"I'll probably never
+see you again. Goodbye
+forever..."
+<--------------------->
+
+<p 02><a 4B><n 46>
+...
+<--------------------->
+
+<p 02><a 4B><n 46>
+I never really liked
+the guy, but now I feel
+kind of... sad.
+<*********************>
+
+<p 02><a 2A><n 1E>
+I knew all along...
+<--------------------->
+
+<p 02><a 2A><n 1E>
+That she never really
+liked me.
+<--------------------->
+
+<p 02><a 2A><n 1E>
+I always just tried to
+see the glass as half
+full...
+<--------------------->
+
+Even when it was empty.
+<--------------------->
+
+<p 02><a 2A><n 1E>
+Now I don't need to
+deceive myself anymore.
+<--------------------->
+
+<p 02><a 2A><n 1E>
+Aile, thank you for
+helping me with all of
+those letters.
+<*********************>
+
+<p 02><a 4B><n 46>
+Hi there.
+<--------------------->
+
+<p 02><a 4B><n 46>
+I'm not good at this
+kind of stuff, but tell
+him not to be sad.
+<*********************>
+
+<p 02><a 02><n 55>
+Quest completed.
+<--------------------->
+
+<p 02><a 02><n 55>
+350 EC have been
+transferred to your
+account.
+<*********************>
+
+<p 02><a 2A><n 1E>
+It doesn't matter what
+she said...
+<--------------------->
+
+<p 02><a 2A><n 1E>
+It's not like I'll ever
+see her again anyway.
+<--------------------->
+
+<p 02><a 2A><n 1E>
+She probably doesn't
+care what happens to
+me.
+<*********************>
+
+<FIM>

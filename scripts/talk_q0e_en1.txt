@@ -1,0 +1,154 @@
+<script_info tipo='Quest 14' personagem='Vent' tamanho='1399' inicio_ponteiros='4' fim_ponteiros='25' inicio_textos='26' />
+<#####################>
+
+<p 02><a 4B><n 46>
+Hey there transporter.
+I have a favor to ask
+of you.
+<--------------------->
+
+<p 02><a 4B><n 46>
+Could you deliver a
+letter to you-know-who
+in Guardian HQ for me?
+<*********************>
+
+<p 02><a 4B><n 46>
+I'll send the letter to
+the transerver.
+<*********************>
+
+<p 02><a 02><n 55>
+Deliver the letter to
+Truite in Guardian HQ.
+<*********************>
+
+<e 01><a 02><n 55>
+  Yes
+  No
+<*********************>
+
+<p 02><a 2A><n 1E>
+A letter for me? I
+wonder who it could be
+from?
+<--------------------->
+
+<p 02><a 2A><n 1E>
+Oh, it's from her! What
+could she be writing
+me about...
+<--------------------->
+
+<p 02><a 2A><n 1E>
+"The man I passed in
+the street that day is
+<--------------------->
+
+not the kind of man
+that gets discouraged."
+<--------------------->
+
+<p 02><a 2A><n 1E>
+"I don't like the fact
+that you're stubborn
+and overly optimistic."
+<--------------------->
+
+<p 02><a 2A><n 1E>
+"But I don't like you
+being negative even
+more."
+<--------------------->
+
+<p 02><a 2A><n 1E>
+...
+<--------------------->
+
+<p 02><a 2A><n 1E>
+I wonder if that means
+she likes me or hates
+me...
+<*********************>
+
+<p 02><a 4B><n 46>
+That's the first time
+I've ever written a
+letter.
+<--------------------->
+
+I hope it helped him
+feel better.
+<--------------------->
+
+<p 02><a 4B><n 46>
+I have to admit, I was
+really annoyed by all
+of his silly letters.
+<--------------------->
+
+<p 02><a 4B><n 46>
+But now that I know I
+won't be getting
+anymore,
+<--------------------->
+
+I'm kind of sad.
+<*********************>
+
+<p 02><a 4B><n 46>
+Well, I just hope my
+letter cheered him up.
+<--------------------->
+
+<p 02><a 4B><n 46>
+You don't think it was
+too much, do you?
+<*********************>
+
+<p 02><a 2A><n 1E>
+I was just happy to get
+a reply for the first
+time.
+<--------------------->
+
+<p 02><a 2A><n 1E>
+But it's only a matter
+of time before I pass
+<--------------------->
+
+out of her thoughts
+entirely...
+<*********************>
+
+<p 02><a 02><n 55>
+Quest completed.
+<--------------------->
+
+<p 02><a 02><n 55>
+100 EC have been
+transferred to your
+account.
+<*********************>
+
+<p 02><a 4B><n 46>
+Thank you...
+<--------------------->
+
+<p 02><a 4B><n 46>
+If I ever have another
+letter, I know who to
+call!
+<*********************>
+
+<p 02><a 2A><n 1E>
+To make sure I always
+remember her,
+<--------------------->
+
+I've recorded my 
+memories of her onto a
+special chip.
+<*********************>
+
+<FIM>

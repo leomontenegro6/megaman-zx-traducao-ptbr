@@ -1,0 +1,294 @@
+<script_info tipo='Missão 10' personagem='Vent' tamanho='2903' inicio_ponteiros='4' fim_ponteiros='23' inicio_textos='24' />
+<#####################>
+
+<p 02><d 1127><a 02><n 55>
+We received a report
+about the Guardian
+recon unit
+<--------------------->
+
+data disk intercepted
+by the enemy.
+<--------------------->
+
+<p 02><d 1227><a 02><n 55>
+The word is that the
+Slither Inc. unit that
+has it is on the move.
+<--------------------->
+
+<p 02><d 1327><a 02><n 55>
+The enemy is
+transporting it using a
+<--------------------->
+
+tunnel deep under the
+sea in Area J.
+<--------------------->
+
+<p 02><d 1427><a 02><n 55>
+Head to Area J and
+recover the data disk.
+<*********************>
+
+<p 02><d 1527><a 02><n 04>
+The data disk contains
+the report that Sis was
+<--------------------->
+
+working on while she
+was in the recon unit.
+<--------------------->
+
+<p 02><d 1627><a 05><n 01>
+So it contains the rest
+of what we decoded from
+<--------------------->
+
+the other disk we found
+at the distress call
+source...
+<--------------------->
+
+<p 02><d 1727><a 02><n 04>
+We found the enemy
+delivery unit along
+<--------------------->
+
+with a Biometal
+signature.
+<--------------------->
+
+<p 02><d 1827><a 02><n 04>
+There must be something
+important stored on
+that disk.
+<--------------------->
+
+<p 02><d 1927><a 02><n 04>
+The Biometal signature
+is further back in the
+same area.
+<--------------------->
+
+Be careful Vent.
+<*********************>
+
+<p 03><d 1A27><a 1E><n 13>
+Hwahaha! So you're the
+great Mega Man that
+keeps trying to
+<--------------------->
+
+interfere with our
+plans.
+<--------------------->
+
+<p 03><d 1B27><a 1E><n 13>
+I suppose it's asking
+too much to expect
+someone so young
+<--------------------->
+
+to understand what
+we're trying to do.
+<--------------------->
+
+<p 03><d 1C27><a 1E><n 13>
+You should respect your
+elders and listen to us
+old folk.
+<--------------------->
+
+<p 02><d 1D27><a 05><n 01>
+I don't usually listen
+to shady types like you
+<--------------------->
+
+that go around and hide
+the truth.
+<--------------------->
+
+<p 02><d 1E27><a 05><n 01>
+So don't expect any
+respect from me.
+<--------------------->
+
+<p 03><d 1F27><a 1E><n 13>
+Hwahaha! Sometimes
+ignorance is bliss
+little one!
+<--------------------->
+
+<p 03><d 2027><a 1E><n 13>
+I am the Model L
+Pseudoroid, Leganchor.
+<--------------------->
+
+<p 03><d 2127><a 1E><n 13>
+It looks like I'll have
+to teach you some
+respect.
+<*********************>
+
+<p 03><d 2227><a 1E><n 13>
+Now that's a good
+little boy.
+<--------------------->
+
+Sleep tight at the
+bottom of the sea.
+<*********************>
+
+<p 03><d 2327><a 1E><n 13>
+Why... Why do you fight
+so hard?
+<--------------------->
+
+Why do you risk your
+life for those fools?
+<--------------------->
+
+<p 03><d 2427><a 1E><n 13>
+Youth is wasted... on
+the young...
+<*********************>
+
+<p 03><d 2527><a 35><n 09>
+How could anyone give
+my power to someone
+like that!?
+<--------------------->
+
+<p 03><d 2627><a 35><n 09>
+I'm sorry, it'll take
+some time to recover
+the password.
+<--------------------->
+
+<p 03><d 2727><a 35><n 09>
+I'll make sure it's
+available before
+<--------------------->
+
+you have to take on
+Model W.
+<*********************>
+
+<p 02><d 2827><a 02><n 04>
+Vent, the data disk,
+is...
+<--------------------->
+
+<p 02><d 2927><a 05><n 01>
+Yeah, the recon unit
+report is on it.
+<*********************>
+
+<p 02><a 04><n 00>
+The recon unit was
+wiped out by the act of
+one of our own.
+<*********************>
+
+<p 01><p 02><a 04><n 00>
+His name is Serpent and
+he was always the one
+<--------------------->
+
+most interested in the
+Model W fragment.
+<--------------------->
+
+<p 01><p 02><a 04><n 00>
+He erased the research
+data and vanished with
+the Biometal.
+<--------------------->
+
+<p 01><p 02><a 04><n 00>
+I've never heard of a
+Maverick that powerful.
+<--------------------->
+
+<p 01><p 02><a 04><n 00>
+Model W must have
+transformed him into
+"something else."
+<--------------------->
+
+<p 01><p 02><a 04><n 00>
+We now know that
+Model W has the power
+to create an enemy much
+<--------------------->
+
+more terrifying than
+the Mavericks.
+<*********************>
+
+<p 02><a 04><n 00>
+I only hope that our
+sacrifice bought the
+<--------------------->
+
+commander enough time
+to escape.
+<--------------------->
+
+<p 02><a 04><n 00>
+I don't have much
+longer. I pray that
+this data
+<--------------------->
+
+doesn't fall into the
+wrong hands.
+<--------------------->
+
+<p 02><d 2A27><a 02><n 04>
+Serpent was awfully
+worried about that data
+leaking out.
+<--------------------->
+
+<p 02><d 2B27><a 02><n 04>
+He must have known the
+reaction the people of
+<--------------------->
+
+this country would have
+if they knew the truth.
+<--------------------->
+
+<p 02><d 2C27><a 02><n 04>
+Send the data disk
+along with your mission
+report.
+<--------------------->
+
+<p 02><d 2D27><a 02><n 04>
+We can't allow the
+information contained
+on it to get out until
+<--------------------->
+
+we know exactly what
+it is.
+<--------------------->
+
+<p 02><d 2E27><a 05><n 01>
+Alright, I'll send it.
+<--------------------->
+
+<p 02><d 2F27><a 02><n 04>
+Sis... She must have
+gotten away while the
+others protected her.
+<--------------------->
+
+<p 02><d 3027><a 05><n 01>
+...
+<*********************>
+
+<FIM>

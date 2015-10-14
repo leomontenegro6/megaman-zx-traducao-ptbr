@@ -1,0 +1,121 @@
+<script_info tipo='Quest 2' personagem='Aile' tamanho='1042' inicio_ponteiros='4' fim_ponteiros='19' inicio_textos='20' />
+<#####################>
+
+<p 02><a 2B><n 1F>
+Sorry to bother you,
+but I have a small
+favor to ask...
+<--------------------->
+
+<p 02><a 2B><n 1F>
+I always get so carried
+away...
+<--------------------->
+
+<p 02><a 2B><n 1F>
+And well, last time I
+was in town, someone
+asked for my help.
+<--------------------->
+
+<p 02><a 2B><n 1F>
+I promised to pluck out
+the weeds from their
+roof.
+<--------------------->
+
+<p 02><a 2B><n 1F>
+But... I'm afraid of
+heights.
+<--------------------->
+
+<p 02><a 2B><n 1F>
+Could you help me out
+on this one?
+<*********************>
+
+<p 02><a 2B><n 1F>
+Please... Clean off the
+weeds from the rooftop.
+<--------------------->
+
+<p 02><a 2B><n 1F>
+If you don't, people
+will go around thinking
+<--------------------->
+
+the Guardians are
+liars.
+<--------------------->
+
+<p 02><a 2B><n 1F>
+If you lose trust once,
+it's almost impossible
+to earn it back.
+<*********************>
+
+<p 02><a 02><n 55>
+Cut the weeds on the
+roof in Area C-2.
+<*********************>
+
+<e 01><a 02><n 55>
+  Yes
+  No
+<*********************>
+
+<p 02><a 2B><n 1F>
+You can't leave a
+single weed behind or
+<--------------------->
+
+I'll never be able to
+show my face in town
+again!
+<*********************>
+
+<p 02><a 2B><n 1F>
+You cleaned away all of
+the weeds!?
+<--------------------->
+
+<p 02><a 2B><n 1F>
+You have my thanks!
+<--------------------->
+
+<p 02><a 2B><n 1F>
+I've sent along a
+little token of my
+<--------------------->
+
+gratitude to the
+transerver.
+<*********************>
+
+<p 02><a 02><n 55>
+Quest completed.
+<--------------------->
+
+<p 02><a 02><n 55>
+200 EC have been
+transferred to your
+account.
+<*********************>
+
+<p 02><a 2B><n 1F>
+The roof is clean and
+the Guardians can keep
+their positive image.
+<--------------------->
+
+<p 02><a 2B><n 1F>
+Thank you!
+<--------------------->
+
+<p 02><a 2B><n 1F>
+I'll try not to get too
+carried away next
+time...
+<*********************>
+
+<FIM>

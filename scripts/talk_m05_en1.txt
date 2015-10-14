@@ -1,0 +1,321 @@
+<script_info tipo='Missão 5' personagem='Vent' tamanho='3164' inicio_ponteiros='4' fim_ponteiros='19' inicio_textos='20' />
+<#####################>
+
+<p 02><d 8913><a 02><n 55>
+I've detected a
+Biometal signature in
+<--------------------->
+
+Area E outside the
+residential district.
+<--------------------->
+
+<p 02><d 8A13><a 02><n 55>
+Slither Inc. owns the
+power plant there.
+<--------------------->
+
+<p 02><d 8B13><a 02><n 55>
+The facility was raided
+by Mavericks a long
+time ago.
+<--------------------->
+
+<p 02><d 8C13><a 02><n 55>
+Ever since then no one
+has dared go anywhere
+near it.
+<--------------------->
+
+<p 02><d 8D13><a 02><n 55>
+Investigate the plant
+and retrieve the
+Biometal.
+<*********************>
+
+<p 02><d 8E13><a 02><n 04>
+The plant... It's still
+active and producing
+energy.
+<--------------------->
+
+<p 02><d 8F13><a 02><n 04>
+According to the
+database, it has been
+<--------------------->
+
+offline ever since the
+Maverick raid.
+<--------------------->
+
+<p 02><d 9013><a 02><n 04>
+There's something fishy
+going on. Be careful
+Vent.
+<*********************>
+
+<p 02><d 9113><a 05><n 01>
+What's this? There are
+tiny balls of light
+<--------------------->
+
+circling around the
+facility.
+<*********************>
+
+<p 02><d 9213><a 02><n 04>
+This signature...
+Cyber-elves!?
+<--------------------->
+
+<p 02><d 9313><a 05><n 01>
+Cyber-elves? What are
+those?
+<--------------------->
+
+<p 02><d 9413><a 02><n 04>
+Sentient programs
+created with pure
+<--------------------->
+
+energy and made in the
+image of elves.
+<--------------------->
+
+<p 02><d 9513><a 02><n 04>
+I don't understand why
+there are so many of
+them here.
+<--------------------->
+
+<p 02><d 9613><a 02><n 04>
+That power plant...
+<--------------------->
+
+<p 02><d 9713><a 02><n 04>
+It must be using the
+Cyber-elves to generate
+power!
+<--------------------->
+
+<p 02><d 9813><a 05><n 01>
+So that's the secret
+behind this place.
+<--------------------->
+
+<p 02><d 9913><a 02><n 04>
+Unbelievable!
+Cyber-elves are all
+<--------------------->
+
+sentient beings like
+the rest of us!
+<--------------------->
+
+<p 02><d 9A13><a 02><n 04>
+Vent, please, you must
+shut down that power
+plant!
+<*********************>
+
+<p 03><d 9B13><a 1B><n 10>
+Well, well. It looks
+like you've found the
+skeleton in our closet.
+<--------------------->
+
+<p 03><d 9C13><a 1B><n 10>
+That's unfortunate. Now
+I can't let you leave
+in one piece.
+<--------------------->
+
+<p 02><d 9D13><a 07><n 01>
+You're one of the
+Mavericks that Serpent
+is controlling!
+<--------------------->
+
+<p 03><d 9E13><a 1B><n 10>
+You've done your
+research. It looks like
+<--------------------->
+
+I can skip the
+introduction.
+<--------------------->
+
+<p 03><d 9F13><a 1B><n 10>
+However, make no
+mistake, I'm not just a
+<--------------------->
+
+simple puppet like
+those Mavericks.
+<--------------------->
+
+<p 03><d A013><a 1B><n 10>
+I'm an artificial Mega
+Man created to draw out
+<--------------------->
+
+the power of the
+Biometal.
+<--------------------->
+
+<p 03><d A113><a 1B><n 10>
+I'm the Model H
+Pseudoroid, Hivolt.
+<--------------------->
+
+<p 03><d A213><a 1B><n 10>
+Have no fear. It'll all
+be over soon.
+<--------------------->
+
+<p 03><d A313><a 1B><n 10>
+You'll just feel a
+little jolt before you
+sleep forever!
+<*********************>
+
+<p 01><p 03><d A413><a 1B><n 10>
+Curiosity got the cat,
+and your curiosity just
+got you.
+<*********************>
+
+<p 03><d A513><a 1B><n 10>
+Hah... The energy we've
+produced here is
+<--------------------->
+
+already well on its
+way to Lord Serpent.
+<--------------------->
+
+<p 03><d A613><a 1B><n 10>
+All that's left is for
+him to hack into the
+Model W Core.
+<--------------------->
+
+<p 03><d A713><a 1B><n 10>
+Poor misguided fool.
+Your end draws near as
+a new age is beginning!
+<*********************>
+
+<p 03><d A813><a 33><n 07>
+I am the Biometal of
+the Wind, Model H.
+<--------------------->
+
+<p 03><d A913><a 33><n 07>
+Thank you for saving
+me, young hero.
+<--------------------->
+
+<p 02><d AA13><a 05><n 01>
+Lend me your strength
+Model H.
+<--------------------->
+
+<p 02><d AB13><a 05><n 01>
+I have to find the
+passwords and destroy
+<--------------------->
+
+the Model W Core
+before it's too late!
+<--------------------->
+
+<p 03><d AC13><a 33><n 07>
+Do you think that will
+end this?
+<--------------------->
+
+<p 02><d AD13><a 05><n 01>
+What do you mean?
+<--------------------->
+
+<p 03><d AE13><a 33><n 07>
+All of this was started
+by a single man.
+<--------------------->
+
+<p 03><d AF13><a 33><n 07>
+Even if you destroy the
+Model W Core and stop
+Serpent...
+<--------------------->
+
+<p 03><d B013><a 33><n 07>
+What's to stop another
+madman from rising up
+and taking his place?
+<--------------------->
+
+<p 02><d B113><a 08><n 01>
+I... don't know...
+<--------------------->
+
+<p 02><d B213><a 08><n 01>
+But what I do know is
+that Serpent is about
+to destroy the world!
+<--------------------->
+
+<p 02><d B313><a 07><n 01>
+I'm the only one that
+can stop it now. I
+can't give up!
+<--------------------->
+
+<p 03><d B413><a 33><n 07>
+Hmph. Those humans we
+fought so hard to
+<--------------------->
+
+protect hundreds of
+years ago have been
+<--------------------->
+
+<p 03><d B513><a 33><n 07>
+lulled into a false
+sense of security by
+<--------------------->
+
+the empty promise of
+peace.
+<--------------------->
+
+<p 03><d B613><a 33><n 07>
+But I still believe our
+fight had meaning.
+<--------------------->
+
+<p 03><d B713><a 33><n 07>
+So, young hero, yes I
+will lend you my
+strength.
+<--------------------->
+
+<p 03><d B813><a 33><n 07>
+Serpent has separated
+my data into two
+halves.
+<--------------------->
+
+There is another
+Pseudoroid with the
+other part.
+<--------------------->
+
+<p 03><d B913><a 33><n 07>
+If you can defeat it, I
+will be able to give
+you my password.
+<*********************>
+
+<FIM>

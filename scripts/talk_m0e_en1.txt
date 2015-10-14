@@ -1,0 +1,478 @@
+<script_info tipo='Missão 14' personagem='Vent' tamanho='4463' inicio_ponteiros='4' fim_ponteiros='69' inicio_textos='70' />
+<#####################>
+
+<p 02><d B136><a 02><n 04>
+We finally have all six
+Biometal fragments.
+<--------------------->
+
+<p 02><d B236><a 02><n 04>
+We must regroup and
+prepare. Head back to
+HQ.
+<*********************>
+
+<p 02><d B336><a 09><n 04>
+Good work.
+<--------------------->
+
+<p 02><d B436><a 09><n 04>
+We've successfully
+recovered the content
+on the data disk you
+<--------------------->
+
+brought back from the
+research lab.
+<--------------------->
+
+<p 02><d B536><a 09><n 04>
+It was left behind by
+Sis after all.
+<*********************>
+
+<p 03><d B636><a 05><n 01>
+It looked like a report
+about the Biometal.
+What was on it?
+<--------------------->
+
+<p 02><d B736><a 0B><n 04>
+It describes Model W,
+Model X, Model Z...
+<--------------------->
+
+Everything about the
+Biometal.
+<--------------------->
+
+<p 02><d B836><a 0B><n 04>
+Including its true
+nature.
+<--------------------->
+
+<p 03><d B936><a 05><n 01>
+...
+<*********************>
+
+<p 01><p 02><d BA36><a 0B><n 04>
+In the war hundreds of
+years ago, there was a
+<--------------------->
+
+man who tried to
+conquer the world.
+<--------------------->
+
+<p 01><p 02><d BB36><a 0B><n 04>
+In order to carry out
+his mad scheme, he
+created a giant
+<--------------------->
+
+battle station in space
+known as Ragnarok.
+<--------------------->
+
+<p 01><p 02><d BC36><a 0B><n 04>
+He fused with
+Ragnarok, but he was
+<--------------------->
+
+challenged by a hero
+and defeated.
+<--------------------->
+
+<p 01><p 02><d BD36><a 0B><n 04>
+Ragnarok broke apart
+and fell through the
+atmosphere, burning
+<--------------------->
+
+brightly like a
+shooting star in the
+night sky.
+<--------------------->
+
+<p 01><p 02><d BE36><a 0B><n 04>
+That image will be
+burned into my mind
+forever.
+<*********************>
+
+<p 03><d BF36><a 05><n 01>
+Then that means Model W
+is...
+<--------------------->
+
+<p 02><d C036><a 0B><n 04>
+Yes, the soul of that
+man contained in a
+<--------------------->
+
+fragment of Ragnarok.
+That's Model W.
+<--------------------->
+
+<p 02><d C136><a 0B><n 04>
+Sis recognized its
+existence and set about
+<--------------------->
+
+to create something
+capable of fighting the
+threat.
+<--------------------->
+
+<p 02><d C236><a 0B><n 04>
+She used her research
+to create Biometal
+with the powers of
+<--------------------->
+
+legendary heroes from
+an age long ago.
+<--------------------->
+
+<p 03><d C336><a 05><n 01>
+So she succeeded. What
+happened next?
+<--------------------->
+
+<p 02><d C436><a 0C><n 04>
+I don't know. That's
+where the data ends.
+<*********************>
+
+<p 03><d C536><a 05><n 01>
+Oh...
+<--------------------->
+
+<p 03><d C636><a 05><n 01>
+Model X, do you know
+what became of
+Prairie's sister?
+<--------------------->
+
+<p 03><d C736><a 31><n 05>
+I'm sorry. I don't
+remember anything.
+<--------------------->
+
+<p 03><d C836><a 31><n 05>
+All of our memories of
+the moments after our
+creation were erased.
+<--------------------->
+
+<p 03><d C936><a 31><n 05>
+Vent. We have assembled
+all of the passwords.
+<*********************>
+
+<p 03><d CA36><a 31><n 05>
+With them, you can
+enter the ruins where
+the Model W Core lies.
+<*********************>
+
+<p 03><d CB36><a 05><n 01>
+They've been digging
+and are probably close
+to the core by now.
+<--------------------->
+
+We have to hurry!
+<*********************>
+
+<p 02><d CC36><a 09><n 04>
+You're right! I'll
+enter the mission data
+<--------------------->
+
+into the transerver
+right away!
+<--------------------->
+
+<p 02><d CD36><a 09><n 04>
+Vent, this is going to
+be dangerous. Be
+careful!
+<*********************>
+
+<p 02><d CE36><a 02><n 55>
+Slither Inc. is at the
+ruins.
+<--------------------->
+
+<p 02><d CF36><a 02><n 55>
+They're digging down to
+the Model W Core.
+<--------------------->
+
+<p 02><d D036><a 02><n 55>
+Head to Area M and stop
+the dig.
+<*********************>
+
+<p 02><d D136><a 05><n 01>
+Model W is close...
+<*********************>
+
+<p 02><d D236><a 32><n 06>
+We'll open the door
+when you're ready.
+<*********************>
+
+<p 02><d D336><a 07><n 01>
+I'm as ready as I'll
+ever be.
+<*********************>
+
+<p 02><d D436><a 31><n 05>
+Everyone... Input your
+passwords.
+<*********************>
+
+<p 02><d D536><a 33><n 07>
+I am the wind that
+blows through the sky,
+Ventus Airus.
+<*********************>
+
+<p 02><d D636><a 35><n 09>
+I am the water that
+flows across the land,
+Glacius Passio.
+<*********************>
+
+<p 02><d D736><a 34><n 08>
+I am the fire that
+brings heat to all
+life, Flamma Wies.
+<*********************>
+
+<p 02><d D836><a 36><n 0A>
+I am the shadow that
+never leaves the side
+of justice,
+<--------------------->
+
+Umbra Profess.
+<*********************>
+
+<p 02><d D936><a 31><n 05>
+I am the light that
+illuminates all
+possibilities,
+<--------------------->
+
+Lumine Infinitus...
+<*********************>
+
+<p 02><d DA36><a 32><n 06>
+I am the courage that
+fights for beliefs,
+Fortitude Creed...
+<*********************>
+
+<p 02><d DB36><a 31><n 05>
+Let's go!
+<*********************>
+
+<p 02><d DC36><a 32><n 06>
+The rest is up to you.
+<*********************>
+
+<p 01><p 03><d DD36><a 14><n 0C>
+Well well, it looks
+like you found me.
+<--------------------->
+
+<p 01><p 03><d DE36><a 14><n 0C>
+I never could have
+imagined that little
+<--------------------->
+
+boy I met would
+survive this long.
+<--------------------->
+
+<p 01><p 02><d DF36><a 07><n 01>
+Serpent!
+<--------------------->
+
+<p 01><p 03><d E036><a 14><n 0C>
+It's a shame you're too
+late.
+<--------------------->
+
+<p 01><p 03><d E136><a 14><n 0C>
+Witness the power to
+control the world! The
+true form of Model W!
+<*********************>
+
+<p 01><p 02><d E236><a 07><n 01>
+!!!
+<--------------------->
+
+<p 01><p 03><d E336><a 14><n 0C>
+Do you feel it!? Its
+glorious presence is
+starting to rise!
+<--------------------->
+
+<p 01><p 03><d E436><a 14><n 0C>
+Even the precious
+Biometal in your
+possession is
+<--------------------->
+
+insignificant compared
+to the might of
+Model W!
+<--------------------->
+
+<p 01><p 03><d E536><a 14><n 0C>
+Finally, the power is
+mine! All of it!
+<*********************>
+
+<p 03><d E636><a 14><n 0C>
+Pandora!
+<*********************>
+
+<p 03><d E736><a 14><n 0C>
+We have an honored
+guest favoring us with
+his presence.
+<--------------------->
+
+Take good care of him.
+<--------------------->
+
+<p 03><d E836><a 19><n 0E>
+I will...
+<--------------------->
+
+<p 03><d E936><a 14><n 0C>
+Project Haven is now in
+its final stage!
+<--------------------->
+
+<p 03><d EA36><a 14><n 0C>
+Gaze upon the
+beginning of a brand
+new age!
+<*********************>
+
+<p 03><d EB36><a 19><n 0E>
+Model ZX... Mega Man...
+<--------------------->
+
+<p 03><d EC36><a 19><n 0E>
+You will not...
+interfere...
+<*********************>
+
+<p 02><d ED36><a 07><n 01>
+No! Model W!
+<--------------------->
+
+<p 03><d EE36><a 19><n 0E>
+The wheel of fate... in
+motion...
+<--------------------->
+
+No one can stop... our
+destiny of
+destruction...
+<--------------------->
+
+<p 03><d EF36><a 19><n 0E>
+Not you... Not
+Serpent... No one...
+<--------------------->
+
+<p 02><d F036><a 07><n 01>
+What!?
+<*********************>
+
+<p 02><d F136><a 07><n 01>
+Destiny of
+destruction!? What are
+they trying to do!?
+<*********************>
+
+<p 02><d F236><a 02><n 04>
+Vent! The Slither Inc.
+fleet is on the move!
+<--------------------->
+
+<p 02><d F336><a 07><n 01>
+I couldn't stop the
+reawakening of Model W
+in time!
+<--------------------->
+
+Can you catch them?
+<*********************>
+
+<p 02><d F436><a 02><n 04>
+We'll do what we can!
+Hold on!
+<--------------------->
+
+<p 02><d F536><a 02><n 04>
+Wh-what's this!?
+<--------------------->
+
+<p 02><d F636><a 02><n 04>
+There is a massive
+outbreak of Mavericks
+<--------------------->
+
+detected in the western
+region of Area D!
+<--------------------->
+
+<p 02><d F736><a 02><n 04>
+The readings are off
+the chart and
+interfering with
+<--------------------->
+
+our ability to track
+Model W!
+<--------------------->
+
+<p 02><d F836><a 07><n 01>
+Seeerpeeent!!!
+<--------------------->
+
+<p 02><d F936><a 02><n 04>
+I've added the mission
+data for the Mavericks!
+<--------------------->
+
+<p 02><d FA36><a 02><n 04>
+Get prepared and start
+the mission ASAP!
+<--------------------->
+
+<p 02><d FB36><a 02><n 04>
+I'll do what I can to
+get a fix on Model W's
+signature!
+<--------------------->
+
+<p 02><d FC36><a 07><n 01>
+Do your best!
+<*********************>
+
+
+Final key assembled!
+<*********************>
+
+<FIM>

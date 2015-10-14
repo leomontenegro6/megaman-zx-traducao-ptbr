@@ -1,0 +1,143 @@
+<script_info tipo='Quest 4' personagem='Aile' tamanho='1205' inicio_ponteiros='4' fim_ponteiros='29' inicio_textos='30' />
+<#####################>
+
+<p 02><a 3E><n 39>
+Hey there! Could you
+help a kid out?
+<--------------------->
+
+<p 02><a 3E><n 39>
+My little brother needs
+someone to try his quiz
+out.
+<--------------------->
+
+<p 02><a 3E><n 39>
+He loves quizzing
+people.
+<--------------------->
+
+<p 02><a 3E><n 39>
+Would you try his quiz
+out for me?
+<*********************>
+
+<p 02><a 3E><n 39>
+You think it's a waste
+of time to help me out,
+huh?
+<--------------------->
+
+<p 02><a 3E><n 39>
+Hmm...
+<--------------------->
+
+<p 02><a 3E><n 39>
+Well, a transporter
+doesn't just deliver
+physical things...
+<--------------------->
+
+A transporter delivers
+hope too...
+<--------------------->
+
+<p 02><a 3E><n 39>
+Wow, that's deep.
+<*********************>
+
+<p 02><a 02><n 55>
+Answer the quiz for
+Yu's little brother<c 01>.
+<*********************>
+
+<e 01><a 02><n 55>
+  Yes
+  No
+<*********************>
+
+<p 02><a 3E><n 39>
+Lou's quizzes aren't
+easy...
+<--------------------->
+
+<p 02><a 3E><n 39>
+But you look smart. I'm
+sure you'll do fine.
+<*********************>
+
+<p 02><a 3F><n 3A>
+Are you up to the Lou
+challenge?
+<--------------------->
+
+<p 02><a 3F><n 3A>
+Alright, let's get it
+started!
+<--------------------->
+
+<p 02><a 3F><n 3A>
+Did you know there is a
+place to play games in
+Area C-2?
+<--------------------->
+
+<p 02><a 3F><n 3A>
+What's the name of the
+game to the far right
+in that place?
+<--------------------->
+
+<m><a 3F><n 3A>
+  Bonbon Ball
+  Kick Kick Kick
+  Dribble Trouble
+<*********************>
+
+<p 02><a 3F><n 3A>
+Oh, too bad! Wow,
+you're terrible at
+this.
+<*********************>
+
+<p 02><a 3F><n 3A>
+Well done! You're
+smarter than you look!
+<*********************>
+
+<p 02><a 3E><n 39>
+What did you think of
+my brother's quiz?
+Wasn't easy was it?
+<*********************>
+
+<p 02><a 3F><n 3A>
+Hey, mister...
+<--------------------->
+
+<p 02><a 3F><n 3A>
+I'll think of a new
+question, so come back
+again sometime.
+<*********************>
+
+<p 02><a 02><n 55>
+Quest completed.
+<--------------------->
+
+<p 02><a 02><n 55>
+50 EC have been
+transferred to your
+account.
+<*********************>
+
+<p 02><a 02><n 55>
+Quest completed.
+<*********************>
+
+<p 02><a 3F><n 3A>
+If you're ever bored,
+come by and play!
+<*********************>
+
+<FIM>

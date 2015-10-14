@@ -1,0 +1,159 @@
+<script_info tipo='Quest 9' personagem='Vent' tamanho='1400' inicio_ponteiros='4' fim_ponteiros='23' inicio_textos='24' />
+<#####################>
+
+<p 02><a 2A><n 1E>
+Hey Vent! I have
+another favor to ask.
+<--------------------->
+
+<p 02><a 2A><n 1E>
+I've got a new letter
+for you-know-who.
+<--------------------->
+
+<p 02><a 2A><n 1E>
+I put a lot of work
+into this one!
+<--------------------->
+
+<p 02><a 2A><n 1E>
+I'm sure this time
+she'll fall head over
+heels for me.
+<--------------------->
+
+<p 02><a 2A><n 1E>
+Don't worry, I'll
+reward you for your
+help.
+<*********************>
+
+<p 02><a 2A><n 1E>
+I've passed the letter
+on to the transerver.
+<--------------------->
+
+<p 02><a 2A><n 1E>
+Whatever you do, don't
+read it!
+<--------------------->
+
+<p 02><a 2A><n 1E>
+I stayed up all night
+to find the perfect way
+to win a woman's
+<--------------------->
+
+heart, and I don't want
+to let the secret get
+out.
+<*********************>
+
+<p 02><a 02><n 55>
+Deliver the letter to
+the woman in Area C-2.
+<*********************>
+
+<e 01><a 02><n 55>
+  Yes
+  No
+<*********************>
+
+<p 02><a 2A><n 1E>
+She hasn't read the
+letter yet, has she?
+<--------------------->
+
+<p 02><a 2A><n 1E>
+I've done this before,
+but my heart is still
+racing!
+<*********************>
+
+<p 02><a 4B><n 46>
+Oh, it's the
+transporter again.
+What!? Another letter?
+<--------------------->
+
+<p 02><a 4B><n 46>
+I wonder who this one
+is from...
+<--------------------->
+
+<p 02><a 4B><n 46>
+"Are you a dog person
+or a cat person?"
+<--------------------->
+
+<p 02><a 4B><n 46>
+"I like lions myself!"
+<--------------------->
+
+<p 02><a 4B><n 46>
+What's the meaning of
+this!? Is this some
+kind of test?
+<--------------------->
+
+<p 02><a 4B><n 46>
+Alright, I'll answer...
+<--------------------->
+
+<p 02><a 4B><n 46>
+I like dogs AND cats,
+but I DON'T like
+annoying men.
+<*********************>
+
+<p 02><a 2A><n 1E>
+She likes cats?
+Wonderful! A lion is a
+kind of cat after all.
+<--------------------->
+
+<p 02><a 2A><n 1E>
+This relationship is
+moving right along.
+<--------------------->
+
+<p 02><a 2A><n 1E>
+It must be destiny!
+<*********************>
+
+<p 02><a 4B><n 46>
+Transporter!
+<--------------------->
+
+<p 02><a 4B><n 46>
+Let him down easy for
+me, okay?
+<--------------------->
+
+<p 02><a 4B><n 46>
+Hmph. I don't know why
+I even bother...
+<*********************>
+
+<p 02><a 02><n 55>
+Quest completed.
+<--------------------->
+
+<p 02><a 02><n 55>
+150 EC have been
+transferred to your
+account.
+<*********************>
+
+<p 02><a 4B><n 46>
+Not that it matters to
+you...
+<--------------------->
+
+<p 02><a 4B><n 46>
+But there was nothing
+in that letter to stir
+a woman's heart.
+<*********************>
+
+<FIM>

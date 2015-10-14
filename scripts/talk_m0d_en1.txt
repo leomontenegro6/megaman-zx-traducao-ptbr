@@ -1,0 +1,452 @@
+<script_info tipo='Missão 13' personagem='Vent' tamanho='4354' inicio_ponteiros='4' fim_ponteiros='65' inicio_textos='66' />
+<#####################>
+
+<p 02><d C932><a 02><n 04>
+Vent! Can you hear me!?
+Come in!
+<--------------------->
+
+<p 02><d CA32><a 02><n 04>
+HQ radar has spotted
+multiple Slither Inc.
+airships!
+<--------------------->
+
+<p 02><d CB32><a 02><n 04>
+Their fleet is flying
+full speed straight
+at us!
+<--------------------->
+
+<p 02><d CC32><a 02><n 04>
+Please get back here!
+We need your help!
+<*********************>
+
+<p 03><d CD32><a 07><n 01>
+Prairie, what's the
+status on the enemy
+fleet?
+<*********************>
+
+<p 02><d CE32><a 0B><n 04>
+Not good! They're
+right on top of us!
+<--------------------->
+
+<p 02><d CF32><a 0B><n 04>
+This ship wasn't
+designed for heavy
+battle.
+<--------------------->
+
+If the enemy boards us,
+we're done for!
+<*********************>
+
+<p 02><d D032><a 02><n 55>
+Slither Inc.'s
+fleet has fired an
+opening volley!
+<--------------------->
+
+<p 02><d D132><a 02><n 55>
+Returning fire!
+<*********************>
+
+<p 02><d D232><a 0B><n 04>
+All hands man the port
+and starboard machine
+guns!
+<--------------------->
+
+<p 02><d D332><a 0B><n 04>
+Don't let them get
+any closer!
+<*********************>
+
+<p 02><d D432><a 0B><n 04>
+Vent! You have to get
+to the deck and do what
+<--------------------->
+
+you can to stop those
+boarding parties!
+<*********************>
+
+<p 03><d D532><a 07><n 01>
+Leave it to me! No
+one's going to get hurt
+on my watch!
+<--------------------->
+
+<p 03><d D632><a 07><n 01>
+I'll protect the
+Guardians!
+<*********************>
+
+<p 02><d D732><a 07><n 01>
+They're the ones from
+before!
+<--------------------->
+
+<p 02><d D832><a 02><n 04>
+Enemy troops have
+boarded the ship!
+<--------------------->
+
+<p 02><d D932><a 02><n 04>
+They're heading for the
+engine room down below!
+<--------------------->
+
+<p 02><d DA32><a 02><n 04>
+You have to get down
+there and protect the
+engines! Hurry!
+<--------------------->
+
+<p 02><d DB32><a 07><n 01>
+Hmph! Don't worry, they
+won't get through me!
+<*********************>
+
+<p 02><d DC32><a 23><n 2C>
+Hey you! Stand away
+from the reactor!
+<*********************>
+
+<p 03><d DD32><a 19><n 0E>
+Move aside...
+<*********************>
+
+<p 02><d DE32><a 07><n 01>
+Prairie, are you
+alright!?
+<--------------------->
+
+<p 02><d DF32><a 0B><n 04>
+Vent!
+<*********************>
+
+<p 01><p 03><d E032><a 19><n 0E>
+You... The boy from
+before... Model X...
+Model Z... together...
+<--------------------->
+
+<p 01><p 03><d E132><a 18><n 0D>
+Or should we just say
+Model ZX now?
+<--------------------->
+
+<p 01><p 03><d E232><a 18><n 0D>
+Serpent's orders are to
+eliminate the Guardians
+here and now...
+<--------------------->
+
+Such a waste.
+<--------------------->
+
+<p 01><p 03><d E332><a 18><n 0D>
+It's time for one final
+test to see if you will
+make a worthy sacrifice
+<--------------------->
+
+for the revival of
+Model W.
+<--------------------->
+
+<p 01><p 02><d E432><a 07><n 01>
+Sacrifice!? Me!?
+<*********************>
+
+<p 03><d E532><a 19><n 0E>
+Prometheus... It's not
+fair...
+<--------------------->
+
+<p 03><d E632><a 18><n 0D>
+Don't worry, I'll be
+sure to leave some fun
+for you.
+<--------------------->
+
+<p 03><d E732><a 18><n 0D>
+That is unless he's too
+fragile and gets blown
+to pieces.
+<*********************>
+
+<p 02><d E832><a 0B><n 04>
+Vent!
+<--------------------->
+
+<p 02><d E932><a 07><n 01>
+Get back Prairie! I'll
+handle him!
+<*********************>
+
+<p 03><d EA32><a 18><n 0D>
+Interesting... You're
+more powerful than I
+expected.
+<--------------------->
+
+<p 03><d EB32><a 18><n 0D>
+You've combined the
+Biometal fragments to
+draw out more power.
+<--------------------->
+
+<p 03><d EC32><a 18><n 0D>
+Excellent feature. That
+woman knew what she was
+<--------------------->
+
+doing when she created
+that Biometal...
+<*********************>
+
+<p 02><d ED32><a 0B><n 04>
+Wait!
+<*********************>
+
+<p 02><d EE32><a 0B><n 04>
+"That woman!?" You're
+talking about Sis!
+<*********************>
+
+<p 03><d EF32><a 18><n 0D>
+Oh, you know her? Well
+then you must not be of
+this time either...
+<--------------------->
+
+<p 03><d F032><a 18><n 0D>
+Haha... What an
+interesting little
+<--------------------->
+
+connection you two
+have!
+<*********************>
+
+<p 02><d F132><a 07><n 01>
+Wait! Get back here!
+<*********************>
+
+<p 03><d F232><a 18><n 0D>
+Hmph. Don't be so quick
+to bear your claws to
+me little one.
+<--------------------->
+
+It'll cost you your
+life, just like it cost
+the red Mega Man his.
+<--------------------->
+
+<p 02><d F332><a 07><n 01>
+Why you-!
+<--------------------->
+
+<p 03><d F432><a 18><n 0D>
+Haha... Consider
+yourself lucky to be
+alive.
+<--------------------->
+
+Remember this moment
+and how I let you live!
+<--------------------->
+
+<p 03><d F532><a 18><n 0D>
+If you want to press
+your luck, we'll be
+waiting! Hahahahaha!
+<*********************>
+
+<p 02><d F632><a 02><n 55>
+Commander Prairie! The
+enemy fleet is moving
+away!
+<--------------------->
+
+<p 02><d F732><a 0B><n 04>
+The enemy has
+retreated. I want a
+damage report!
+<--------------------->
+
+<p 02><d F832><a 0C><n 04>
+And make sure the
+wounded get priority.
+<--------------------->
+
+<p 02><d F932><a 02><n 55>
+Understood.
+<*********************>
+
+<p 02><d FA32><a 0C><n 04>
+Vent, come back to the
+command center.
+<*********************>
+
+<p 02><d FB32><a 0B><n 04>
+There's something we
+need to talk about.
+<--------------------->
+
+<p 03><d FC32><a 05><n 01>
+Is this about
+Prometheus saying you
+were not of this time?
+<*********************>
+
+<p 02><d FD32><a 0C><n 04>
+Did you know that a
+long, long time ago
+humans and
+<--------------------->
+
+machines were at war
+with each other?
+<*********************>
+
+<p 03><d FE32><a 05><n 01>
+I've heard about it,
+but that was hundreds
+of years ago.
+<--------------------->
+
+It's just history now.
+<--------------------->
+
+<p 02><d FF32><a 0C><n 04>
+I'm a machine born of
+that era.
+<*********************>
+
+<p 02><d 0033><a 0C><n 04>
+I was designed to look
+like a person. I'm a
+Reploid.
+<--------------------->
+
+<p 03><d 0133><a 07><n 01>
+You're a Reploid built
+hundreds of years ago!?
+<*********************>
+
+<p 01><p 02><d 0233><a 09><n 04>
+But Sis... She was not
+a Reploid. She was
+human.
+<--------------------->
+
+<p 01><p 02><d 0333><a 09><n 04>
+She was a scientist who
+tried to protect us
+<--------------------->
+
+Reploids when no one
+else would.
+<--------------------->
+
+<p 01><p 02><d 0433><a 09><n 04>
+When the war ended,
+Human and Reploid were
+both living in harmony,
+<--------------------->
+
+and peace had finally
+prevailed.
+<--------------------->
+
+<p 01><p 02><d 0533><a 09><n 04>
+But the sentient
+machines known as
+Mavericks
+<--------------------->
+
+continued to threaten
+mankind.
+<*********************>
+
+<p 01><p 02><d 0633><a 09><n 04>
+Sis formed the
+Guardians and tried to
+locate the source of
+<--------------------->
+
+the Maverick outbreaks
+in order to stop it.
+<--------------------->
+
+<p 01><p 02><d 0733><a 0C><n 04>
+But Sis... She... she's
+gone. And...
+<*********************>
+
+<p 03><d 0833><a 05><n 01>
+You've been fighting
+Mavericks for
+centuries...
+<--------------------->
+
+<p 03><d 0933><a 05><n 01>
+Fighting for the ones
+you love just like
+me...
+<--------------------->
+
+Well, not quite like
+me. You've been at it
+much longer than me.
+<*********************>
+
+<p 02><d 0A33><a 09><n 04>
+Vent.
+<--------------------->
+
+<p 03><d 0B33><a 05><n 01>
+Boss told me never to
+give up.
+<--------------------->
+
+That I still had
+something I must
+protect.
+<--------------------->
+
+<p 03><d 0C33><a 05><n 01>
+We must destroy Model W
+and stop the Maverick
+outbreaks!
+<--------------------->
+
+<p 03><d 0D33><a 05><n 01>
+For Boss... For mom...
+For your sister...
+<--------------------->
+
+<p 03><d 0E33><a 06><n 01>
+For everyone that we
+hold dear in our
+hearts!
+<*********************>
+
+<p 02><d 0F33><a 0A><n 04>
+You're right... Thank
+you, Vent.
+<--------------------->
+
+<p 02><d 1033><a 09><n 04>
+Let's get this mission
+underway!
+<*********************>
+
+<FIM>
