@@ -121,16 +121,24 @@ if($total_textos > 0){
 								escreverByte($script, "F000");
 							} elseif($atributo_tag == 'direita'){ // Seta para direita
 								escreverByte($script, "F001");
+							} elseif($atributo_tag == 'cursor_esq'){ // Cursor para esquerda (menus de escolha)
+								escreverByte($script, "F002");
+								$flag_quebra_linha = true; // Workaround para script m_sys_en.txt, onde há o texto <cursor_esq>
 							} elseif($atributo_tag == 'c'){ // Cor do texto
 								escreverByte($script, "F1{$valor_tag}");
-							} elseif($atributo_tag == 'nome'){ // Cor do texto
+							} elseif($atributo_tag == 'nome'){ // Nome do protagonista
 								escreverByte($script, "FA");
+							} else {
+								// Tag desconhecida, inserir valores hex diretamente
+								if(!empty($atributo_tag)){
+									escreverByte($script, $atributo_tag);
+								}
 							}
 						} else {
 							if($flag_tag){
 								$caracteres_tag .= $caractere;
 							} else {
-								if(checkAlfanumerico($caractere) || checkSinalPontuacao($caractere)){
+								if(checkAlfanumerico($caractere) || checkSinalPontuacao($caractere) || $caractere == ' '){
 									$flag_quebra_linha = true;
 								}
 								if($caractere == PHP_EOL){

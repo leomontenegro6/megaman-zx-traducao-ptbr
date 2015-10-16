@@ -135,13 +135,15 @@ if($total_scripts > 0){
 						$char = "<cima>";
 					} elseif($byte == 'EF'){ // Seta para baixo
 						$char = "<baixo>";
-					} elseif($byte == 'F0'){ // Seta para esquerda ou direita
+					} elseif($byte == 'F0'){ // Setas / cursores
 						$byte2 = lerByteHex($script);
-						if($byte2 == '00'){
+						if($byte2 == '00'){ // Seta pra esquerda
 							$char = "<esquerda>";
-						} elseif($byte2 == '01'){
+						} elseif($byte2 == '01'){ // Seta pra direita
 							$char = "<direita>";
-						} else {
+						} elseif($byte2 == '02'){ // Cursor para esquerda (menus de escolha)
+							$char = "<cursor_esq>";
+						} else { // Indefinido
 							$char = "<F0><$byte2>";
 						}
 					} elseif($byte == 'F1'){ // Cor do texto

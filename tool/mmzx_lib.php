@@ -65,7 +65,7 @@ function checkAlfanumerico($texto){
 }
 
 function checkSinalPontuacao($caractere){
-	return in_array($caractere, array('.', '?', '!'));
+	return in_array($caractere, array('.', '?', '!', '-', '/', ':', '\''));
 }
 
 function lerTabelaCaracteres($invertida=false){
