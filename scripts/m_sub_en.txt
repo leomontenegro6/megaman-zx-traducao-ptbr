@@ -1,59 +1,58 @@
 <script_info tipo='sub' personagem='indefinido' tamanho='11960' inicio_ponteiros='4' fim_ponteiros='427' inicio_textos='428' />
 <#####################>
 
-
-Choose the model
+Escolha o modelo
 <*********************>
 
 
-Cannot transform now
+Não pode se transformar agora
 <*********************>
 
 
-Return to human form
+Retornar à forma humana
 <*********************>
 
 
-Transform into Model X
+Transformar no Modelo X
 <*********************>
 
 
-Transform into Model ZX
+Transformar no Modelo ZX
 <*********************>
 
 
-Transform into Model HX
+Transformar no Modelo HX
 <*********************>
 
 
-Transform into Model FX
+Transformar no Modelo FX
 <*********************>
 
 
-Transform into Model LX
+Transformar no Modelo LX
 <*********************>
 
 
-Transform into Model PX
+Transformar no Modelo PX
 <*********************>
 
 
-Transform into Model OX
+Transformar no Modelo OX
 <*********************>
 
 
-Switch main weapon and
-sub weapon
+Trocar arma principal pela
+arma secundária
 <*********************>
 
 
-Cannot change weapons with
-this model
+Não pode trocar armas com
+esse modelo
 <*********************>
 
 
-Cannot equip weapons in
-human form
+Não pode equipar armas na
+forma humana
 <*********************>
 
 
@@ -62,167 +61,167 @@ be stored for later
 <*********************>
 
 
-Recover energy
-Energy Remaining:<c 01>30
+Recuperar energia
+Energia Restante:<c 01>30
 <*********************>
 
 
-Sub tank is empty
-Cannot use
+Sub tanque está vazio
+Não pode ser usado
 <*********************>
 
 
-No need to use a sub tank now
+Não precisa usar sub tanque
 <*********************>
 
 
-Recover energy
-Energy Remaining:<c 01>29
+Recuperar energia
+Energia Restante:<c 01>29
 <*********************>
 
 
-Recover energy
-Energy Remaining:<c 01>28
+Recuperar energia
+Energia Restante:<c 01>28
 <*********************>
 
 
-Recover energy
-Energy Remaining:<c 01>27
+Recuperar energia
+Energia Restante:<c 01>27
 <*********************>
 
 
-Recover energy
-Energy Remaining:<c 01>26
+Recuperar energia
+Energia Restante:<c 01>26
 <*********************>
 
 
-Recover energy
-Energy Remaining:<c 01>25
+Recuperar energia
+Energia Restante:<c 01>25
 <*********************>
 
 
-Recover energy
-Energy Remaining:<c 01>24
+Recuperar energia
+Energia Restante:<c 01>24
 <*********************>
 
 
-Recover energy
-Energy Remaining:<c 01>23
+Recuperar energia
+Energia Restante:<c 01>23
 <*********************>
 
 
-Recover energy
-Energy Remaining:<c 01>22
+Recuperar energia
+Energia Restante:<c 01>22
 <*********************>
 
 
-Recover energy
-Energy Remaining:<c 01>21
+Recuperar energia
+Energia Restante:<c 01>21
 <*********************>
 
 
-Recover energy
-Energy Remaining:<c 01>20
+Recuperar energia
+Energia Restante:<c 01>20
 <*********************>
 
 
-Recover energy
-Energy Remaining:<c 01>19
+Recuperar energia
+Energia Restante:<c 01>19
 <*********************>
 
 
-Recover energy
-Energy Remaining:<c 01>18
+Recuperar energia
+Energia Restante:<c 01>18
 <*********************>
 
 
-Recover energy
-Energy Remaining:<c 01>17
+Recuperar energia
+Energia Restante:<c 01>17
 <*********************>
 
 
-Recover energy
-Energy Remaining:<c 01>16
+Recuperar energia
+Energia Restante:<c 01>16
 <*********************>
 
 
-Recover energy
-Energy Remaining:<c 01>15
+Recuperar energia
+Energia Restante:<c 01>15
 <*********************>
 
 
-Recover energy
-Energy Remaining:<c 01>14
+Recuperar energia
+Energia Restante:<c 01>14
 <*********************>
 
 
-Recover energy
-Energy Remaining:<c 01>13
+Recuperar energia
+Energia Restante:<c 01>13
 <*********************>
 
 
-Recover energy
-Energy Remaining:<c 01>12
+Recuperar energia
+Energia Restante:<c 01>12
 <*********************>
 
 
-Recover energy
-Energy Remaining:<c 01>11
+Recuperar energia
+Energia Restante:<c 01>11
 <*********************>
 
 
-Recover energy
-Energy Remaining:<c 01>10
+Recuperar energia
+Energia Restante:<c 01>10
 <*********************>
 
 
-Recover energy
-Energy Remaining:<c 01>9
+Recuperar energia
+Energia Restante:<c 01>9
 <*********************>
 
 
-Recover energy
-Energy Remaining:<c 01>8
+Recuperar energia
+Energia Restante:<c 01>8
 <*********************>
 
 
-Recover energy
-Energy Remaining:<c 01>7
+Recuperar energia
+Energia Restante:<c 01>7
 <*********************>
 
 
-Recover energy
-Energy Remaining:<c 01>6
+Recuperar energia
+Energia Restante:<c 01>6
 <*********************>
 
 
-Recover energy
-Energy Remaining:<c 01>5
+Recuperar energia
+Energia Restante:<c 01>5
 <*********************>
 
 
-Recover energy
-Energy Remaining:<c 01>4
+Recuperar energia
+Energia Restante:<c 01>4
 <*********************>
 
 
-Recover energy
-Energy Remaining:<c 01>3
+Recuperar energia
+Energia Restante:<c 01>3
 <*********************>
 
 
-Recover energy
-Energy Remaining:<c 01>2
+Recuperar energia
+Energia Restante:<c 01>2
 <*********************>
 
 
-Recover energy
-Energy Remaining:<c 01>1
+Recuperar energia
+Energia Restante:<c 01>1
 <*********************>
 
 
-Recover energy
-Energy Remaining:<c 01>0
+Recuperar energia
+Energia Restante:<c 01>0
 <*********************>
 
 
@@ -326,17 +325,17 @@ Change action mode
 <*********************>
 
 
-<dpad>Control Pad:Scan Area Map
+<dpad>Control Pad:Scan Área Map
 <*********************>
 
 
-Server located in the area
-<dpad>Control Pad:Scan Area Map
+Server located in the Área
+<dpad>Control Pad:Scan Área Map
 <*********************>
 
 
-2 servers located in the area
-<dpad>Control Pad:Scan Area Map
+2 servers located in the Área
+<dpad>Control Pad:Scan Área Map
 <*********************>
 
 
@@ -399,7 +398,7 @@ points of life.
 <c 00>This apple
 didn't fall far
 from the tree
-in Area A-3. It
+in Área A-3. It
 restores 8
 points of life.
 <*********************>
@@ -568,7 +567,7 @@ energy shots.
 <c 01>Miracle Flower
 <c 00>A mystical
 flower found on
-a quest for
+a Pedido for
 Michelle. The
 scent is quite
 refreshing.
@@ -622,7 +621,7 @@ mushrooms.
 from Truite. It
 needs to be
 delivered to a
-woman in Area
+woman in Área
 C-2.
 <*********************>
 
@@ -632,7 +631,7 @@ C-2.
 from Truite. It
 needs to be
 delivered to a
-woman in Area
+woman in Área
 C-2.
 <*********************>
 
@@ -642,7 +641,7 @@ C-2.
 from Truite. It
 needs to be
 delivered to a
-woman in Area
+woman in Área
 C-2.
 <*********************>
 
@@ -652,7 +651,7 @@ C-2.
 from Truite. It
 needs to be
 delivered to a
-woman in Area
+woman in Área
 C-2.
 <*********************>
 
@@ -662,7 +661,7 @@ C-2.
 from Truite. It
 needs to be
 delivered to a
-woman in Area
+woman in Área
 C-2.
 <*********************>
 
@@ -672,7 +671,7 @@ C-2.
 from Truite. It
 needs to be
 delivered to a
-woman in Area
+woman in Área
 C-2.
 <*********************>
 
@@ -691,7 +690,7 @@ Guardian HQ.
 <c 00>This small
 purse that Luca
 lost was found
-in Area B. It's
+in Área B. It's
 quite elegant
 for a kid to
 have.
@@ -825,7 +824,7 @@ Guardian HQ.
 <c 01>Mysterious Rock
 <c 00>This small
 stone found in
-Area N is
+Área N is
 giving off a
 mysterious
 aura.
@@ -837,7 +836,7 @@ aura.
 found on the
 remains of a
 Maverick in
-Area B.
+Área B.
 <*********************>
 
 
@@ -920,407 +919,407 @@ doors.
 <*********************>
 
 
-No missions underway
+No Missãos underway
 <*********************>
 
 
-Mission:Catch the Maverick
-Destination:Area A-2
+Missão:Catch the Maverick
+Destino:Área A-2
 <*********************>
 
 
-Mission:Locate Giro
-Destination:Area B-1/B-2
+Missão:Locate Giro
+Destino:Área B-1/B-2
 <*********************>
 
 
-Mission:Pass the Test
-Destination:Area C-1/C-2
+Missão:Pass the Test
+Destino:Área C-1/C-2
 <*********************>
 
 
-Mission:Troop Reinforcement
-Destination:Area D-2
+Missão:Troop Reinforcement
+Destino:Área D-2
 <*********************>
 
 
-Mission:Search the Plant
-Destination:Area E-7
+Missão:Search the Plant
+Destino:Área E-7
 <*********************>
 
 
-Mission:Find the Survivors
-Destination:Area F
+Missão:Find the Survivors
+Destino:Área F
 <*********************>
 
 
-Mission:Fight the Mavericks
-Destination:Area G
+Missão:Fight the Mavericks
+Destino:Área G
 <*********************>
 
 
-Mission:Secure the Biometal
-Destination:Area H-4
+Missão:Secure the Biometal
+Destino:Área H-4
 <*********************>
 
 
-Mission:Save the People
-Destination:Area I-3
+Missão:Save the People
+Destino:Área I-3
 <*********************>
 
 
-Mission:Recover the Disk
-Destination:Area J-5
+Missão:Recover the Disk
+Destino:Área J-5
 <*********************>
 
 
-Mission:Attack the Excavators
-Destination:Area K-4
+Missão:Attack the Excavators
+Destino:Área K-4
 <*********************>
 
 
-Mission:Protect the Lab
-Destination:Area L-4
+Missão:Protect the Lab
+Destino:Área L-4
 <*********************>
 
 
-Mission:Protect HQ
-Destination:Area X (HQ)
+Missão:Protect HQ
+Destino:Área X (HQ)
 <*********************>
 
 
-Mission:Stop the Dig
-Destination:Area M
+Missão:Stop the Dig
+Destino:Área M
 <*********************>
 
 
-Mission:Repel the Army
-Destination:Area O
+Missão:Repel the Army
+Destino:Área O
 <*********************>
 
 
-Mission:Destroy Model W
-Destination:Area D-4/D-5
+Missão:Destroy Model W
+Destino:Área D-4/D-5
 <*********************>
 
 
-Quest:Find the Flower
-Destination:Area A-1
+Pedido:Find the Flower
+Destino:Área A-1
 <*********************>
 
 
-Quest:Trim the Weeds
-Destination:Area C-2
+Pedido:Trim the Weeds
+Destino:Área C-2
 <*********************>
 
 
-Quest:Find the Boy
-Destination:Area G-1/G-2
+Pedido:Find the Boy
+Destino:Área G-1/G-2
 <*********************>
 
 
-Quest:Quiz Partner
-Destination:Area C-1/C-3
+Pedido:Quiz Partner
+Destino:Área C-1/C-3
 <*********************>
 
 
-Quest:Another Quiz
-Destination:Area C-1/C-3
+Pedido:Another Quiz
+Destino:Área C-1/C-3
 <*********************>
 
 
-Quest:Purify the Lakes
-Destination:Area B-4
+Pedido:Purify the Lakes
+Destino:Área B-4
 <*********************>
 
 
-Quest:Find Mushroom
-Destination:Area A-2
+Pedido:Find Mushroom
+Destino:Área A-2
 <*********************>
 
 
-Quest:Sending a Letter
-Destination:Area C-2
+Pedido:Sending a Letter
+Destino:Área C-2
 <*********************>
 
 
-Quest:Sending Another Letter
-Destination:Area C-2
+Pedido:Sending Another Letter
+Destino:Área C-2
 <*********************>
 
 
-Quest:Yet Another Letter
-Destination:Area C-2
+Pedido:Yet Another Letter
+Destino:Área C-2
 <*********************>
 
 
-Quest:Not Another Letter
-Destination:Area C-2
+Pedido:Not Another Letter
+Destino:Área C-2
 <*********************>
 
 
-Quest:Guess What? A Letter
-Destination:Area C-2
+Pedido:Guess What? A Letter
+Destino:Área C-2
 <*********************>
 
 
-Quest:One More Letter
-Destination:Area C-2
+Pedido:One More Letter
+Destino:Área C-2
 <*********************>
 
 
-Quest:Deliver a Reply
-Destination:Area X-1 (HQ)
+Pedido:Deliver a Reply
+Destino:Área X-1 (HQ)
 <*********************>
 
 
-Quest:Find the Purse
-Destination:Area B-2
+Pedido:Find the Purse
+Destino:Área B-2
 <*********************>
 
 
-Quest:Find the Pearl
-Destination:Area F-2
+Pedido:Find the Pearl
+Destino:Área F-2
 <*********************>
 
 
-Quest:Find the Rock
-Destination:Area K-1
+Pedido:Find the Rock
+Destino:Área K-1
 <*********************>
 
 
-Quest:Smash the Rock
-Destination:Area E-4
+Pedido:Smash the Rock
+Destino:Área E-4
 <*********************>
 
 
-Quest:Gather the Screws
-Destination:Area K-3/K-4/K-5
+Pedido:Gather the Screws
+Destino:Área K-3/K-4/K-5
 <*********************>
 
 
-Quest:Clean the Room
-Destination:Area C-1
+Pedido:Clean the Room
+Destino:Área C-1
 <*********************>
 
 
-Quest:Deliver the Aid Kit
-Destination:Area L-1/L-2/L-3
+Pedido:Deliver the Aid Kit
+Destino:Área L-1/L-2/L-3
 <*********************>
 
 
-Quest:Deliver the Energy Pack
-Destination:Area L-1/L-2/L-3
+Pedido:Deliver the Energy Pack
+Destino:Área L-1/L-2/L-3
 <*********************>
 
 
-Quest:Deliver the Aid Kit
-Destination:Area L-1/L-2/L-3
+Pedido:Deliver the Aid Kit
+Destino:Área L-1/L-2/L-3
 <*********************>
 
 
-Quest:Deliver the Energy Pack
-Destination:Area L-1/L-2/L-3
+Pedido:Deliver the Energy Pack
+Destino:Área L-1/L-2/L-3
 <*********************>
 
 
-Mission:Catch the Maverick
-File a mission report
+Missão:Catch the Maverick
+File a Missão report
 <*********************>
 
 
-Mission:Locate Giro
-File a mission report
+Missão:Locate Giro
+File a Missão report
 <*********************>
 
 
-Mission:Pass the Test
-File a mission report
+Missão:Pass the Test
+File a Missão report
 <*********************>
 
 
-Mission:Troop Reinforcement
-File a mission report
+Missão:Troop Reinforcement
+File a Missão report
 <*********************>
 
 
-Mission:Search the Plant
-File a mission report
+Missão:Search the Plant
+File a Missão report
 <*********************>
 
 
-Mission:Find the Survivors
-File a mission report
+Missão:Find the Survivors
+File a Missão report
 <*********************>
 
 
-Mission:Fight the Mavericks
-File a mission report
+Missão:Fight the Mavericks
+File a Missão report
 <*********************>
 
 
-Mission:Secure the Biometal
-File a mission report
+Missão:Secure the Biometal
+File a Missão report
 <*********************>
 
 
-Mission:Save the People
-File a mission report
+Missão:Save the People
+File a Missão report
 <*********************>
 
 
-Mission:Recover the Disk
-File a mission report
+Missão:Recover the Disk
+File a Missão report
 <*********************>
 
 
-Mission:Attack the Excavators
-File a mission report
+Missão:Attack the Excavators
+File a Missão report
 <*********************>
 
 
-Mission:Protect the Lab
-File a mission report
+Missão:Protect the Lab
+File a Missão report
 <*********************>
 
 
-Mission:Protect HQ
-File a mission report
+Missão:Protect HQ
+File a Missão report
 <*********************>
 
 
-Mission:Stop the Dig
-File a mission report
+Missão:Stop the Dig
+File a Missão report
 <*********************>
 
 
-Mission:Repel the Army
-File a mission report
+Missão:Repel the Army
+File a Missão report
 <*********************>
 
 
-Mission:Destroy Model W
-File a mission report
+Missão:Destroy Model W
+File a Missão report
 <*********************>
 
 
-Quest:Find the Flower
-File a mission report
+Pedido:Encontre a Flor
+File a Missão report
 <*********************>
 
 
-Quest:Trim the Weeds
-File a mission report
+Pedido:Trim the Weeds
+File a Missão report
 <*********************>
 
 
-Quest:Find the Boy
-File a mission report
+Pedido:Find the Boy
+File a Missão report
 <*********************>
 
 
-Quest:Quiz Partner
-File a mission report
+Pedido:Quiz Partner
+File a Missão report
 <*********************>
 
 
-Quest:Another Quiz
-File a mission report
+Pedido:Another Quiz
+File a Missão report
 <*********************>
 
 
-Quest:Purify the Lakes
-File a mission report
+Pedido:Purify the Lakes
+File a Missão report
 <*********************>
 
 
-Quest:Find Mushroom
-File a mission report
+Pedido:Find Mushroom
+File a Missão report
 <*********************>
 
 
-Quest:Sending a Letter
-File a mission report
+Pedido:Sending a Letter
+File a Missão report
 <*********************>
 
 
-Quest:Sending Another Letter
-File a mission report
+Pedido:Sending Another Letter
+File a Missão report
 <*********************>
 
 
-Quest:Yet Another Letter
-File a mission report
+Pedido:Yet Another Letter
+File a Missão report
 <*********************>
 
 
-Quest:Not Another Letter
-File a mission report
+Pedido:Not Another Letter
+File a Missão report
 <*********************>
 
 
-Quest:Guess What? A Letter
-File a mission report
+Pedido:Guess What? A Letter
+File a Missão report
 <*********************>
 
 
-Quest:One More Letter
-File a mission report
+Pedido:One More Letter
+File a Missão report
 <*********************>
 
 
-Quest:Deliver a Reply
-File a mission report
+Pedido:Deliver a Reply
+File a Missão report
 <*********************>
 
 
-Quest:Find the Purse
-File a mission report
+Pedido:Find the Purse
+File a Missão report
 <*********************>
 
 
-Quest:Find the Pearl
-File a mission report
+Pedido:Find the Pearl
+File a Missão report
 <*********************>
 
 
-Quest:Find the Rock
-File a mission report
+Pedido:Find the Rock
+File a Missão report
 <*********************>
 
 
-Quest:Smash the Rock
-File a mission report
+Pedido:Smash the Rock
+File a Missão report
 <*********************>
 
 
-Quest:Gather the Screws
-File a mission report
+Pedido:Gather the Screws
+File a Missão report
 <*********************>
 
 
-Quest:Clean the Room
-File a mission report
+Pedido:Clean the Room
+File a Missão report
 <*********************>
 
 
-Quest:Deliver the Aid Kit
-File a mission report
+Pedido:Deliver the Aid Kit
+File a Missão report
 <*********************>
 
 
-Quest:Deliver the Energy Pack
-File a mission report
+Pedido:Deliver the Energy Pack
+File a Missão report
 <*********************>
 
 
-Quest:Deliver the Aid Kit
-File a mission report
+Pedido:Deliver the Aid Kit
+File a Missão report
 <*********************>
 
 
-Quest:Deliver the Energy Pack
-File a mission report
+Pedido:Deliver the Energy Pack
+File a Missão report
 <*********************>
 
 <FIM>
