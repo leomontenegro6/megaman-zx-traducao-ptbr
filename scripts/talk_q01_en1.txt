@@ -2,168 +2,168 @@
 <#####################>
 
 <p 02><a 4A><n 45>
-You're the transporter
-from Giro Express
-aren't you?
+Você é transportador
+do Giro Express, não
+é?
 <--------------------->
 
 <p 02><a 4A><n 45>
-I was wondering if you
-could help me out.
+Eu estava pensando se
+você poderia me
+ajudar.
 <--------------------->
 
 <p 02><a 4A><n 45>
-There's a miracle
-flower growing in the
+Há uma flor milagrosa
+crescendo na floresta
 <--------------------->
 
-forest and I'd really
-like to have it.
-<--------------------->
-
-<p 02><a 4A><n 45>
-I'll put in an official
-request with Giro
-Express, so please
-<--------------------->
-
-check the transerver
-for the mission data if
-you can help.
+e eu gostaria muito de
+tê-la.
 <--------------------->
 
 <p 02><a 4A><n 45>
-I'll make it worth your
-while!
+Irei fazer um pedido
+oficial com a Giro
+Express, por favor,
+<--------------------->
+
+veja o transervidor
+para dados da missão,
+se puder ajudar.
+<--------------------->
+
+<p 02><a 4A><n 45>
+Farei valer a pena!
 <*********************>
 
 <p 02><a 4A><n 45>
-The flower grows in a
-place I can't reach
-myself.
+A flor cresce em um
+lugar que não consigo
+alcançar.
 <--------------------->
 
 <p 02><a 4A><n 45>
-It's so miraculous, it
-doesn't grow just
-anywhere.
+É tão miraculosa que
+não cresce em qualquer
+lugar.
 <--------------------->
 
 <p 02><a 4A><n 45>
-It's usually on high
-cliffsides and hard to
-reach places like that.
+Em geral, em penhascos
+altos e difíceis de
+alcançar.
 <--------------------->
 
-Please help me find it.
+Por favor, ajude-me a
+encontrá-la.
 <*********************>
 
 <p 02><a 02><n 55>
-Find the miracle
-flower growing in the
-forest.
+Encontrar a flor
+milagrosa crescendo
+na floresta.
 <*********************>
 
 <e 01><a 02><n 55>
-  Yes
-  No
+  Sim
+  Não
 <*********************>
 
 <p 02><a 4A><n 45>
-I see you haven't found
-the flower yet...
+Percebo que ainda não
+encontrou a flor...
 <--------------------->
 
 <p 02><a 4A><n 45>
-It must be difficult to
-find if even a
+Deve ser difícil de
+achar, se mesmo um
 <--------------------->
 
-transporter can't
-locate it.
-<--------------------->
-
-<p 02><a 4A><n 45>
-I can't shake this
-feeling...
+transportador não
+conseguiu localizar.
 <--------------------->
 
 <p 02><a 4A><n 45>
-I know I saw something
-on the clifftop in Area
+Não posso conter esse
+sentimento...
+<--------------------->
+
+<p 02><a 4A><n 45>
+Sei que vi algo num
+penhasco na Área
 A-1...
 <*********************>
 
 <p 02><a 4A><n 45>
-This is it!
+É isso!
 <--------------------->
 
 <p 02><a 4A><n 45>
-It's beautiful, don't
-you think?
+É linda, não acha?
 <--------------------->
 
 <p 02><a 4A><n 45>
-Thank you! I'll
-transfer some
+Obrigada! Irei
+transferir alguns
 <--------------------->
 
-E-Crystals to your
-account!
+Cristais para a sua
+conta!
 <*********************>
 
 <p 02><a 4A><n 45>
-Don't forget to pick
-the E-Crystals up at
-the transerver.
+Não esqueça de pegar
+seus cristais no
+transervidor.
 <*********************>
 
 <p 02><a 02><n 55>
-Quest completed.
+Pedido concluído.
 <--------------------->
 
 <p 02><a 02><n 55>
-200 EC have been
-transferred to your
-account.
+Foram transferidos
+200 CE para a sua
+conta.
 <*********************>
 
 <p 02><a 4A><n 45>
-Thank you for your help
-earlier.
+Obrigada por sua ajuda
+antes.
 <--------------------->
 
 <p 02><a 4A><n 45>
-I never get tired of
-looking at this
-beautiful flower...
+Nunca me canso de
+ficar olhando esta
+bela flor...
 <--------------------->
 
 <p 02><a 4A><n 45>
-Which one of us do you
-think is prettier?
+Qual de nós você acha
+que é a mais bonita?
 <--------------------->
 
 <e 1D><a 4A><n 45>
-Well?
-  You, of course!
-  The flower!
+Bem?
+  Você, com certeza!
+  A flor!
 <*********************>
 
 <p 02><a 4A><n 45>
-Really? Wow, thank you!
-You're a sweet
-transporter!
+Sério? Uau, obrigada!
+Você é um
+transportador fofo!
 <*********************>
 
 <p 02><a 4A><n 45>
-What!?
+O quê!?
 <--------------------->
 
 <p 02><a 4A><n 45>
-Of all the... You sure
-know how to make a girl
-feel good... Hmph!
+Sem dúvida... Você
+sabe fazer uma garota
+se sentir bem... Hmph!
 <*********************>
 
 <FIM>
