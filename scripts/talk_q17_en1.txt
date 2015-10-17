@@ -46,7 +46,7 @@ suprimento do inimigo.
 
 <p 02><a 2D><n 21>
 Você ainda não achou
-suprimentos médicos, 
+suprimentos médicos,
 achou?
 <--------------------->
 
@@ -68,7 +68,7 @@ Você é um anjinho.
 
 <p 02><a 2D><n 21>
 Sei que Rose está
-maravilhada com todo 
+maravilhada com todo
 seu esforço em ajudar.
 <*********************>
 
@@ -79,12 +79,12 @@ pedirei sua ajuda.
 <*********************>
 
 <p 02><a 02><n 55>
-Busca completa.
+Pedido concluído.
 <--------------------->
 
 <p 02><a 02><n 55>
 Foram transferidos
-150 CE para a sua 
+150 CE para a sua
 conta.
 <*********************>
 

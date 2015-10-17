@@ -178,63 +178,63 @@ Z
 <*********************>
 
 
-AREA
+ÁREA
 <*********************>
 
 
-Area A-2 Forest
+Área A-2 Forest
 <*********************>
 
 
-Area B-2 Mountain Pass
+Área B-2 Mountain Pass
 <*********************>
 
 
-Area C-2 Town
+Área C-2 Town
 <*********************>
 
 
-Area D-2 Highway
+Área D-2 Highway
 <*********************>
 
 
-Area E-7 Power Plant
+Área E-7 Power Plant
 <*********************>
 
 
-Area F-5 Lake
+Área F-5 Lake
 <*********************>
 
 
-Area G-5 Fire Site
+Área G-5 Fire Site
 <*********************>
 
 
-Area I-3 Confinement
+Área I-3 Confinement
 <*********************>
 
 
-Area K-4 Lava Field
+Área K-4 Lava Field
 <*********************>
 
 
-Area L-4 Research Lab
+Área L-4 Research Lab
 <*********************>
 
 
-Area M-3 Remains
+Área M-3 Remains
 <*********************>
 
 
-Area O-2 Highway 2
+Área O-2 Highway 2
 <*********************>
 
 
-Area X-1 Guardian HQ
+Área X-1 Guardian HQ
 <*********************>
 
 
-Mission 1
+Missão 1
 <*********************>
 
 
@@ -246,7 +246,7 @@ Pass the Test
 <*********************>
 
 
-Mission 4
+Missão 4
 <*********************>
 
 
@@ -282,7 +282,7 @@ Protect the Lab
 <*********************>
 
 
-Mission D
+Missão D
 <*********************>
 
 
