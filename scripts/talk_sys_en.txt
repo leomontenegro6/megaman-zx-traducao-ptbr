@@ -14,7 +14,7 @@
 <*********************>
 
 <m><a 02><n 55>
-  Abortar Mission
+  Abortar Missão
   Gerenciar Dados
   Transportar
 <*********************>
@@ -686,7 +686,7 @@ Encontrou uma <c 03>Pedra Misteriosa<c 00>!
 <*********************>
 
 
-Encontrou um <c 03>Chip de Computador<c 00>!
+Encontrou <c 03>Chip de Computador<c 00>!
 <*********************>
 
 

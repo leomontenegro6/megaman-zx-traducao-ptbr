@@ -174,7 +174,7 @@ Z
 <*********************>
 
 
-<F0><02>
+<cursor_esq>
 <*********************>
 
 
@@ -182,55 +182,55 @@ Z
 <*********************>
 
 
-Área A-2 Forest
+Área A-2 Floresta
 <*********************>
 
 
-Área B-2 Mountain Pass
+Area B-2 Montanhas
 <*********************>
 
 
-Área C-2 Town
+Area C-2 Cidade
 <*********************>
 
 
-Área D-2 Highway
+Area D-2 Viaduto
 <*********************>
 
 
-Área E-7 Power Plant
+Area E-7 Usina Elétrica
 <*********************>
 
 
-Área F-5 Lake
+Area F-5 Lago
 <*********************>
 
 
-Área G-5 Fire Site
+Area G-5 Foco de Incêndio
 <*********************>
 
 
-Área I-3 Confinement
+Area I-3 Confinamento
 <*********************>
 
 
-Área K-4 Lava Field
+Area K-4 Campo de Lava
 <*********************>
 
 
-Área L-4 Research Lab
+Area L-4 Laboratório de Pesquisas
 <*********************>
 
 
-Área M-3 Remains
+Area M-3 Restos
 <*********************>
 
 
-Área O-2 Highway 2
+Area O-2 Viaduto 2
 <*********************>
 
 
-Área X-1 Guardian HQ
+Area X-1 QG dos Guardiões
 <*********************>
 
 
@@ -238,11 +238,11 @@ Missão 1
 <*********************>
 
 
-Locate Giro
+Encontre Giro
 <*********************>
 
 
-Pass the Test
+Passe no Teste
 <*********************>
 
 
@@ -250,35 +250,35 @@ Missão 4
 <*********************>
 
 
-Search the Plant
+Vasculhe a Usina
 <*********************>
 
 
-Find the Survivors
+Ache os Sobreviventes
 <*********************>
 
 
-Fight the Mavericks
+Combata os Mavericks
 <*********************>
 
 
-Secure the Biometal
+Proteja o Biometal
 <*********************>
 
 
-Save the People
+Salve as Pessoas
 <*********************>
 
 
-Recover the Disk
+Recupere o Disco
 <*********************>
 
 
-Attack the Excavators
+Ataque as Escavadoras
 <*********************>
 
 
-Protect the Lab
+Proteja o Laboratório
 <*********************>
 
 
@@ -286,117 +286,117 @@ Missão D
 <*********************>
 
 
-Stop the Dig
+Impeça a Escavação
 <*********************>
 
 
-Repel the Army
+Rechace o Exército
 <*********************>
 
 
-Destroy Model W
+Destrua o Modelo W
 <*********************>
 
 
-Find the Flower
+Encontre a Flor
 <*********************>
 
 
-Trim the Weeds
+Apare as Ervas
 <*********************>
 
 
-Find the Boy
+Encontre o Garoto
 <*********************>
 
 
-Quiz Partner
+Parceito de Quiz
 <*********************>
 
 
-Another Quiz
+Outro Quiz
 <*********************>
 
 
-Purify the Lakes
+Purifique os Lagos
 <*********************>
 
 
-Find Mushroom
+Encontre o Cogumelo
 <*********************>
 
 
-Sending a Letter
+Enviando uma Carta
 <*********************>
 
 
-Sending Another Letter
+Enviando Outra Carta
 <*********************>
 
 
-Yet Another Letter
+Mais Uma Carta
 <*********************>
 
 
-Not Another Letter
+Novamente Uma Carta
 <*********************>
 
 
-Guess What? A Letter
+Adivinha? Uma Carta
 <*********************>
 
 
-One More Letter
+Uma Última Carta
 <*********************>
 
 
-Deliver a Reply
+Entregue uma Resposta
 <*********************>
 
 
-Find the Purse
+Encontre a Bolsa
 <*********************>
 
 
-Find the Pearl
+Encontre a Pérola
 <*********************>
 
 
-Find the Rock
+Encontre a Pedra
 <*********************>
 
 
-Smash the Rock
+Esmague a Pedra
 <*********************>
 
 
-Gather the Screws
+Reúna os Parafusos
 <*********************>
 
 
-Clean the Room
+Limpe a Sala
 <*********************>
 
 
-Deliver the Aid Kit
+Entregue o Kit de Socorros
 <*********************>
 
 
-Deliver the Energy Pack
+Entregue o Pacote de Energia
 <*********************>
 
 
-Deliver the Aid Kit
+Entregue o Kit de Socorros
 <*********************>
 
 
-Deliver the Energy Pack
+Entregue o Pacote de Energia
 <*********************>
 
 
-Failed to load data. Turn off
-the power and reinsert the
-Game Card.
+Erro ao carregar dados.
+Desligue o portátil e
+reinsira o cartucho.
 <*********************>
 
 <FIM>

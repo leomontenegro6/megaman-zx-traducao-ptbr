@@ -16,7 +16,8 @@ o seu paradeiro.
 <*********************>
 
 <p 02><d D307><a 05><n 01>
-Há sinais de luta lá.
+Há sinais de combate
+aqui.
 <--------------------->
 
 <p 02><d D407><a 05><n 01>
@@ -190,8 +191,8 @@ alívio.
 
 <p 02><d F007><a 02><n 04>
 Ah, não esqueça de ir
-ao transervidor na sala
-de trás
+ao transervidor mais
+próximo de você,
 <--------------------->
 
 e escolher a opção

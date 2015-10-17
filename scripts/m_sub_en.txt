@@ -1,6 +1,7 @@
 <script_info tipo='sub' personagem='indefinido' tamanho='11960' inicio_ponteiros='4' fim_ponteiros='427' inicio_textos='428' />
 <#####################>
 
+
 Escolha o modelo
 <*********************>
 
@@ -9,224 +10,225 @@ Não pode se transformar agora
 <*********************>
 
 
-Retornar à forma humana
+Voltar à forma humana
 <*********************>
 
 
-Transformar no Modelo X
+Transformar-se no Modelo X
 <*********************>
 
 
-Transformar no Modelo ZX
+Transformar-se no Modelo ZX
 <*********************>
 
 
-Transformar no Modelo HX
+Transformar-se no Modelo HX
 <*********************>
 
 
-Transformar no Modelo FX
+Transformar-se no Modelo FX
 <*********************>
 
 
-Transformar no Modelo LX
+Transformar-se no Modelo LX
 <*********************>
 
 
-Transformar no Modelo PX
+Transformar-se no Modelo PX
 <*********************>
 
 
-Transformar no Modelo OX
+Transformar-se no Modelo OX
 <*********************>
 
 
-Trocar arma principal pela
-arma secundária
+Alternar entre a arma
+principal e secundária
 <*********************>
 
 
-Não pode trocar armas com
-esse modelo
+Não pode alternar armas
+com este modelo
 <*********************>
 
 
-Não pode equipar armas na
-forma humana
+Não pode equipar armas
+na forma humana
 <*********************>
 
 
-Surplus life energy can
-be stored for later
+Permite armazenar cápsulas
+de vida para uso posterior
 <*********************>
 
 
-Recuperar energia
-Energia Restante:<c 01>30
+Permite recuperar energia
+Restante:<c 01>30
 <*********************>
 
 
-Sub tanque está vazio
-Não pode ser usado
+Sub-tanque vazio
+Não pode usar
 <*********************>
 
 
-Não precisa usar sub tanque
+Vida no máximo, não precisa
+usar um sub-tanque agora
 <*********************>
 
 
-Recuperar energia
-Energia Restante:<c 01>29
+Permite recuperar energia
+Restante:<c 01>29
 <*********************>
 
 
-Recuperar energia
-Energia Restante:<c 01>28
+Permite recuperar energia
+Restante:<c 01>28
 <*********************>
 
 
-Recuperar energia
-Energia Restante:<c 01>27
+Permite recuperar energia
+Restante:<c 01>27
 <*********************>
 
 
-Recuperar energia
-Energia Restante:<c 01>26
+Permite recuperar energia
+Restante:<c 01>26
 <*********************>
 
 
-Recuperar energia
-Energia Restante:<c 01>25
+Permite recuperar energia
+Restante:<c 01>25
 <*********************>
 
 
-Recuperar energia
-Energia Restante:<c 01>24
+Permite recuperar energia
+Restante:<c 01>24
 <*********************>
 
 
-Recuperar energia
-Energia Restante:<c 01>23
+Permite recuperar energia
+Restante:<c 01>23
 <*********************>
 
 
-Recuperar energia
-Energia Restante:<c 01>22
+Permite recuperar energia
+Restante:<c 01>22
 <*********************>
 
 
-Recuperar energia
-Energia Restante:<c 01>21
+Permite recuperar energia
+Restante:<c 01>21
 <*********************>
 
 
-Recuperar energia
-Energia Restante:<c 01>20
+Permite recuperar energia
+Restante:<c 01>20
 <*********************>
 
 
-Recuperar energia
-Energia Restante:<c 01>19
+Permite recuperar energia
+Restante:<c 01>19
 <*********************>
 
 
-Recuperar energia
-Energia Restante:<c 01>18
+Permite recuperar energia
+Restante:<c 01>18
 <*********************>
 
 
-Recuperar energia
-Energia Restante:<c 01>17
+Permite recuperar energia
+Restante:<c 01>17
 <*********************>
 
 
-Recuperar energia
-Energia Restante:<c 01>16
+Permite recuperar energia
+Restante:<c 01>16
 <*********************>
 
 
-Recuperar energia
-Energia Restante:<c 01>15
+Permite recuperar energia
+Restante:<c 01>15
 <*********************>
 
 
-Recuperar energia
-Energia Restante:<c 01>14
+Permite recuperar energia
+Restante:<c 01>14
 <*********************>
 
 
-Recuperar energia
-Energia Restante:<c 01>13
+Permite recuperar energia
+Restante:<c 01>13
 <*********************>
 
 
-Recuperar energia
-Energia Restante:<c 01>12
+Permite recuperar energia
+Restante:<c 01>12
 <*********************>
 
 
-Recuperar energia
-Energia Restante:<c 01>11
+Permite recuperar energia
+Restante:<c 01>11
 <*********************>
 
 
-Recuperar energia
-Energia Restante:<c 01>10
+Permite recuperar energia
+Restante:<c 01>10
 <*********************>
 
 
-Recuperar energia
-Energia Restante:<c 01>9
+Permite recuperar energia
+Restante:<c 01>9
 <*********************>
 
 
-Recuperar energia
-Energia Restante:<c 01>8
+Permite recuperar energia
+Restante:<c 01>8
 <*********************>
 
 
-Recuperar energia
-Energia Restante:<c 01>7
+Permite recuperar energia
+Restante:<c 01>7
 <*********************>
 
 
-Recuperar energia
-Energia Restante:<c 01>6
+Permite recuperar energia
+Restante:<c 01>6
 <*********************>
 
 
-Recuperar energia
-Energia Restante:<c 01>5
+Permite recuperar energia
+Restante:<c 01>5
 <*********************>
 
 
-Recuperar energia
-Energia Restante:<c 01>4
+Permite recuperar energia
+Restante:<c 01>4
 <*********************>
 
 
-Recuperar energia
-Energia Restante:<c 01>3
+Permite recuperar energia
+Restante:<c 01>3
 <*********************>
 
 
-Recuperar energia
-Energia Restante:<c 01>2
+Permite recuperar energia
+Restante:<c 01>2
 <*********************>
 
 
-Recuperar energia
-Energia Restante:<c 01>1
+Permite recuperar energia
+Restante:<c 01>1
 <*********************>
 
 
-Recuperar energia
-Energia Restante:<c 01>0
+Permite recuperar energia
+Restante:<c 01>0
 <*********************>
 
 
-SELECT:Buster Editor
-Edit using the bottom screen
+SELECT: Editor do Buster
+Edite usando a tela inferior
 <*********************>
 
 
@@ -234,26 +236,26 @@ Select Edit/Default/Exit
 <*********************>
 
 
-Select the weapon to edit
+Escolha a arma para editar
 <*********************>
 
 
-Align the squares so that the
-buster path is connected
+Alinhe os quadrados para
+conectar o caminho do buster
 <*********************>
 
 
-Usable items
-None in possession
+Itens utilizáveis
+Nenhum em posse
 <*********************>
 
 
-Usable items
-<btn_a>Button:OK <btn_b>Button:Cancel
+Itens utilizáveis
+Botão <btn_a>:OK Botão <btn_b>:Cancelar
 <*********************>
 
 
-No need to use this now
+Não precisa usar isso agora
 <*********************>
 
 
@@ -262,80 +264,80 @@ Botão <btn_a>: OK Botão <btn_b>: Cancelar
 <*********************>
 
 
-Equippable items
-None in possession
+Itens equipáveis
+Nenhum em posse
 <*********************>
 
 
-Equippable items
-<btn_a>Button:OK <btn_b>Button:Cancel
+Itens equipáveis
+Botão <btn_a>:OK Botão <btn_b>: Cancelar
 <*********************>
 
 
-<dpad>Control Pad <esquerda>/<direita>:Select
-<btn_a>Button:Equip
+<dpad> <esquerda>/<direita>: Selecionar
+Botão <btn_a>: Equipar
 <*********************>
 
 
-<dpad>Control Pad <esquerda>/<direita>:Select
-<btn_a>Button:Unequip
+<dpad> <esquerda>/<direita>: Selecionar
+Botão <btn_a>: Desequipar
 <*********************>
 
 
-Auto-use items
-None in possession
+Itens auto-utilizáveis
+Nenhum em posse
 <*********************>
 
 
-Auto-use items
+Itens auto-utilizáveis
 <*********************>
 
 
-<dpad>Control Pad <esquerda>/<direita>:Select
-<btn_b>Button:Back
+<dpad> <esquerda>/<direita>: Selecionar
+Botão <btn_b>: Voltar
 <*********************>
 
 
-Change button layout
-<dpad>Control Pad <esquerda>/<direita>:Select
+Mudar configuração de botões
+<dpad> <esquerda>/<direita>: Selecionar
 <*********************>
 
 
-Change offensive mode
-<dpad>Control Pad <esquerda>/<direita>:Select
+Mudar modo de ataque
+<dpad> <esquerda>/<direita>: Selecionar
 <*********************>
 
 
-Change action mode
-<dpad>Control Pad <esquerda>/<direita>:Select
+Mudar modo de ação
+<dpad> <esquerda>/<direita>: Selecionar
 <*********************>
 
 
-<dpad>Control Pad <esquerda>/<direita>:Type
+<dpad> <esquerda>/<direita>: Mudar tipo
 <*********************>
 
 
-<dpad>Control Pad <esquerda>/<direita>:Type
-<dpad>Control Pad <cima>/<baixo>:Button
+<dpad> <esquerda>/<direita>: Mudar tipo
+<dpad> <cima>/<baixo>: Mudar botões
 <*********************>
 
 
-<dpad>Control Pad <cima>/<baixo>:Category
-<dpad>Control Pad <esquerda>/<direita>:Type
+<dpad> <cima>/<baixo>: Mudar categoria
+<dpad> <esquerda>/<direita>: Mudar tipo
 <*********************>
 
 
-<dpad>Control Pad:Scan Área Map
+<dpad>: Escanear Mapa de Áreas
 <*********************>
 
 
-Server located in the Área
-<dpad>Control Pad:Scan Área Map
+Servidor encontrado na área
+<dpad>: Escanear Mapa de Áreas
 <*********************>
 
 
-2 servers located in the Área
-<dpad>Control Pad:Scan Área Map
+2 servidores encontrados na área
+<dpad>: Escanear Mapa de Áreas
 <*********************>
 
 
@@ -398,7 +400,7 @@ points of life.
 <c 00>This apple
 didn't fall far
 from the tree
-in Área A-3. It
+in Area A-3. It
 restores 8
 points of life.
 <*********************>
@@ -567,7 +569,7 @@ energy shots.
 <c 01>Miracle Flower
 <c 00>A mystical
 flower found on
-a Pedido for
+a quest for
 Michelle. The
 scent is quite
 refreshing.
@@ -621,7 +623,7 @@ mushrooms.
 from Truite. It
 needs to be
 delivered to a
-woman in Área
+woman in Area
 C-2.
 <*********************>
 
@@ -631,7 +633,7 @@ C-2.
 from Truite. It
 needs to be
 delivered to a
-woman in Área
+woman in Area
 C-2.
 <*********************>
 
@@ -641,7 +643,7 @@ C-2.
 from Truite. It
 needs to be
 delivered to a
-woman in Área
+woman in Area
 C-2.
 <*********************>
 
@@ -651,7 +653,7 @@ C-2.
 from Truite. It
 needs to be
 delivered to a
-woman in Área
+woman in Area
 C-2.
 <*********************>
 
@@ -661,7 +663,7 @@ C-2.
 from Truite. It
 needs to be
 delivered to a
-woman in Área
+woman in Area
 C-2.
 <*********************>
 
@@ -671,7 +673,7 @@ C-2.
 from Truite. It
 needs to be
 delivered to a
-woman in Área
+woman in Area
 C-2.
 <*********************>
 
@@ -690,7 +692,7 @@ Guardian HQ.
 <c 00>This small
 purse that Luca
 lost was found
-in Área B. It's
+in Area B. It's
 quite elegant
 for a kid to
 have.
@@ -824,7 +826,7 @@ Guardian HQ.
 <c 01>Mysterious Rock
 <c 00>This small
 stone found in
-Área N is
+Area N is
 giving off a
 mysterious
 aura.
@@ -836,7 +838,7 @@ aura.
 found on the
 remains of a
 Maverick in
-Área B.
+Area B.
 <*********************>
 
 
@@ -919,407 +921,407 @@ doors.
 <*********************>
 
 
-No Missãos underway
+Sem missões em andamento
 <*********************>
 
 
-Missão:Catch the Maverick
-Destino:Área A-2
+Missão: Cace o Maverick
+Destino: Área A-2
 <*********************>
 
 
-Missão:Locate Giro
-Destino:Área B-1/B-2
+Missão: Encontre Giro
+Destino: Área B-1/B-2
 <*********************>
 
 
-Missão:Pass the Test
-Destino:Área C-1/C-2
+Missão: Passe no Teste
+Destino: Área C-1/C-2
 <*********************>
 
 
-Missão:Troop Reinforcement
-Destino:Área D-2
+Missão: Dê Reforço às Tropas
+Destino: Área D-2
 <*********************>
 
 
-Missão:Search the Plant
-Destino:Área E-7
+Missão: Vasculhe a Usina
+Destino: Área E-7
 <*********************>
 
 
-Missão:Find the Survivors
-Destino:Área F
+Missão: Ache os Sobreviventes
+Destino: Área F
 <*********************>
 
 
-Missão:Fight the Mavericks
-Destino:Área G
+Missão: Combata os Mavericks
+Destino: Área G
 <*********************>
 
 
-Missão:Secure the Biometal
-Destino:Área H-4
+Missão: Proteja o Biometal
+Destino: Área H-4
 <*********************>
 
 
-Missão:Save the People
-Destino:Área I-3
+Missão: Salve as Pessoas
+Destino: Área I-3
 <*********************>
 
 
-Missão:Recover the Disk
-Destino:Área J-5
+Missão: Recupere o Disco
+Destino: Área J-5
 <*********************>
 
 
-Missão:Attack the Excavators
-Destino:Área K-4
+Missão: Ataque as Escavadoras
+Destination:Area K-4
 <*********************>
 
 
-Missão:Protect the Lab
-Destino:Área L-4
+Missão: Projeta o Laboratório
+Destino: Área L-4
 <*********************>
 
 
-Missão:Protect HQ
-Destino:Área X (HQ)
+Missão: Proteja o QG
+Destino: Área X (HQ)
 <*********************>
 
 
-Missão:Stop the Dig
-Destino:Área M
+Missão: Impeça a Escavação
+Destino: Área M
 <*********************>
 
 
-Missão:Repel the Army
-Destino:Área O
+Missão: Rechace o Exército
+Destino: Área O
 <*********************>
 
 
-Missão:Destroy Model W
-Destino:Área D-4/D-5
+Missão: Destrua o Modelo W
+Destino: Area D-4/D-5
 <*********************>
 
 
-Pedido:Find the Flower
-Destino:Área A-1
+Pedido: Encontre a Flor
+Destino: Área A-1
 <*********************>
 
 
-Pedido:Trim the Weeds
-Destino:Área C-2
+Pedido: Apare as Ervas
+Destino: Área C-2
 <*********************>
 
 
-Pedido:Find the Boy
-Destino:Área G-1/G-2
+Pedido: Encontre o Garoto
+Destino: Área G-1/G-2
 <*********************>
 
 
-Pedido:Quiz Partner
-Destino:Área C-1/C-3
+Pedido: Parceiro de Quiz
+Destino: Área C-1/C-3
 <*********************>
 
 
-Pedido:Another Quiz
-Destino:Área C-1/C-3
+Pedido: Outro Quiz
+Destino: Área C-1/C-3
 <*********************>
 
 
-Pedido:Purify the Lakes
-Destino:Área B-4
+Perido: Purifique os Lagos
+Destino: Área B-4
 <*********************>
 
 
-Pedido:Find Mushroom
-Destino:Área A-2
+Pedido: Encontre o Cogumelo
+Destino: Área A-2
 <*********************>
 
 
-Pedido:Sending a Letter
-Destino:Área C-2
+Pedido: Enviando uma Carta
+Destino: Área C-2
 <*********************>
 
 
-Pedido:Sending Another Letter
-Destino:Área C-2
+Pedido: Enviando Outra Carta
+Destino: Área C-2
 <*********************>
 
 
-Pedido:Yet Another Letter
-Destino:Área C-2
+Pedido: Mais Uma Carta
+Destino: Área C-2
 <*********************>
 
 
-Pedido:Not Another Letter
-Destino:Área C-2
+Pedido: Novamente Uma Carta
+Destino: Área C-2
 <*********************>
 
 
-Pedido:Guess What? A Letter
-Destino:Área C-2
+Pedido: Adivinha? Uma Carta
+Destino: Área C-2
 <*********************>
 
 
-Pedido:One More Letter
-Destino:Área C-2
+Pedido: Uma Última Carta
+Destino: Área C-2
 <*********************>
 
 
-Pedido:Deliver a Reply
-Destino:Área X-1 (HQ)
+Pedido: Entregue uma Resposta
+Destino: Área X-1 (HQ)
 <*********************>
 
 
-Pedido:Find the Purse
-Destino:Área B-2
+Pedido: Encontre a Bolsa
+Destino: Área B-2
 <*********************>
 
 
-Pedido:Find the Pearl
-Destino:Área F-2
+Pedido: Encontre a Pérola
+Destino: Área F-2
 <*********************>
 
 
-Pedido:Find the Rock
-Destino:Área K-1
+Pedido: Encontre a Pedra
+Destino: Área K-1
 <*********************>
 
 
-Pedido:Smash the Rock
-Destino:Área E-4
+Pedido: Esmague a Pedra
+Destino: Área E-4
 <*********************>
 
 
-Pedido:Gather the Screws
-Destino:Área K-3/K-4/K-5
+Pedido: Reúna os Parafusos
+Destino: Área K-3/K-4/K-5
 <*********************>
 
 
-Pedido:Clean the Room
-Destino:Área C-1
+Pedido: Limpe a Sala
+Destino: Área C-1
 <*********************>
 
 
-Pedido:Deliver the Aid Kit
-Destino:Área L-1/L-2/L-3
+Pedido: Entregue o Kit de Socorros
+Destino: Área L-1/L-2/L-3
 <*********************>
 
 
-Pedido:Deliver the Energy Pack
-Destino:Área L-1/L-2/L-3
+Pedido: Entregue o Pacote de Energia
+Destino: Área L-1/L-2/L-3
 <*********************>
 
 
-Pedido:Deliver the Aid Kit
-Destino:Área L-1/L-2/L-3
+Pedido: Entregue o Kit de Socorros
+Destino: Área L-1/L-2/L-3
 <*********************>
 
 
-Pedido:Deliver the Energy Pack
-Destino:Área L-1/L-2/L-3
+Pedido: Entregue o Pacote de Energia
+Destino: Área L-1/L-2/L-3
 <*********************>
 
 
-Missão:Catch the Maverick
-File a Missão report
+Missão: Cace o Maverick
+Relate o término da missão
 <*********************>
 
 
-Missão:Locate Giro
-File a Missão report
+Missão: Encontre Giro
+Relate o término da missão
 <*********************>
 
 
-Missão:Pass the Test
-File a Missão report
+Missão: Passe no Teste
+Relate o término da missão
 <*********************>
 
 
-Missão:Troop Reinforcement
-File a Missão report
+Missão: Dê Reforço às Tropas
+Relate o término da missão
 <*********************>
 
 
-Missão:Search the Plant
-File a Missão report
+Missão: Vasculhe a Usina
+Relate o término da missão
 <*********************>
 
 
-Missão:Find the Survivors
-File a Missão report
+Missão: Ache os Sobreviventes
+Relate o término da missão
 <*********************>
 
 
-Missão:Fight the Mavericks
-File a Missão report
+Missão: Combata os Mavericks
+Relate o término da missão
 <*********************>
 
 
-Missão:Secure the Biometal
-File a Missão report
+Missão: Proteja o Biometal
+Relate o término da missão
 <*********************>
 
 
-Missão:Save the People
-File a Missão report
+Missão: Salve as Pessoas
+Relate o término da missão
 <*********************>
 
 
-Missão:Recover the Disk
-File a Missão report
+Missão: Recupere o Disco
+Relate o término da missão
 <*********************>
 
 
-Missão:Attack the Excavators
-File a Missão report
+Missão: Ataque as Escavadoras
+Relate o término da missão
 <*********************>
 
 
-Missão:Protect the Lab
-File a Missão report
+Missão: Proteja o Laboratório
+Relate o término da missão
 <*********************>
 
 
-Missão:Protect HQ
-File a Missão report
+Missão: Proteja o QG
+Relate o término da missão
 <*********************>
 
 
-Missão:Stop the Dig
-File a Missão report
+Missão: Impeça a Escavação
+Relate o término da missão
 <*********************>
 
 
-Missão:Repel the Army
-File a Missão report
+Missão: Rechace o Exército
+Relate o término da missão
 <*********************>
 
 
-Missão:Destroy Model W
-File a Missão report
+Missão: Destrua o Modelo W
+Relate o término da missão
 <*********************>
 
 
-Pedido:Encontre a Flor
-File a Missão report
+Pedido: Encontre a Flor
+Relate o término da missão
 <*********************>
 
 
-Pedido:Trim the Weeds
-File a Missão report
+Pedido: Apare as Ervas
+Relate o término da missão
 <*********************>
 
 
-Pedido:Find the Boy
-File a Missão report
+Pedido: Encontre o Garoto
+Relate o término da missão
 <*********************>
 
 
-Pedido:Quiz Partner
-File a Missão report
+Pedido: Parceiro de Quiz
+Relate o término da missão
 <*********************>
 
 
-Pedido:Another Quiz
-File a Missão report
+Pedido: Outro Quiz
+Relate o término da missão
 <*********************>
 
 
-Pedido:Purify the Lakes
-File a Missão report
+Pedido: Purifique os Lagos
+Relate o término da missão
 <*********************>
 
 
-Pedido:Find Mushroom
-File a Missão report
+Pedido: Encontre o Cogumelo
+Relate o término da missão
 <*********************>
 
 
-Pedido:Sending a Letter
-File a Missão report
+Pedido: Enviando uma Carta
+Relate o término da missão
 <*********************>
 
 
-Pedido:Sending Another Letter
-File a Missão report
+Pedido: Enviando Outra Carta
+Relate o término da missão
 <*********************>
 
 
-Pedido:Yet Another Letter
-File a Missão report
+Pedido: Mais Uma Carta
+Relate o término da missão
 <*********************>
 
 
-Pedido:Not Another Letter
-File a Missão report
+Pedido: Novamente Uma Carta
+Relate o término da missão
 <*********************>
 
 
-Pedido:Guess What? A Letter
-File a Missão report
+Pedido: Adivinha? Uma Carta
+Relate o término da missão
 <*********************>
 
 
-Pedido:One More Letter
-File a Missão report
+Pedido: Uma Última Carta
+Relate o término da missão
 <*********************>
 
 
-Pedido:Deliver a Reply
-File a Missão report
+Pedido: Entregue uma Resposta
+Relate o término da missão
 <*********************>
 
 
-Pedido:Find the Purse
-File a Missão report
+Pedido: Encontre a Bolsa
+Relate o término da missão
 <*********************>
 
 
-Pedido:Find the Pearl
-File a Missão report
+Pedido: Encontre a Pérola
+Relate o término da missão
 <*********************>
 
 
-Pedido:Find the Rock
-File a Missão report
+Pedido: Encontre a Pedra
+Relate o término da missão
 <*********************>
 
 
-Pedido:Smash the Rock
-File a Missão report
+Pedido: Esmague a Pedra
+Relate o término da missão
 <*********************>
 
 
-Pedido:Gather the Screws
-File a Missão report
+Pedido: Reúna os Parafusos
+Relate o término da missão
 <*********************>
 
 
-Pedido:Clean the Room
-File a Missão report
+Pedido: Limpe a Sala
+Relate o término da missão
 <*********************>
 
 
-Pedido:Deliver the Aid Kit
-File a Missão report
+Pedido: Entregue o Kit de Socorros
+Relate o término da missão
 <*********************>
 
 
-Pedido:Deliver the Energy Pack
-File a Missão report
+Pedido: Entregue o Pacote de Energia
+Relate o término da missão
 <*********************>
 
 
-Pedido:Deliver the Aid Kit
-File a Missão report
+Pedido: Entregue o Kit de Socorros
+Relate o término da missão
 <*********************>
 
 
-Pedido:Deliver the Energy Pack
-File a Missão report
+Pedido: Entregue o Pacote de Energia
+Relate o término da missão
 <*********************>
 
 <FIM>

@@ -16,13 +16,13 @@ o seu paradeiro.
 <*********************>
 
 <p 02><d D307><a 05><n 02>
-Parece que houve uma
-luta aqui.
+Parece que houve um
+combate aqui.
 <--------------------->
 
 <p 02><d D407><a 05><n 02>
 Posso tentar seguir
-essa estrada. Talvez
+esse caminho. Talvez
 leve ao Giro.
 <*********************>
 
@@ -125,7 +125,7 @@ acontecendo!
 
 <p 02><d E307><a 0D><n 03>
 Este é meu parceiro,
-o Biometal Model Z.
+o Biometal Modelo Z.
 <--------------------->
 
 <p 02><d E407><a 0D><n 03>
@@ -196,7 +196,7 @@ Giro...
 <--------------------->
 
 <p 02><d EC07><a 0D><n 03>
-Não quero força-la a
+Não quero forçá-la a
 fazer algo contra sua
 vontade.
 <--------------------->
@@ -216,7 +216,7 @@ decisão lá.
 <--------------------->
 
 Por favor, não demore
-muto.
+muito.
 <*********************>
 
 <p 02><d EF07><a 02><n 04>
@@ -227,8 +227,8 @@ alívio.
 
 <p 02><d F007><a 02><n 04>
 Ah, não esqueça de ir
-ao transervidor na sala
-de trás
+ao transervidor mais
+próximo de você,
 <--------------------->
 
 e escolher a opção
