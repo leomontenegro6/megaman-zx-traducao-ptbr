@@ -2,13 +2,13 @@
 <#####################>
 
 <p 02><a 2D><n 21>
-Sincronismo perfeito!
+Ah, bem na hora!
 <--------------------->
 
 <p 02><a 2D><n 21>
 Estamos à beira de
 esgotar os kits de
-socorro de novo.
+socorros de novo.
 <--------------------->
 
 <p 02><a 2D><n 21>
@@ -25,18 +25,19 @@ para salvar uma vida.
 
 <p 02><a 2D><n 21>
 Como você sabe, Área L
-é um grande lixão de
-Maverick.
+é um grande armazém de
+Mavericks.
 <--------------------->
 
-Você pode encontrar
-alguma coisa lá.
+Talvez você ache algum,
+dentro de contêiners de
+suprimentos inimigos.
 <*********************>
 
 <p 02><a 02><n 55>
-Pegue kit de socorro
-do container de
-suprimento do inimigo.
+Traga pra mim um kit
+de socorros, em algum
+desses contêiners.
 <*********************>
 
 <e 01><a 02><n 55>
@@ -46,7 +47,7 @@ suprimento do inimigo.
 
 <p 02><a 2D><n 21>
 Você ainda não achou
-suprimentos médicos,
+suprimentos médicos, 
 achou?
 <--------------------->
 
@@ -68,7 +69,7 @@ Você é uma anjinha.
 
 <p 02><a 2D><n 21>
 Sei que Rose está
-maravilhada com todo
+maravilhada com todo 
 seu esforço em ajudar.
 <*********************>
 
@@ -84,7 +85,7 @@ Pedido concluído.
 
 <p 02><a 02><n 55>
 Foram transferidos
-150 CE para a sua
+150 CE para a sua 
 conta.
 <*********************>
 

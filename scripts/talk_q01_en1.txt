@@ -2,9 +2,9 @@
 <#####################>
 
 <p 02><a 4A><n 45>
-Você é transportador
-do Giro Express, não
-é?
+Você é o transportador
+da Girouette Expresso,
+não é?
 <--------------------->
 
 <p 02><a 4A><n 45>
@@ -23,18 +23,18 @@ tê-la.
 <--------------------->
 
 <p 02><a 4A><n 45>
-Irei fazer um pedido
-oficial com a Giro
-Express, por favor,
+Farei um pedido oficial
+na Girouette Expresso.
 <--------------------->
 
-veja o transervidor
-para dados da missão,
-se puder ajudar.
+Então, quando puder,
+acesse o transervidor
+e aceite o meu pedido.
 <--------------------->
 
 <p 02><a 4A><n 45>
-Farei valer a pena!
+Farei o seu trabalho
+valer a pena!
 <*********************>
 
 <p 02><a 4A><n 45>
@@ -50,9 +50,9 @@ lugar.
 <--------------------->
 
 <p 02><a 4A><n 45>
-Em geral, em penhascos
-altos e difíceis de
-alcançar.
+Geralmente, apenas em
+penhascos altos e de
+difícil acesso.
 <--------------------->
 
 Por favor, ajude-me a
@@ -60,7 +60,7 @@ encontrá-la.
 <*********************>
 
 <p 02><a 02><n 55>
-Encontrar a flor
+Encontre a flor
 milagrosa crescendo
 na floresta.
 <*********************>
@@ -104,11 +104,12 @@ A-1...
 <--------------------->
 
 <p 02><a 4A><n 45>
-Obrigada! Irei
-transferir alguns
+Muito obrigada por
+trazê-la a mim!
 <--------------------->
 
-Cristais para a sua
+Vou transferir os
+cristais para a sua
 conta!
 <*********************>
 
@@ -152,8 +153,8 @@ Bem?
 
 <p 02><a 4A><n 45>
 Sério? Uau, obrigada!
-Você é um
-transportador fofo!
+Você é um amor de
+pessoa, transportador!
 <*********************>
 
 <p 02><a 4A><n 45>

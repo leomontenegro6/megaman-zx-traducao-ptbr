@@ -11,17 +11,17 @@ Dados corrompidos
 
 
 <dpad> <cima>/<baixo>: Selecionar
-Botão <btn_a>: Salvar Botão <btn_b>: Cancelar
+<btn_a>: Salvar <btn_b>: Cancelar
 <*********************>
 
 
 <dpad> <cima>/<baixo>: Escolher jogo
-Botão <btn_a>: Carregar Botão <btn_b>: Cancelar
+<btn_a>: Carregar <btn_b>: Cancelar
 <*********************>
 
 
 <dpad> <cima>/<baixo>: Escolher jogo
-Botão <btn_a>: Deletar Botão <btn_b>: Cancelar
+<btn_a>: Deletar <btn_b>: Cancelar
 <*********************>
 
 

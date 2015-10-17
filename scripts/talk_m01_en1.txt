@@ -1,4 +1,4 @@
-<script_info tipo='Missão 1' personagem='Vent' tamanho='7157' inicio_ponteiros='4' fim_ponteiros='91' inicio_textos='92'  />
+<script_info tipo='Missão 1' personagem='Vent' tamanho='7157' inicio_ponteiros='4' fim_ponteiros='91' inicio_textos='92' />
 <#####################>
 
 <p 02><d E903><a 0D><n 03>
