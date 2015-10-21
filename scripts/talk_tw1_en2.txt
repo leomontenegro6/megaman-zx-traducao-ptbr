@@ -57,7 +57,7 @@ primeira vez ontem!
 <p 02><a 37><n 32>
 Mas quando cheguei no
 viaduto, fiquei muito
-assustada.
+assustado.
 <*********************>
 
 <p 02><a 37><n 32>
@@ -550,8 +550,8 @@ pode ficar.
 <*********************>
 
 <p 02><a 4E><n 49>
-Aren't you the girl
-that saved us earlier?
+Você é a garota que nos
+salvou mais cedo?
 <--------------------->
 
 <p 02><a 4E><n 49>
@@ -712,8 +712,8 @@ fantástico como o seu!
 <*********************>
 
 <p 02><a 38><n 33>
-Hey lady, you want
-something with me?
+Ei tia, quer algo
+de mim?
 <--------------------->
 
 <p 02><a 38><n 33>
@@ -840,8 +840,8 @@ edifício em chamas.
 
 <p 02><a 45><n 40>
 Posso não parecer, mas
-trabalho como uma
-camera-man.
+eu trabalho como
+cinegrafista.
 <--------------------->
 
 <p 02><a 45><n 40>
@@ -861,7 +861,7 @@ folga pra preguiçosos.
 
 <p 02><a 45><n 40>
 Faça sol ou faça chuva,
-tenho que ir ganhar a
+tenho que ganhar a
 vida.
 <--------------------->
 
@@ -872,7 +872,7 @@ bom furo de reportagem.
 <*********************>
 
 <p 02><a 45><n 40>
-Tirei uma foto o
+Tirei uma foto do
 Maverick que nos
 salvou,
 <--------------------->
@@ -905,24 +905,25 @@ grande nesta cidade...
 <--------------------->
 
 <p 02><a 45><n 40>
-Oh yeah, <nome>!
+Ah é, <nome>!
 <--------------------->
 
-Would you mind being a
-model for me?
-<--------------------->
-
-<p 02><a 45><n 40>
-No, huh?
+Está interessada em
+um trabalho como modelo
+para mim?
 <--------------------->
 
 <p 02><a 45><n 40>
-I can understand...
+Não, né?
 <--------------------->
 
-You do look pretty
-busy, being a
-transporter and all.
+<p 02><a 45><n 40>
+Eu entendo...
+<--------------------->
+
+Trabalhando como trans-
+portadora, você anda
+ser bastante ocupada.
 <*********************>
 
 <p 02><a 45><n 40>
@@ -981,7 +982,7 @@ cadê minha câmera?!
 <*********************>
 
 <p 02><a 3C><n 37>
-Hey lady! How ya doin?
+Oi tia! Como vai você?
 <--------------------->
 
 <p 02><a 3C><n 37>
@@ -1213,51 +1214,51 @@ tões como você.
 <*********************>
 
 <p 02><a 56><n 52>
-Yiiip.
+Arf arf.
 <*********************>
 
 <p 02><a 56><n 52>
-Yiiip.
+Arf arf.
 <*********************>
 
 <p 02><a 56><n 52>
-Yiiip.
+Arf arf.
 <*********************>
 
 <p 02><a 56><n 52>
-Yiiip.
+Arf arf.
 <*********************>
 
 <p 02><a 56><n 52>
-Yiiip.
+Arf arf.
 <*********************>
 
 <p 02><a 56><n 52>
-Yiiip.
+Arf arf.
 <*********************>
 
 <p 02><a 56><n 52>
-Yiiip.
+Arf arf.
 <*********************>
 
 <p 02><a 56><n 52>
-Yiiip.
+Arf arf.
 <*********************>
 
 <p 02><a 56><n 52>
-Yiiip.
+Arf arf.
 <*********************>
 
 <p 02><a 56><n 52>
-Yiiip.
+Arf arf.
 <*********************>
 
 <p 02><a 56><n 52>
-Yiiip.
+Arf arf.
 <*********************>
 
 <p 02><a 56><n 52>
-Yiiip.
+Arf arf.
 <*********************>
 
 <p 02><a 56><n 52>
@@ -1794,15 +1795,14 @@ outros!
 <*********************>
 
 <p 02><a 3F><n 3A>
-Hey miss, are you one
-of those transporter
-people?
+Ei tia, você trabalha
+como transportadora?
 <--------------------->
 
 <p 02><a 3F><n 3A>
-I thought you were
-supposed to have a bike
-or a car for the job.
+Achava que você tivesse
+um carro ou moto para
+trabalhar.
 <--------------------->
 
 <p 02><a 3F><n 3A>
@@ -1815,9 +1815,9 @@ Que pena...
 <--------------------->
 
 <p 02><a 3F><n 3A>
-Hop in the passenger
-seat, I can take you
-where you want to go!
+Senta no banco do
+passageiro, que te
+levo aonde quiser!
 <*********************>
 
 <p 02><a 3F><n 3A>
@@ -2312,19 +2312,19 @@ acabar surtando.
 <*********************>
 
 <p 02><a 4F><n 4A>
-You look like the sort
-of person that keeps
-things tidy.
+Você parece ser o tipo
+de pessoa que preza por
+organização.
 <--------------------->
 
-My boy is a little
-rascal, 
+Meu garoto é um
+pentelho,
 <--------------------->
 
 <p 02><a 4F><n 4A>
-and he never seems to
-want to clean up his
-room.
+e ele parece não querer
+limpar seu quarto
+nunca.
 <*********************>
 
 <p 02><a 4F><n 4A>
@@ -2332,9 +2332,9 @@ Ei, gosta de futebol?
 <--------------------->
 
 <p 02><a 4F><n 4A>
-Quando te vi corrento,
-pensei que fosse um
-jogador como eu.
+Quando te vi correndo,
+tive a impressão de que
+você jogava bola.
 <*********************>
 
 <p 02><a 4F><n 4A>

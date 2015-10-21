@@ -57,7 +57,7 @@ primeira vez ontem!
 <p 02><a 37><n 32>
 Mas quando cheguei no
 viaduto, fiquei muito
-assustada.
+assustado.
 <*********************>
 
 <p 02><a 37><n 32>
@@ -853,8 +853,8 @@ edifício em chamas.
 
 <p 02><a 45><n 40>
 Posso não parecer, mas
-trabalho como uma
-camera-man.
+eu trabalho como
+cinegrafista.
 <--------------------->
 
 <p 02><a 45><n 40>
@@ -874,7 +874,7 @@ folga pra preguiçosos.
 
 <p 02><a 45><n 40>
 Faça sol ou faça chuva,
-tenho que ir ganhar a
+tenho que ganhar a
 vida.
 <--------------------->
 
@@ -885,7 +885,7 @@ bom furo de reportagem.
 <*********************>
 
 <p 02><a 45><n 40>
-Tirei uma foto o
+Tirei uma foto do
 Maverick que nos
 salvou,
 <--------------------->
@@ -2350,9 +2350,9 @@ Ei, gosta de futebol?
 <--------------------->
 
 <p 02><a 4F><n 4A>
-Quando te vi corrento,
-pensei que fosse um
-jogador como eu.
+Quando te vi correndo,
+tive a impressão de que
+você jogava bola.
 <*********************>
 
 <p 02><a 4F><n 4A>
