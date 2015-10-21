@@ -2,280 +2,279 @@
 <#####################>
 
 <p 02><a 37><n 32>
-Thanks mister!
+Obrigado, tio!
 <--------------------->
 
 <p 02><a 37><n 32>
-I got a little too
-close to the fire,
-but I'll be okay.
+Fiquei um um tanto
+perto demais do fogo,
+mas vou ficar bem.
 <--------------------->
 
 <p 02><a 37><n 32>
-You rescued me just in
-the nick of time!
+Você me salvou bem
+na hora!
 <*********************>
 
 <p 02><a 37><n 32>
-I'm scared to go
-outside, so I'm staying
-here.
+Estou com medo de ir
+lá fora, então vou
+ficar aqui.
 <*********************>
 
 <p 02><a 37><n 32>
-Why didn't Slither Inc.
-come and save us?
+Por que a Serpent Ltda
+não veio nos salvar?
 <--------------------->
 
 <p 02><a 37><n 32>
-That building is
-theirs, isn't it?
+Aquele edifício era
+deles, não é?
 <*********************>
 
 <p 02><a 37><n 32>
-Their own employees
-were trapped inside
-with me.
+Até mesmo os próprios
+empregados dela ficaram
+presos, junto comigo.
 <--------------------->
 
 <p 02><a 37><n 32>
-Mommy used to say
-that Slither Inc. saved
-this country...
+Mamãe costumava dizer
+que a Serpent Ltda
+salvou este país...
 <--------------------->
 
 <p 02><a 37><n 32>
-But I don't believe
-that anymore.
+Mas não acredito mais
+nisso.
 <*********************>
 
 <p 02><a 37><n 32>
-I went outside for the
-first time yesterday!
+Fui lá fora pela
+primeira vez ontem!
 <--------------------->
 
 <p 02><a 37><n 32>
-But when I reached the
-highway, I got really
-scared.
+Mas quando cheguei no
+viaduto, fiquei muito
+assustada.
 <*********************>
 
 <p 02><a 37><n 32>
-I can't just hide
-inside forever.
+Não posso ficar aqui
+escondido pra sempre.
 <--------------------->
 
 <p 02><a 37><n 32>
-When I see people like
-you staring danger
-straight in the face...
+Quando vejo pessoas
+como você, encarando o
+perigo cara a cara...
 <--------------------->
 
 <p 02><a 37><n 32>
-I want to be strong
-too!
+Me dá vontade de ser
+forte também!
 <*********************>
 
 <p 02><a 37><n 32>
-Is that getup popular
-nowadays?
+Essa fantasia aí
+tá na moda, atualmente?
 <--------------------->
 
 <p 02><a 37><n 32>
-You look scary just
-like a Slither Inc.
-guard.
+Você está assustador,
+igual um dos guardas
+da Serpent Ltda.
 <*********************>
 
 <p 02><a 4D><n 48>
-Are you the young lad
-that saved me from the
-fire?
+Você é o jovem que me
+salvou do incêndio?
 <--------------------->
 
 <p 02><a 4D><n 48>
-I thought so...
+Eu sabia...
 <--------------------->
 
 <p 02><a 4D><n 48>
-These old bones are
-still around thanks to
-your help.
+Esses velhos ossos
+ainda estão vivos,
+graças à sua ajuda.
 <--------------------->
 
 <p 02><a 4D><n 48>
-Thank you.
+Obrigado.
 <*********************>
 
 <p 02><a 4D><n 48>
-Did you manage to save
-the others?
+Conseguiu salvar
+os outros?
 <--------------------->
 
 <p 02><a 4D><n 48>
-It'd be such a waste if
-only this old codger
-made it out...
+Seria um desperdício
+se apenas este velhote
+tivesse sobrevivido...
 <*********************>
 
 <p 02><a 4D><n 48>
-I used to go out to the
-hot springs in Area K
-with my family...
+Costumava ir às fontes
+termais na Área K com
+minha família...
 <--------------------->
 
 <p 02><a 4D><n 48>
-Now it's too hot to go
-in without burning
-myself.
+Agora está quente
+demais para tomar
+banho sem se queimar.
 <*********************>
 
 <p 02><a 4D><n 48>
-I wonder what kind of
-treasure might be
+Me pergunto que tipo de
+tesouro estaria
+escondido
 <--------------------->
 
-hidden in the lava
-fields?
+nos campos de lava?
 <--------------------->
 
 <p 02><a 4D><n 48>
-Those Slither Inc. folk
-seem to be awfully
-interested in the area.
+O pessoal da Serpent
+Ltda parece estar muito
+interessado na região.
 <*********************>
 
 <p 02><a 4D><n 48>
-You know, I got to
-thinking...
+Sabe, estive
+pensando...
 <--------------------->
 
 <p 02><a 4D><n 48>
-Even though the fire
-took place in a Slither
-Inc. building,
+Apesar do incêndio ter
+surgido em um edifício
+da Serpent Ltda,
 <--------------------->
 
 <p 02><a 4D><n 48>
-there's not one peep,
-let alone an apology
-coming out of them.
+eles sequer se pronun-
+ciaram. Nem pedido de
+desculpas emitiram.
 <--------------------->
 
 <p 02><a 4D><n 48>
-I hate to talk bad
-about them,
+Odeio ter de falar mal
+deles,
 <--------------------->
 
-but they've
-got my knickers in a
-bunch!
+mas eles estão deixando
+muito a desejar ultima-
+mente! Isso me chateia!
 <*********************>
 
 <p 02><a 4D><n 48>
-Fiddlesticks,
-I shouldn't have said
-anything bad
+Ah, que besteira!
 <--------------------->
 
-about Slither Inc.
+Eu não devia ter falado
+mal da Serpent Ltda.
 <--------------------->
 
 <p 02><a 4D><n 48>
-Forget I said it...
-I know I will.
+Esqueça o que eu
+disse... Sei que irá.
 <*********************>
 
 <p 02><a 4D><n 48>
-Jumping jehosaphat!
-What are you?
+Pelas barbas de
+Jeosafá! Quem é você?
 <--------------------->
 
 <p 02><a 4D><n 48>
-Get outta here! Go on
-skedaddle!
+Se manda daqui!
+Vá se embora!
 <*********************>
 
 <p 02><a 3B><n 36>
-I know you. You're the
-hide and seek guy!
+Eu te conheço.
+Você é o cara do
+esconde-esconde!
 <--------------------->
 
 <p 02><a 3B><n 36>
-When are ya gonna come
-back and play with us!?
+Quando cê vai voltar,
+pra gente brincar
+de novo?!
 <*********************>
 
 <p 02><a 3B><n 36>
-I wonder if there's
-some trick to hide and
-seek...
+Será que há um truque
+para nunca ser achado
+no esconde-esconde?
 <--------------------->
 
 <p 02><a 3B><n 36>
-I guess if I was too
-good,
+Acho que, se tivesse,
 <--------------------->
 
-people would stop
-looking for me and
-that'd be no fun.
+então as pessoas iriam
+parar de me procurar,
+e isso não seria legal.
 <*********************>
 
 <p 02><a 3B><n 36>
-I wonder what I should
-play today...
+Do que será que vou
+brincar hoje...
 <--------------------->
 
 <p 02><a 3B><n 36>
-I can't play hide and
-seek without any
-seekers.
+Não dá pra brincar de
+esconde-esconde sem
+meus amigos.
 <*********************>
 
 <p 02><a 3B><n 36>
-I'll just have to go to
-Morgan's shop in Area
-C-2 and play there.
+Acho que vou na loja do
+Morgan na Área C-2, e
+jogar videogame lá.
 <--------------------->
 
 <p 02><a 3B><n 36>
-Hmm, I only have enough
-money for one game...
+Hmm, se ao menos eu
+tivesse dinheiro pra
+jogar...
 <*********************>
 
 <p 02><a 3B><n 36>
-Mom always said I
-should play outside
-near mountains and
+Mamãe sempre disse pra
+eu brincar perto de
+montanhas e florestas.
 <--------------------->
 
-forests on nice days.
-"Experience nature,"
-she says.
-<--------------------->
-
-<p 02><a 3B><n 36>
-But there are no safe
-places to play anymore.
+Ela sempre diz pra mim:
+"Viva a natureza".
 <--------------------->
 
 <p 02><a 3B><n 36>
-That's why I just hang
-around town all the
-time now.
+Mas não há mais lugar
+seguro pra brincar.
+<--------------------->
+
+<p 02><a 3B><n 36>
+É por isso que acabo
+ficando pela cidade
+o tempo inteiro agora.
 <*********************>
 
 <p 02><a 3B><n 36>
-When it's safe again, I
-wanna explore a cave or
-climb a mountain.
+Mas quando melhorar,
+vou explorar cavernas
+ou subir montanhas.
 <--------------------->
 
 <p 02><a 3B><n 36>
-For now, I have to wait
-until the Mavericks are
-gone.
+Por enquanto, tenho
+que esperar até os
+Mavericks irem embora.
 <*********************>
 
 <p 02><a 3B><n 36>
@@ -283,550 +282,563 @@ Hm?
 <--------------------->
 
 <p 02><a 3B><n 36>
-Haven't I seen you
-before? Maybe it's just
-my imagination.
+Eu já não te vi antes?
+Talvez seja só minha
+imaginação.
 <*********************>
 
 <p 02><a 55><n 51>
-You're the young boy
-that saved me, aren't
-you?
+Você é o garoto que me
+salvou, não é?
 <--------------------->
 
 <p 02><a 55><n 51>
-I'm sorry for the harsh
-words earlier.
+Desculpe pelas palavras
+duras mais cedo.
 <*********************>
 
 <p 02><a 55><n 51>
-Four out of five
-buildings in the area
-belong to my company.
+Quatro, de cinco edifí-
+cios na área, pertencem
+à minha empresa.
 <--------------------->
 
 <p 02><a 55><n 51>
-All of the maintenance
-is left to computers,
+Toda a manutenção
+foi deixada para
+os computadores,
 <--------------------->
 
-so there aren't many
-people around.
-<--------------------->
-
-<p 02><a 55><n 51>
-Most of the employees
-are Reploids.
+então quase não há
+pessoas no local.
 <--------------------->
 
 <p 02><a 55><n 51>
-Humans are too easily
-distracted by their
-emotions.
+A maioria dos
+empregados são
+Replóides.
 <--------------------->
 
 <p 02><a 55><n 51>
-I can understand why
-the president doesn't
-want to hire them.
-<*********************>
-
-<p 02><a 55><n 51>
-This country wouldn't
-be the great place it
-<--------------------->
-
-is today without
-Slither Inc.
+Humanos se distraem
+muito fácil com suas
+emoções.
 <--------------------->
 
 <p 02><a 55><n 51>
-I'm proud to be an
-employee of the best
-company on the planet!
+Entendo por que o
+diretor-presidente
+não quer contratá-los.
 <*********************>
 
 <p 02><a 55><n 51>
-We could use someone
-like you. You should
-join us!
+Se não fosse pela
+Serpent Ltda, este
+lugar não seria metade
+<--------------------->
+
+do lugar que é hoje
+em dia.
 <--------------------->
 
 <p 02><a 55><n 51>
-The competition to get
-in is fierce though.
-<--------------------->
-
-<p 02><a 55><n 51>
-Maybe it's better to
-give up any dreams of
-being elite like me.
+Tenho orgulho de ser
+um empregado da melhor
+empresa do planeta!
 <*********************>
 
 <p 02><a 55><n 51>
-Something seems to be
-on the president's mind
-lately.
+Deveríamos ter conosco
+alguém como você. Devia
+se juntar a nós!
 <--------------------->
 
 <p 02><a 55><n 51>
-He keeps digging around
-in the Outlands like a
-man possessed.
-<*********************>
-
-<p 02><a 55><n 51>
-I wonder when it all
-started.
+No entanto, a competi-
+tividade lá dentro é
+bem acirrada.
 <--------------------->
 
 <p 02><a 55><n 51>
-Seems to be around the
-time those two showed
-up...
-<--------------------->
-
-<p 02><a 55><n 51>
-I'm sure the president
-has just got a lot on
-his mind.
-<--------------------->
-
-<p 02><a 55><n 51>
-I know he has our best
-interests at heart!
+Talvez seja melhor
+desistir do sonho de
+ser da elite, como eu.
 <*********************>
 
 <p 02><a 55><n 51>
-What's with that
-outfit!?
+Há algo de estranho no
+diretor-presidente da
+empresa, ultimamente.
 <--------------------->
 
 <p 02><a 55><n 51>
-If you look like that,
-the security guards are
-going to go after you.
+Ele fica escavando as
+ruínas nas fronteiras,
+com uma certa urgência.
+<*********************>
+
+<p 02><a 55><n 51>
+Imagino quando tudo
+isso começou.
 <--------------------->
 
 <p 02><a 55><n 51>
-You better change
-clothes if you don't
-want trouble.
+Parece que foi perto
+da época que aqueles
+dois apareceram...
+<--------------------->
+
+<p 02><a 55><n 51>
+Com certeza o diretor-
+presidente tem muita
+coisa em mente.
+<--------------------->
+
+<p 02><a 55><n 51>
+Sei que ele sabe
+o que é melhor
+para todos nós!
+<*********************>
+
+<p 02><a 55><n 51>
+Que equipamento é
+esse aí, que está
+usando?!
+<--------------------->
+
+<p 02><a 55><n 51>
+Se continuar desse
+jeito, os guardas
+virão atrás de você.
+<--------------------->
+
+<p 02><a 55><n 51>
+Melhor trocar de roupa
+se quiser evitar
+confusão.
 <*********************>
 
 <p 02><a 3A><n 35>
-Hey mister! Good to see
-you again!
+Ei tio! Que bom te ver
+de novo!
 <--------------------->
 
 <p 02><a 3A><n 35>
-What do you like to do
-besides play hide and
-seek?
+Quais brincadeiras você
+gosta, além de esconde-
+esconde?
 <--------------------->
 
 <p 02><a 3A><n 35>
-Me? Hmm...
+Eu? Hmm...
 <--------------------->
 
 <p 02><a 3A><n 35>
-Soccer... Go carts...
-Board games...
+Futebol... Corrida de
+carrinhos... Jogos de
+tabuleiro...
 <--------------------->
 
 <p 02><a 3A><n 35>
-Oh! Kick the can,
-definitely kick the
-can.
+Ah! Chutar latinha!
+Com certeza chutar
+latinha!
 <--------------------->
 
-I like treasure
-hunting too.
+Também gosto de caça
+ao tesouro.
 <*********************>
 
 <p 02><a 3A><n 35>
-Nothing beats the
-thrill of hearing the
-seeker's footsteps
+Nada supera a emoção de
+ouvir as pegadas do seu
+perseguidor,
 <--------------------->
 
-closing in on you when
-you're hiding.
-<--------------------->
-
-<p 02><a 3A><n 35>
-The cave in Area A-4
-is the best!
+enquanto você está no
+seu esconderijo.
 <--------------------->
 
 <p 02><a 3A><n 35>
-It feels just like I'm
-in an action adventure
-movie!
+A caverna na Área A-4
+é o melhor lugar pra
+brincar!
+<--------------------->
+
+<p 02><a 3A><n 35>
+É como se eu estivesse
+em um filme de ação
+ou aventura!
 <*********************>
 
 <p 02><a 3A><n 35>
-Have you ever been to
-the other side of the
-cave in Area A-4?
+Já esteve no outro
+lado da caverna,
+na Área A-4?
 <--------------------->
 
 <p 02><a 3A><n 35>
-I heard there's an
-entrance from the sea
-in Area J.
+Ouvi que há uma
+entrada para o oceano,
+na Área J.
 <--------------------->
 
 <p 02><a 3A><n 35>
-but I was too scared by
-the dark to go there.
+mas é tão escuro ir lá,
+que fiquei com medo.
 <*********************>
 
 <p 02><a 3A><n 35>
-Mom and dad don't want
-me going to places like
-the forest or caves.
+Meus pais não querem
+que eu vá para cavernas
+ou florestas.
 <--------------------->
 
 <p 02><a 3A><n 35>
-They think it's
-dangerous, but I crave
-danger.
+Acham que é perigoso,
+mas eu rio na cara do
+perigo.
 <--------------------->
 
-Danger is my best
-friend. Danger is...
+O perigo é meu melhor
+amigo. Pode crer...
 <*********************>
 
 <p 02><a 3A><n 35>
-Another busy day for
-you?
+Outro dia cheio pra
+você?
 <--------------------->
 
-I'm watching the place
-while everyone's out.
-<--------------------->
-
-<p 02><a 3A><n 35>
-It's so boring here
-with mom and dad gone
-all the time.
-<*********************>
-
-<p 02><a 3A><n 35>
-I'm tired of just
-playing by myself all
-the time.
+Estou tomando de conta
+do lugar, enquanto todo
+mundo está fora.
 <--------------------->
 
 <p 02><a 3A><n 35>
-It's always funner with
-friends.
+É tão chato aqui, sem
+meus pais por perto.
 <*********************>
 
 <p 02><a 3A><n 35>
-Cool armor! Where can I
-buy a suit like that?
-<*********************>
-
-<p 02><a 3A><n 35>
-Oh, hey!
+Estou cansado de ficar
+brincando sozinho o
+tempo inteiro.
 <--------------------->
 
 <p 02><a 3A><n 35>
-I have a chip that
-would be just perfect
-for your armor!
+Sempre é mais legal com
+amigos.
+<*********************>
+
+<p 02><a 3A><n 35>
+Que armadura legal!
+Onde posso comprar uma
+parecida?
+<*********************>
+
+<p 02><a 3A><n 35>
+Ah, ei!
 <--------------------->
 
 <p 02><a 3A><n 35>
-It's called a Frog
-Chip. Here, check it
-out!
+Eu tenho um chip que
+seria perfeito para sua
+armadura!
 <--------------------->
 
 <p 02><a 3A><n 35>
-It'll give you grip
-when sliding down
-walls.
+É chamado "Chip Sapo".
+Aqui, saca só!
 <--------------------->
 
 <p 02><a 3A><n 35>
-No one here uses it, so
-you can have it.
+Vai te fazer deslizar
+mais devagar, enquanto
+escala paredes.
+<--------------------->
+
+<p 02><a 3A><n 35>
+Ninguém aqui usa, então
+pode ficar.
 <*********************>
 
 <p 02><a 4E><n 49>
-Aren't you the boy that
-saved us earlier?
+Você não é o garoto que
+nos salvou mais cedo?
 <--------------------->
 
 <p 02><a 4E><n 49>
-I thought bravery was
-dead, but you've
-restored my faith.
+Pensava que bravura não
+mais existia, mas você
+restaurou minha fé.
 <*********************>
 
 <p 02><a 4E><n 49>
-Thanks to you, I'm
-alive and my life's
-back to normal.
+Graças a você, estou
+vivo, e minha vida
+voltou ao normal.
 <--------------------->
 
 <p 02><a 4E><n 49>
-I'm taking strolls in
-the forest, fishing at
-the lake...
+Faço caminhadas na
+floresta, pescaria no
+lago...
 <--------------------->
 
-Ah, it's bliss.
-<--------------------->
-
-<p 02><a 4E><n 49>
-I want to see so much
-of the world.
+Ah, é uma bênção.
 <--------------------->
 
 <p 02><a 4E><n 49>
-If only the snowy
-mountains weren't in
-the Outlands,
+Queria tanto ver o
+resto do mundo.
 <--------------------->
 
-I'd whip out the old
-ice boots and go
-climbing.
+<p 02><a 4E><n 49>
+Se ao menos os alpes
+não ficassem nas
+fronteiras,
+<--------------------->
+
+Tiraria a poeira das
+minhas botas de gelo
+para escalá-los.
 <*********************>
 
 <p 02><a 4E><n 49>
-Why were you wearing
-those snazzy duds when
-you saved us?
+Por que estava usando
+esse traje maneiro
+quando nos salvou?
 <--------------------->
 
 <p 02><a 4E><n 49>
-Ah... I get it!
+Ah... Já saquei!
 <--------------------->
 
 <p 02><a 4E><n 49>
-You're part of the
-rescue squad from
-Slither Inc.!
+Você faz parte do
+esquadrão de resgate
+da Serpent Ltda!
 <--------------------->
 
 <p 02><a 4E><n 49>
-It must be some fancy
-new suit they developed
+Deve ser um desses
+novos trajes
+fantasiosos
 <--------------------->
 
-and you were testing it
-out.
+e você está testando
+o equipamento.
 <*********************>
 
 <p 02><a 4E><n 49>
-Where can I buy a
-costume like the one
-you were wearing?
+Onde posso comprar um
+traje parecido com o
+que estava vestindo?
 <--------------------->
 
 <p 02><a 4E><n 49>
-With that, I could
-climb the tallest
+Com esse traje, eu
+poderia escalar as
+mais altas montanhas,
 <--------------------->
 
-mountain and swim in
-the deepest sea!
+e mergulhar até o fundo
+do oceano!
 <*********************>
 
 <p 02><a 4E><n 49>
-I think there's a lot
-of undiscovered country
-waiting for me.
+Acho que há muitas
+regiões desconhecidas
+no país me esperando.
 <--------------------->
 
 <p 02><a 4E><n 49>
-I want to explore as
-many ruins and distant
-lands as possible while
+Quero explorar o máximo
+de ruínas e terras
+distantes possível,
 <--------------------->
 
-these legs can still
-walk.
+enquanto estas pernas
+ainda podem andar.
 <*********************>
 
 <p 02><a 4E><n 49>
-Adventure is the heart
-and soul of a man.
+A aventura é o coração
+e a alma do homem.
 <--------------------->
 
 <p 02><a 4E><n 49>
-That's something that
-never changes no matter
-how old a man gets.
+Isso é algo que nunca
+muda, não importa quão
+velho um homem fique.
 <--------------------->
 
 <p 02><a 4E><n 49>
-I used to have nerves
-of steel when it came
-to facing danger.
+Eu costumava ter nervos
+de aço quando tinha de
+enfrentar o perigo.
 <--------------------->
 
 <p 02><a 4E><n 49>
-No matter how old I
-am, I always want to
-laugh in its face!
+Não importa quão velho
+eu esteja, sempre quero
+rir na cara do perigo!
 <*********************>
 
 <p 02><a 4E><n 49>
-Hey you! Can I have a
-moment?
+Ei, você!
+Tem um minuto?
 <--------------------->
 
 <p 02><a 4E><n 49>
-That sparkly doo-dad of
-yours...
+Esse aparato brilhante
+que você tem aí...
 <--------------------->
 
 <p 02><a 4E><n 49>
-Is it a Pink Crystal?
+É um Cristal Rosa?
 <--------------------->
 
 <p 02><a 4E><n 49>
-How did you get that!?
+Como conseguiu isso!?
 <--------------------->
 
 <p 02><a 4E><n 49>
-I'll trade you this
-Ice Boots Chip for it!
+Troco o cristal por
+esse Chip Botas de
+Gelo!
 <--------------------->
 
 <p 02><a 4E><n 49>
-I won't take no for an
-answer!
+Não aceito um "não"
+como resposta!
 <*********************>
 
 <p 02><a 4E><n 49>
-Woah! You scared me!
+Uou! Você me assustou!
 <--------------------->
 
 <p 02><a 4E><n 49>
-Incredible! I wish I
-had a great costume
-like that!
+Incrível! Quem dera se
+eu tivesse um traje
+fantástico como o seu!
 <*********************>
 
 <p 02><a 38><n 33>
-Hey mister, you want
-something with me?
+Ei tio, quer algo de
+mim?
 <--------------------->
 
 <p 02><a 38><n 33>
-I was captured by some
-bad guys and was being
-held in a dark room.
+Fui capturado por uns
+caras maus, que me
+prenderam numa sala.
 <--------------------->
 
 <p 02><a 38><n 33>
-But then someone came
-along and saved me.
+Mas então alguém veio
+e me salvou.
 <--------------------->
 
 <p 02><a 38><n 33>
-I couldn't see who it
-was though because the
-room was so dark.
+Não pude ver quem foi,
+pois a sala estava
+muito escura.
 <*********************>
 
 <p 02><a 38><n 33>
-No one ever cleans the
-rooftop on this
-building.
+Ninguém nunca limpa o
+telhado deste prédio.
 <--------------------->
 
 <p 02><a 38><n 33>
-Weeds keep popping up
-there all the time.
+Lá em cima, vive
+crescendo erva daninha
+o tempo todo.
 <*********************>
 
 <p 02><a 38><n 33>
-Are you the one that
-saved me from the dark
-room before?
+Foi você que me salvou
+daquela sala escura
+antes?
 <--------------------->
 
 <p 02><a 38><n 33>
-Nah... It can't be you.
+Nah... Não pode ser
+sido você.
 <--------------------->
 
 <p 02><a 38><n 33>
-Ah, it doesn't matter
-anyway.
+Ah, não importa mais,
+de qualquer forma.
 <*********************>
 
 <p 02><a 38><n 33>
-It was scary being
-trapped in such a small
-place for so long.
+Tive medo quando fiquei
+preso por tanto tempo
+numa sala tão pequena.
 <--------------------->
 
 <p 02><a 38><n 33>
-But I'm a boy, so of
-course I never cried.
+Mas sou um garoto,
+então é óbvio que não
+chorei nenhuma vez.
 <--------------------->
 
 <p 02><a 38><n 33>
-The girl that was with
-me never stopped crying
-though...
+Já a menina que estava
+comigo, ficou chorando
+o tempo todo sem parar.
 <*********************>
 
 <p 02><a 38><n 33>
-My grandpa keeps saying
-the same things over
-and over again.
+Meu vovô vive dizendo
+as mesmas coisas todo
+tempo.
 <--------------------->
 
 <p 02><a 38><n 33>
-He keeps telling me how
-"this country was
-without power and in
+Ele fica dizendo isso:
+"Antigamente, com o
+país sem energia,
 <--------------------->
 
-terrible shape a long
-time ago."
-<--------------------->
-
-<p 02><a 38><n 33>
-"Compared to that,
-this country is a
-paradise now."
+vivíamos passando por
+problemas e maus
+bocados."
 <--------------------->
 
 <p 02><a 38><n 33>
-He loves to
-exaggerate...
+"Comparado ao que era,
+este país certamente é
+um paraíso agora."
+<--------------------->
+
+<p 02><a 38><n 33>
+Ele agora exagerar...
 <*********************>
 
 <p 02><a 38><n 33>
-"With our cushy
-lifestyles, we take
+"Com um estilo de vida
+confortável,
 <--------------------->
 
-everything for granted
-nowadays..."
+nós vivemos pressu-
+ponto que a vida é
+fácil hoje em dia..."
 <--------------------->
 
 <p 02><a 38><n 33>
-That's what grandpa
-says anyway.
+É o que o vovô costuma
+dizer.
 <*********************>
 
 <p 02><a 38><n 33>
-Hm? Who are you?
+Hm? Quem é você?
 <--------------------->
 
 <p 02><a 38><n 33>
-Are you a... Maverick?
+Você é um... Maverick?
 <*********************>
 
 <p 02><a 45><n 40>
@@ -834,366 +846,378 @@ Are you a... Maverick?
 <--------------------->
 
 <p 02><a 45><n 40>
-The name's Halison. You
-saved me from the
-burning building.
+Meu nome é Halison.
+Você me salvou do
+edifício em chamas.
 <--------------------->
 
 <p 02><a 45><n 40>
-I may not look it, but
-I'm a cameraman.
+Posso não parecer, mas
+trabalho como uma
+camera-man.
 <--------------------->
 
 <p 02><a 45><n 40>
-Innerpeace is too...
+Innerpeace é muito...
 <--------------------->
 
-Well, peaceful. I
-thought it was my
-chance for a big break.
+Bem, pacífica. Pensei
+que fosse minha chance
+para um grande furo.
 <*********************>
 
 <p 02><a 45><n 40>
-My plan was to take a
-few days off, but no
-rest for the wicked.
+Meu plano era tirar uns
+dias de folga, mas sem
+folga pra preguiçosos.
 <--------------------->
 
 <p 02><a 45><n 40>
-Rain or shine, I have
-to go and earn a
-living.
+Faça sol ou faça chuva,
+tenho que ir ganhar a
+vida.
 <--------------------->
 
 <p 02><a 45><n 40>
-I'm going to keep
-scanning the city for
-any hot scoops.
+Vou continuar vascu-
+lhando a cidade por um
+bom furo de reportagem.
 <*********************>
 
 <p 02><a 45><n 40>
-I snapped a photo of
-the Maverick that saved
-us, but the subject was
+Tirei uma foto o
+Maverick que nos
+salvou,
 <--------------------->
 
 <p 02><a 45><n 40>
-too fast and all I 
-ended up with was a
-blur.
+mas o sujeito era tão
+rápido que só consegui
+imagens embaçadas.
 <--------------------->
 
 <p 02><a 45><n 40>
-Oh well, it's not like
-I could have gone
-public with it...
+Mas mesmo assim, eu é
+que não ia publicar
+esse tipo de conteúdo.
 <--------------------->
 
 <p 02><a 45><n 40>
-If I even hinted at
-Slither Inc.'s
-negligence,
+Se eu fosse inventar de
+criar confusão com a
+Serpent Ltda,
 <--------------------->
 
-I'd be snaked off
-somewhere and
-disappear.
+Eu ia acabar é sumindo
+do mapa.
 <*********************>
 
 <p 02><a 45><n 40>
-Nothing ever happens in
-this town...
+Nunca acontece algo
+grande nesta cidade...
 <--------------------->
 
 <p 02><a 45><n 40>
-I would love to bite
-into a juicy story and
+Adoraria pôr minhas
+mãos numa boa história,
 <--------------------->
 
-become famous like that
-one cameraman...
-<--------------------->
-
-<p 02><a 45><n 40>
-Old what's his name...
+e ficar famosa,
+igual aquela outra
+camera-man...
 <--------------------->
 
 <p 02><a 45><n 40>
-I don't remember
-exactly,
+Como era mesmo o nome
+dele? Tava na ponta
+da língua...
 <--------------------->
 
-but he was a famous
-wartime
-photojournalist!
+<p 02><a 45><n 40>
+Não lembro de cabeça,
+<--------------------->
+
+mas ele era um famoso
+fotojornalista, dos
+tempos de guerra!
 <*********************>
 
 <p 02><a 45><n 40>
-Hey <nome>!
+Ei, <nome>!
 <--------------------->
 
 <p 02><a 45><n 40>
-Another day, and no
-scoops...
+Mais um novo dia, e
+nada de furos de
+reportagem...
 <--------------------->
 
 <p 02><a 45><n 40>
-Guess I better expect
-the usual 20% pay cut
-this month.
+Vou ter que lidar com o
+típico desconto de 20%
+do salário este mês.
 <--------------------->
 
 <p 02><a 45><n 40>
-I need to find a
-company that doesn't
+Preciso achar uma
+empresa que não se
+importe
 <--------------------->
 
-care about making money
-and work there.
+em fazer dinheiro o
+tempo todo, e trabalhar
+lá.
 <*********************>
 
 <p 02><a 45><n 40>
-I've been working the
-beat and gathering the
-facts.
+Estive investigando os
+últimos acontecimentos
+e analisando os fatos.
 <--------------------->
 
 <p 02><a 45><n 40>
-I think that Slither
-Inc...
+Acho que a Serpent
+Ltda...
 <--------------------->
 
 <p 02><a 45><n 40>
-May not be as good a
-company as people give
-them credit for.
+Talvez não seja uma
+empresa tão boa, como
+as pessoas acreditam.
 <*********************>
 
 <p 02><a 45><n 40>
-O-oh! A Maverick in
-Innerpeace!?
+A-Ah! Um Maverick aqui,
+em Innerpeace!?
 <--------------------->
 
 <p 02><a 45><n 40>
-Now this is a scoop!
-Camera, camera, where's
-my camera!?
+Isso sim é um furo de
+reportagem! Câmera,
+cadê minha câmera?!
 <*********************>
 
 <p 02><a 3C><n 37>
-Hey guy! How ya doin?
+E aí, cara!
+Como cê vai?
 <--------------------->
 
 <p 02><a 3C><n 37>
-Me? Not so well, my
-dad's mad at me.
+Eu? Não muito bem, meu
+pai ficou zangado
+comigo.
 <--------------------->
 
 <p 02><a 3C><n 37>
-He found out I was
-hanging out in the
+Ele descobriu que eu
+tava fugindo pras
+fronteiras,
 <--------------------->
 
-Outlands and playing
-around.
-<--------------------->
-
-<p 02><a 3C><n 37>
-I'll bet Jeff's mom
-squealed on me.
+pra brincar por lá.
 <--------------------->
 
 <p 02><a 3C><n 37>
-I'm never playing with
-that guy again.
+Aposto que a mãe de
+Jeff me dedurou.
+<--------------------->
+
+<p 02><a 3C><n 37>
+Nunca mais vou brincar
+com aquele cara.
 <*********************>
 
 <p 02><a 3C><n 37>
-Hide-and-seek is a
-blast. We're lovin' it.
+Esconde-esconde é
+muito legal. Estamos
+adorando.
 <--------------------->
 
 <p 02><a 3C><n 37>
-Well, after eight days
-straight, it did get a
-little stale.
+Bem, depois de brincar
+8 dias direto, começa a
+enjoar um pouco.
 <--------------------->
 
 <p 02><a 3C><n 37>
-Maybe the first three
-days were fun...
+Talvez os primeiros 3
+dias fossem legais...
 <--------------------->
 
 <p 02><a 3C><n 37>
-All good things should
-be taken in moderation.
+Todas as boas coisas
+devem ser apreciadas
+com moderação.
 <*********************>
 
 <p 02><a 3C><n 37>
-I heard somethin'
-interestin' from my
-grandpa.
+Ouvi algo interessante
+do meu vovô.
 <--------------------->
 
 <p 02><a 3C><n 37>
-This used to be just a
-giant mountain of
-rubble.
+Este lugar costumava
+ser uma enorme montanha
+de pedregulhos.
 <--------------------->
 
 <p 02><a 3C><n 37>
-With all the wars that
-went on, nothin' will
-grow here anymore.
+Com todas as guerras do
+passado, o solo daqui
+nunca mais será fértil.
 <*********************>
 
 <p 02><a 3C><n 37>
-I heard somethin'
-interestin' from my
-dad.
+Ouvi algo interessante
+do meu pai.
 <--------------------->
 
 <p 02><a 3C><n 37>
-Slither Inc. saved this
-country from an energy
-crisis.
+A Serpent Ltda salvou
+este país de uma crise
+de energia no passado.
 <--------------------->
 
 <p 02><a 3C><n 37>
-They must be geniuses
-to find a way to create
-all that energy!
+Eles devem ser gênios,
+por achar um jeito de
+criar tanta energia!
 <*********************>
 
 <p 02><a 3C><n 37>
-If I study hard enough,
-maybe I can be a big
-shot like the president
+Se eu estudar bastante,
+talvez eu consiga ser
+um grandão,
 <--------------------->
 
-of Slither Inc.
-someday!
+igualzinho o diretor-
+presidente da Serpent
+Ltda.
 <--------------------->
 
 <p 02><a 3C><n 37>
-Huh? What's with the
-sad face?
+Hã? Por quê essa cara
+triste?
 <*********************>
 
 <p 02><a 3C><n 37>
-Somethin' about the
-word "president" sounds
-cool.
+Algo na palavra
+"presidente" soa
+muito legal.
 <--------------------->
 
 <p 02><a 3C><n 37>
-"President Frank" has a
-nice ring to it, don't
-ya think?
+"Presidente Frank" tem
+uma boa sonoridade,
+cê não acha?
 <*********************>
 
 <p 02><a 3C><n 37>
-Wow! You're cool!
+Uau! Que legal!
 <--------------------->
 
 <p 02><a 3C><n 37>
-Oh... I'm sorry...
+Ah... Foi mal...
 <--------------------->
 
 <p 02><a 3C><n 37>
-My dad told me not to
-talk to strangers.
-<*********************>
-
-<p 02><a 3D><n 38>
-Oh! Hey, aren't you the
-seeker from our hide
-and seek game?
-<--------------------->
-
-<p 02><a 3D><n 38>
-You seeking again, or
-are you hiding this
-time?
+Meu ai disse pra eu não
+falar com estranhos.
 <*********************>
 
 <p 02><a 3D><n 38>
-Oh, you were just
-looking for us because
-of Jeff's mom, right?
+Ah! Ei, você não é o
+tio que tava brincando
+de esconde-esconde?
 <--------------------->
 
 <p 02><a 3D><n 38>
-Man, she's such a worry
-wart.
-<--------------------->
-
-<p 02><a 3D><n 38>
-What kid would want to
-study inside when they
-<--------------------->
-
-could be outside
-playing?
+Vai procurar de novo,
+ou dessa vez vai se
+esconder?
 <*********************>
 
 <p 02><a 3D><n 38>
-This building looks
-weird doesn't it?
+Ah, estava procurando
+pela gente só por causa
+da mãe de Jeff, né?
 <--------------------->
 
 <p 02><a 3D><n 38>
-You can't even get in
-without ducking down.
+Cara, aquela senhora se
+preocupa demais com a
+gente.
 <--------------------->
 
 <p 02><a 3D><n 38>
-It's like they messed
-up when building it.
+Qual menino ia querer
+estudar dentro de casa,
+<--------------------->
+
+quando poderia muito
+bem estar na rua
+brincando?
 <*********************>
 
 <p 02><a 3D><n 38>
-You're a transporter,
-right? Are you good
-with directions?
+Este edifício é bem
+tosco, não acha?
 <--------------------->
 
 <p 02><a 3D><n 38>
-What!? You get lost
-easily?
+Nem dá pra entrar nele
+sem ter que se agachar.
 <--------------------->
 
 <p 02><a 3D><n 38>
-Some transporter...
+Quem será o arquiteto
+que realizou este
+projeto?
 <*********************>
 
 <p 02><a 3D><n 38>
-My mom told me not to
-go too far, so I'm
-stuck here.
+Você trabalha como
+transportador, né?
+É bom com direções?
 <--------------------->
 
 <p 02><a 3D><n 38>
-Mavericks are even at
-the amusement park...
+Como?! Você se perde
+com facilidade?
 <--------------------->
 
 <p 02><a 3D><n 38>
-All of the good play
-spots are getting taken
-away.
+Transportadorzinho
+meia boca, hein...
 <*********************>
 
 <p 02><a 3D><n 38>
-I remember having a ton
-of fun at the amusement
-park when I went there.
+Minha mãe me disse para
+não ir muito longe, por
+isso tô preso aqui.
 <--------------------->
 
 <p 02><a 3D><n 38>
-Now even the
-attractions themselves
-have become Mavericks.
+Tem Mavericks até mesmo
+no parque de diversões.
+<--------------------->
+
+<p 02><a 3D><n 38>
+Os melhores lugares pra
+brincar estão sendo
+tomados da gente...
+<*********************>
+
+<p 02><a 3D><n 38>
+Me lembro de ter me
+divertido muito no
+parque quando fui lá.
+<--------------------->
+
+<p 02><a 3D><n 38>
+Agora até mesmo as
+próprias atrações
+viraram Mavericks.
 <*********************>
 
 <p 02><a 3D><n 38>
@@ -1201,486 +1225,500 @@ have become Mavericks.
 <--------------------->
 
 <p 02><a 3D><n 38>
-*whisper* I'm not
-supposed to talk to
-weirdoes.
+Psiu, eu devia estar
+falando com esquisi-
+tões como você.
 <*********************>
 
 <p 02><a 56><n 52>
-Woof!
+Au!
 <*********************>
 
 <p 02><a 56><n 52>
-Woof woof!
+Au au!
 <*********************>
 
 <p 02><a 56><n 52>
-Woof!
+Au!
 <*********************>
 
 <p 02><a 56><n 52>
-Rrr... Woof!
+Grrr... Au!
 <*********************>
 
 <p 02><a 56><n 52>
-Woof woof!
+Au au!
 <*********************>
 
 <p 02><a 56><n 52>
-Rrr... Woof!
+Grrr... Au!
 <*********************>
 
 <p 02><a 56><n 52>
-Woof woof!
+Au au!
 <*********************>
 
 <p 02><a 56><n 52>
-Woof woof woof!
-Woof woof woof woof!
+Au au au!
+Au au au au!
 <*********************>
 
 <p 02><a 56><n 52>
-Woof woof!
+Au au!
 <*********************>
 
 <p 02><a 56><n 52>
-Woof woof woof!
-Woof woof woof woof!
+Au au au!
+Au au au au!
 <*********************>
 
 <p 02><a 56><n 52>
-Woof woof!
+Au au!
 <*********************>
 
 <p 02><a 56><n 52>
-Woof woof!
-Woof woof woof!
-Woof woof woof woof!
+Au au!
+Au au au!
+Au au au au!
 <*********************>
 
 <p 02><a 56><n 52>
-Bark bark!
+Grruou Grruou!
 <*********************>
 
 <p 02><a 55><n 50>
-Who are you?
+Quem é você?
 <--------------------->
 
 <p 02><a 55><n 50>
-Oh... A transporter
-with Giro Express you
-say?
+Ah... Um transportador
+da Girouette Expresso,
+então?
 <--------------------->
 
 <p 02><a 55><n 50>
-I've heard the name
-before, but I'm not too
-familiar with it.
+Ouvi este nome antes,
+mas não estou muito
+familiarizado.
 <--------------------->
 
 <p 02><a 55><n 50>
-According to the
-rumors, they take on a
-lot of dangerous work.
+De acordo com rumores,
+eles fazem vários
+trabalhos perigosos.
 <--------------------->
 
 <p 02><a 55><n 50>
-I'm warning you. Don't
-do anything suspicious
+Tô te avisando. Não
+faça nada suspeito
 <--------------------->
 
-in Slither Inc.
-territory.
+no território da
+Serpent Ltda.
 <*********************>
 
 <p 02><a 55><n 50>
-There's a lot going on
-that I don't know
-about...
+Tem muita coisa que a
+Serpent Ltda anda fa-
+zendo, sem sabermos...
 <--------------------->
 
 <p 02><a 55><n 50>
-But that's to be
-expected with a big
-company.
+Mas é de se esperar de
+uma empresa assim tão
+grande.
 <*********************>
 
 <p 02><a 55><n 50>
-The president seems to
-go on a lot of business
-trips lately.
+O diretor-presidente
+anda viajando muito a
+negócios, ultimamente.
 <--------------------->
 
 <p 02><a 55><n 50>
-I'm not sure what he's
-doing, but he better
-take it easy.
+Não sei o que ele está
+fazendo, mas é melhor
+ele pegar leve.
 <--------------------->
 
-Balance work and
-private life, you know?
+Digo, balancear melhor
+o trabalho e a vida
+pessoal, sabe?
 <*********************>
 
 <p 02><a 55><n 50>
-What?
+O quê?
 <--------------------->
 
 <p 02><a 55><n 50>
-You don't know where
-Slither Inc. is
-located?
+Não conhece o local
+onde a Serpent Ltda
+está situada?
 <--------------------->
 
 <p 02><a 55><n 50>
-It's the giant building
-facing the highway in
-Area D-2.
+É aquele edifício
+gigante, de frente ao
+viaduto na Área D-2.
 <--------------------->
 
 <p 02><a 55><n 50>
-It might be a massive
-building,
+O edifício da Serpent
+Ltda pode ser enorme,
 <--------------------->
 
-but it's still such a
-small part of Slither
-Inc.'s total assets.
+mas é uma pequena parte
+comparado com o seu
+total de ativos.
 <*********************>
 
 <p 02><a 55><n 50>
-I met the president the
-other day.
+Conheci o diretor-
+presidente um dia
+desses.
 <--------------------->
 
 <p 02><a 55><n 50>
-He seems to be a lot
-bigger than the first
-time I saw him.
+Ele parece estar bem
+maior, comparado à
+última vez que o vi.
 <--------------------->
 
 <p 02><a 55><n 50>
-It must just be the
-psychological effect of
+Deve ser o efeito
+psicológico
 <--------------------->
 
-his magnificent
-presence...
+de sua magnífica
+presença...
 <*********************>
 
 <p 02><a 55><n 50>
-Lately the president
-has been busy
+Ultimamente o diretor-
+presidente anda bem
+ocupado
 <--------------------->
 
-investigating around
-Area M.
-<--------------------->
-
-<p 02><a 55><n 50>
-I'm just glad I don't
-have to go to a
-<--------------------->
-
-dangerous place like
-that.
-<*********************>
-
-<p 02><a 55><n 50>
-I don't envy the
-dangerous work you're
-doing...
+investigando os
+arredores da Área M.
 <--------------------->
 
 <p 02><a 55><n 50>
-But I can respect a
-young person like
-yourself working hard.
+Estou feliz por não
+terem pedido para eu ir
 <--------------------->
 
-<p 02><a 55><n 50>
-Oh! I've got something
-for you.
-<--------------------->
-
-<p 02><a 55><n 50>
-It's an orange from my
-wife's hometown.
+até um lugar perigoso
+como aquele.
 <*********************>
 
 <p 02><a 55><n 50>
-Hey you! The suspicious
-character in the
-strange getup!
+Não invejo o trabalho
+perigoso que vocês
+fazem...
 <--------------------->
 
 <p 02><a 55><n 50>
-Don't move! I'm calling
-for backup, then we're
-taking you in.
+Mas respeito um jovem
+como você, trabalhando
+assim tão duro.
+<--------------------->
+
+<p 02><a 55><n 50>
+Ah! Tenho algo para
+você.
+<--------------------->
+
+<p 02><a 55><n 50>
+É uma laranja, da
+terra natal de minha
+esposa.
+<*********************>
+
+<p 02><a 55><n 50>
+Ei, você! O personagem
+suspeito nesse traje
+estranho!
+<--------------------->
+
+<p 02><a 55><n 50>
+Não se mova! Vou chamar
+reforços, e então vão
+acabar com você.
 <*********************>
 
 <p 02><a 50><n 4B>
-My my, who are you?
+Ora ora, quem é você?
 <--------------------->
 
 <p 02><a 50><n 4B>
-My name's Morgan and I
-run this joint.
+Meu nome é Morgan, e
+sou o dono deste
+estabelecimento.
 <--------------------->
 
 <p 02><a 50><n 4B>
-I watch over it to make
-sure kids have a safe
-place to play games.
+Faço deste um lugar
+seguro para as crianças
+jogarem videogame.
 <--------------------->
 
 <p 02><a 50><n 4B>
-Some of the games
-have conditions to meet
-before you can play.
+Alguns dos jogos têm
+pré-requisitos para
+poder jogar.
 <--------------------->
 
 <p 02><a 50><n 4B>
-The ones available will
-have their screens
-lit up.
+Os jogos disponíveis
+estarão com as telas
+ligadas.
 <--------------------->
 
 <p 02><a 50><n 4B>
-Stand in front and
-press up on the
-+Control Pad.
+Fique de frente a um
+deles, e pressione
+<dpad> <cima>.
 <*********************>
 
 <p 02><a 50><n 4B>
-The other door to the
-transerver in the next
+Vizinho a mim, a porta
+seguinte, que contém um
+transervidor,
 <--------------------->
 
-room outside leads out
-to the highway.
-<--------------------->
-
-<p 02><a 50><n 4B>
-The highway is
-crawling with
-Mavericks,
-<--------------------->
-
-so you'd best watch
-yourself if you go
-out there.
+também leva ao viaduto.
 <--------------------->
 
 <p 02><a 50><n 4B>
-They've split the
-road to make sure
-people don't
+Os arredores do viaduto
+estão repletos de
+Mavericks.
 <--------------------->
 
-accidentally wander
-into danger.
-<--------------------->
-
-<p 02><a 50><n 4B>
-By the way, the
-transerver in the next
-<--------------------->
-
-room is just for
-communications.
+então é melhor tomar
+cuidado, se for até lá.
 <--------------------->
 
 <p 02><a 50><n 4B>
-To teleport, you have
-to find one of the tube
-shaped transervers
+Eles partiram a pista
+em dois, para evitar
+que as pessoas
 <--------------------->
 
-designed specifically
-for that purpose.
+andem por lá acidental-
+mente.
+<--------------------->
+
+<p 02><a 50><n 4B>
+Falando nisso, o
+transervidor na sala
+ao lado,
+<--------------------->
+
+serve apenas para
+comunicações.
+<--------------------->
+
+<p 02><a 50><n 4B>
+Para teletransportar,
+precisará achar outro
+tipo de transervidor.
+<--------------------->
+
+Estes possuem formato
+de tubo, e foram proje-
+tados para isso.
 <*********************>
 
 <p 02><a 50><n 4B>
-The boy?
+O garoto?
 <--------------------->
 
 <p 02><a 50><n 4B>
-My dream is for him to
-one day work for
-Slither Inc.
+Meu sonho é que um dia
+ele passe a trabalhar
+para a Serpent Ltda.
 <--------------------->
 
 <p 02><a 50><n 4B>
-Then he could take care
-of his old man.
+Então ele poderá tomar
+de conta deste velho.
 <*********************>
 
 <p 02><a 50><n 4B>
-You're a real hard
-worker. I'm impressed!
+Você realmente é um
+trabalhador duro.
+Estou impressionado!
 <--------------------->
 
 <p 02><a 50><n 4B>
-I wish my boy could be
-more like you...
+Queria que meu garoto
+fosse mais parecido
+com você...
 <*********************>
 
 <p 02><a 50><n 4B>
-You wanna play
-anything?
+Quer jogar algo?
 <--------------------->
 
 <p 02><a 50><n 4B>
-You look pretty busy,
-so maybe next time eh?
+Você parece ocupado,
+então que tal da
+próxima vez?
 <*********************>
 
 <p 02><a 50><n 4B>
-Hey <nome>, have you
-played Crusher-F yet?
+Ei, <nome>! Já jogou
+"Destruidor F"?
 <--------------------->
 
 <p 02><a 50><n 4B>
-In that one, you punch
-balls to knock them
-into enemies.
+Nesse jogo, você soca
+bolas nos inimigos,
+para nocauteá-los.
 <--------------------->
 
 <p 02><a 50><n 4B>
-The machine used to be
-busted, but I fixed it
-up!
+A máquina estava dani-
+ficada, mas consertei-a
+recentemente.
 <*********************>
 
 <p 02><a 50><n 4B>
-My my, what are you?
+Ora ora, quem ou o que
+é você?
 <--------------------->
 
 <p 02><a 50><n 4B>
-You look like you
-jumped straight out of
+Você parece um desses
+personagens fantasiados
+com armas no braço,
 <--------------------->
 
-one of these here video
-games.
-<*********************>
-
-<p 02><a 3E><n 39>
-Hey there! I'll tell
-you something.
-<--------------------->
-
-<p 02><a 3E><n 39>
-There's an arcade in
-Area C-2.
-<--------------------->
-
-<p 02><a 3E><n 39>
-I'd love to play some
-games, but I don't have
-enough E-Crystals.
-<--------------------->
-
-<p 02><a 3E><n 39>
-If you ever have spare
-ones, you should check
-it out.
-<--------------------->
-
-<p 02><a 3E><n 39>
-It feels just like
-you're in the game!
+que aparecem nos
+videogames daqui.
 <*********************>
 
 <p 02><a 3E><n 39>
-Hey again! How do you
-like my wheels?
+E aí! Deixa eu te
+contar uma coisa.
 <--------------------->
 
 <p 02><a 3E><n 39>
-I know it's just a toy,
-but it's so realistic!
+Tem um fliperama na
+Área C-2.
 <--------------------->
 
 <p 02><a 3E><n 39>
-My dad bought one for
-me and one for my
-little brother.
+Queria muito jogar lá,
+mas não tenho cristais
+suficientes.
 <--------------------->
 
 <p 02><a 3E><n 39>
-Mine's called Red
-Striker!
+Se tiver cristais de
+sobra, deveria dar um
+pulinho lá.
 <--------------------->
 
 <p 02><a 3E><n 39>
-His is the Rush
-Roadster!
-<--------------------->
-
-<p 02><a 3E><n 39>
-The real ones used to
-rule the tracks back in
-the olden days.
+É tão real que parece
+que você está dentro
+do jogo!
 <*********************>
 
 <p 02><a 3E><n 39>
-This is just a toy, so
-it doesn't go as fast
-as the real thing...
+Olá de novo! Gostou do
+meu "carrão"?
 <--------------------->
 
 <p 02><a 3E><n 39>
-The break's grip is
-good,
-<--------------------->
-
-but the accelerator
-just isn't as
-responsive as I'd like.
+Sei que é só um
+brinquedo, mas é tão
+realista!
 <--------------------->
 
 <p 02><a 3E><n 39>
-I can put the pedal to
-the medal, but I still
-only hit 5 mph.
+Meu pai comprou um pra
+mim, e outro pro meu
+irmão menor.
+<--------------------->
+
+<p 02><a 3E><n 39>
+O meu se chama
+"Red Striker"!
+<--------------------->
+
+<p 02><a 3E><n 39>
+E o nome do dele é
+"Rush Roadster"!
+<--------------------->
+
+<p 02><a 3E><n 39>
+Os verdadeiros mandavam
+ver nas corridas, nos
+velhos tempos.
 <*********************>
 
 <p 02><a 3E><n 39>
-When I grow up, I want
-a fast car that I can
-cruise around town in!
+Este é de brinquedo.
+Não corre tão rápido
+como o verdadeiro...
 <--------------------->
 
 <p 02><a 3E><n 39>
-It would be great to
-hit the gas and go
+A precisão do freio
+é boa,
 <--------------------->
 
-riding off into the
-sunset!
+mas o acelerador não é
+tão responsivo como eu
+gostaria que fosse.
+<--------------------->
+
+<p 02><a 3E><n 39>
+Posso pisar fundo no
+pedal, mas ele mal
+chega aos 20 km/h.
 <*********************>
 
 <p 02><a 3E><n 39>
-I want to be a racer
-someday.
+Quando crescer, quero
+um carro veloz, para
+correr pela cidade!
 <--------------------->
 
 <p 02><a 3E><n 39>
-Don't tell Lou though,
-he'll just copy me...
+Deve ser muito bom
+encher o tanque,
+<--------------------->
+
+e andar de carro até
+o pôr-do-sol!
 <*********************>
 
 <p 02><a 3E><n 39>
-I'll take home a mega
-huge trophy,
+Quero ser um corredor
+algum dia.
 <--------------------->
 
 <p 02><a 3E><n 39>
-and use all the prize
-money to buy my mom and
-dad a nice house!
+Mas não diga nada pro
+Lou, senão ele vai me
+copiar...
+<*********************>
+
+<p 02><a 3E><n 39>
+Levarei para casa um
+troféu enorme, e com o
+dinheiro do prêmio,
+<--------------------->
+
+<p 02><a 3E><n 39>
+vou comprar uma casa
+casa bem legal, pro
+papai e pra mamãe!
 <*********************>
 
 <p 02><a 3E><n 39>
@@ -1688,80 +1726,83 @@ dad a nice house!
 <--------------------->
 
 <p 02><a 3E><n 39>
-My teacher said not to
-talk to strangers...
+Meu professor disse
+para não falar com
+estranhos...
 <*********************>
 
 <p 02><a 39><n 34>
-I know how mom feels...
+Sei como minha mãe se
+sente...
 <--------------------->
 
 <p 02><a 39><n 34>
-I don't want to upset
-her or anything.
+Mas não quero deixar
+ela chateada, nada
+disso.
 <*********************>
 
 <p 02><a 39><n 34>
-I'm trying to decide 
-my own path in life,
-you know.
+Estou apenas tentando
+decidir meu próprio
+caminho na vida, sabe?
 <--------------------->
 
 <p 02><a 39><n 34>
-But mom just won't stop
-trying to force her
-dreams on me.
+Mas a mamãe não pára de
+tentar forçar seus
+sonhos em mim.
 <--------------------->
 
 <p 02><a 39><n 34>
-My future should be
-mine, not hers right?
+Meu futuro devia ser
+meu, não dela.
+Não acha?
 <*********************>
 
 <p 02><a 39><n 34>
-Why does everyone think
-Slither Inc. is so
-great?
+Por que todo mundo
+pensa que a Serpent
+Ltda é incrível?
 <--------------------->
 
 <p 02><a 39><n 34>
-Simple. They take care
-of their employees and
-have a bright future.
+Simples. Eles cuidam
+de seus empregados, e
+garante o futuro deles.
 <*********************>
 
 <p 02><a 39><n 34>
-I just want to do a job
-that makes me happy.
+Quero ter um emprego
+que me faça feliz.
 <--------------------->
 
 <p 02><a 39><n 34>
-I probably should study
-harder to make sure
-that I can do that.
+Acho que devia estudar
+mais, para conseguir
+realizar este feito.
 <*********************>
 
 <p 02><a 39><n 34>
-Mom always says I
-should study more every
-time I see her.
+Toda vez que vejo a
+mamãe, ela diz que eu
+devia estudar mais.
 <--------------------->
 
 <p 02><a 39><n 34>
-She's obsessed with me
-entering Slither Inc.
-and being some suit.
+Está obcecada comigo
+entrando na Serpent
+Ltda, de gravata e tal.
 <*********************>
 
 <p 02><a 39><n 34>
-I talked to mom about
-how I feel.
+Falei com a mamãe sobre
+como me sinto.
 <--------------------->
 
 <p 02><a 39><n 34>
-She seemed to
-understand where I was
-coming from...
+Ela pareceu entender o
+que quero da vida...
 <*********************>
 
 <p 02><a 39><n 34>
@@ -1769,115 +1810,117 @@ coming from...
 <--------------------->
 
 <p 02><a 39><n 34>
-Strangers shouldn't
-just come inside
-a person's house!
+Estranhos não deviam
+entrar na casa dos
+outros!
 <*********************>
 
 <p 02><a 3F><n 3A>
-Hey mister, are you one
-of those transporter
-people?
+Ei tio, você é um
+desses transportadores?
 <--------------------->
 
 <p 02><a 3F><n 3A>
-Where's your motorbike
-then?
+Cadê sua moto, então?
 <--------------------->
 
 <p 02><a 3F><n 3A>
-Huh? Some bad guys
-destroyed it?
+Hã? Uns caras malvados
+destruíram sua moto?
 <--------------------->
 
 <p 02><a 3F><n 3A>
-That's too bad...
+Que pena...
 <--------------------->
 
 <p 02><a 3F><n 3A>
-I can lend you my car
-if you want.
+Posso te emprestar
+meu carrinho, se
+quiser.
 <*********************>
 
 <p 02><a 3F><n 3A>
-I'm going to race my
-brother someday!
+Vou correr com meu
+irmão algum dia!
 <--------------------->
 
 <p 02><a 3F><n 3A>
-But something is wrong
-with his car, so it
-moves super slow.
+Mas tem algo errado com
+meu carrinho, pois ele
+corre super devagar.
 <--------------------->
 
 <p 02><a 3F><n 3A>
-I'll win anytime,
-anywhere with my car!
+Com meu carrinho,
+vencerei sempre em
+qualquer lugar!
 <*********************>
 
 <p 02><a 3F><n 3A>
-I want to tune my car
-so I can race my
-brother.
+Quero tunar meu
+carrinho, pra poder
+correr com meu irmão.
 <--------------------->
 
 <p 02><a 3F><n 3A>
-I'm no good with fixing
-things, so I want dad
-to help...
+Não sou bom em conser-
+tar coisas, então chamo
+meu pai pra ajudar...
 <--------------------->
 
 <p 02><a 3F><n 3A>
-But he's no good with
-this stuff either.
+Mas ele também não é
+bom com esse tipo de
+coisa.
 <--------------------->
 
 <p 02><a 3F><n 3A>
-After he got a hold of
-the steering wheel,
+Depois dele ter
+enganhado a direção,
 <--------------------->
 
-the car won't turn
-right anymore...
+o carrinho não vira
+mais pra direita...
 <*********************>
 
 <p 02><a 3F><n 3A>
-Dad said he used to be
-a mechanic!
+Papai disse que ele
+era um mecânico
+antigamente!
 <--------------------->
 
 <p 02><a 3F><n 3A>
-But me and my brother
-don't believe him.
+Mas eu e meu irmão
+não acreditamos nele.
 <--------------------->
 
 <p 02><a 3F><n 3A>
-Why does he say such
-crazy things?
+Por que ee diz essas
+loucuras?
 <--------------------->
 
 <p 02><a 3F><n 3A>
-*sigh* That's our
-dad for you...
+Tch. Esse é o meu
+pai...
 <*********************>
 
 <p 02><a 3F><n 3A>
-I want to be a racer
-someday.
+Quero ser um corredor
+algum dia.
 <--------------------->
 
 <p 02><a 3F><n 3A>
-Don't tell Yu though!
+Mas não conte ao Yu!
 <*********************>
 
 <p 02><a 3F><n 3A>
-Yu complains about
-everything I do.
+Yu reclama de tudo que
+eu faço.
 <--------------------->
 
 <p 02><a 3F><n 3A>
-He always thinks he's
-number one.
+Ele sempre acha que é
+o melhor.
 <*********************>
 
 <p 02><a 3F><n 3A>
@@ -1885,128 +1928,137 @@ number one.
 <--------------------->
 
 <p 02><a 3F><n 3A>
-You're scary! Go away!
+Você é assustador!
+Vá embora!
 <*********************>
 
 <p 02><a 44><n 3F>
-Thanks for saving me
-from that burning
-building.
+Obrigado por me salvar
+daquele edifício em
+chamas.
 <--------------------->
 
 <p 02><a 44><n 3F>
-If it weren't for you,
-I'd be charcoal.
+Se não fosse por você,
+eu já teria virado
+carvão.
 <*********************>
 
 <p 02><a 44><n 3F>
-You won't be able to
-get through the red
+Você não conseguirá
+passar por uma dessas
+portar vermelhas
 <--------------------->
 
-door without a card
-key.
-<--------------------->
-
-<p 02><a 44><n 3F>
-Security has been
-increased since all of
-<--------------------->
-
-the Maverick
-outbreaks...
+sem ter em mãos um
+cartão-chave.
 <--------------------->
 
 <p 02><a 44><n 3F>
-It's a big hassle, but
-it's for our safety.
+A segurança foi
+reforçada desde que
+ocorreram
+<--------------------->
+
+todos aqueles surtos
+de Mavericks...
+<--------------------->
+
+<p 02><a 44><n 3F>
+Isso gerou um tumulto
+danado, mas é para
+nossa segurança.
 <*********************>
 
 <p 02><a 44><n 3F>
-The lava fields are
-beyond the red door.
+Os campos de lava estão
+além desta porta
+vermelha.
 <--------------------->
 
 <p 02><a 44><n 3F>
-The lava keeps rising
-and has everyone
-worried.
+A lava fica subindo
+cada vez mais, preocu-
+pando a todos.
 <--------------------->
 
 <p 02><a 44><n 3F>
-It could overflow and
-reach town at any
-moment.
+A qualquer momento,
+pode transbordar e
+chegar na cidade.
 <--------------------->
 
 <p 02><a 44><n 3F>
-There used to be a spa
-resort town around the
-area,
+Antes, na região, havia
+uma rede de resorts,
+com spa e tudo mais,
 <--------------------->
 
-but that's gone
-now.
+mas agora, não tem mais
+nada.
 <--------------------->
 
 <p 02><a 44><n 3F>
-It's hard to relax in a
-hot spring when there
+É difícil de relaxar em
+uma fonte termal,
 <--------------------->
 
-are dangerous Mavericks
-roaming around.
+quando há Mavericks
+perigosos rondando a
+região.
 <*********************>
 
 <p 02><a 44><n 3F>
-I can't sleep with the
-constant sounds of
-digging at night.
+Não consigo dormir com
+o barulho constante das
+escavações à noite.
 <--------------------->
 
 <p 02><a 44><n 3F>
-What on earth could
-they be digging for?
+O que diabos eles estão
+escavando?
 <*********************>
 
 <p 02><a 44><n 3F>
-A long time ago, war
-destroyed city and
-nature alike...
+Muito tempo atrás, a
+guerra destruiu cidades
+e regiões naturais...
 <--------------------->
 
 <p 02><a 44><n 3F>
-But thanks to Slither
-Inc., this town is the
+Mas graças à Serpent
+Ltda,
 <--------------------->
 
-magnificent place you
-see today.
+agora esta cidade é o
+lugar magnífico que
+vemos hoje em dia.
 <*********************>
 
 <p 02><a 44><n 3F>
-I sometimes hear
-whisperings that
+Às vezes, quando ando
+pela cidade,
 <--------------------->
 
-Slither Inc. is up to
-no good...
-<--------------------->
-
-<p 02><a 44><n 3F>
-But if the rumors were
-true,
-<--------------------->
-
-it would mean the end
-of the world as we know
-it.
+ouço boatos de que a
+Serpent Ltda não vai
+bem das pernas...
 <--------------------->
 
 <p 02><a 44><n 3F>
-I wouldn't worry
-yourself. They're just
-rumors after all.
+Mas se os rumores forem
+verdade,
+<--------------------->
+
+isso significaria o fim
+do mundo que conhecemos
+hoje.
+<--------------------->
+
+<p 02><a 44><n 3F>
+Eu não me preocuparia
+com isso. São apenas
+rumores, afinal.
 <*********************>
 
 <p 02><a 44><n 3F>
@@ -2018,81 +2070,85 @@ rumors after all.
 <*********************>
 
 <p 02><a 47><n 42>
-That car over there has
-been parked for ages.
-It's blockin' the way.
+Aquele carro ali está
+estacionado há eras,
+bloqueando a passagem.
 <--------------------->
 
 <p 02><a 47><n 42>
-It's probably outta
-energy. I wish
-it would get moved.
+Deve estar sem energia.
+Seria bom se fosse
+rebocado daí.
 <*********************>
 
 <p 02><a 47><n 42>
-It must be nice to have
-a car.
+Deve ser bom ter um
+carro.
 <--------------------->
 
 <p 02><a 47><n 42>
-I'd love to go on a
-drive in the mountains
-with my girlfriend,
+Adoraria passear de
+carro nas montanhas
+com minha namorada,
 <--------------------->
 
 <p 02><a 47><n 42>
-but I don't have a car,
-so we'd have to walk
-there...
+mas não tenho um carro,
+então teremos de ir
+a pé...
 <*********************>
 
 <p 02><a 47><n 42>
-My girlfriend is a
-really quiet person.
+Minha namorada é uma
+pessoa realmente
+tranquila.
 <--------------------->
 
 <p 02><a 47><n 42>
-It's kinda mysterious
-and alluring.
+Isso me é ao mesmo
+tempo misterioso,
+e sedutor.
 <*********************>
 
 <p 02><a 47><n 42>
-We don't need words to
-know what each other
-are feeling.
+Não precisamos de
+palavras para saber o
+que estamos sentindo.
 <--------------------->
 
 <p 02><a 47><n 42>
-You'll understand
-someday.
+Você entenderá algum
+dia.
 <*********************>
 
 <p 02><a 47><n 42>
-Love and relationships
-wouldn't be possible
+Amor e relacionamentos
+não seriam possíveis
 <--------------------->
 
-without the peace that
-blesses us.
+sem a paz que nos
+abençoa.
 <--------------------->
 
 <p 02><a 47><n 42>
-Slither Inc. deserves
-our gratitude...
+A Serpent Ltda merece
+nossa gratidão...
 <*********************>
 
 <p 02><a 47><n 42>
-Even if the peace ended
-and we went to war...
+Mesmo se a paz
+terminasse, e 
+fôssemos à guerra...
 <--------------------->
 
 <p 02><a 47><n 42>
-I know me and my
-girlfriend would still
+Sei que eu e minha
+namorada ainda
+encontraríamos
 <--------------------->
 
-find our happy place in
-the world.
+nosso lugar feliz no
+mundo, mesmo em caos.
 <--------------------->
 
 <p 02><a 4C><n 47>
@@ -2100,262 +2156,266 @@ the world.
 <--------------------->
 
 <p 02><a 4C><n 47>
-Oh stop... You're
-embarrassing me.
+Ah pare... Você está
+me envergonhando.
 <*********************>
 
 <p 02><a 47><n 42>
-H-hold on! Who are
-ya!?
+P-Peraí! Quem cê pensa
+que é?!
 <--------------------->
 
 <p 02><a 47><n 42>
-I'm calling the guards!
+Vou chamar os guardas!
 <*********************>
 
 <p 02><a 46><n 41>
-Thanks <nome>!
+Valeu <nome>!
 <--------------------->
 
 <p 02><a 46><n 41>
-For what? Don't tell me
-you forgot...
+Pelo quê? Não me diga
+que se esqueceu...
 <--------------------->
 
 <p 02><a 46><n 41>
-I was one of the people
-you rescued from the
-dark room.
+Foi uma das pessoas que
+você resgatou naquela
+sala escura.
 <--------------------->
 
 <p 02><a 46><n 41>
-I was just a hair's
-width away from
-becoming a Cyber-elf.
+Estava a um fio
+de ter virado um
+Cyber-elfo.
 <*********************>
 
 <p 02><a 46><n 41>
-I work at a warehouse
-managing inventory.
+Trabalho em um depósito
+gerenciando inventário.
 <--------------------->
 
 <p 02><a 46><n 41>
-Actually, I've worked
-with you guys at Giro
-Express in the past.
+Na verdade, já traba-
+lhei com vocês da Giro-
+uette Expresso antes.
 <*********************>
 
 <p 02><a 46><n 41>
-<nome>, you don't know
-anyone at Slither Inc.
-do you?
+<nome>, por acaso você
+conhece alguém na
+Serpent Ltda?
 <--------------------->
 
 <p 02><a 46><n 41>
-All of my friends keep
-hassling me to get a
-real job.
+Meus amigos ficam me
+falando pra pegar um
+emprego decente lá.
 <--------------------->
 
 <p 02><a 46><n 41>
-They always say the
-future is bright with
-Slither Inc.!
+Sempre dizem que o
+futuro é trabalhar
+na Serpent Ltda!
 <*********************>
 
 <p 02><a 46><n 41>
-I'm proud of the work I
-do now.
+Mas tenho orgulho do
+trabalho que faço hoje.
 <--------------------->
 
 <p 02><a 46><n 41>
-No one ever believes me
-though...
+Muito embora ninguém
+acredite em mim...
 <*********************>
 
 <p 02><a 46><n 41>
-My friends say that
-Slither Inc. has a
-huuuge warehouse...
+Meus amigos dizem que a
+Serpent Ltda tem um
+depósito enooorme...
 <--------------------->
 
 <p 02><a 46><n 41>
-Filled to the brim with
-all sorts of fancy,
-cutting-edge weaponry.
+O lugar é cheio de
+armamentos com tecnolo-
+gia de última geração.
 <--------------------->
 
 <p 02><a 46><n 41>
-But that's ridiculous.
+Mas isso é ridículo.
 <--------------------->
 
-Why would Slither Inc.
-be stockpiling
-weaponry?
+Por que a Serpent Ltda
+estaria armazenando
+armamentos?
 <*********************>
 
 <p 02><a 46><n 41>
-What!?
+O quê!?
 <--------------------->
 
 <p 02><a 46><n 41>
-You're saying that
-Slither Inc. was behind
-our kidnapping
+Está dizendo que a
+Serpent Ltda estava por
+trás de nosso sequestro
 <--------------------->
 
 <p 02><a 46><n 41>
-and the attempt to turn
-us into Cyber-elves?
+e que eles pretendiam
+nos transformar em
+Cyber-elfos?
 <--------------------->
 
 <p 02><a 46><n 41>
-That's a pretty lame
-joke <nome>.
+É uma piada bem sem
+graça, <nome>.
 <--------------------->
 
 <p 02><a 46><n 41>
-It's probably the doing
-of some slimy company
-that wants to ruin
+É capaz de ser intriga
+da concorrência,
 <--------------------->
 
-Slither Inc.'s good
-name.
+querendo manchar o bom
+nome da Serpent Ltda.
 <*********************>
 
 <p 02><a 46><n 41>
-Oh yeah, <nome>!
+Ah é, <nome>!
 <--------------------->
 
 <p 02><a 46><n 41>
-I wanted to thank you
-for what you did for
-me. Take this.
+Queria te agradecer
+pelo que você fez por
+mim. Fique com isso.
 <--------------------->
 
 <p 02><a 46><n 41>
-This Absorber Chip will
-help you avoid getting
+Este Chip Absorsor fará
+com que você não seja
+mais jogado para trás,
 <--------------------->
 
-knocked back by enemy
-attacks.
-<--------------------->
-
-<p 02><a 46><n 41>
-I used it back when I
-worked a part-time job
-in the Outlands.
+ao receber ataques
+inimigos.
 <--------------------->
 
 <p 02><a 46><n 41>
-It still works like a
-charm.
+Usava muito quando
+trabalhava meio-período
+nas fronteiras.
+<--------------------->
+
+<p 02><a 46><n 41>
+Ainda funciona que é
+uma beleza.
 <*********************>
 
 <p 02><a 46><n 41>
-Woah! What's with the
-getup!?
+Opa! Que traje doido é
+esse aí!?
 <--------------------->
 
 <p 02><a 46><n 41>
-Is that you <nome>?
+É você, <nome>?
 <--------------------->
 
 <p 02><a 46><n 41>
-You better be careful
-running around looking
-like that.
+Melhor tomar cuidado
+ao andar por aí com
+essa aparência.
 <--------------------->
 
-Other people might
-freak out.
-<*********************>
-
-<p 02><a 4F><n 4A>
-I'm so out of shape
-lately,
-<--------------------->
-
-I just tried walking
-around and got winded.
-<--------------------->
-
-<p 02><a 4F><n 4A>
-I used to be a famous
-soccer player. Now I'm
-just getting old...
+Outras pessoras podem
+acabar surtando.
 <*********************>
 
 <p 02><a 4F><n 4A>
-Hey, do you like
-soccer?
+Estou tão fora de forma
+ultimamente,
+<--------------------->
+
+que tentei passear, e
+o vento me levou.
 <--------------------->
 
 <p 02><a 4F><n 4A>
-When I saw you running,
-I thought I sensed a
-fellow soccer buff.
+Eu era um famoso
+jogador de futebol.
+Agora tô ficando velho.
 <*********************>
 
 <p 02><a 4F><n 4A>
-I heard there's a game
-over in Area C-2 where
-<--------------------->
-
-you dribble a ball to
-the goal.
+Ei, gosta de futebol?
 <--------------------->
 
 <p 02><a 4F><n 4A>
-You might want to check
-it out if you have some
-spare E-Crystals.
+Quando te vi corrento,
+pensei que fosse um
+jogador como eu.
 <*********************>
 
 <p 02><a 4F><n 4A>
-If I was just 10 years
-younger, I'd be there
-playing that game too.
+Ouvi dizer que há um
+jogo na Área C-2,
+<--------------------->
+
+onde o objetivo é
+driblar a bola até
+o gol.
 <--------------------->
 
 <p 02><a 4F><n 4A>
-It requires more
-coordination than this
-<--------------------->
-
-tired body can pull
-together.
+Se tiver cristais de
+sobra, recomendo que
+dê uma olhada depois.
 <*********************>
 
 <p 02><a 4F><n 4A>
-I tried to kick the
-ball around yesterday,
-<--------------------->
-
-but I fell flat on my
-face.
+Se eu fosse dez anos
+mais jovem, estaria lá
+jogando também.
 <--------------------->
 
 <p 02><a 4F><n 4A>
-I better work harder to
-stay in shape...
+Mas o jogo exige tanto
+da minha coordenação
+motora
+<--------------------->
+
+que este corpo cansado
+não aguenta mais.
 <*********************>
 
 <p 02><a 4F><n 4A>
-I may never return
-to my glory days,
+Tentei dar uns toques
+de bola ontem,
+<--------------------->
+
+mas acabei caindo de
+cara no chão.
 <--------------------->
 
 <p 02><a 4F><n 4A>
-but I would like to run
-around the old field
-and shoot a few goals.
+Melhor eu trabalhar
+mais, para ficar em
+forma...
 <*********************>
 
 <p 02><a 4F><n 4A>
-Aaah! W-who are you!?
+Talvez não consiga mais
+voltar aos meus dias
+de glória,
+<--------------------->
+
+<p 02><a 4F><n 4A>
+mas eu gostaria de
+correr no campo e fazer
+uns chutes a gol.
+<*********************>
+
+<p 02><a 4F><n 4A>
+Aaah! Q-Quem é você!?
 <*********************>
 
 <FIM>
