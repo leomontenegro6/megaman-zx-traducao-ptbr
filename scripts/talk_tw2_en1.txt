@@ -1318,8 +1318,8 @@ have some.
 <--------------------->
 
 <p 02><a 54><n 4F>
-I'm sorry, I can't talk
-to you...
+Sinto muito, mas não
+posso falar com você...
 <*********************>
 
 <p 02><a 43><n 3E>

@@ -2,108 +2,107 @@
 <#####################>
 
 <p 02><a 2B><n 1F>
-Desculpe incomodá-lo,
-mas tenho um pequeno
-favor a te pedir...
+Sorry to bother you,
+but I have a small
+favor to ask...
 <--------------------->
 
 <p 02><a 2B><n 1F>
-Eu sempre estou muito
-ausente...
+I always get so carried
+away...
 <--------------------->
 
 <p 02><a 2B><n 1F>
-E bem, da última vez
-que estive na cidade,
-alguém me pediu ajuda.
+And well, last time I
+was in town, someone
+asked for my help.
 <--------------------->
 
 <p 02><a 2B><n 1F>
-Prometi arrancar a
-relva do telhado.
+I promised to pluck out
+the weeds from their
+roof.
 <--------------------->
 
 <p 02><a 2B><n 1F>
-Mas... Tenho medo de
-altura.
+But... I'm afraid of
+heights.
 <--------------------->
 
 <p 02><a 2B><n 1F>
-Poderia me ajudar com
-isso?
+Could you help me out
+on this one?
 <*********************>
 
 <p 02><a 2B><n 1F>
-Por favor... Limpe os
-telhados da relva.
+Please... Clean off the
+weeds from the rooftop.
 <--------------------->
 
 <p 02><a 2B><n 1F>
-Se você não for, as
-pessoas vão ficar
-comentando.
+If you don't, people
+will go around thinking
 <--------------------->
 
 <p 02><a 2B><n 1F>
-Se perder a confiança,
-será quase impossível
-recuperá-la.
+If you lose trust once,
+it's almost impossible
+to earn it back.
 <*********************>
 
 <p 02><a 02><n 55>
-Cortar a relva dos
-telhados na Área C-2.
+Cut the weeds on the
+roof in Area C-2.
 <*********************>
 
 <e 01><a 02><n 55>
-  Sim
-  Não
+  Yes
+  No
 <*********************>
 
 <p 02><a 2B><n 1F>
-Você não pode deixar
-nenhuma erva para
-trás ou
+You can't leave a
+single weed behind or
 <*********************>
 
 <p 02><a 2B><n 1F>
-Você limpou todos os
-telhados da relva?
+You cleaned away all of
+the weeds!?
 <--------------------->
 
 <p 02><a 2B><n 1F>
-Estou muito grato!
+You have my thanks!
 <--------------------->
 
 <p 02><a 2B><n 1F>
-Eu enviei uma pequena
-amostra da minha
+I've sent along a
+little token of my
 <*********************>
 
 <p 02><a 02><n 55>
-Pedido concluído.
+Quest completed.
 <--------------------->
 
 <p 02><a 02><n 55>
-Foram transferidos
-200 CE para a sua
-conta.
+200 EC have been
+transferred to your
+account.
 <*********************>
 
 <p 02><a 2B><n 1F>
-O telhado está limpo e
-os Guardiões mantém a
-sua imagem positiva.
+The roof is clean and
+the Guardians can keep
+their positive image.
 <--------------------->
 
 <p 02><a 2B><n 1F>
-Obrigado!
+Thank you!
 <--------------------->
 
 <p 02><a 2B><n 1F>
-Tentarei não ficar tão
-ausente da próxima
-vez.
+I'll try not to get too
+carried away next
+time...
 <*********************>
 
 <FIM>
