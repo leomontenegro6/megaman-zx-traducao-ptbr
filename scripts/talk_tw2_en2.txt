@@ -45,65 +45,66 @@ cãozinho de estimação.
 <*********************>
 
 <p 02><a 42><n 3D>
-I really love going on
-walks in the forest. I
-do it every day!
+Eu amo fazer caminhadas
+na floresta. Faço isso
+todos os dias!
 <--------------------->
 
 <p 02><a 42><n 3D>
-I was planning to go
-there again today too.
+Estava planejando ir lá
+hoje também.
 <--------------------->
 
 <p 02><a 42><n 3D>
-But lately, so many bad
-Mechaniloids have been
-showing up even in
+Mas aparecerem tantos
+Mecanilóides malvados,
+que estou assustada.
 <--------------------->
 
-Innerpeace that I'm a
-little scared.
+Sei que Innerpeace
+devia ser um lugar
+seguro,
 <--------------------->
 
 <p 02><a 42><n 3D>
-I know Innerpeace is
-supposed to be safe,
-but I'm still worried.
+mas continuo preocupada
+quando saio de casa.
 <*********************>
 
 <p 02><a 42><n 3D>
-My doggy's name is
-Canis.
+O nome do meu cãozinho
+é Canis.
 <--------------------->
 
 <p 02><a 42><n 3D>
-He's a very good boy.
+É um ótimo garoto.
 <--------------------->
 
 <p 02><a 42><n 3D>
-He always finds
-mushrooms for me when
-we go to the woods.
+Ele sempre acha cogu-
+melos pra mim quando
+vamos à floresta.
 <--------------------->
 
 <p 02><a 42><n 3D>
-Mommy's happy to have
-him around too since it
-saves on groceries!
+Mamãe ficou feliz com
+os cogumelos, pois
+economiza nos doces!
 <--------------------->
 
 <p 02><a 57><n 54>
-Woof woof!
+Au au!
 <*********************>
 
 <p 02><a 42><n 3D>
-I have a lot of pets!
+Tenho vários bichinhos
+de estimação!
 <--------------------->
 
 <p 02><a 42><n 3D>
-I've got an anteater, a
-lemur, a chameleon and
-a piranha!
+Tenho um tamanduá, um
+lêmure, um camaleão e
+uma piranha!
 <*********************>
 
 <p 02><a 42><n 3D>
@@ -271,8 +272,8 @@ em direção à caverna.
 <*********************>
 
 <p 02><a 40><n 3B>
-Thank you for before,
-ma'am!
+Obrigado por antes,
+tia!
 <--------------------->
 
 <p 02><a 40><n 3B>
@@ -328,9 +329,9 @@ Hmm...
 <--------------------->
 
 <p 02><a 40><n 3B>
-We could play make
-believe. Just pretend I
-baked cookies!
+Podemos brincar de faz-
+de-conta. Faça de conta
+que eu fiz biscoitos!
 <*********************>
 
 <p 02><a 40><n 3B>
@@ -376,12 +377,12 @@ pessoa.
 <*********************>
 
 <p 02><a 41><n 3C>
-Oh! You're the woman
-that saved all of us
+Ah! Você é a mulher que
+nos salvou
 <--------------------->
 
-when we were being held
-in that room.
+quando estávamos presos
+naquela sala.
 <--------------------->
 
 <p 02><a 41><n 3C>
@@ -596,131 +597,133 @@ favor me deixe em paz!
 <*********************>
 
 <p 02><a 48><n 43>
-Oh, you...
+Ah, você...
 <--------------------->
 
 <p 02><a 48><n 43>
-You're the one that
-saved us from the
+Foi você que nos salvou
+daquele edifício em
+chamas
 <--------------------->
 
-burning building,
-aren't you?
-<--------------------->
-
-<p 02><a 48><n 43>
-It has to be you! I
-couldn't get a good
-<--------------------->
-
-look with all of the
-smoke,
+lá na Área G, não foi?
 <--------------------->
 
 <p 02><a 48><n 43>
-but I remember your
-voice clear as day!
+Só pode ter sido você!
+Posso não ter te
+enxergado direito
+<--------------------->
+
+por causa de toda
+aquela fumaça no local,
 <--------------------->
 
 <p 02><a 48><n 43>
-I'm very good at
-remembering voices!
+mas me lembro da sua
+voz claramente!
+<--------------------->
+
+<p 02><a 48><n 43>
+Sou muito boa em
+lembrar de vozes!
 <*********************>
 
 <p 02><a 48><n 43>
-Thanks to you, I'm
-doing fine.
+Graças a você, estou
+viva, e bem de saúde.
 <--------------------->
 
 <p 02><a 48><n 43>
-The doctor said I
-should keep off my feet
-as much as possible.
+O médico disse pra eu
+deixar o pé de repouso
+o máximo possível.
 <--------------------->
 
 <p 02><a 48><n 43>
-I had a lot of plans,
-like going out on dates
-and shopping,
+Tinha vários planos,
+como ir em encontros,
+fazer compras,
 <--------------------->
 
-but those are all out
-the window now.
+mas por hora, isso está
+fora de cogitação.
 <*********************>
 
 <p 02><a 48><n 43>
-I was in the building
-looking for a present
-for my boyfriend.
+Eu estava no edifício
+procurando um presente
+para meu namorado.
 <--------------------->
 
 <p 02><a 48><n 43>
-My parents are dead set
-against our
-relationship.
+Meus pais são terminan-
+temente contra o nosso
+relacionamento.
 <--------------------->
 
 <p 02><a 48><n 43>
-Do you have someone
-special in your life?
+Você tem alguém
+especial na sua
+vida?
 <--------------------->
 
 <p 02><a 48><n 43>
-Even if I have to
-run away, I want to
-marry the man I love.
+Mesmo se tiver que
+fugir, quero casar com
+o homem que amo.
 <--------------------->
 
 <p 02><a 48><n 43>
-I realized how
-important love is when
-I almost lost my life.
+Quando quase perdi a
+vida, percebi como o
+amor é importante.
 <--------------------->
 
 <p 02><a 48><n 43>
-I have to live life the
-way I want to, not the
-way others want me to!
+Tenho que viver a vida
+do meu jeito, e não do
+jeito dos outros!
 <*********************>
 
 <p 02><a 48><n 43>
-I know mom and dad are
-just looking out for
-me,
+Sei que papai e a mamãe
+estão cuidando de mim,
 <--------------------->
 
 <p 02><a 48><n 43>
-but I'm an adult now
-and they can't tell me
-what to do.
+mas eu sou uma adulta
+agora, e eles não podem
+me dizer o que fazer.
 <--------------------->
 
 <p 02><a 48><n 43>
-They need to back off
-and let me be me.
+Eles precisam parar de
+botar pressão, e me
+deixar ser eu mesma.
 <*********************>
 
 <p 02><a 48><n 43>
-I finally introduced my
-boyfriend to my
-parents.
+Finalmente apresentei
+meu namorado para os
+meus pais.
 <--------------------->
 
 <p 02><a 48><n 43>
-They saw how much he
-cares and have backed
-off a little bit.
+Eles viram como ele se
+importa comigo, e deram
+um pouco pra trás.
 <*********************>
 
 <p 02><a 48><n 43>
-I knew it the moment I
-saw him.
+Já sabia disso desde o
+dia que o conheci.
 <--------------------->
 
 <p 02><a 48><n 43>
-Our love is so pure,
-nothing and no one can
-ever come between us!
+Nosso amor é tão puro,
+que nada e ninguém
+poderá nos separar!
 <*********************>
 
 <p 02><a 48><n 43>
@@ -728,596 +731,604 @@ ever come between us!
 <--------------------->
 
 <p 02><a 48><n 43>
-Wha-!?
+Q-Quê-!?
 <--------------------->
 
 <p 02><a 48><n 43>
-Don't come near me with
-that weirdo outfit!
+Não se aproxime de mim
+com esse traje
+estranho!
 <*********************>
 
 <p 02><a 52><n 4D>
-Oh, I see. You're a
-transporter for Giro
-Express.
+Ah, entendo. Você é da
+Girouette Expresso,
+aquela transportadora.
 <--------------------->
 
 <p 02><a 52><n 4D>
-You were dressed
-differently last time I
-saw you.
+Você estava com um
+traje diferente, da
+última vez que o vi.
 <--------------------->
 
-I barely recognized
-you.
-<--------------------->
-
-<p 02><a 52><n 4D>
-I was whisked away by
-some weasel monster and
-held captive.
+Mal reconheci você.
 <--------------------->
 
 <p 02><a 52><n 4D>
-Thank you so much for
-saving me!
+Fui arrastada por um
+tipo de monstro doninha
+e acabei sequestrada.
+<--------------------->
+
+<p 02><a 52><n 4D>
+Muito obrigada por me
+salvar!
 <*********************>
 
 <p 02><a 52><n 4D>
-Are you trying out a
-new Giro Express
-uniform or something?
+Esse é tipo um uniforme
+novo da Girouette
+Expresso?
 <--------------------->
 
 <p 02><a 52><n 4D>
-It's a cool outfit, but
-others around town
-might not think so.
+É um traje legal, mas
+talvez os outros não
+pensem da mesma forma.
 <--------------------->
 
 <p 02><a 52><n 4D>
-They might think you're
-one of those Outland
-Mavericks.
+Podem achar que você é
+um desses Mavericks das
+fronteiras.
 <--------------------->
 
 <p 02><a 52><n 4D>
-The Slither Inc.
-security patrols might
-try to attack you too.
+Sem falar nos patrulhas
+da Serpent Ltda que vão
+acabar te atacando.
 <--------------------->
 
 <p 02><a 52><n 4D>
-I know you saved me,
-but even I am a little
-nervous talking to you.
+Sei que me salvou, mas
+até eu estou um pouco
+nervosa ao vê-lo.
 <*********************>
 
 <p 02><a 52><n 4D>
-The weather's great
-today!
+O clima está ótimo
+hoje!
 <--------------------->
 
 <p 02><a 52><n 4D>
-Whenever it rains, I
-think back to that
-day...
+Sempre que chove, me
+lembro daquele dia...
 <*********************>
 
 <p 02><a 52><n 4D>
-I had a nightmare about
-that weasel monster
-last night...
+Tive um pesadelo com
+aquele monstro doninha
+na noite passada...
 <--------------------->
 
 <p 02><a 52><n 4D>
-I want to put the past
-behind me and return to
+Quero deixar o passado
+para trás,
 <--------------------->
 
-the days when I could
-be more carefree.
+e voltar aos dias
+em que podia viver
+despreocupada.
 <*********************>
 
 <p 02><a 52><n 4D>
-I know he doesn't look
-it, but that guy Robert
+Sei que não aparenta,
+mas aquele homem
+chamado Robert,
 <--------------------->
 
-over there was an
-athlete.
+que está bem ali, era
+um atleta.
 <*********************>
 
 <p 02><a 52><n 4D>
-He used to be really
-big into soccer.
+Ele era um grande
+jogador de futebol.
 <--------------------->
 
 <p 02><a 52><n 4D>
-I should know... He
-never stops talking
-about his glory days.
+Já era de se esperar...
+Ele nunca pára de falar
+de seus dias de glória.
 <*********************>
 
 <p 02><a 52><n 4D>
-It's hard to talk to
-you when you look like
-that...
+É difícil falar com
+você, estando nessa
+aparência...
 <--------------------->
 
 <p 02><a 52><n 4D>
-There might be a
-security guard watching
-us.
+Talvez tenha um
+patrulha de segurança
+nos vigiando.
 <--------------------->
 
 <p 02><a 52><n 4D>
-Could you go back to
-looking like a normal
-person for me?
+Você poderia voltar à
+sua aparência normal,
+para o meu próprio bem?
 <*********************>
 
 <p 02><a 49><n 44>
-You're the one that
-saved me from the
+Ei, acho que já o vi
+antes.
 <--------------------->
 
-confinement facility
-earlier, aren't you?
-<--------------------->
-
-<p 02><a 49><n 44>
-I didn't realize you
-were a woman at the
-time.
+Foi você que me salvou
+daquele confinamento,
+não foi?
 <--------------------->
 
 <p 02><a 49><n 44>
-You're really brave to
-head into that scary
-area all alone!
+Naquela hora, não tinha
+percebido que você era
+mulher.
+<--------------------->
+
+<p 02><a 49><n 44>
+Você é muito corajosa
+por entrar naquela área
+assustadora sozinha!
 <*********************>
 
 <p 02><a 49><n 44>
-It seems like the
-power was out in part
-of the facility.
+Parece que parte da
+fábrica estava sem
+energia.
 <--------------------->
 
 <p 02><a 49><n 44>
-I guess the power from
-the plant got cut off
-somehow.
+Acho que, de algum modo
+o fornecimento de
+energia foi cortado.
 <--------------------->
 
 <p 02><a 49><n 44>
-It was pitch black and
-all of the conveyor
-machinery stopped.
+Estava um breu de
+escuro, e todas as
+máquinas tinham parado.
 <*********************>
 
 <p 02><a 49><n 44>
-It's great weather
-today. Why am I hearing
-thunder!?
+O clima está ótimo
+hoje. Porque ouço
+trovões?!
 <--------------------->
 
 <p 02><a 49><n 44>
-It sounded like a big
-sound came from over
-there.
+Parece que um grande
+som veio dali.
 <*********************>
 
 <p 02><a 49><n 44>
-You might want to be
-careful until we know
-what it is.
+É melhor tomar cuidado
+até descobrirmos do que
+se trata.
 <--------------------->
 
 <p 02><a 49><n 44>
-My kid thinks that a
-battleship fell from
-the sky!
+Meu filho acha que uma
+nave-de-combate caiu
+do céu!
 <--------------------->
 
 <p 02><a 49><n 44>
-Hmph. Kids...
+Hmph. Crianças...
 <*********************>
 
 <p 02><a 49><n 44>
-Don't worry about me,
-I'm fine.
+Não se preocupe comigo,
+estou bem.
 <--------------------->
 
 <p 02><a 49><n 44>
-But it does kind of
-concern me that nothing
+Mas me preocupa o fato
+de que nada disso
+virou destaque,
 <--------------------->
 
-about this is making
-headlines.
+ou sequer apareceu
+nos jornais.
 <*********************>
 
 <p 02><a 49><n 44>
-Something that big
-should be all over the
-news by now!
+Algo de magnitude tão
+grande já devia ter
+virado notícia!
 <--------------------->
 
 <p 02><a 49><n 44>
-There must be a good
-reason for keeping it
-quiet.
+Devem ter uma razão
+muito boa para manter
+isto em segredo.
 <*********************>
 
 <p 02><a 49><n 44>
-Who are you? Wait...
-Aren't you the one that
-saved me?
+Quem é você? Espera...
+Não foi você que me
+salvou antes?
 <*********************>
 
 <p 02><a 4A><n 45>
-I'm happy that this
-country has come so far
+Estou feliz por este
+país ter ido tão
+longe
 <--------------------->
 
-with the help of
-Slither Inc.
+com a ajuda da Serpent
+Ltda.
 <--------------------->
 
 <p 02><a 4A><n 45>
-But I wish they would
-work on adding more
-greenery to the city.
+Mas queria que eles
+arborizassem mais a
+nossa cidade.
 <*********************>
 
 <p 02><a 4A><n 45>
-I love flowers!
+Amo flores!
 <--------------------->
 
 <p 02><a 4A><n 45>
-I love flowers more
-than anything.
+Amo flores mais que
+qualquer coisa.
 <--------------------->
 
 <p 02><a 4A><n 45>
-Just one look and
-that's all it takes to
+Pra mim, basta olhar
+para uma linda flor,
 <--------------------->
 
-soothe a troubled
-heart.
+e ela de algum modo
+acalma o meu coração.
 <*********************>
 
 <p 02><a 4A><n 45>
-I want to open my own
-flower shop someday.
+Quero abrir minha
+própria floricultura
+algum dia.
 <--------------------->
 
 <p 02><a 4A><n 45>
-Spending all of my
-working day surrounded
-by beautiful flowers
+Passar todo o meu
+expediente cercado por
+belas flores,
 <--------------------->
 
-would be a dream come
-true.
+seria um sonho
+realizado.
 <*********************>
 
 <p 02><a 4A><n 45>
-What do you think gives
-flowers their beauty?
+De onde você acha que
+vem a beleza das
+flores?
 <--------------------->
 
 <p 02><a 4A><n 45>
-I think it's because
-they're so delicate and
-fleeting.
+Acho que é pelo fato
+delas serem tão fugazes
+e delicadas.
 <--------------------->
 
 <p 02><a 4A><n 45>
-Like chasing something
-that always remains
-just out of reach.
+Como ir atrás de algo
+que está sempre fora do
+seu alcance.
 <--------------------->
 
 <p 02><a 4A><n 45>
-It's a lot like love.
-The passion is here
-today, gone tomorrow.
+Lembra muito o amor.
+Hoje a paixão vive, mas
+amanhã ela se vai.
 <--------------------->
 
 <p 02><a 4A><n 45>
-I must be attracted to
-things that don't last
-forever.
+Acho que sou atraída
+por coisas que duram
+pouco na vida.
 <*********************>
 
 <p 02><a 4A><n 45>
-Weren't you just
-walking on the guard
-rail?
+Era você que estava
+andando nos trilhos
+há pouco?
 <--------------------->
 
 <p 02><a 4A><n 45>
-I thought transporters
-were sticklers for
-following the rules...
+Achava que transporta-
+dores sempre seguiam as
+regras à risca...
 <*********************>
 
 <p 02><a 4A><n 45>
-There aren't many
-flowers growing in this
-area.
+Não há muitas flores
+desabrochando nesta
+área.
 <--------------------->
 
 <p 02><a 4A><n 45>
-It's kind of sad
-without any.
+É um pouco triste não
+ter flores aqui.
 <--------------------->
 
-I wish Slither Inc.
-would plant some around
-town.
+Queria que a Serpent
+Ltda plantasse algumas
+flores na cidade.
 <*********************>
 
 <p 02><a 4A><n 45>
-Do you have something
-you want to discuss
-with me?
+Tem algo a discutir
+comigo?
 <--------------------->
 
 <p 02><a 4A><n 45>
-If you want to talk,
-you're going to have to
-ditch the crazy outfit.
+Se quer conversar, vai
+ter que tirar este
+equipamento maluco.
 <*********************>
 
 <p 02><a 4B><n 46>
-I love this place...
+Adoro este lugar...
 <--------------------->
 
 <p 02><a 4B><n 46>
-Doesn't it feel
-wonderful to sit next
+Não acha maravilhoso
+sentar próximo à
+fonte,
 <--------------------->
 
-to the fountain and
-listen to the water?
+e relaxar ouvindo o som
+da água?
 <--------------------->
 
 <p 02><a 4B><n 46>
-I always come here to
-relax when things
-aren't going my way.
+Sempre venho aqui para
+relaxar, quando as
+coisas não dão certo.
 <*********************>
 
 <p 02><a 4B><n 46>
-On some days, they shut
-off the water to do
-repairs or cleaning.
+Às vezes, eles desligam
+a fonte para limpeza
+ou reparos.
 <--------------------->
 
 <p 02><a 4B><n 46>
-There's nothing sadder
-than seeing a fountain
-without water.
+Não há nada mais triste
+que ver uma fonte seca,
+sem água.
 <--------------------->
 
 <p 02><a 4B><n 46>
-Did you know that in
-Winter, this fountain
-freezes over?
+Sabia que, no inverno,
+a fonte fica congelada?
 <--------------------->
 
 <p 02><a 4B><n 46>
-I'm not sure why, but
-frozen fountains still
-help me to relax.
+Não sei por que, mas
+fontes congeladas tam-
+bém me fazem relaxar.
 <*********************>
 
 <p 02><a 4B><n 46>
-I haven't felt like
-going out much lately,
+Ultimamente, não sinto
+muita vontade de sair,
 <--------------------->
 
 <p 02><a 4B><n 46>
-but I always make sure
-I come here once a day.
+mas sempre venho aqui
+pelo menos uma vez por
+dia.
 <*********************>
 
 <p 02><a 4B><n 46>
-Have you ever been to
-the power plant on the
+Já chegou a ir alguma
+vez à usina elétrica,
 <--------------------->
 
-other side of that
-fountain?
+que fica no outro lado
+dessa fonte?
 <--------------------->
 
 <p 02><a 4B><n 46>
-Apparently Area I is
-beyond the plant, but
-I've never been there.
+Aparentemente, a usina
+fica dentro da Área I,
+mas nunca fui lá.
 <*********************>
 
 <p 02><a 4B><n 46>
-When I was young, the
-snowy mountains and
+Quando era mais nova,
+tanto os alpes como o
+lago
 <--------------------->
 
-lake were part of
+faziam arte de
 Innerpeace.
 <--------------------->
 
 <p 02><a 4B><n 46>
-I used to go there with
-my family to see the
-Aurora. *sigh*
+Eu costumava ir lá com
+minha família para ver
+a Aurora. Bons tempos.
 <*********************>
 
 <p 02><a 4B><n 46>
-The Outlands are slowly
-swallowing up
+As fronteiras estão
+lentamente devorando
 Innerpeace.
 <--------------------->
 
 <p 02><a 4B><n 46>
-I'm sure Slither Inc.
-has some sort of plan
-in place though.
+Mas sei que a Serpent
+Ltda tem algum plano
+para resolver isso.
 <*********************>
 
 <p 02><a 4B><n 46>
-W-who are you!?
+Q-Quem é você!?
 <--------------------->
 
 <p 02><a 4B><n 46>
-Don't scare a girl like
-that!
+Não assuste uma garota
+desse jeito!
 <*********************>
 
 <p 02><a 54><n 4F>
-I recognize that
-uniform...
+Reconheço este
+uniforme...
 <--------------------->
 
-You're from Giro
-Express aren't you?
-<--------------------->
-
-<p 02><a 54><n 4F>
-I'm always calling on
-you guys when I send
-<--------------------->
-
-packages to my aunt in
-the next town over.
+Você é da Girouette
+Expresso, não é?
 <--------------------->
 
 <p 02><a 54><n 4F>
-I remember a long
-haired guy with a red
-outfit.
+Sempre chamo vocês
+quando preciso enviar
+encomendas
+<--------------------->
+
+à minha tia, que mora
+em outra cidade.
 <--------------------->
 
 <p 02><a 54><n 4F>
-I haven't seen him
-lately though. Is he
-on vacation?
+Me lembro de um rapaz
+de cabelo longo, em um
+traje vermelho.
+<--------------------->
+
+<p 02><a 54><n 4F>
+Mas não o vi
+ultimamente.
+Ele está de férias?
 <*********************>
 
 <p 02><a 54><n 4F>
-Did you know that there
-are red switches around
-town?
+Sabia que há alavancas
+vermelhas na cidade?
 <--------------------->
 
 <p 02><a 54><n 4F>
-They're set up so that
-an impact on the switch
+Foram armadas de modo
+que um impacto na
+alavanca
 <--------------------->
 
-will open a nearby
-door.
+abrirá uma porta
+próxima.
 <--------------------->
 
 <p 02><a 54><n 4F>
-What could possibly be
-hiding behind such
-protected doors?
+O que poderiam estar
+escondendo por trás de
+portas protegidas?
 <*********************>
 
 <p 02><a 54><n 4F>
-Mavericks are always
-causing trouble in the
-Outlands.
+Mavericks sempre estão
+causando confusão nas
+fronteiras.
 <--------------------->
 
 <p 02><a 54><n 4F>
-But we don't get that
-kind of trouble here in
+Mas não temos este tipo
+de confusão aqui em
 Innerpeace.
 <*********************>
 
 <p 02><a 54><n 4F>
-This ideal lifestyle is
-possible thanks to
-Slither Inc.
+Este padrão de vida
+elevado é possível
+graças à Serpent Ltda.
 <--------------------->
 
 <p 02><a 54><n 4F>
-You should thank your
-lucky stars they're
-around.
+Devia levantar as mãos
+pro céu e agradecer por
+eles estarem aqui.
 <*********************>
 
 <p 02><a 54><n 4F>
-I come from a long line
-of bakers.
+Venho de uma longa
+linhagem de padeiros.
 <--------------------->
 
 <p 02><a 54><n 4F>
-My grandpa would love
-to open a bakery again
-someday.
+Meu avô adoraria abrir
+uma padaria de novo
+algum dia.
 <*********************>
 
 <p 02><a 54><n 4F>
-For me personally, I'd
-rather open something
-other than a bakery.
+Mas eu, pessoalmente,
+quero abrir outra loja
+além de uma padaria.
 <--------------------->
 
 <p 02><a 54><n 4F>
-Maybe even a candy
-store.
+Talvez uma doceria.
 <*********************>
 
 <p 02><a 54><n 4F>
-My great great great
-great great great
-grandfather
+Meu tátara tátara
+tátara tátara tátara
+tátara tátaravô
 <--------------------->
 
 <p 02><a 54><n 4F>
-used to work in a
-village bakery.
+trabalhava em uma
+padaria, numa vila.
 <--------------------->
 
 <p 02><a 54><n 4F>
-He learned his secret
-recipe for baking
-delicious bread from an
+Foi graças a um velho
+Replóide
 <--------------------->
 
-old Reploid...
-<--------------------->
-
-<p 02><a 54><n 4F>
-Baking must be in my
-family's genes.
+que ele aprendeu sua
+receita secreta de
+fazer pães deliciosos.
 <--------------------->
 
 <p 02><a 54><n 4F>
-Everyone loves our
-bread so much,
-<--------------------->
-
-sometimes it's hard to
-keep up with demand.
+Talvez a arte de fazer
+pães esteja nos genes
+da minha família.
 <--------------------->
 
 <p 02><a 54><n 4F>
-Would you like to try
-some? It's fresh from
-the oven!
+As pessoas gostam tanto
+de nossos pães,
+<--------------------->
+
+que às vezes é difícil
+suprir a demanda.
 <--------------------->
 
 <p 02><a 54><n 4F>
-I can't possibly eat it
-all, so go ahead and
-have some.
+Quer experimentar um?
+Está fresquinho do
+forno!
+<--------------------->
+
+<p 02><a 54><n 4F>
+Não posso comer isso
+tudo, então pode ficar
+com alguns.
 <*********************>
 
 <p 02><a 54><n 4F>
@@ -1330,250 +1341,258 @@ posso falar com você...
 <*********************>
 
 <p 02><a 43><n 3E>
-Excuse me, are you a
-transporter with Giro
-Express?
+Com licença, você é
+da transportadora
+Girouette Expresso?
 <--------------------->
 
 <p 02><a 43><n 3E>
-I saw you earlier when
-I was out shopping with
-mother.
+Já te vi antes um dia
+desses quando fui fazer
+compras com minha mãe.
 <--------------------->
 
 <p 02><a 43><n 3E>
-You always wear the
-same thing.
+Vocês sempre vestem as
+mesmas roupas.
 <--------------------->
 
-You should buy some
-new, cute outfits!
+Deviam comprar uns
+trajes novos, mais
+bonitos!
 <*********************>
 
 <p 02><a 43><n 3E>
-Do you like this?
+Gostou dela?
 <--------------------->
 
 <p 02><a 43><n 3E>
-Mother bought this
-pochette for me.
+Mamãe comprou esta
+pochete pra mim.
 <--------------------->
 
 <p 02><a 43><n 3E>
-This is all the rage
-among girls around my
-age.
+Para garotas da minha
+idade, a pochete tá
+mais do que na moda.
 <--------------------->
 
 <p 02><a 43><n 3E>
-The color pink is not
-well suited for girls
+Mas a cor rosa-choque
+não é bem adequada
 <--------------------->
 
-growing closer to
-adulthood though...
+para mulheres mais
+adultas...
 <--------------------->
 
 <p 02><a 43><n 3E>
-But then again, doing
-something slightly
+Se bem que, usar vestes
+levemente fora das
+normas,
 <--------------------->
 
-outside the norm can be
-fashionable too.
+meio que dá uma certa
+identidade, e também
+tá na moda.
 <*********************>
 
 <p 02><a 43><n 3E>
-I want to be a fashion
-model someday.
+Quero ser uma modelo de
+moda algum dia.
 <--------------------->
 
 <p 02><e 01><a 43><n 3E>
-What do you think?  
-  You can do it!
-  No way!
+O que acha?
+  Você consegue!
+  Nem a pau!
 <--------------------->
 
 <p 02><a 43><n 3E>
-Aww, that is sweet of
-you to say.
+Ohh, que gentil da
+sua parte.
 <--------------------->
 
 <p 02><a 43><n 3E>
-When I grow up...
+Quando eu crescer...
 <--------------------->
 
 <p 02><a 43><n 3E>
-I want to wear a pretty
-dress and dance at a
+Quero vestir um vestido
+bem bonito,
 <--------------------->
 
-fancy Slither Inc.
-ball.
+e dançar num dos bailes
+à fantasia da Serpent
+Ltda.
 <*********************>
 
 <p 02><s 01><a 43><n 3E>
-Hmph! Well I never!
+Hmph! Como ousa!
 <--------------------->
 
 <p 02><a 43><n 3E>
-You really know how to
-dash a little girl's
-dreams.
+Você sabe mesmo como
+arruinar os sonhos de
+uma garota.
 <*********************>
 
 <p 02><a 43><n 3E>
-Don't you think my
-fashion is ahead of the
-times?
+Você não acha que meu
+senso de moda está à
+frente do tempo?
 <--------------------->
 
 <p 02><e 02><a 43><n 3E>
-Well?
-  Yes
-  No
+Então?
+  Sim
+  Não
 <--------------------->
 
 <p 02><a 43><n 3E>
-I see you have quite a
-bit of fashion sense
-yourself.
+Vejo que você tem um
+bom gosto para moda
+também.
 <--------------------->
 
 <p 02><a 43><n 3E>
-The stitches on the
-skirt frills are the
-latest thing.
+Esses pontinhos, nos
+babados da saia, são a
+última tendência.
 <--------------------->
 
 <p 02><a 43><n 3E>
-It's something that the
-big clothing companies
-can't copy.
+É algo que grandes
+marcas de roupas não
+podem copiar.
 <*********************>
 
 <p 02><s 02><a 43><n 3E>
-You think they're
-just ordinary!?
+Então acha medíocre
+o meu senso de moda!?
 <--------------------->
 
 <p 02><a 43><n 3E>
-You're one to talk!
+Você não sabe de nada!
 <--------------------->
 
 <p 02><a 43><n 3E>
-You should take a look
-in the mirror sometime.
+Devia se olhar no
+espelho, sabia?
 <*********************>
 
 <p 02><a 43><n 3E>
-Slither Inc. is
-searching for models.
+A Serpent Ltda está
+em busca de modelos.
 <--------------------->
 
 <p 02><a 43><n 3E>
-Mother and father
-are quite opposed to my
-dreams.
+A mamãe e o papai são
+contra eu percorrer
+meus sonhos.
 <--------------------->
 
 <p 02><a 43><n 3E>
-But if they hear it's
-Slither Inc. looking
-for models,
+Mas quando souberem que
+a Serpent Ltda está
+atrás de modelos,
 <--------------------->
 
-they couldn't possibly
-be opposed.
+não tem como eles
+serem contra eu me
+candidatar às vagas.
 <*********************>
 
 <p 02><a 43><n 3E>
-Slither Inc. is where
-the future is at.
+O futuro está na
+Serpent Ltda.
 <--------------------->
 
 <p 02><a 43><n 3E>
-If Slither Inc. ever
-went out of business,
+Se, por acaso, algum
+dia a Serpent Ltda
+fosse à falência,
 <--------------------->
 
-this country would be
-in trouble!
+este país com certeza
+passaria por maus
+bocados!
 <*********************>
 
 <p 02><a 43><n 3E>
-I almost forgot!
+Quase me esqueci!
 <--------------------->
 
 <p 02><a 43><n 3E>
-If you'd like, I could
-give you some cool
-clothes!
+Se quiser, eu gostaria
+de te dar umas roupas
+legais!
 <--------------------->
 
 <p 02><a 43><n 3E>
-I'll pick something
-that suits you
-perfectly!
+Vou escolher algo que
+combine perfeitamente
+com você!
 <--------------------->
 
-What do you think?
+O que você acha?
 <--------------------->
 
 <p 02><m><a 43><n 3E>
-  Different is good
-  I'm fine as I am
-  I like blue
+  Mudar às vezes é bom
+  Tô bem assim mesmo
+  Gosto de azul
 <*********************>
 
 <p 02><a 43><n 3E>
-How about this one? I
-think it's totally you.
+Que tal essa? Acho que
+combina totalmente com
+você.
 <--------------------->
 
 <p 02><a 43><n 3E>
-It's the same brand I'm
-wearing now.
+É da mesma marca que
+estou vestindo agora.
 <--------------------->
 
 <p 02><a 43><n 3E>
-Just wear it with
-pride. The brand has an
-image to maintain.
+Vista-a com orgulho.
+A marca tem uma imagem
+a manter.
 <*********************>
 
 <p 02><a 43><n 3E>
-Ignoring the
-fashion advice of a
-future model...
+Ignorando conselhos de
+moda de uma futura
+modelo...
 <--------------------->
 
 <p 02><a 43><n 3E>
-Pft, whatever. It's
-your life...
+Pff, que seja. A vida
+é sua...
 <*********************>
 
 <p 02><a 43><n 3E>
-You like blue, huh?
+Gosta de azul, né?
 <--------------------->
 
 <p 02><a 43><n 3E>
-You have to try new
-things. Fashion is
+Você tem que tentar
+coisas novas.
 <--------------------->
 
-about challenging the
-norms.
+Moda também é desafiar
+as normas de se vestir.
 <*********************>
 
 <p 02><a 43><n 3E>
-Eww! What's with that
-outfit!?
+Eca! Que traje horrível
+é esse!?
 <--------------------->
 
 <p 02><a 43><n 3E>
-Is that the big fashion
-somewhere else?
+O seu senso de moda
+passou longe, hein!
 <*********************>
 
 <FIM>
