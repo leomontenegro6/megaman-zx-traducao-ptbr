@@ -42,4 +42,9 @@ A listagem abaixo explica com mais detalhes o conteúdo de cada script:
  - Prefixo "talk_tw1" : Falas dos NPCs masculinos situados na cidade de Innerpeace (Área C). Acessível a partir da missão "Passe no Teste". Alguns NPCs aparecem apenas mais tarde no jogo;
  - Prefixo "talk_tw2" : Falas dos NPCs femininos situados na cidade de Innerpeace (Área C). Acessível a partir da missão "Passe no Teste". Alguns NPCs aparecem apenas mais tarde no jogo;
 3. Conteúdos diversos
- - talk_sys_en.txt : Textos diversos, comum para ambos os personagens. Contém textos complementares aos: menus dos transervidores, itens obtidos / entregues, mini-games na loja de Morgan, etc;
+ - talk_sys_en.txt : Textos diversos, comum para ambos os personagens. Contém textos complementares aos: menus dos transervidores, itens obtidos / entregues, mini-games na loja de Morgan, etc.
+
+No entanto, há algumas exceções e considerações quanto às regras acima:
+
+- Os script referentes ao pedido (quest) de número 7 está disponível apenas para a personagem Aile. Em outras palavras, há apenas o script "talk_q07_en2.txt", pois o que seria o script equivalente para Vent, o personagem masculino, é um arquivo nulo;
+- Alguns trechos dos scripts "talk_tw1_en1" e "talk_tw2_en1", referente às falas dos NPCs da cidade para o personagem Vent estão incompletos. Faltam nestes um ou dois blocos de texto no final do script, e acredito que, nesses casos, o jogo faça referência ao trecho equivalente nos scripts "talk_tw1_en2" e "talk_tw2_en2", da personagem Aile.
