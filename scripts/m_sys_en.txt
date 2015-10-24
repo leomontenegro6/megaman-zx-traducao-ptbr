@@ -218,7 +218,7 @@ Area K-4 Campo de Lava
 <*********************>
 
 
-Area L-4 Laboratório de Pesquisas
+Area L-4 Lab. de Pesquisas
 <*********************>
 
 
@@ -230,7 +230,7 @@ Area O-2 Viaduto 2
 <*********************>
 
 
-Area X-1 QG dos Guardiões
+Area X-1 QG Guardiões
 <*********************>
 
 

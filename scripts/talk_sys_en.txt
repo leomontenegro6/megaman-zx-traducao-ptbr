@@ -383,7 +383,7 @@ Sair do jogo?
 O Guardião fugiu!
 <--------------------->
 
-Transforme-se de volta ao normal
+Volte à forma humana
 <*********************>
 
 <p 01><a 02><n 55>
@@ -782,7 +782,7 @@ Entregou a <c 03>Pedra Misteriosa
 <*********************>
 
 
-Entregou o <c 03>Chip de Computador
+Entregou <c 03>Chips de Computador
 <*********************>
 
 
