@@ -33,9 +33,9 @@ deveria ir lá.
 <--------------------->
 
 <p 02><a 42><n 3D>
-Você tem que usar o
-viaduto para chegar aos
-edifícios na Área G.
+Pra chegar nos edi-
+fícios da Área G, tem
+que pegar o viaduto.
 <--------------------->
 
 <p 02><a 42><n 3D>

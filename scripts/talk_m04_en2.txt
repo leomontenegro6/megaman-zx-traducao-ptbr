@@ -2,119 +2,124 @@
 <#####################>
 
 <p 02><d A10F><a 02><n 18>
-Mission accomplished.
-Well done.
+Missão cumprida.
+Meus parabéns.
 <--------------------->
 
 <p 02><d A20F><a 02><n 18>
-You have permission to
-travel to HQ.
+Você tem permissão para
+viajar até o QG dos
+Guardiões.
 <--------------------->
 
 <p 02><d A30F><a 02><n 18>
-Use the transerver to
-get here.
+Para chegar no QG, use
+um transervidor com
+opção de transportar.
 <*********************>
 
 <p 03><d A40F><a 05><n 02>
-This is the Guardian
-HQ?
+Este é o QG dos
+Guardiões?
 <*********************>
 
 <p 01><p 03><d A50F><a 05><n 02>
-I certainly wasn't
-expecting an airship.
+Certamente não esperava
+que fosse uma aeronave.
 <--------------------->
 
 <p 01><p 02><d A60F><a 09><n 04>
-The Guardians have to
-explore the world, so
-we need a convenient
+Nós, Guardiões, temos
+que explorar o mundo,
+então precisamos de
 <--------------------->
 
-method of staying
-mobile.
+um método conveniente
+para permanecermos
+sempre móveis.
 <*********************>
 
 <p 02><d A70F><a 09><n 04>
-I'm glad you both are
-okay.
+Estou feliz por vocês
+dois estarem a salvo.
 <--------------------->
 
 <p 03><d A80F><a 05><n 02>
-Hey Prairie, I found a
-computer chip while I
-was out there.
+Ei Prairie, achei uns
+chips de computador lá
+na Área B.
 <--------------------->
 
-Here, you should have
-it.
+É melhor você ficar
+com isso.
 <*********************>
 
 
-Entregou o <c 03>Chip de Computador
+Entregou <c 03>Chips de Computador
 <*********************>
 
 <p 03><d A90F><a 05><n 02>
-And I brought back the
-certification that I
-passed the trial...
+E eu trouxe de volta o
+certificado de que
+passei no teste...
 <--------------------->
 
-I think. Is this it?
+Ou pelo menos eu acho.
+É isso mesmo?
 <*********************>
 
 
-Handed over <c 03>Stuffed Animal
+Entregou <c 03>Bichinho de Pelúcia
 <*********************>
 
 <p 02><d AA0F><a 0A><n 04>
-Yes, that was a gift
-from Sis. It holds a
-lot of memories for me.
+Sim, foi um presente
+da minha irmã. Isto me
+traz muitas memórias.
 <--------------------->
 
-Thank you for bringing
-it back.
+Obrigada por devolver.
 <*********************>
 
 <p 03><d AB0F><a 0F><n 03>
-Aile! You can't just
-call her by her first
-name!
+Aile! Você não pode
+simplesmente chamá-la
+pelo primeiro nome!
 <--------------------->
 
 <p 03><d AC0F><a 0F><n 03>
-Got it? Hmph, kids...
+Entendeu?
+Hmph, crianças...
 <--------------------->
 
 <p 02><d AD0F><a 09><n 04>
-Don't worry about it
+Não ligue pra isso,
 Giro.
 <--------------------->
 
 <p 02><d AE0F><a 09><n 04>
-I want to apologize for
-the grave danger I put
-you both in.
+Quero pedir desculpas
+por ter colocado vocês
+dois em grave perigo.
 <--------------------->
 
 <p 02><d AF0F><a 09><n 04>
-Let's meet at the
-command center and
+Vamos nos encontrar no
+centro de comando,
 <--------------------->
 
-I will explain
-everything there.
+e explicarei tudo a
+vocês lá.
 <--------------------->
 
 <p 02><d B00F><a 09><n 04>
-It's out of this room
-and to the left.
+Para chegar ao centro
+de comando, saia da
+sala e vá à esquerda.
 <--------------------->
 
 <p 03><d B10F><a 0D><n 03>
-*sigh*
+Tch.
 <*********************>
 
 <p 03><d B20F><a 05><n 02>
@@ -122,389 +127,400 @@ and to the left.
 <*********************>
 
 <p 02><d B30F><a 09><n 04>
-Let me take this
-opportunity to welcome
+Permitam-me aproveitar
+esta oportunidade
 <--------------------->
 
-you to Guardian
-Headquarters.
+para lhes dar as boas
+vindas ao QG dos
+Guardiões.
 <--------------------->
 
 <p 02><d B40F><a 09><n 04>
-And...
+E...
 <*********************>
 
 <p 01><p 02><d B50F><a 09><n 04>
-I am Prairie, the
-commander of the
-Guardians.
+Eu sou Prairie, a
+comandante dos
+Guardiões.
 <--------------------->
 
 <p 03><d B60F><a 05><n 02>
-Wh-what!? Prairie is
-the commander of all
-the Guardians!?
+Q-Quê?! Prairie é a
+comandante de todos
+os Guardiões?!
 <--------------------->
 
-Th-then that means...
+E-Então quer dizer
+que...
 <--------------------->
 
 <p 01><p 03><d B70F><a 0D><n 03>
-She's a very important
-client.
+Ela é uma cliente muito
+importante.
 <--------------------->
 
-Which is exactly why I
-want you to call her by
-her proper title.
+E é exatamente por isso
+que quero que a chame
+pelo título apropriado.
 <--------------------->
 
 <p 03><d B80F><a 05><n 02>
-But Prairie's my age
-right?
+Mas Prairie tem a minha
+idade, né?
 <--------------------->
 
-How could a girl my age
-be commanding the
-Guardians?
+Como é que pode uma
+garota da minha idade
+comandar os Guardiões?
 <*********************>
 
 <p 01><p 02><d B90F><a 0B><n 04>
-The sentient machines
-known as Mavericks
+As máquinas conscientes
+conhecidas como
+Mavericks
 <--------------------->
 
-continue to attack
-people.
+continuam atacando as
+pessoas.
 <*********************>
 
 <p 01><p 02><d BA0F><a 0B><n 04>
-This terrible situation
-should not even exist.
+Esta situação terrível
+sequer devia existir.
 <--------------------->
 
 <p 01><p 02><d BB0F><a 0B><n 04>
-Hundreds of years ago,
-man and machine put
-aside their
+Centenas de anos atrás,
+homens e máquinas
+deixaram de lado
 <--------------------->
 
-differences and agreed
-to a truce.
+suas diferenças,
+e concordaram em
+estabelecer uma trégua.
 <--------------------->
 
 <p 01><p 02><d BC0F><a 0B><n 04>
-The Guardians have
-continued to
-investigate the root
+Os Guardiões conti-
+nuaram a investigar
+a causa principal
 <--------------------->
 
-cause behind the
-current Maverick
-outbreaks.
+por trás dos atuais
+surtos de Mavericks.
 <--------------------->
 
 <p 01><p 02><d BD0F><a 0B><n 04>
-One day we found a
-research lab belonging
-to a certain scientist.
+Um dia, descobrimos um
+laboratório de pesquisa
+de uma certa cientista.
 <--------------------->
 
 <p 03><d BE0F><a 05><n 02>
-A "certain scientist?"
+Uma "certa cientista"?
 <*********************>
 
 <p 02><d BF0F><a 0C><n 04>
-The first commander of
-the Guardians... The
-one who disappeared.
+A primeira comandante
+dos Guardiões... A
+líder que desapareceu.
 <--------------------->
 
 <p 02><d C00F><a 0C><n 04>
-She was my Sis.
+Ela era minha irmã.
 <--------------------->
 
 <p 03><d C10F><a 08><n 02>
-Oh... I see.
+Ah... Entendo.
 <--------------------->
 
 <p 03><d C20F><a 0D><n 03>
-And we were hauling the
-Biometal that you found
-at that research lab.
+E o Biometal que trans-
+portávamos estava neste
+laboratório?
 <*********************>
 
 <p 02><d C30F><a 0B><n 04>
-A long time ago, the
-world of humans and
-machines was
+Há muito tempo, o mundo
+de humanos e máquinas
 <--------------------->
 
-saved by a group of
-legends.
+foi salvo por um grupo
+de heróis lendários.
 <--------------------->
 
 <p 02><d C40F><a 0B><n 04>
-Biometal are fragments
-containing the
+Os Biometais são
+fragmentos contendo
 <--------------------->
 
-consciousness of those
-legendary heroes.
+a consciência desses
+heróis.
 <--------------------->
 
 <p 02><d C50F><a 0B><n 04>
-There might be some
-hint regarding the
-Maverick
+Talvez haja alguma
+pista sobre os surtos
+de Mavericks
 <--------------------->
 
-outbreaks in the data
-stored at the lab.
+nos dados armazenados
+neste laboratório de
+pesquisa que achamos.
 <*********************>
 
 <p 02><d C60F><a 09><n 04>
-Fleuve's personal
-laboratory is right
+Enfim, o laboratório
+pessoal de Fleuve fica
+bem ao lado
 <--------------------->
 
-next to the transerver
-room.
+da sala do
+transervidor.
 <--------------------->
 
 <p 02><d C70F><a 09><n 04>
-Take the Biometal data
-there for analysis.
+Leve o Biometal lá,
+para ser analisado.
 <--------------------->
 
 <p 02><d C80F><a 09><n 04>
-I'll be here analyzing
-the computer chip that
-you brought back.
+Estarei aqui analisando
+os chips de computador
+que você trouxe.
 <*********************>
 
 <p 03><d C90F><a 22><n 18>
-Oh, good, good. I have
-been waiting for you!
+Ah, ótimo, ótimo.
+Estive esperando por
+você!
 <--------------------->
 
-Now, where is this
-fragment of Biometal?
+Agora, onde está o
+Biometal?
 <*********************>
 
 
-Handed over <c 03>Biometal
+Entregou o <c 03>Biometal
 <*********************>
 
 <p 03><d CA0F><a 22><n 18>
-Ah, excellent...
+Ah, excelente...
 <*********************>
 
 <p 03><d CB0F><a 22><n 18>
-Data transfer complete.
-Much appreciated!
+Transferência de dados
+concluída. Agradecido!
 <--------------------->
 
-You can take the
-Biometal back now.
+Pode pegar o Biometal
+de volta agora.
 <*********************>
 
 
-<c 03>Biometal<c 00> returned
+Recuperou o <c 03>Biometal<c 00>
 <*********************>
 
 <p 02><d CC0F><a 02><n 55>
-Mavericks detected in
-Area D!
+Mavericks detectados
+na Área D!
 <--------------------->
 
 <p 02><d CD0F><a 02><n 55>
-Mission objectives will
-be relayed on arrival.
+Os objetivos da missão
+serão retransmitidos
+quando chegarem.
 <--------------------->
 
-Move out and await
-further orders.
+Movam-se em direção à
+área e aguardem por
+mais instruções.
 <*********************>
 
 <p 02><d CE0F><a 02><n 55>
-I repeat! Mavericks
-detected in Area D!
+Repito! Mavericks
+detectados na Area D!
 <--------------------->
 
 <p 02><d CF0F><a 02><n 55>
-Mission objectives will
-be relayed on arrival.
+Os objetivos da missão
+serão retransmitidos
+quando chegarem.
 <--------------------->
 
-Move out and await
-further orders.
+Movam-se em direção à
+área e aguardem por
+mais instruções.
 <--------------------->
 
 <p 02><d D00F><a 0F><n 03>
-Area D... That's right
-next to the Slither
-Inc. head office!
+Área D... É bem perto
+da sede da Serpent
+Ltda!
 <--------------------->
 
 <p 03><d D10F><a 22><n 18>
-It's too dangerous for
-you to go back to town
-now.
+É perigoso demais vocês
+voltarem à cidade
+agora.
 <--------------------->
 
 <p 03><d D20F><a 22><n 18>
-We must hurry to the
-command center.
+Vamos ao centro de
+comando, rápido.
 <*********************>
 
 <p 02><d D30F><a 0B><n 04>
-It looks like our
-enemy is on the move.
+Parece que nosso
+inimigo está se
+movendo.
 <--------------------->
 
 <p 03><d D40F><a 0F><n 03>
-"Enemy?" So they're not
-just random Maverick
-outbreaks?
+"Inimigo"? Então não
+eram surtos aleatórios
+de Mavericks?
 <--------------------->
 
 <p 02><d D50F><a 0B><n 04>
-After I did a little
-snooping on the chip
-you brought back,
+Após uma breve análise
+nos chips que você
+trouxe,
 <--------------------->
 
-I found that there is a
-program controlling the
-Mavericks.
+descobri que há um
+programa controlando
+os Mavericks.
 <--------------------->
 
 <p 02><d D60F><a 0B><n 04>
-There is someone behind
-the Maverick attacks,
-but they're just
+Há alguém por trás 
+desses ataques,
 <--------------------->
 
-making them seem like
-random raids.
+e estão tentando fazer
+parecer ataques
+aleatórios.
 <--------------------->
 
 <p 02><d D70F><a 0B><n 04>
-They must be trying to
-steal the Biometal you
-were carrying.
+Devem estar tentando
+roubar os Biometais que
+vocês estão carregando.
 <--------------------->
 
 <p 03><d D80F><a 07><n 02>
-Serpent's security
-force... Where are
-they?
+E onde estão as forças
+de segurança da Serpent
+Ltda?
 <--------------------->
 
-Why haven't they
-arrived yet!?
+Por que ainda não
+chegaram?!
 <--------------------->
 
 <p 02><d D90F><a 0B><n 04>
-It takes time for them
-to be recalled to the
-head office from their
+Leva tempo para elas
+se locomoverem
 <--------------------->
 
-patrol routes in the
-city.
+de seus pontos de
+patrulha até a sede
+da empresa.
 <--------------------->
 
 <p 02><d DA0F><a 0B><n 04>
-Guardian ground forces
-are moving to intercept
+Enquanto isto, as
+forças terrestres dos
+Guardiões
 <--------------------->
 
-the Mavericks in
-Area D.
+estão se movendo
+para interceptar os
+Mavericks na Área D.
 <*********************>
 
 <p 02><d DB0F><a 02><n 2C>
-Ground forces
-reporting!
+Forças terrestres
+relatando!
 <--------------------->
 
-The Mavericks are
-heading for the
-residential district.
+Os Mavericks estão se
+dirigindo ao distrito
+residencial.
 <--------------------->
 
 <p 02><d DC0F><a 02><n 2C>
-Troops are exchanging
-fire on the highway
-in Area D.
+Tropas estão trocando
+tiros no viaduto da
+Área D.
 <--------------------->
 
 <p 03><d DD0F><a 07><n 02>
-What about the people
-in town?
+E as pessoas na cidade?
 <*********************>
 
 <p 02><d DE0F><a 22><n 18>
-Aile!? Where are you
-going!?
+Aile!? Para onde está
+indo?!
 <*********************>
 
 <p 03><d DF0F><a 07><n 02>
-With the Biometal, I
-can put up a fight!
+Com o Biometal, posso
+derrotá-los!
 <*********************>
 
 <p 02><d E00F><a 0F><n 03>
-Think Aile! If you go
-running out there with
-the Biometal,
+Pense, Aile! Se ficar
+andando por aí com o
+Biometal,
 <--------------------->
 
-you'll fall right
-into their hands!
+estará fazendo
+exatamente o que
+eles querem!
 <--------------------->
 
 <p 02><d E10F><a 0F><n 03>
-You don't know how to
-fight!
+Você não sabe como
+lutar!
 <--------------------->
 
-It's far too dangerous
-for you to go out there
-alone!
+É muito perigoso você
+ir para lá sozinha!
 <*********************>
 
 <p 03><d E20F><a 07><n 02>
-So you're just going to
-sit back and watch
+Então vai ficar parado
+aí sem fazer nada,
 <--------------------->
 
-while the Mavericks do
-this!?
+olhando os Mavericks
+atacarem civis?!
 <--------------------->
 
 <p 03><d E30F><a 07><n 02>
-The people are going to
-get hurt when the
-Mavericks reach them!
+As pessoas vão se
+machucar quando os
+Mavericks chegarem!
 <--------------------->
 
 <p 03><d E40F><a 08><n 02>
-People just like my
-mom... You would let
-that happen again!?
+Pessoas como minha mãe!
+Vai deixar aquilo
+acontecer de novo?!
 <--------------------->
 
 <p 03><d E50F><a 07><n 02>
-Unlike you, I can't
-just sit here and
-watch!
+Diferente de você, não
+consigo ficar parada
+sem fazer nada!
 <--------------------->
 
-I'll take every last
-one of them down!
+Vou derrotar cada um
+deles!
 <*********************>
 
 <p 02><d E60F><a 0B><n 04>
@@ -512,53 +528,54 @@ Aile!
 <*********************>
 
 <p 02><d E70F><a 10><n 03>
-Why won't she ever
-listen!?
+Por que ela não
+me ouve?!
 <*********************>
 
 <p 02><d E80F><a 11><n 03>
-Hold on Aile!
+Espere, Aile!
 <*********************>
 
 <p 03><d E90F><a 07><n 02>
-Giro, I...
+Giro, eu...
 <--------------------->
 
 <p 02><d EA0F><a 11><n 03>
-I'm not going to let
-you go out alone.
+Não vou deixar que vá
+sozinha.
 <--------------------->
 
 <p 02><d EB0F><a 11><n 03>
-Whether or not you can
-handle the Biometal
+Independente de você
+ser ou não capaz de
+usar o Biometal,
 <--------------------->
 
-doesn't matter, you're
-important to me.
+você é muito importante
+para mim.
 <--------------------->
 
 <p 02><d EC0F><a 11><n 03>
-I will protect you!
-Come on, let's go!
+Vou protegê-la!
+Vamos juntos!
 <--------------------->
 
 <p 03><d ED0F><a 06><n 02>
-Right!
+Certo!
 <*********************>
 
 <p 03><d EE0F><a 23><n 2C>
-Another transporter!?
-You came too?
+Outro transportador?!
+Você também veio?
 <--------------------->
 
 <p 03><d EF0F><a 23><n 2C>
-Giro rescued me and
-continued on alone.
+Giro me salvou e
+continuou sozinho.
 <--------------------->
 
 <p 03><d F00F><a 23><n 2C>
-You have to save him!
+Você tem que ajudá-lo!
 <*********************>
 
 <p 02><d F10F><a 07><n 02>
@@ -566,19 +583,20 @@ Giro!?
 <*********************>
 
 <p 03><d F20F><a 14><n 00>
-Ah, you've come.
-Model X, the blue
-Mega Man.
+Ah, você veio.
+Modelo X, o Mega Man
+azul.
 <--------------------->
 
 <p 03><d F30F><a 14><n 00>
-It's time to see the
-legend in action.
+Chegou a hora de ver
+a lenda em ação.
 <*********************>
 
 <p 03><d F40F><a 12><n 03>
-Ugh... Stay... away...
-It's a trap...
+Urgh...
+Fique... Longe...
+É uma armadilha...
 <*********************>
 
 <p 03><d F50F><a 12><n 03>
@@ -586,20 +604,20 @@ Aaargh!
 <*********************>
 
 <p 02><d F60F><a 07><n 02>
-Giro! What happened!?
+Giro! O que houve!?
 <--------------------->
 
 <p 03><d F70F><a 13><n 03>
-Aile! Sh-shoot me...
+Aile! A-Atire em mim...
 <*********************>
 
 <p 02><d F80F><a 07><n 02>
-Stop it! Giro, you
-have to fight it!
+Pare! Giro, você tem
+que resistir!
 <--------------------->
 
 <p 03><d F90F><a 13><n 03>
-Grr... aaagh!
+Grr... aaargh!
 <*********************>
 
 <p 02><d FA0F><a 07><n 02>
@@ -607,75 +625,78 @@ Girooo!
 <*********************>
 
 <p 03><d FB0F><a 14><n 00>
-Model X, the blue Mega
-Man... Model Z, the red
-Mega Man...
+Modelo X, o Mega Man
+azul... Modelo Z, o
+Mega Man vermelho...
 <--------------------->
 
-Such disappointments.
+Estou desapontado com
+ambos.
 <--------------------->
 
 <p 03><d FC0F><a 14><n 00>
-The Biometal the
-Guardians found might
+O Biometal que os
+Guardiões encontraram
 <--------------------->
 
-as well have been tin
-can scrapings.
+pode muito bem ser
+apenas pedaços de
+sucata.
 <*********************>
 
 <p 02><d FD0F><a 07><n 02>
-Who are you!?
+Quem é você!?
 <*********************>
 
 <p 01><p 03><d FE0F><a 14><n 0C>
-The name is Serpent.
+Eu sou Serpent.
 <--------------------->
 
 <p 01><p 03><d FF0F><a 14><n 0C>
-I rule all that lies
-before me. I am the
-Model W Mega Man!
+Eu mando em todo
+este país. Sou o
+Mega Man Modelo W!
 <--------------------->
 
 <p 01><p 02><d 0010><a 07><n 02>
-Serpent!? You're the
-president of Slither
-Inc.!
+Serpent!? Você é o
+presidente da Serpent
+Ltda!
 <--------------------->
 
 <p 01><p 03><d 0110><a 14><n 0C>
-I see my reputation
-precedes me.
+Vejo que minha
+reputação me
+precede.
 <--------------------->
 
-You'd do well to
-remember me, blue Mega
-Man!
+É melhor lembrar bem
+de mim, Mega Man azul!
 <*********************>
 
 <p 02><d 0210><a 07><n 02>
-You're the one behind
-the Mavericks and what
-happened to Giro!
+É você que está por
+trás dos Mavericks, e
+do que houve com Giro!
 <--------------------->
 
 <p 03><d 0310><a 19><n 00>
-You're shaking... Is it
-anger... Or fear?
+Está tremendo...
+Será raiva... Ou medo?
 <*********************>
 
 <p 03><d 0410><a 18><n 00>
-Hmph, at least the red
-one was more of a
+Hmph, pelo menos o
+de vermelho era bem
+mais desafiante
 <--------------------->
 
-challenge than this
-one.
+do que uma garotinha
+como você.
 <--------------------->
 
 <p 02><d 0510><a 07><n 02>
-How could you!?
+Como pôde!?
 <*********************>
 
 <p 03><d 0610><a 14><n 0C>
@@ -683,189 +704,197 @@ Prometheus.
 <--------------------->
 
 <p 03><d 0710><a 18><n 0D>
-Ah, poor blue Mega Man.
+Ah, coitadinho do
+Mega Man azul.
 <--------------------->
 
-What you mistake for
-courage is nothing more
-than mere recklessness.
+O que você confunde com
+coragem é nada mais que
+mera imprudência.
 <--------------------->
 
 <p 02><d 0810><a 07><n 02>
-Quiet!
+Cala a boca!
 <*********************>
 
 <p 02><d 0910><a 08><n 02>
-No!
+Não!
 <--------------------->
 
 <p 03><d 0A10><a 14><n 0C>
-Chosen ones like us,
-who can control the
-Biometal's
+Nós somos escolhidos,
+pois podemos controlar
 <--------------------->
 
-M.E.G.A. system and
-transform.
+o sistema M.E.G.A.
+dos Biometais e se
+transformar.
 <--------------------->
 
 <p 03><d 0B10><a 14><n 0C>
-We are called Mega Men.
+Nós somos chamados de
+Mega Mans.
 <--------------------->
 
 <p 03><d 0C10><a 14><n 0C>
-The chosen few are the
-shepherds for guiding
+Os poucos escolhidos
+são como pastores,
 <--------------------->
 
-the flock in a new
-world.
+que guiam o rebanho ao
+novo mundo.
 <--------------------->
 
 <p 03><d 0D10><a 14><n 0C>
-But you've proven with
-your pathetic abilities
+Mas você provou, com
+suas habilidades
+patéticas,
 <--------------------->
 
-that not all Mega Men
-are fit to rule.
+que nem todos os
+Mega Mans estão aptos
+para governar.
 <*********************>
 
 <p 02><d 0E10><a 08><n 02>
-Yaaah!
+Iáááh!
 <--------------------->
 
 <p 03><d 0F10><a 14><n 0C>
-Pull the password data
-out of them.
+Remova as senhas dos
+Biometais deles.
 <--------------------->
 
 <p 03><d 1010><a 19><n 0E>
-Understood...
+Entendido...
 <*********************>
 
 <p 03><d 1110><a 18><n 0D>
-That was far too easy.
-What should we do with
-them?
+Isso foi fácil demais.
+O que devemos fazer
+com eles?
 <--------------------->
 
 <p 03><d 1210><a 14><n 0C>
-Leave them to the
-Mavericks and carry on
-as you were.
+Deixe-os para os
+Mavericks e voltem para
+onde vocês estavam.
 <--------------------->
 
 <p 03><d 1310><a 14><n 0C>
-A battle between the
-evil Mavericks and the
+Uma batalha as forças
+de segurança da Serpent
+Ltda, tidos como o bem,
 <--------------------->
 
-good Slither Inc.
-security force.
+e os Mavericks, tidos
+como o mal.
 <--------------------->
 
 <p 03><d 1410><a 14><n 0C>
-Classic. The people of
-this town will go on
+Clássico.
+As pessoas desta
+cidade continuarão
 <--------------------->
 
-with their lives as
-usual.
+suas vidas, como de
+costume.
 <--------------------->
 
 <p 03><d 1510><a 14><n 0C>
-We need the facade of
-peace to continue on
+Precisamos que esta paz
+de fachada continue por
+um tempo a mais,
 <--------------------->
 
-just a little bit
-longer.
+para eu realizar meus
+planos gloriosos.
 <--------------------->
 
 <p 03><d 1610><a 14><n 0C>
-Eventually they will
-all become a glorious
-sacrifice for Model W.
+Cedo ou tarde, todos se
+tornarão sacrifícios
+para o Modelo W.
 <*********************>
 
 <p 02><d 1710><a 08><n 02>
-W-what did you say!?
+O-O que disse?!
 <*********************>
 
 <p 03><d 1810><a 19><n 0E>
-Password data retrieval
-complete...
+Obtenção de senhas
+concluída...
 <--------------------->
 
 <p 03><d 1910><a 14><n 0C>
-Gyahaha! Now we have
-all of the passwords.
+Giá, rá, rá!
+Agora temos todas as
+senhas.
 <--------------------->
 
 <p 03><d 1A10><a 14><n 0C>
-Let's go. It's time to
-proceed with Project
-Haven.
+Vamos. É chegada a hora
+de prosseguirmos com o
+Projeto Refúgio.
 <*********************>
 
 <p 03><d 1B10><a 18><n 0D>
-These two are already
-finished?
+Estes dois já eram?
 <--------------------->
 
-This was far easier
-than he had foreseen.
+Isto foi muito mais
+fácil do que ele havia
+previsto.
 <*********************>
 
 <p 02><d 1C10><a 08><n 02>
-Agh... I... can't
-move...
+Argh... Não... consigo
+me mexer...
 <*********************>
 
 <p 03><d 1D10><a 12><n 03>
-Never... give up... You
-still have something...
-you must protect.
+Nunca... desista...
+Você tem algo...
+que deve proteger.
 <*********************>
 
 <p 02><d 1E10><a 08><n 02>
-Giro! You're awake!
+Giro! Está acordado!
 <--------------------->
 
 <p 03><d 1F10><a 12><n 03>
-Model Z, listen...
-Don't worry... about
-me...
+Modelo Z, ouça...
+Não se preocupe...
+comigo...
 <--------------------->
 
 <p 03><d 2010><a 32><n 06>
-Do you know what you're
-asking?
+Tem certeza do que
+pretende me pedir?
 <--------------------->
 
-Your body is already
-beyond recovery.
+Seu corpo chegou num
+ponto irrecuperável.
 <--------------------->
 
 <p 03><d 2110><a 32><n 06>
-If you transform back,
-you will not survive
-the wounds...
+Se voltar ao normal,
+você não sobreviverá
+às feridas...
 <--------------------->
 
 <p 03><d 2210><a 12><n 03>
-Please... lend your
-strength... to Aile...
+Por favor... empreste
+sua força... à Aile...
 <--------------------->
 
 <p 03><d 2310><a 32><n 06>
-Alright, I will...
+Certo, farei isso...
 <--------------------->
 
 <p 03><d 2410><a 11><n 03>
-Aile... don't... give
-up.
+Aile... não...
+desista...
 <*********************>
 
 <p 02><d 2510><a 08><n 02>
@@ -873,154 +902,157 @@ Giro! Giro!!!
 <--------------------->
 
 <p 02><d 2610><a 08><n 02>
-It's all my fault! I
-never should have
-charged into this!
+É tudo minha culpa!
+Nunca devia ter vindo
+até aqui!
 <--------------------->
 
 <p 02><d 2710><a 31><n 05>
-Aile. This is your last
+Aile. É sua última
 chance.
 <--------------------->
 
 <p 02><d 2810><a 31><n 05>
-If you combine the
-power from the two
-Biometal
+Se combinar os poderes
+dos dois Biometais,
 <--------------------->
 
-fragments, you might be
-able to transform
-again.
+talvez você consiga se
+transformar novamente.
 <--------------------->
 
 <p 02><d 2910><a 31><n 05>
-I can't be certain
-whether or not you'll
-be able to bear
+Não tenho certeza
+se você suportará
+a tensão
 <--------------------->
 
-the strain when the two
-fragments are combined.
+de quando os dois
+fragmentos estiverem
+combinados.
 <*********************>
 
 <p 03><d 2A10><a 32><n 06>
-It's your decision. You
-alone must make it.
+A decisão é sua.
+Você deve tomá-la
+sozinho.
 <--------------------->
 
 <p 03><d 2B10><a 32><n 06>
-Do you have the will to
-fight?
+Você tem a força de
+vontade para lutar?
 <--------------------->
 
 <p 03><d 2C10><a 32><n 06>
-Do you have what it
-takes to continue where
+Será que é capaz de
+continuar o trabalho
 <--------------------->
 
-that brave man left
-off?
+de onde aquele homem
+corajoso parou?
 <*********************>
 
 <p 01><p 02><d 2D10><a 31><n 05>
-Aile, our strength...
+Aile, nossa força...
 <--------------------->
 
 <p 01><p 02><d 2E10><a 32><n 06>
-Is yours!
+É sua!
 <--------------------->
 
 <p 01><p 02><d 2F10><a 32><n 06>
-And Giro's spirit is
-also with you!
+E o espírito de Giro
+também está com você!
 <--------------------->
 
 <p 01><p 02><d 3010><a 07><n 02>
-Serpent! I'll make you
-pay for what you did
-today!
+Serpent! Farei você
+pagar pelo que fez
+hoje!
 <*********************>
 
 <p 02><d 3110><a 07><n 02>
-That's a Slither Inc.
-airship!
+É uma aeronave da
+Serpent Ltda!
 <*********************>
 
 <p 02><d 3210><a 07><n 02>
-Giro... I... I...
+Giro... Eu... Eu...
 <*********************>
 
 <p 02><d 3310><a 02><n 04>
-Aile... The battle
-between the Mavericks
+Aile... A batalha entre
+as forças de segurança
+da Serpent Ltda
 <--------------------->
 
-and the security force
-has begun.
+e os Mavericks já
+começou.
 <--------------------->
 
 <p 02><d 3410><a 02><n 04>
-You can't stay there.
-It's too dangerous.
+Não pode ficar aí.
+É muito perigoso.
 <--------------------->
 
-Return to HQ
-immediately.
+Volte ao QG
+imediatamente.
 <--------------------->
 
 <p 02><d 3510><a 07><n 02>
-Prairie... I will join
-you in your fight.
+Prairie... Vou me
+juntar a você nesta
+luta.
 <--------------------->
 
 <p 02><d 3610><a 07><n 02>
-I won't let them get
-away with this!
+Não deixarei eles se
+safarem depois disso!
 <--------------------->
 
 <p 02><d 3710><a 07><n 02>
-I will protect
-everyone!
+Vou proteger a todos!
 <*********************>
 
 <p 03><d 3810><a 08><n 02>
-I'm such a fool. Giro
-knew I was in over my
-head and tried to stop
+Sou uma tola. Giro
+sabia que eu estava de
+cabeça quente
 <--------------------->
 
-me, but I rushed in
-anyway.
+e tentou me impedir,
+mas agi sem pensar
+mesmo assim.
 <--------------------->
 
 <p 03><d 3910><a 08><n 02>
-Giro saved me again...
-Why did I have to be
+Giro me salvou outra
+vez...
 <--------------------->
 
-the one to make it out
-alive?
+Por que sempre acabo
+sendo a única a
+sobreviver?
 <--------------------->
 
 <p 02><d 3A10><a 0B><n 04>
-Aile... Don't start
-thinking like that.
+Aile... Não pense nisso
+desta maneira.
 <--------------------->
 
 <p 03><d 3B10><a 08><n 02>
-Huh?
+Hã?
 <--------------------->
 
 <p 02><d 3C10><a 0B><n 04>
-Giro gave his life
-protecting you.
+Giro deu sua vida para
+protegê-la.
 <--------------------->
 
 <p 02><d 3D10><a 0B><n 04>
-Don't ever forget how
-much he cared about
-you.
+Nunca se esqueça de
+como ele se importava
+com você.
 <--------------------->
 
 <p 03><d 3E10><a 05><n 02>
@@ -1028,130 +1060,129 @@ Giro...
 <*********************>
 
 <p 02><d 3F10><a 0B><n 04>
-We've analyzed the data
-and found out a few
-things.
+Nós analisamos os dados
+e descobrimos algumas
+coisas.
 <--------------------->
 
 <p 02><d 4010><a 0B><n 04>
-Model W has the power
-to corrupt machines and
-humans alike.
+O Modelo W tem o poder
+de corromper tanto
+máquinas como humanos.
 <--------------------->
 
 <p 02><d 4110><a 0B><n 04>
-That's what has been
-causing the Maverick
-outbreaks.
+É isto que esteve
+causando os surtos
+de Mavericks.
 <--------------------->
 
 <p 02><d 4210><a 0B><n 04>
-But Serpent only has
-the Model W Biometal
-fragment now.
+Mas Serpent só possui
+o Biometal do Modelo W.
 <--------------------->
 
 <p 02><d 4410><a 0B><n 04>
-The Model W Core is
-lying dormant somewhere
-waiting to be awoken.
+O Núcleo do Modelo W
+adormece em algum lugar
+esperando ser acordado.
 <--------------------->
 
 <p 02><d 4510><a 0B><n 04>
-I'm not sure what that
-Project Haven Serpent
-mentioned is...
+Não sei o que é este
+tal Projeto Refúgio que
+Serpent Mencionou...
 <--------------------->
 
 <p 02><d 4610><a 0B><n 04>
-But I think he's going
-to try and awaken
-Model W.
+Mas acho que ele
+pretende despertar
+o Modelo W.
 <--------------------->
 
 <p 03><d 4710><a 07><n 02>
-He's going to try and
-sacrifice everyone.
+Ele pretende sacrificar
+todo mundo.
 <--------------------->
 
 <p 03><d 4810><a 07><n 02>
-I won't let that
-happen! Where is the
-Model W Core now?
+Não vou deixar! Onde
+está o Núcleo do
+Modelo W agora?
 <--------------------->
 
 <p 02><d 4910><a 0C><n 04>
-I'm not sure... Some of
-the data was corrupt
+Não tenho certeza...
+Alguns dados estavam
+corrompidos
 <--------------------->
 
-and we couldn't
-complete the analysis.
+e não pudemos completar
+a análise.
 <--------------------->
 
 <p 02><d 4A10><a 0B><n 04>
-What I do know is that
-the six passwords
-encoded into
+O que sei é que as seis
+senhas, codificadas nos
+Biometais,
 <--------------------->
 
-the Biometal fragments
-are the keys.
+são as chaves para
+acessá-lo.
 <--------------------->
 
 <p 02><d 4B10><a 0B><n 04>
-Combined they will
-unlock the seal that
-contains the core.
+Combinadas, elas
+desbloquearão o selo
+que contém o núcleo.
 <--------------------->
 
 <p 02><d 4C10><a 0B><n 04>
-I managed to get to
-Model X and Model Z
-first...
+Consegui obter
+os Modelos X e Z
+primeiro...
 <--------------------->
 
 <p 03><d 4D10><a 07><n 02>
-Serpent already has the
-other four.
+Serpent já tem os
+outros quatro.
 <--------------------->
 
 <p 03><d 4E10><a 07><n 02>
-We're going to have to
-fight and take them
-away!
+Vamos ter que lutar e
+tomá-los de volta!
 <--------------------->
 
 <p 02><d 4F10><a 0B><n 04>
-I'm going to simulate
-the data and narrow
-down the
+Vou simular os dados e
+obter as localizações
+aproximadas
 <--------------------->
 
-Biometal locations
-using the Maverick
-signatures.
+dos Biometais, usando
+as assinaturas digitais
+dos Mavericks.
 <--------------------->
 
 <p 02><d 5010><a 0B><n 04>
-Once I get a mission
-plan together, I'll add
+À medida que eu for
+preparando as missões,
 <--------------------->
 
-that information to
-the transerver.
+adicionarei-as nos
+transervidores.
 <--------------------->
 
 <p 02><d 5110><a 0B><n 04>
-Aile, you're not alone
-in the way you feel
-right now.
+Aile, você não é a
+única que está triste
+pelo que aconteceu.
 <--------------------->
 
 <p 02><d 5210><a 0B><n 04>
-Please don't forget
-that. Get Serpent...
-for Giro.
+Todos também estamos.
+Por isso detenha
+Serpent, por Giro.
 <*********************>
 
 <FIM>
