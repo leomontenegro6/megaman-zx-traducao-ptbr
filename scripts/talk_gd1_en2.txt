@@ -2,21 +2,22 @@
 <#####################>
 
 <p 01><p 02><a 26><n 1A>
-Are you the
-transporter, <nome>?
+Você é da transpor-
+tadora, <nome>?
 <--------------------->
 
 <p 01><p 02><a 26><n 1A>
-My name's Hareng.
+Meu nome é Hareng.
 <--------------------->
 
 <p 01><p 02><a 26><n 1A>
-It's too early to tell
-you my real name.
+Ainda é cedo para
+eu te dizer o meu
+verdadeiro nome.
 <--------------------->
 
-Consider Hareng more
-of a codename.
+Considere Hareng mais
+como um codenome.
 <*********************>
 
 <p 01><p 02><a 26><n 1A>
@@ -40,7 +41,7 @@ things clearly.
 <*********************>
 
 <p 01><p 02><a 26><n 1A>
-<nome>, you're alive!
+<nome>, você está vivo!
 <--------------------->
 
 <p 01><p 02><a 26><n 1A>
@@ -50,7 +51,8 @@ amazing.
 <*********************>
 
 <p 01><p 02><a 26><n 1A>
-I'm glad you're safe.
+Estou feliz por estar
+a salvo.
 <--------------------->
 
 <p 01><p 02><a 26><n 1A>
@@ -74,50 +76,51 @@ yours away so easily.
 <*********************>
 
 <p 01><p 02><a 26><n 1A>
-I would never have
-imagined they would
+Nunca teria imaginado
+que eles lançaríam
 <--------------------->
 
-launch an assault
-directly on HQ.
+um ataque direto ao
+nosso QG.
 <--------------------->
 
 <p 01><p 02><a 26><n 1A>
-I guess we're not safe
-even way up in the sky.
+Acho que, mesmo sempre
+sobrevoando os céus,
+não estamos a salvo.
 <*********************>
 
 <p 01><p 02><a 26><n 1A>
-If only I could have
-been a chosen one...
+Se ao menos eu fosse um
+dos escolhidos...
 <--------------------->
 
 <p 01><p 02><a 26><n 1A>
-I would have given the
-enemy a run for their
-money.
+Eu teria botado os
+inimigos pra correr com
+o rabo entre as pernas.
 <--------------------->
 
 <p 01><p 02><a 26><n 1A>
-I wonder how chosen
-ones get chosen in the
-first place.
+Me pergunto como os
+escolhidos são escolhi-
+dos, em primeiro lugar.
 <*********************>
 
 <p 01><p 02><a 26><n 1A>
-Things aren't looking
-good <nome>.
+As coisas não vão bem,
+<nome>.
 <--------------------->
 
 <p 01><p 02><a 26><n 1A>
-We now know the danger
-behind Model W.
+Agora sabemos como o
+Modelo W é perigoso.
 <--------------------->
 
 <p 01><p 02><a 26><n 1A>
-Whatever we do, we must
-stop their plans from
-being carried out!
+Temos que fazer de tudo
+para evitar que seus
+planos virem realidade!
 <*********************>
 
 <p 01><p 02><a 26><n 1A>
@@ -136,9 +139,9 @@ Now I know better.
 <--------------------->
 
 <p 01><p 02><a 26><n 1A>
-Stop Serpent's blind
-ambition before it's
-too late!
+Detenha a ambição cega
+de Serpent, antes que
+seja tarde demais!
 <*********************>
 
 <p 02><a 30><n 24>
@@ -162,8 +165,8 @@ keep droning on.
 <--------------------->
 
 <p 02><a 30><n 24>
-I'm a mechanic.
-The name's Anguille!
+Sou um mecânico.
+Meu nome é Anguille!
 <--------------------->
 
 <p 02><a 30><n 24>
@@ -179,24 +182,25 @@ the time.
 <*********************>
 
 <p 02><a 30><n 24>
-I may need to ask you
-for help someday <nome>.
+Talvez eu precise pedir
+sua ajuda algum dia,
+<nome>.
 <--------------------->
 
 <p 02><a 30><n 24>
-Thanks in advance for
-any help you can
-provide!
+Obrigado de antemão
+pela ajuda que você
+puder fornecer!
 <*********************>
 
 <p 02><a 30><n 24>
-You're alive <nome>!
+Você está vivo, <nome>!
 <--------------------->
 
 <p 02><a 30><n 24>
-I'm so happy! I never
-thought I would see you
-again!
+Estou tão feliz!
+Achei que não fosse
+vê-lo outra vez!
 <--------------------->
 
 <p 02><a 30><n 24>
@@ -216,19 +220,19 @@ unnecessary risks.
 <*********************>
 
 <p 02><a 30><n 24>
-<nome>, you must live on
-and continue where Giro
-left off...
+<nome>, você deve viver
+e continuar de onde
+Giro parou...
 <--------------------->
 
 <p 02><a 30><n 24>
-I know how you must
-feel, but try to be
-strong...
+Sei como se sente, mas
+tente ser forte...
 <--------------------->
 
-I know he's watching
-over you.
+Sei que ele estará
+sempre olhando por
+você.
 <*********************>
 
 <p 02><a 30><n 24>
@@ -280,25 +284,25 @@ innocent!
 <*********************>
 
 <p 02><a 30><n 24>
-Don't let Slither Inc.
-dig up the Model W
-Core!
+Não deixe a Serpent
+Ltda cavar até o núcleo
+do Modelo W!
 <--------------------->
 
 <p 02><a 30><n 24>
-The world will never
-survive if they get
-their hands on it.
+O mundo não sobreviverá
+se ele por suas mãos
+nisso.
 <*********************>
 
 <p 02><a 30><n 24>
-You're the only one
-that can put a stop to
-Serpent <nome>!
+Você é o único que pode
+pôr um fim nos planos
+de Serpent, <nome>!
 <*********************>
 
 <p 02><a 25><n 19>
-Thanks for before.
+Obrigado por antes.
 <--------------------->
 
 <p 02><a 25><n 19>
@@ -319,163 +323,164 @@ ask!
 <*********************>
 
 <p 02><a 25><n 19>
-I wonder if Anguille is
-ever going to finish my
-chip...
+Me pergunto quando
+será que Anguille vai
+terminar meu chip...
 <--------------------->
 
 <p 02><a 25><n 19>
-I gave him everything
-he needed to work on it
-half a year ago.
+Faz uns seis meses que
+dei a ele tudo que pre-
+cisava para o trabalho.
 <--------------------->
 
 <p 02><a 25><n 19>
-He doesn't seem to care
-very much about being
-timely with things...
+Ele não parece ligar
+muito para prazos...
 <*********************>
 
 <p 02><a 25><n 19>
-You're alive!
+Você está vivo!
 <--------------------->
 
 <p 02><a 25><n 19>
-I know the Biometal
-helped, but you did the
-rest.
+Sei que o Biometal
+ajudou, mas você
+fez o resto.
 <--------------------->
 
 <p 02><a 25><n 19>
-Humans are capable of
-things that can't be
-explained by science.
+Humanos são capazes
+de coisas que não são
+explicdas pela ciência.
 <--------------------->
 
 <p 02><a 25><n 19>
-They're incredible.
+São incríveis.
 <*********************>
 
 <p 02><a 25><n 19>
-Oh yeah.
+Ah, é.
 <--------------------->
 
 <p 02><a 25><n 19>
-You can take on
-missions and quests
-from any transerver.
+Você pode aceitar
+missões e pedidos de
+qualquer transervidor.
 <--------------------->
 
 <p 02><a 25><n 19>
-It's probably more
-convenient to take on a
-request near the
+Mas é mais conveniente
+aceitar um pedido
+quando já está perto
 <--------------------->
 
-location of the
-mission.
+do local da missão.
 <*********************>
 
 <p 02><a 25><n 19>
-How are you doing?
+Como vão as coisas?
 <--------------------->
 
 <p 02><a 25><n 19>
-You did great
-protecting this ship.
+Mandou muito bem
+protegendo esta nave.
 <--------------------->
 
 <p 02><a 25><n 19>
-You passed the test,
-and then you saved us
-all.
+Primeiro passou no
+teste, e agora salvou
+todos nós.
 <--------------------->
 
 <p 02><a 25><n 19>
-But there will be more
-tests on the road
-ahead.
+Mas haverão mais
+testes na sua jornada
+adiante.
 <*********************>
 
 <p 02><a 25><n 19>
-It seems as if several
-Pseudoroids are
+Parece que vários
+Pseudoróides
 <--------------------->
 
-standing guard in the
-Outlands.
-<--------------------->
-
-<p 02><a 25><n 19>
-You already know that
-the areas are divided
-into several blocks.
+estão montando guarda
+nas fronteiras.
 <--------------------->
 
 <p 02><a 25><n 19>
-But you won't be able
-to tell if a Pseudoroid
-<--------------------->
-
-is in the block or not
-until you enter it.
+Você já sabe que as
+áreas estão dividas
+em vários blocos.
 <--------------------->
 
 <p 02><a 25><n 19>
-Any Pseudoroids that
-have regenerated can be
+Mas não dá pra dizer se
+um Pseudoróide está ou
+não em um bloco,
 <--------------------->
 
-seen from the map
-though.
+até você entrar neste.
 <--------------------->
 
 <p 02><a 25><n 19>
-If the block is
-blinking red,
+No entanto, qualquer
+Pseudoróide que tenha
+se regenerado,
 <--------------------->
 
-then you know they have
-regenerated.
+pode ser visto no mapa.
+<--------------------->
+
+<p 02><a 25><n 19>
+Se o bloco estiver
+piscando em vermelho,
+<--------------------->
+
+então é o sinal
+que o Pseudoróide
+se regenerou.
 <*********************>
 
 <p 02><a 25><n 19>
-You've come a long way.
+Você percorreu um longo
+caminho.
 <*********************>
 
 <p 02><a 25><n 19>
-I never would have
-guessed you could make
+Eu nunca teria
+adivinhado
 <--------------------->
 
-it this far fighting
-alone.
+que você teria chegado
+tão longe, sozinho.
 <*********************>
 
 <p 02><a 25><n 19>
-I have something to
-tell you.
+Tenho algo a dizer para
+você.
 <--------------------->
 
 <p 02><a 25><n 19>
-Anguille finally
-finished the chip I
-requested.
+Anguille finalmente
+terminou o chip que
+eu pedi.
 <--------------------->
 
 <p 02><a 25><n 19>
-It's called an Eraser
-Chip, and it allows you
+O item é chamado de
+Chip Corta-Projéteis,
 <--------------------->
 
-to destroy enemy shots
-with your saber.
+e permite cortar
+projéteis disparados
+com sua espada.
 <--------------------->
 
 <p 02><a 25><n 19>
-You could put it to
-better use than I ever
-could. Please take it.
+Você faria uso disso
+melhor que eu. Por
+favor, aceite.
 <*********************>
 
 <p 02><a 2B><n 1F>
@@ -500,30 +505,32 @@ through the test?
 <*********************>
 
 <p 02><a 2B><n 1F>
-Sorry, I never properly
-introduced myself. My
-name is Congre.
+Perdão, ainda não me
+apresentei. Meu nome
+é Congre.
 <--------------------->
 
 <p 02><a 2B><n 1F>
-I really have no idea
-why I'm working here...
+Não tenho a menor ideia
+de por que trabalho
+aqui...
 <*********************>
 
 <p 02><a 2B><n 1F>
-Oh! It's you... You
-shouldn't sneak up on a
-guy like that...
+Ah! É você...
+Não devia me assustar
+desse jeito...
 <*********************>
 
 <p 02><a 2B><n 1F>
-How are you holding up?
+Como conseguiu
+aguentar?
 <--------------------->
 
 <p 02><a 2B><n 1F>
-It was a million to one
-shot you could survive
-an attack like that.
+Foi uma chance em um
+milhão você ter sobre-
+vivido àquele ataque.
 <--------------------->
 
 <p 02><a 2B><n 1F>
@@ -537,60 +544,60 @@ stay out of harm's way.
 <*********************>
 
 <p 02><a 2B><n 1F>
-*phew* I was so
-scared...
+Ufa! Estava muito
+assustado...
 <--------------------->
 
 <p 02><a 2B><n 1F>
-This is the first time
-the enemy has ever been
+É a primeira vez que
+o inimigo teve culhões
 <--------------------->
 
-bold enough to attack
-HQ.
+de atacar o QG dos
+Guardiões diretamente.
 <--------------------->
 
 <p 02><a 2B><n 1F>
-We're so high up in the
-air, we never expected
-an attack.
+Estamos a milhares de
+pés de altitude. Nunca
+esperava aquele ataque.
 <*********************>
 
 <p 02><a 2B><n 1F>
-I'm holing up in my
-room for awhile.
+Vou me entocar no meu
+quarto por um tempo.
 <--------------------->
 
 <p 02><a 2B><n 1F>
-I'm not sure if it's
-safe to go out yet or
-not.
+Não sei se é ainda é
+seguro andar por aí.
 <--------------------->
 
-They might come back...
+Talvez eles voltem...
 <*********************>
 
 <p 02><a 2B><n 1F>
-I knew you had it in
-you,
+Eu sabia que você
+tinha coragem,
 <--------------------->
 
-but I never imagined
-you were that good.
+mas nunca imaginei que
+você fosse tão bom.
 <--------------------->
 
 <p 02><a 2B><n 1F>
-I wish I had even just
-1% of your courage...
+Quem dera se eu tivesse
+só 1% da sua coragem...
 <*********************>
 
 <p 02><a 2B><n 1F>
-I know there's nothing
-I can do for you,
+Sei que não há nada
+que posso fazer por
+você,
 <--------------------->
 
-but I'll still keep on
-rooting for you!
+mas continuarei na
+torcida!
 <*********************>
 
 <p 02><a 28><n 1C>
@@ -629,99 +636,103 @@ too... She's no fun.
 <*********************>
 
 <p 02><a 28><n 1C>
-Are you okay <nome>?
+Está tudo bem, <nome>?
 <--------------------->
 
 <p 02><a 28><n 1C>
-I don't want you to get
-hurt! Please be
-careful.
+Não quero que você se
+machuque! Por favor
+tenha cuidado.
 <--------------------->
 
 <p 02><a 28><n 1C>
-If you get hurt, we
-won't be able to play
-anymore...
+Se você se machucar,
+não poderemos mais
+brincar...
 <--------------------->
 
 <p 02><a 28><n 1C>
-I can't lose another
-friend...
+Não quero perder outro
+amigo...
 <*********************>
 
 <p 02><a 28><n 1C>
-Will you be my friend
-forever and ever <nome>?
+Você será meu amigo pra
+sempre, <nome>?
 <*********************>
 
 <p 02><a 28><n 1C>
-I've never seen the
-enemy attack us like
-that before.
+Nunca vi o inimigo nos
+atacar desse jeito
+antes.
 <--------------------->
 
 <p 02><a 28><n 1C>
-But I wasn't scared!
+Mas não fiquei com
+medo!
 <--------------------->
 
 <p 02><a 28><n 1C>
-I knew you would come
-and save us <nome>!
+Eu sabia que você viria
+nos salvar, <nome>!
 <*********************>
 
 <p 02><a 28><n 1C>
-With you around, I can
-be brave too!
+Com você aqui, também
+me sinto corajoso!
 <--------------------->
 
 <p 02><a 28><n 1C>
-I want to protect
-everyone when
-I grow up!
+Quero proteger todo
+mundo, quando eu
+crescer!
 <*********************>
 
 <p 02><a 28><n 1C>
-Get Serpent for me,
-okay <nome>?
+Derrote Serpent por
+mim, tá <nome>?
 <--------------------->
 
 <p 02><a 28><n 1C>
-You're our only hope!
+Você é nossa única
+esperança!
 <*********************>
 
 <p 02><a 28><n 1C>
-If peace is back,
-Silure might be able to
-make me another toy!
+Se a paz voltar, Silure
+talvez me faça outro
+brinquedo!
 <--------------------->
 
 <p 02><a 28><n 1C>
-This toy is called
-Little Moby.
+Este brinquedo chama-se
+Pequeno Moby.
 <--------------------->
 
 <p 02><a 28><n 1C>
-Silure's made me other
-toys, but...
+Silure fez outro
+brinquedo pra mim,
+mas...
 <--------------------->
 
-*whisper* They weren't
-that fun...
-<--------------------->
-
-<p 02><a 28><n 1C>
-One toy looked like an
-oven with legs...
-<--------------------->
-
-It was too weird to
-play with.
+Segredo: não era um
+brinquedo legal, era
+bem chato...
 <--------------------->
 
 <p 02><a 28><n 1C>
-Don't tell Old Silure
-though, he'll just get
-sad.
+Um deles parecia um
+forno, com pernas...
+<--------------------->
+
+Era muito tosco de
+se brincar.
+<--------------------->
+
+<p 02><a 28><n 1C>
+Mas não conta pro tio
+Silure, senão ele vai
+ficar triste.
 <*********************>
 
 <p 02><a 2F><n 23>

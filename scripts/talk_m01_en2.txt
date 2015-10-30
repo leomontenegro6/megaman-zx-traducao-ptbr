@@ -215,8 +215,9 @@ Ah!
 <--------------------->
 
 <p 02><d 0904><a 0F><n 03>
-Devem estar atrás da
-encomenda!
+Essa não! Será que
+estão atrás da
+encomenda?!
 <*********************>
 
 <p 03><d 0A04><a 07><n 02>
@@ -241,9 +242,9 @@ Aile! Você está bem!?
 <--------------------->
 
 <p 02><d 0F04><a 04><n 03>
-A encomenda! Você a
-encontrou?! Deve ter
+A encomenda! Deve ter
 caído perto de você.
+Você a encontrou?!
 <*********************>
 
 <p 02><d 1004><a 05><n 02>
@@ -252,11 +253,11 @@ Será aquilo?
 
 <p 02><d 1104><a 04><n 03>
 Ouça! Pegue a
-encomenda.
+encomenda,
 <--------------------->
 
 <p 02><d 1204><a 04><n 03>
-Então leve-a ao ponto
+leve-a ao ponto
 de encontro,
 <--------------------->
 
@@ -285,7 +286,8 @@ entregar uma encomenda.
 <*********************>
 
 <p 03><d 1604><a 0B><n 04>
-Abaixem suas armas.
+Pessoal, abaixem suas
+armas.
 <*********************>
 
 <p 03><d 1704><a 09><n 04>

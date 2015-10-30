@@ -53,8 +53,8 @@ Entendido.
 <*********************>
 
 <p 02><d F203><a 0D><n 03>
-Ei, Vent! Vamos partir,
-já está pronto?
+Ei, Vent!
+Vamos andando!
 <*********************>
 
 <p 02><d F303><a 0D><n 03>
@@ -101,22 +101,23 @@ ataques dos Mavericks.
 
 <p 01><p 02><d FB03><a 0D><n 03>
 Entendo como se sente,
-mas não se deixe levar
+mas não culpe a 
+Serpent Ltda
 <--------------------->
 
-pelos seus sentimentos
-do passado.
+pelo que aconteceu no
+passado.
 <--------------------->
 
 <p 01><p 02><d FC03><a 0D><n 03>
-Estávamos vivenciando
-uma crise de energia, e
-sofríamos na pele
+Na época, estávamos
+vivenciando o ápice da
+crise de energia.
 <--------------------->
 
-as consequências dos
-Mavericks atacando
-civis incessantemente.
+Fora os Mavericks
+atacando civis
+incessantemente.
 <--------------------->
 
 <p 01><p 02><d FD03><a 0D><n 03>
@@ -136,8 +137,7 @@ para todos.
 <--------------------->
 
 <p 02><d FF03><a 0D><n 03>
-De todo modo, melhor
-irmos andando.
+Vamos andando.
 <--------------------->
 
 Nosso cliente já está
@@ -217,8 +217,9 @@ Ah!
 <--------------------->
 
 <p 02><d 0904><a 0F><n 03>
-Devem estar atrás da
-encomenda!
+Essa não! Será que
+estão atrás da
+encomenda?!
 <*********************>
 
 <p 03><d 0A04><a 07><n 01>
@@ -235,7 +236,7 @@ Ai...
 
 <p 02><d 0D04><a 08><n 01>
 Urgh... Essa queda foi
-intensa.
+perigosa.
 <*********************>
 
 <p 02><d 0E04><a 04><n 03>
@@ -244,22 +245,22 @@ você!?
 <--------------------->
 
 <p 02><d 0F04><a 04><n 03>
-A encomenda! Você a
-encontrou?! Deve ter
+A encomenda! Deve ter
 caído perto de você.
+Você a encontrou?!
 <*********************>
 
 <p 02><d 1004><a 05><n 01>
-Deve ser aquilo...
+Será que é aquilo?
 <*********************>
 
 <p 02><d 1104><a 04><n 03>
 Ouça! Pegue a
-encomenda.
+encomenda,
 <--------------------->
 
 <p 02><d 1204><a 04><n 03>
-Então leve-a ao ponto
+leve-a ao ponto
 de encontro,
 <--------------------->
 
@@ -289,7 +290,8 @@ encomenda.
 <*********************>
 
 <p 03><d 1604><a 0B><n 04>
-Abaixem suas armas.
+Pessoal, abaixem suas
+armas.
 <*********************>
 
 <p 03><d 1704><a 09><n 04>
