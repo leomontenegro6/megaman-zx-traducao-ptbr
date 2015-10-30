@@ -213,9 +213,9 @@ surtos de Mavericks.
 <--------------------->
 
 <p 01><p 02><d BD0F><a 0B><n 04>
-Um dia, descobrimos um
-laboratório de pesquisa
-de uma certa cientista.
+Um dia, encontramos
+o laboratório de uma
+cientista desaparecida.
 <--------------------->
 
 <p 03><d BE0F><a 05><n 02>
@@ -223,9 +223,9 @@ Uma "certa cientista"?
 <*********************>
 
 <p 02><d BF0F><a 0C><n 04>
-A primeira comandante
-dos Guardiões... A
-líder que desapareceu.
+Sim. E essa cientista
+também era a fundadora
+dos Guardiões.
 <--------------------->
 
 <p 02><d C00F><a 0C><n 04>
@@ -237,9 +237,9 @@ Ah... Entendo.
 <--------------------->
 
 <p 03><d C20F><a 0D><n 03>
-E o Biometal que trans-
-portávamos estava neste
-laboratório?
+Sim, e o Biometal que
+estávamos transportando
+estava no laboratório.
 <*********************>
 
 <p 02><d C30F><a 0B><n 04>
@@ -266,9 +266,9 @@ pista sobre os surtos
 de Mavericks
 <--------------------->
 
-nos dados armazenados
-neste laboratório de
-pesquisa que achamos.
+nos dados obtidos
+neste laboratório
+de pesquisa.
 <*********************>
 
 <p 02><d C60F><a 09><n 04>
@@ -311,8 +311,9 @@ Ah, excelente...
 <*********************>
 
 <p 03><d CB0F><a 22><n 18>
-Transferência de dados
-concluída. Agradecido!
+A transferência de
+dados foi concluída.
+Agradecido!
 <--------------------->
 
 Pode pegar o Biometal
