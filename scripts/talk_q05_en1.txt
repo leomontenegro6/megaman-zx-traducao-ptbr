@@ -2,172 +2,175 @@
 <#####################>
 
 <p 02><a 3E><n 39>
-Hey again! Can you help
-a kid out?
+Olá de novo! Poderia
+ajudar uma criança?
 <--------------------->
 
 <p 02><a 3E><n 39>
-My little brother has
-another quiz ready and
-needs a challenger.
+Meu irmão tem um outro
+quiz pronto e precisa
+de um desafiante.
 <*********************>
 
 <p 02><a 3E><n 39>
-This time won't be as
-easy as the last time.
+Dessa vez não será
+fácil como antes.
 <*********************>
 
 <p 02><a 02><n 55>
-Answer the quiz for
-Yu's little brother.
+Responder o quiz para
+o irmãozinho de Yu.
 <*********************>
 
 <e 01><a 02><n 55>
-  Yes
-  No
+  Sim
+  Não
 <*********************>
 
 <p 02><a 3E><n 39>
-His quizzes can be
-ridiculously hard...
+Os quizzes dele podem
+ser dificílimos...
 <--------------------->
 
 <p 02><a 3E><n 39>
-But I'm sure it'll be a
-piece of cake for you.
+Mas tenho certeza que
+serão moleza para
+você.
 <*********************>
 
 <p 02><a 3F><n 3A>
-Hi again!
+Olá de novo!
 <--------------------->
 
 <p 02><a 3F><n 3A>
-Are you up to the next
-Lou challenge? Let's
-get it started!
+Pronto para o próximo
+desafio de Lou? Vamos
+começar!
 <--------------------->
 
 <p 02><a 3F><n 3A>
-There's a giant tree
-growing in Area A-3.
-What type is it?
+Há uma árvore gigante
+crescendo na Área A-3.
+De que tipo ela é?
 <--------------------->
 
 <m><a 3F><n 3A>
-  Peach
-  Apple
-  Oak
+  Cogumelo
+  Maçã
+  Carvalho
 <*********************>
 
 <p 02><a 3F><n 3A>
-Oh, too bad! I have to
-admit, this one was
-tough.
+Oh, que pena! Admito
+que essa foi difícil.
 <--------------------->
 
 <p 02><a 3F><n 3A>
-Thanks for trying
-though.
+Obrigado por tentar.
 <--------------------->
 
 <p 02><a 3F><n 3A>
-I'll give you something
-as a consolation prize.
+Te darei algo como
+prêmio de consolação.
 <--------------------->
 
-Check the transerver
-when you get the
-chance.
+Verifique o
+transervidor quando
+tiver oportunidade.
 <--------------------->
 
 <p 02><a 3F><n 3A>
-Old Jack wanted it,
-but I'll give it to you
-instead.
+Velho Jack queri isso
+mas darei para você
+ao invés dele.
 <*********************>
 
 <p 02><a 3F><n 3A>
-Well done! Is there 
-anything you don't
-know?
+Muito bem! Há alguma
+coisa que você não
+saiba?
 <--------------------->
 
 <p 02><a 3F><n 3A>
-Thanks for stepping
-up to the challenge.
+Obrigado por ajudar
+com o desafio.
 <--------------------->
 
 <p 02><a 3F><n 3A>
-Oh yeah! I'll give you
-something as a reward.
+Ah sim! Te darei algo
+como recompensa.
 <--------------------->
 
-Check the transerver
-next time you have a
-chance.
+Verifique o
+transervidor quando
+tiver oportunidade.
 <--------------------->
 
 <p 02><a 3F><n 3A>
-Don't let old Jack
-know or he'll want it.
-<*********************>
-
-<p 02><a 3E><n 39>
-Well, was this quiz
-tougher than last time?
-<--------------------->
-
-<p 02><a 3E><n 39>
-I was able to answer
-within just 5 seconds!
-<*********************>
-
-<p 02><a 3F><n 3A>
-I wonder what the
-present might be?
-<--------------------->
-
-You'll just have to
-wait and see!
-<--------------------->
-
-I'm sure you'll like
-it.
-<*********************>
-
-<p 02><a 02><n 55>
-Quest completed.
-<--------------------->
-
-<p 02><a 02><n 55>
-50 EC and an item have
-been transferred to
-your account.
-<*********************>
-
-<p 02><a 02><n 55>
-Quest completed.
-<--------------------->
-
-<p 02><a 02><n 55>
-A pink crystal has
-been transferred as a
-reward.
+Não deixe o velho Jack
+saber ou ele irá
+querer isso.
 <*********************>
 
 <p 02><a 3E><n 39>
-Thanks for the help. My
-brother is on cloud
+Bem, esse quiz foi
+mais difícil que o
+último?
 <--------------------->
 
-nine after you answered
-his quiz.
+<p 02><a 3E><n 39>
+Eu fui capaz de
+responder em apenas 5
+segundos!
 <*********************>
 
 <p 02><a 3F><n 3A>
-Did you see the present
-I gave you? Beautiful
-isn't it?
+Eu me pergunto o que o
+presente poderia ser?
+<--------------------->
+
+Você só precisa
+esperar e ver!
+<--------------------->
+
+Tenho certeza que irá
+gostar dele.
+<*********************>
+
+<p 02><a 02><n 55>
+Pedido concluído.
+<--------------------->
+
+<p 02><a 02><n 55>
+Foram transferidos
+50 CE para a sua
+conta.
+<*********************>
+
+<p 02><a 02><n 55>
+Pedido concluído.
+<--------------------->
+
+<p 02><a 02><n 55>
+Um cristal rosa foi
+transferido como
+recompensa.
+<*********************>
+
+<p 02><a 3E><n 39>
+Obrigado pela ajuda.
+Meu irmão está na
+nuvem
+<--------------------->
+
+nove depois de você
+responder seu quiz.
+<*********************>
+
+<p 02><a 3F><n 3A>
+Você viu o presente
+que te dei? Bonito,
+não é mesmo?
 <*********************>
 
 <FIM>
