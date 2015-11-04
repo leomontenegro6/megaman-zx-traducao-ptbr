@@ -45,7 +45,6 @@ estar causando isso.
 <--------------------->
 
 <p 02><a 53><n 4E>
-
 O que poderia ser?
 <*********************>
 
@@ -183,7 +182,7 @@ algum canto por aí.
 <*********************>
 
 <p 02><a 3D><n 38>
-...Hum?
+Hum...?
 <--------------------->
 
 <p 02><a 3D><n 38>
@@ -371,35 +370,36 @@ conta.
 <*********************>
 
 <p 02><a 53><n 4E>
-I hope you found the
-amount I transferred
-enough.
+Espero que você ache
+a quantia que eu
+transferi suficiente.
 <--------------------->
 
-Thank you so much
-for your help
-finding my boy.
-<--------------------->
-
-<p 02><a 53><n 4E>
-I talked things over
-with my son and it was
-the first time
+Muito obrigado por ter
+me ajudado a encontrar
+o meu garoto.
 <--------------------->
 
 <p 02><a 53><n 4E>
-I've heard him talk
-like that.
+Falei sobre várias
+coisas com o meu filho
+e foi a primeira vez
 <--------------------->
 
 <p 02><a 53><n 4E>
-It was just one crazy
-thing after another.
+que o ouvi falar
+assim.
 <--------------------->
 
 <p 02><a 53><n 4E>
-Never let anyone say
-being a parent is easy!
+Foi apenas uma loucura
+atrás da outra.
+<--------------------->
+
+<p 02><a 53><n 4E>
+Nunca deixe ninguém
+dizer que ser mãe é
+uma tarefa fácil!
 <*********************>
 
 <FIM>
