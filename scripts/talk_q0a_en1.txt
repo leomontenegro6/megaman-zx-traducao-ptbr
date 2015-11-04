@@ -2,17 +2,18 @@
 <#####################>
 
 <p 02><a 2A><n 1E>
-Hey Vent! I'm so sorry
-to bother you again,
+Ei Vent! Me desculpe
+por te incomodar de
+novo,
 <--------------------->
 
-but I have another
-favor to ask.
+mas tenho um outro
+favor para pedir.
 <--------------------->
 
 <p 02><a 2A><n 1E>
-I've got a new letter
-for you-know-who.
+Recebi uma nova carta
+de você-sabe-quem.
 <--------------------->
 
 <p 02><a 2A><n 1E>
