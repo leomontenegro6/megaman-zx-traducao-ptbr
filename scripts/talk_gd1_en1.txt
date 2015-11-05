@@ -714,225 +714,230 @@ ficar triste.
 <*********************>
 
 <p 02><a 2F><n 23>
-Why hello there. Aren't
-you <nome> from Giro
-Express?
+Ora, ora. Você é <nome>,
+da Girouette Expresso?
 <--------------------->
 
 <p 02><a 2F><n 23>
-My name is Silure.
-Pleased to meet you.
+Meu nome é Silure.
+Prazer em conhecê-lo.
 <--------------------->
 
 <p 02><a 2F><n 23>
-I can't believe these
-old eyes. You're the
-Biometal's chosen one.
+Não acredito nestes
+olhos velhos. Você é o
+escolhido do Biometal.
 <--------------------->
 
 <p 02><a 2F><n 23>
-You're a bit...
-different than I
-expected.
+Você é um pouco...
+diferente do que eu
+esperava.
 <*********************>
 
 <p 02><a 2F><n 23>
-I love wiling away the
-hours fiddling with
-machines...
+Adoro passar o tempo
+mexendo com máquinas...
 <--------------------->
 
 <p 02><a 2F><n 23>
-But there's not much
-space for fixin',
+Mas o espaço aqui é
+bem pequeno, pra
+consertar as coisas,
 <--------------------->
 
-so I sometimes borrow
-Fleuve's lab.
+então às vezes pego
+emprestado o labora-
+tório de Fleuve.
 <--------------------->
 
 <p 02><a 2F><n 23>
-He seems to be working
-on something important
-in there.
+Ele parece estar
+trabalhando em algo
+importante aí.
 <*********************>
 
 <p 02><a 2F><n 23>
-Bless my soul, you're
-alive <nome>!
+Por mil bênçãos, você
+está vivo, <nome>!
 <--------------------->
 
 <p 02><a 2F><n 23>
-I was so worried about
-you.
+Fiquei muito preocupado
+com você.
 <--------------------->
 
 <p 02><a 2F><n 23>
-By the way...
+Falando nisso...
 <--------------------->
 
 <p 02><a 2F><n 23>
-I heard that Slither
-Inc. has begun work on
+Ouvi falar que a
+Serpent Ltda já começou
+a usar Biometal
 <--------------------->
 
-using Biometal to
-design Reploids.
-<--------------------->
-
-<p 02><a 2F><n 23>
-Fleuve told me about
-them and was calling
-them Pseudoroids.
+para projetar uns
+novos Replóides
+bem poderosos.
 <--------------------->
 
 <p 02><a 2F><n 23>
-I'm guessing that all
-of the incidents that
-keep popping up in the
+Fleuve me falou sobre
+eles, e os chamada de
+Pseudoróides.
 <--------------------->
 
 <p 02><a 2F><n 23>
-Outlands have something
-to do with the
-Pseudoroid experiments.
+Chuto eu que todos
+esses incidentes que
+surgiram nas fronteiras
+<--------------------->
+
+<p 02><a 2F><n 23>
+estão relacionados com
+esses experimentos de
+Pseudoróides.
 <*********************>
 
 <p 02><a 2F><n 23>
-Pseudoroid Biometal is
-very fragile.
+O Biometal dos
+Pseudoróides é
+bem frágil.
 <--------------------->
 
 <p 02><a 2F><n 23>
-That means that Slither
-Inc.'s technology for
-working with Biometal
+Isso quer dizer que
+a tecnologia da Serpent
+Ltda sobre Biometais
 <--------------------->
 
 <p 02><a 2F><n 23>
-is still far from
-perfect.
+ainda está longe de ser
+perfeita.
 <--------------------->
 
 <p 02><a 2F><n 23>
-Some Slither Inc.
-Reploids and
+Alguns Replóides e
+Mecanilóides da
+Serpent Ltda
 <--------------------->
 
 <p 02><a 2F><n 23>
-Mechaniloids have the
-ability to regenerate.
+possuem a habilidade de
+se regenerar.
 <--------------------->
 
 <p 02><a 2F><n 23>
-That might be one power
-inherent in the Model W
-fragment.
+Deve ser oriundo do
+poder latente do
+Modelo W.
 <--------------------->
 
 <p 02><a 2F><n 23>
-It sends a shiver down
-these old bones just
-thinking about it.
+Dá um frio na espinha
+deste velho aqui,
+só de pensar nisso.
 <*********************>
 
 <p 02><a 2F><n 23>
-Ah, you're okay.
+Ah, você está bem.
 <--------------------->
 
 <p 02><a 2F><n 23>
-I wasn't sure how much
-longer this old ship
-would last.
+Não sabia por quanto
+tempo esta velha nave
+iria aguentar.
 <--------------------->
 
 <p 02><a 2F><n 23>
-I'm glad I finished
-reinforcing her
-yesterday...
+Ainda bem que terminei
+de reforçá-la ainda
+ontem...
 <--------------------->
 
 <p 02><a 2F><n 23>
-But she won't hold
-together through
-another battle.
+Mas ela não vai
+resistir a outra
+batalha.
 <*********************>
 
 <p 02><a 2F><n 23>
-The deck area has taken
-the worst of it.
+A região do convés foi
+a mais afetada de
+todas.
 <--------------------->
 
 <p 02><a 2F><n 23>
-And I just don't have
-time to fix it.
+E não tenho tempo
+para consertá-la.
 <--------------------->
 
 <p 02><a 2F><n 23>
-We'll just have to keep
-running her as-is and
-hope for the best.
+Teremos que continuar
+nela como está, e rezar
+pelo melhor.
 <*********************>
 
 <p 02><a 2F><n 23>
-We've come a long way.
+Conseguimos chegar
+bem longe.
 <--------------------->
 
 <p 02><a 2F><n 23>
-The final battle lies
-ahead <nome>.
+A batalha final está
+bem próxima, <nome>.
 <*********************>
 
 <p 02><a 2F><n 23>
-This old man is in your
-corner!
+Este velho estará na
+torcida!
 <*********************>
 
 <p 02><a 29><n 1D>
-Who are you? This is
-the first time I've
-seen you around.
+Quem é você? É a
+primeira vez que
+o vejo por aqui.
 <--------------------->
 
 <p 02><a 29><n 1D>
-Ah... Hold on...
+Ah... Peraí...
 <--------------------->
 
 <p 02><a 29><n 1D>
-You're the guy that had
-to bring back the
-stuffed animal.
+Você é o cara que
+trouxe de volta o
+bichinho de pelúcia.
 <--------------------->
 
 <p 02><a 29><n 1D>
-Just don't get cocky
-kid.
+Não vá se achando,
+moleque.
 <--------------------->
 
 <p 02><a 29><n 1D>
-You're a transporter,
-right?
+Você trabalha na
+transportadora, né?
 <--------------------->
 
 <p 02><a 29><n 1D>
-You should know finding
-a stuffed animal is a
-test for children.
+Devia saber que achar
+um bicho de pelúcia é
+um teste para crianças.
 <*********************>
 
 <p 02><a 29><n 1D>
-I guess I might as well
-introduce myself.
+Acho que eu devo me
+apresentar.
 <--------------------->
 
 <p 02><a 29><n 1D>
-The name's Scombrésoce.
-You're probably
-thinking it's long eh?
+Me chamo Scombrésoce.
+Nome grande, né?
 <--------------------->
 
 <p 02><a 29><n 1D>
-What's your name?
+E qual é o seu?
 <--------------------->
 
 <p 02><a 29><n 1D>
@@ -940,363 +945,369 @@ Hmm, <nome> eh?
 <--------------------->
 
 <p 02><a 29><n 1D>
-I'm not sure how much a
-little kid can do, but
-hey, give it your best.
+Não sei até onde um
+moleque como você pode
+ir, mas boa sorte.
 <*********************>
 
 <p 02><a 29><n 1D>
-You were Model X's
-chosen one and still
+Você foi escolhido pelo
+Modelo X, 
 <--------------------->
 
-got whooped by
-Serpent's lackeys?
-<--------------------->
-
-<p 02><a 29><n 1D>
-Yeah, good luck with
-the big cheese.
+e mesmo assim, ainda
+levou uma surra dos
+lacaios de Serpent?
 <--------------------->
 
 <p 02><a 29><n 1D>
-Giro gave his life for
-you too, right?
+É, boa sorte nessa
+sua empreitada.
 <--------------------->
 
 <p 02><a 29><n 1D>
-Why would he go and do
-that?
+E o Giro ainda se
+sacrificou para te
+salvar, né?
+<--------------------->
+
+<p 02><a 29><n 1D>
+Por que ele faria uma
+coisa dessas?
 <*********************>
 
 <p 02><a 29><n 1D>
-Hey <nome>, I've got
-something to tell you.
+Ei <nome>, tenho algo
+para te contar.
 <--------------------->
 
 <p 02><a 29><n 1D>
-There's an area in the
-Outlands that gives off
-powerful signals.
+Há uma área nas
+fronteiras que emitem
+sinais poderosos.
 <--------------------->
 
 <p 02><a 29><n 1D>
-They mess with your
-senses so that left and
-right are backwards and
+Os sinais mexem com
+seus sentidos, trocando
+a esquerda pela direita
 <--------------------->
 
-sometimes you can't
-even fire your weapon.
-<--------------------->
-
-<p 02><a 29><n 1D>
-Not to worry though. If
-you have some smelling
-salts,
-<--------------------->
-
-you'll stay clear in
-the head.
+e às vezes não dá nem
+pra usar suas armas.
 <--------------------->
 
 <p 02><a 29><n 1D>
-I'll sell you some for
-20 EC.
+Mas não se preocupe.
+Se você tiver usado
+sais de cheiro,
+<--------------------->
+
+conseguirá ficar com a
+mente limpa, e não será
+afetado pelos sinais.
+<--------------------->
+
+<p 02><a 29><n 1D>
+Te vendo um saquinho
+por 20 cristais.
 <*********************>
 
 <p 02><a 29><n 1D>
-Who'd have thought
-they'd have the nerve
-to attack HQ?
+Quem pensaria que eles
+teriam culhões de
+atacar o QG?
 <--------------------->
 
 <p 02><a 29><n 1D>
-I guess even
-guys like me have to
-fight sometimes.
+Acho que até mesmo
+caras como eu tem que
+lutar às vezes.
 <--------------------->
 
 <p 02><a 29><n 1D>
-*sigh* What a hassle.
+Putz! Que saco.
 <*********************>
 
 <p 02><a 29><n 1D>
-I wonder if this ship
-will crash into the
-ground.
+Será que essa nave vai
+cair no chão?
 <--------------------->
 
 <p 02><a 29><n 1D>
-*sigh* That'd be a
-shame.
+Putz! Isso seria uma
+vergonha.
 <*********************>
 
 <p 02><a 29><n 1D>
-Not bad for a kid.
+Nada mau para um
+garoto.
 <--------------------->
 
 <p 02><a 29><n 1D>
-The Biometal helps, but
-it didn't do everything
-you know.
+O Biometal ajuda, mas
+não faz tudo por si só.
 <*********************>
 
 <p 02><a 29><n 1D>
-It looks like the rest
-is up to you <nome>!
+Parece que o resto
+agora é com você,
+<nome>!
 <--------------------->
 
 <p 02><a 29><n 1D>
-We won't be able to do
-anything for you in
-the coming battle.
+Não vai dar pra gente
+fazer mais nada por
+você, nessa batalha.
 <*********************>
 
 <p 02><a 29><n 1D>
-What is it?
+O que foi?
 <--------------------->
 
 <p 02><e 01><a 29><n 1D>
-Need smelling salts?  
-  Yes
-  No
+Quer sais de cheiro?
+  Sim
+  Não
 <*********************>
 
 <p 02><a 29><n 1D>
-Better safe than sorry
-eh?
+Melhor prevenir do que
+remediar, né?
 <--------------------->
 
 <p 02><a 29><n 1D>
-Just remember that it
-won't work if you use
+Mas lembre-se de que
+os sais de cheiro
+não vão funcionar
 <--------------------->
 
-them while getting hit
-with the signal that
-scrambles your senses.
+se você usá-los depois
+dos sinais já terem
+afetado seus sentidos.
 <--------------------->
 
 <p 02><a 29><n 1D>
-I'd love to give you
-more, but I only had
-the one pack on me.
+Adoraria te dar mais
+pacotinhos de sais, mas
+só tinha esse comigo.
 <*********************>
 
 <p 02><a 29><n 1D>
-If you want some, you
-better pay up. That'll
-be 20 EC!
+Se quiser mais, vai ter
+que pagar. Cada pacote
+custa 20 cristais!
 <*********************>
 
 <p 02><a 29><n 1D>
-No? You mean I just
-did all that talking
-for nothing!?
+Não? Quer dizer que
+fiz todo esse jogo de
+vendedor por nada?!
 <*********************>
 
 <p 02><a 23><n 30>
-Thank you for your help
+Obrigado por sua ajuda,
 <nome>!
 <--------------------->
 
 <p 02><a 23><n 30>
-My name's Sole.
+Meu nome é Sole.
 <*********************>
 
 <p 02><a 23><n 30>
-My clothes still smell
-like smoke.
+Minhas roupas ainda
+cheiram a fumaça.
 <--------------------->
 
 <p 02><a 23><n 30>
-It's a shame we had to
-meet under such
-circumstances.
+É uma pena termos nos
+conhecidos nessas
+circunstâncias.
 <--------------------->
 
-You only get one
-chance at a good first
-impression...
+Só se tem uma chance
+de mostrar uma boa
+impressão de si mesmo.
 <*********************>
 
 <p 02><a 23><n 30>
-I was surprised by
-everything that
-happened.
+Fiquei surpreso com
+tudo o que aconteceu.
 <--------------------->
 
 <p 02><a 23><n 30>
-I really wish it was
-all just a bad dream.
+Quem dera que isso tudo
+fosse apenas um
+pesadelo.
 <*********************>
 
 <p 02><a 23><n 30>
-It's a good thing the
-HQ warehouse was
-reinforced.
+Foi uma boa o depósito
+do QG ter sido
+reforçado.
 <--------------------->
 
 <p 02><a 23><n 30>
-Normally things are
-kept as thin and light
+Normalmente, a nave é
+mantida o mais fino e
+leve possível,
 <--------------------->
 
-as possible to make
-flying easier.
+para que seja mais
+fácil de voar.
 <*********************>
 
 <p 02><a 23><n 30>
-I know I'm not the one
-that has to fight
-Serpent.
+Sei que não sou eu
+quem vai lutar
+contra Serpent.
 <--------------------->
 
 <p 02><a 23><n 30>
-But I'm still so
-nervous.
+Mas ainda sim estou
+nervoso.
 <*********************>
 
 <p 02><a 23><n 30>
-Whatever you do <nome>,
-make sure Serpent is
-stopped!
+<nome>, impeça Serpent,
+custe o que custar!
 <--------------------->
 
 <p 02><a 23><n 30>
-You're the only one who
-can do it!
+Você é o único que é
+capaz!
 <*********************>
 
 <p 02><a 23><n 2E>
-Hey! I'm glad to see
-you passed the test.
+Ei! Estou feliz por ver
+que passou no teste.
 <--------------------->
 
 <p 02><a 23><n 2E>
-My name's Dorado.
+Meu nome é Dorado.
 <*********************>
 
 <p 02><a 23><n 2E>
-It seems like there are
-more and more Mavericks
-in the Outlands lately.
+Parece que tem cada
+vez mais Mavericks nas
+fronteiras ultimamente.
 <--------------------->
 
 <p 02><a 23><n 2E>
-The situation has
-gotten to the point
+A situação chegou a
+tal ponto
 <--------------------->
 
-where we can't protect
-people anymore.
-<--------------------->
-
-<p 02><a 23><n 2E>
-Now that you're here...
+que não podemos nem
+mesmo proteger as
+pessoas.
 <--------------------->
 
 <p 02><a 23><n 2E>
-I hope that we can do
-something about them.
+Agora que está aqui...
+<--------------------->
+
+<p 02><a 23><n 2E>
+Espero que possamos
+detê-los.
 <*********************>
 
 <p 02><a 23><n 2E>
-I can't believe it...
-Are you okay now?
+Não acredito...
+Você está bem agora?
 <--------------------->
 
 <p 02><a 23><n 2E>
-How you can still be
-standing after taking a
-hit like that,
+Não tenho a menor ideia
+de como consegue ficar
+de pé,
 <--------------------->
 
-I have no idea.
+depois de ter passado
+por tudo aquilo.
 <--------------------->
 
 <p 02><a 23><n 2E>
-It must be the power of
-the Biometal.
+Deve ser os poderes do
+Biometal.
 <*********************>
 
 <p 02><a 23><n 2E>
-I went to town
-yesterday for the first
-time in ages,
+Fui à cidade ontem pela
+primeira vez em um
+bom tempo,
 <--------------------->
 
-but it was too big and
-I just got lost.
-<--------------------->
-
-<p 02><a 23><n 2E>
-I'm so stubborn, I
-didn't check my map.
-<--------------------->
-
-Don't make the same
-mistake.
+mas ela cresceu muito,
+e acabei me perdendo.
 <--------------------->
 
 <p 02><a 23><n 2E>
-Press START to open the
-sub-menu then choose
-Mission.
+Fui tão teimoso, que
+nem olhei meu mapa.
+<--------------------->
+
+Não cometa o mesmo
+erro.
 <--------------------->
 
 <p 02><a 23><n 2E>
-You can see the
-connection with other
+Aperte START para abrir
+o menu, e então escolha
+a aba "Missões".
 <--------------------->
 
-areas and your current
-location.
+<p 02><a 23><n 2E>
+Surgirá o mapa de
+áreas, onde poderá ver
+sua localização atual,
+<--------------------->
+
+bem como as conexões
+entre outras áreas do
+mapa.
 <*********************>
 
 <p 02><a 23><n 2E>
-You weren't hurt, were
-you?
+Você não se machucou
+não, né?
 <--------------------->
 
 <p 02><a 23><n 2E>
-The ship was shaking so
-much, I fell right on
-my butt.
+A nave estava tremendo
+tanto, que caí de bunda
+no chão.
 <*********************>
 
 <p 02><a 23><n 2E>
-I'm still not in great
-shape, but I can't just
-sit around.
+Estou bem depois
+daquilo, mas não
+consigo sentar direito.
 <*********************>
 
 <p 02><a 23><n 2E>
-Did you find out what's
-behind Model W?
+Descobriu o que está
+por trás do Modelo W?
 <--------------------->
 
 <p 02><a 23><n 2E>
-There are so many
-rumors flying around
-lately,
+Haviam tantos rumores
+sobre isso ultimamente,
 <--------------------->
 
-I don't know what's
-real and what isn't.
+que nem sei mais o que
+verdade e o que não é.
 <*********************>
 
 <p 02><a 23><n 2E>
-No one but you can
-stand up to Slither
-Inc.
+Ninguém além de você
+é capaz de enfrentar
+a Serpent Ltda.
 <--------------------->
 
 <p 02><a 23><n 2E>
-I'm sorry that I can't
-be more helpful to
-you.
+Desculpe por não ser
+muito útil a você.
 <*********************>
 
 <p 02><a 2A><n 1E>
@@ -1304,43 +1315,43 @@ you.
 <--------------------->
 
 <p 02><a 2A><n 1E>
-Oh! Sorry, did you want
-to talk to me?
+Ah! Desculpe, quer
+falar comigo?
 <--------------------->
 
 <p 02><a 2A><n 1E>
-Who are you anyway?
+Quem é você mesmo?
 <--------------------->
 
 <p 02><a 2A><n 1E>
-<nome>. Got it!
+<nome>. Saquei!
 <--------------------->
 
 <p 02><a 2A><n 1E>
-My name's Truite.
-People have a lot of
-trouble remembering it.
+Meu nome é Truite.
+As pessoas acham o nome
+bem difícil de lembrar.
 <--------------------->
 
 <p 02><a 2A><n 1E>
-Wait!?
+Peraí!?
 <--------------------->
 
 <p 02><a 2A><n 1E>
-Your name is <nome>. That
-means YOU'RE the chosen
-one for Model X!
+Seu nome é <nome>. Quer
+dizer que o escolhido
+do Modelo X é VOCÊ!
 <--------------------->
 
 <p 02><a 2A><n 1E>
-Wow! How did you become
-the chosen one?
+Uau! Como foi que você
+virou o escolhido?
 <--------------------->
 
 <p 02><a 2A><n 1E>
-Is there some kind of
-Mr. Chosen One Contest
-being held?
+Existe algum tipo de
+"Concurso do Escolhido"
+pra isso?
 <*********************>
 
 <p 02><a 2A><n 1E>
@@ -1348,23 +1359,23 @@ being held?
 <--------------------->
 
 <p 02><a 2A><n 1E>
-You're a transporter,
-aren't you <nome>?
+Você trabalha na
+transportadora, <nome>?
 <--------------------->
 
 <p 02><a 2A><n 1E>
-I might need your help
-someday.
+Talvez eu precise da
+sua ajuda algum dia.
 <--------------------->
 
 <p 02><a 2A><n 1E>
-Actually...
+Na verdade...
 <--------------------->
 
 <p 02><a 2A><n 1E>
-Hmm... never mind. I
-won't bother you with
-it now.
+Hmm... deixa pra lá.
+Não vou te incomodar
+com isso agora.
 <*********************>
 
 <p 02><a 2A><n 1E>
@@ -1372,19 +1383,19 @@ it now.
 <--------------------->
 
 <p 02><a 2A><n 1E>
-Oh, I didn't know you
-were talking to me.
+Ah, não sabia que você
+estava falando comigo.
 <--------------------->
 
 <p 02><a 2A><n 1E>
-How's your body holding
-up?
+Como o seu corpo está
+aguentando?
 <--------------------->
 
 <p 02><a 2A><n 1E>
-All the Biometal in the
-world won't help if you
-get mortally wounded.
+Não tem Biometal no
+mundo que ajude, se
+seu corpo não aguentar.
 <*********************>
 
 <p 02><a 2A><n 1E>
@@ -1392,651 +1403,661 @@ get mortally wounded.
 <--------------------->
 
 <p 02><a 2A><n 1E>
-Hm? You still need to
-talk to me about
-something?
+Hm? Ainda precisa falar
+comigo sobre algo?
 <--------------------->
 
 <p 02><a 2A><n 1E>
-I'm a little busy at
-the moment.
+Estou um pouco ocupado
+no momento.
 <*********************>
 
 <p 02><a 2A><n 1E>
-That was a big
-earthquake just now,
-wasn't it?
+Esse último terremoto
+foi bem intenso, não
+foi?
 <--------------------->
 
 <p 02><a 2A><n 1E>
-Huh? It wasn't an
-earthquake?
+Hã? Não foi um
+terremoto?
 <--------------------->
 
 <p 02><a 2A><n 1E>
-HQ is a flying airship
-you say!?
+Tá me dizendo que o QG
+é uma aeronave?!
 <*********************>
 
 <p 02><a 2A><n 1E>
-I didn't even notice we
-were under attack.
+Eu nem percebi que
+estavam atacando a
+gente.
 <--------------------->
 
 <p 02><a 2A><n 1E>
-Goes to show how
-oblivious I am.
+Isso serve pra
+mostrar como eu
+sou desorientado.
 <--------------------->
 
-I'm glad everyone else
-is on top of things.
+Ainda bem que o
+restante do pessoal
+manja das coisas.
 <*********************>
 
 <p 02><a 2A><n 1E>
-Are you looking for
-Model W?
+Está atrás do Modelo W?
 <--------------------->
 
 <p 02><a 2A><n 1E>
-Here I thought you were
-just working the
+E eu pensando que você
+só prestava serviços de
+transporte
 <--------------------->
 
-Guardian HQ branch for
-the transporters.
+para o QG dos
+Guardiões.
 <*********************>
 
 <p 02><a 2A><n 1E>
-I didn't know you were
-entrusted with such a
-heavy burden.
+Não sabia que haviam
+confiado a você um
+peso tão grande.
 <--------------------->
 
 <p 02><a 2A><n 1E>
-I just figured you were
-the chosen one of the
-day for Model X.
+Foi só recentemente
+que soube que você é o
+escolhido do Modelo W.
 <*********************>
 
 <p 02><a 2C><n 20>
-Hey there boy! It looks
-like ya passed the
-test.
+E aí, garoto! Parece
+que cê conseguiu passar
+no teste.
 <--------------------->
 
 <p 02><a 2C><n 20>
-I guess that means
-you're one of us now!
+Então quer dizer que
+é um de nós agora!
 <*********************>
 
 <p 02><a 2C><n 20>
-I'm sorry. I haven't
-introduced myself.
+Desculpe. Ainda não me
+apresenteu.
 <--------------------->
 
 <p 02><a 2C><n 20>
-The name's Thon. Short,
-but sweet.
+Me chamo Thon.
+Baixinho, mas bacana.
 <--------------------->
 
 <p 02><a 2C><n 20>
-Your name is <nome>?
-Don't mind me if I
-forget.
+Seu nome é <nome>?
+Não se incomode se eu
+acabar me esquecendo.
 <*********************>
 
 <p 02><a 2C><n 20>
-Hey boy! Ya doin'
-okay?
+E aí, garoto! Tudo bem
+contigo?
 <--------------------->
 
 <p 02><a 2C><n 20>
-It's a real miracle
-you're back with us,
-safe an' sound.
+É um milagre você ter
+voltado pra gente
+são e salvo.
 <--------------------->
 
 <p 02><a 2C><n 20>
-I know I'm not Giro,
-but if ya need
-anythin', just ask.
+Sei que não sou o Giro,
+mas precisando de algo,
+é só pedir.
 <*********************>
 
 <p 02><a 2C><n 20>
-It always feels like
-the world is okay when
-you're up in the sky.
+Parece que o mundo vai
+bem, quando você está
+voando no céu.
 <--------------------->
 
 <p 02><a 2C><n 20>
-But every time ya look
-down from the clouds,
+Mas toda vez que olho
+pra baixo, daqui das
+nuvens,
 <--------------------->
 
 <p 02><a 2C><n 20>
-ya see the world the
-Mavericks are makin'.
+dá pra ver o estrago
+que os Mavericks tão
+fazendo.
 <--------------------->
 
-By takin' on Slither
-Inc.,
-<--------------------->
-
-<p 02><a 2C><n 20>
-we're effectively
-takin' on the whole
-country.
+Enfrentando a Serpent
+Ltda,
 <--------------------->
 
 <p 02><a 2C><n 20>
-We better give it
-everythin' we've got,
-or we're toast.
+estaremos efetivamente
+enfrentando o país
+inteiro.
+<--------------------->
+
+<p 02><a 2C><n 20>
+Melhor a gente dar tudo
+que temos, senão a
+gente já era.
 <*********************>
 
 <p 02><a 2C><n 20>
-I never woulda figured
-we had a chance.
+Nem nos meus sonhos eu
+achava que a gente
+tinha chance.
 <--------------------->
 
 <p 02><a 2C><n 20>
-This ship barely held
-together under that
-powerful barrage.
+Esta nave mal se
+aguentou depois
+daquele ataque.
 <--------------------->
 
 <p 02><a 2C><n 20>
-Who knows when they'll
-come after us again...
+Sabe-se lá quando eles
+vão voltar...
 <--------------------->
 
 <p 02><a 2C><n 20>
-I'm sure Prairie will
-do whatever she can to
-avoid another fight.
+Sei que Prairie fará de
+tudo para evitar outra
+batalha.
 <*********************>
 
 <p 02><a 2C><n 20>
-We can't just sit
-around lickin' our
-wounds.
+Mas não podemos ficar
+aqui parados, lambendo
+nossas feridas.
 <--------------------->
 
 <p 02><a 2C><n 20>
-We should take the
-fight right to Slither
-Inc., eh boy?
+Devíamos levar a luta
+direto à Serpent Ltda,
+né garoto?
 <*********************>
 
 <p 02><a 2C><n 20>
-You found the six
-Biometal fragments.
+Você encontrou os seis
+Biometais.
 <--------------------->
 
 <p 02><a 2C><n 20>
-After comin' this far,
-there's no turnin' back
-now.
+Depois de chegar até
+aqui, não há mais volta
+agora.
 <--------------------->
 
 <p 02><a 2C><n 20>
-Trust in yourself an'
-do what needs to be
-done boy!
+Acredite em si mesmo, e
+faça o que tem que ser
+feito, garoto!
 <*********************>
 
 <p 02><a 2C><n 20>
-When I first saw you
-in town, I didn't think
-ya were more than a
+Quando te vi pela
+primeira vez na cidade,
 <--------------------->
 
-boy.
-<--------------------->
-
-<p 02><a 2C><n 20>
-But now I think
-there's nothin' ya
-can't handle.
+achei que você era
+apenas um garoto.
 <--------------------->
 
 <p 02><a 2C><n 20>
-What's the matter? Ya
-look worried.
+Mas agora acho você tão
+forte, que não tem pra
+ninguém.
 <--------------------->
 
 <p 02><a 2C><n 20>
-Don't forget that
-you're not alone.
+Qual o problema?
+Cê parece preocupado.
 <--------------------->
 
 <p 02><a 2C><n 20>
-You've got six
-Biometal fragments
-backin' ya up too.
+Lembre-se de que você
+não está sozinho.
+<--------------------->
+
+<p 02><a 2C><n 20>
+Você tem os seis
+Biometais te ajudando
+também.
 <*********************>
 
 <p 02><a 23><n 2B>
-Hey <nome>! My name's
+Ei <nome>! Meu nome é
 Bar.
 <--------------------->
 
 <p 02><a 23><n 2B>
-Thanks for saving me
-earlier.
+Obrigado por me salvar
+antes.
 <--------------------->
 
 <p 02><a 23><n 2B>
-Muguet already patched
-up the injury that the
+Dra. Muguet já tomou de
+conta da ferida
 <--------------------->
 
-snake Mechaniloid gave
-me.
-<--------------------->
-
-<p 02><a 23><n 2B>
-Muguet's a real pro,
-but she nags a bit too
-much for my taste.
+que aquele Mecanilóide
+cobra fez em mim.
 <--------------------->
 
 <p 02><a 23><n 2B>
-Rose is gentle and shy,
-so she's more my type.
+Muguet é profissional,
+mas é indelicada demais
+pro meu gosto.
 <--------------------->
 
 <p 02><a 23><n 2B>
-Maquereau hurt his leg
-in the battle. I wonder
-how he's doing.
+Rose é gentil e tímida,
+e faz mas o meu tipo.
+<--------------------->
+
+<p 02><a 23><n 2B>
+Maquereau machucou sua
+perna na batalha. Me
+pergunto como ele está.
 <*********************>
 
 <p 02><a 23><n 2B>
-I have some advice for
-you.
+Tenho um conselho a
+te dar.
 <--------------------->
 
 <p 02><a 23><n 2B>
-Try not to transform
-around town.
+Evite se transformar
+na cidade.
 <--------------------->
 
 <p 02><a 23><n 2B>
-Mavericks wandering in
-from the Outlands,
+Os Mavericks que andam
+nas fronteiras,
 <--------------------->
 
 <p 02><a 23><n 2B>
-or security
-Mechaniloids will sense
-the weapon you hold,
+ou os Mecanilóides de
+segurança, sentirão a
+arma que tem em mãos,
 <--------------------->
 
 <p 02><a 23><n 2B>
-and attack on sight.
+e atacarão assim que
+te avistarem.
 <--------------------->
 
 <p 02><a 23><n 2B>
-People around town will
-be nervous around you
-because of the danger.
+E as pessoas da cidade
+ficarão nervosas, por
+causa do perigo.
 <--------------------->
 
 <p 02><a 23><n 2B>
-There might come a time
-when you'll have no
-choice, but be careful.
+Talvez em algum momento
+você não tenha escolha,
+mas tome cuidado.
 <*********************>
 
 <p 02><a 23><n 2B>
-<nome>, you had us all
-worried sick.
+<nome>, você deixou
+todos nós preocupados.
 <--------------------->
 
 <p 02><a 23><n 2B>
-I know how you feel
-about not wanting to
-stand around.
+Sei como se sente,
+sobre não conseguir
+ficar sem fazer nada.
 <--------------------->
 
-But try to take it
-easy.
+Mas pegue leve da
+próxima.
 <*********************>
 
 <p 02><a 23><n 2B>
-Oh yeah.
+Ah é.
 <--------------------->
 
 <p 02><a 23><n 2B>
-I found something out
-about the Reploids
-known as Pseudoroids.
+Descobri algo sobre os
+Replóides conhecidos
+como Pseudoróides.
 <--------------------->
 
 <p 02><a 23><n 2B>
-They possess the
-ability to regenerate
-themselves.
+Eles possuem a
+habilidade de se
+regenerar.
 <--------------------->
 
 <p 02><a 23><n 2B>
-If left alone, they'll
-come back to life
-automatically.
+Mesmo após derrotados,
+eles voltarão à vida
+automaticamente depois.
 <--------------------->
 
 <p 02><a 23><n 2B>
-It looks like that's
-one of the things
-Slither Inc. was
+Parece que essa é uma
+das coisas que a
+Serpent Ltda
 <--------------------->
 
-researching behind the
-scenes.
-<--------------------->
-
-<p 02><a 23><n 2B>
-People don't know any
-better and treat
-<--------------------->
-
-Serpent like some
-national hero.
+estava pesquisando em
+segredo.
 <--------------------->
 
 <p 02><a 23><n 2B>
-Oh, did you already
-know all of that?
+As pessoas não sabem
+de nada,
+<--------------------->
+
+e tratam Serpent como
+um herói nacional.
+<--------------------->
+
+<p 02><a 23><n 2B>
+Ah, isso que acabei
+de te contar, cê já
+sabia?
 <*********************>
 
 <p 02><a 23><n 2B>
-Are you okay <nome>?
+Você está bem, <nome>?
 <--------------------->
 
 <p 02><a 23><n 2B>
-The Guardians were okay
-thanks to the room
-security systems.
+Os Guardiões estão bem,
+graças aos sistemas de
+segurança das salas.
 <*********************>
 
 <p 02><a 23><n 2B>
-We got hit pretty hard.
+Mas nós soldados
+passamos pelo pior.
 <--------------------->
 
-Thank the lucky stars
-no one was seriously
-injured.
+Ainda bem que ninguém
+foi gravemente ferido.
 <--------------------->
 
 <p 02><a 23><n 2B>
-Well, actually we
-should be thanking you
-for that.
+Bom, na verdade nós
+devíamos agradecer a
+você por isso.
 <*********************>
 
 <p 02><a 23><n 2B>
-So you've found the six
-Biometal fragments
-now?
+Então achou todos os
+seis Biometais agora?
 <*********************>
 
 <p 02><a 23><n 2B>
-Now all that's left is
-for you to harness the
-power of the Biometal.
+Agora é só fazer uso
+desses poderes, e
+derrotar o inimigo.
 <*********************>
 
 <p 02><a 23><n 2B>
-Oh yeah!
+Ah é!
 <--------------------->
 
 <p 02><a 23><n 2B>
-I found this chip when
-I was patrolling the
-forest earlier.
+Achei este chip quando
+estava patrulhando a
+floresta mais cedo.
 <--------------------->
 
 <p 02><a 23><n 2B>
-With it, your body
-won't sink or break
+Com isso, seu corpo
+não vai afundar em
+areia movediça,
 <--------------------->
 
-through fragile
-surfaces.
+nem quebrar superfícies
+frágeis com seu peso.
 <--------------------->
 
 <p 02><a 23><n 2B>
-I don't go to the
-Outlands, so I won't be
-needing it.
+Não vou mais às
+fronteiras, então
+não vou precisar.
 <--------------------->
 
-You should take it.
+Pode ficar com isso.
 <*********************>
 
 <p 02><a 22><n 18>
-Yes <nome>, what is it?
-<*********************>
-
-<p 02><m><a 22><n 18>
-  Check Database
-  Talk
-  Nothing
+Sim <nome>, o que deseja?
 <*********************>
 
 <p 02><m><a 22><n 18>
-  Repair Biometal
-  Check Database
-  Talk
+  Checar Banco de Dados
+  Conversar
+  Nada
+<*********************>
+
+<p 02><m><a 22><n 18>
+  Reparar Biometal
+  Checar Banco de Dados
+  Conversar
 <*********************>
 
 <p 02><a 22><n 18>
-There are a lot of us
-Guardians around the
-ship.
+Há vários membros de
+nós Guardiões nessa
+aeronave.
 <--------------------->
 
 <p 02><a 22><n 18>
-If you have time,
-perhaps you should say
-hello to everyone.
+Se tiver tempo, talvez
+seja bom dar um oi
+a todos.
 <*********************>
 
 <p 02><a 22><n 18>
-The Guardians can be
-strange sometimes, but
-they're good people.
+Os Guardiões podem ser
+estranhos às vezes, mas
+são boas pessoas.
 <--------------------->
 
 <p 02><a 22><n 18>
-Try not to get angry
-and just hear them out.
+Tente não se zangar,
+e ouvir o que eles tem
+a dizer.
 <*********************>
 
 <p 02><a 22><n 18>
-<nome>! Are you alright!?
+<nome>! Você está bem!?
 <--------------------->
 
 <p 02><a 22><n 18>
-I know you want to get
-back into action,
+Sei que quer voltar à
+ação,
 <--------------------->
 
-but you need to learn
-to control the
+mas você precisa
+aprender a controlar
+o Biometal.
+<*********************>
+
+<p 02><a 22><n 18>
+Vá com calma e domine
+os poderes do Biometal.
+<*********************>
+
+<p 02><a 22><n 18>
+Estou chocado.
+<--------------------->
+
+<p 02><a 22><n 18>
+Nunca teria esperado
+que fôssemos aparecer
+nos radares inimigos.
+<--------------------->
+
+<p 02><a 22><n 18>
+Temos que mudar nossos
+planos de vôo, para não
+nos detectarem de novo.
+<--------------------->
+
+<p 02><a 22><n 18>
+Avisarei às Operadoras,
+para que tracem uma
+nova rota.
+<*********************>
+
+<p 02><a 22><n 18>
+Tenho algo interessante
+para lhe contar, <nome>.
+<--------------------->
+
+<p 02><a 22><n 18>
+Você sabia que cada
+Biometal foi dividido
+em duas partes,
+<--------------------->
+
+e cada parte foi
+embutida em um
+Pseudoróide diferente?
+<--------------------->
+
+<p 02><a 22><n 18>
+Se você obter as duas
+partes,
+<--------------------->
+
+<p 02><a 22><n 18>
+terá acesso a dois
+tipos de ataques
+carregados,
+<--------------------->
+
+para cada modelo de
 Biometal.
+<--------------------->
+
+<p 02><a 22><n 18>
+O uso difere,
+dependendo do
+modelo.
+<--------------------->
+
+<p 02><a 22><n 18>
+Para os Modelos HX, LX
+e PX, você carrega até
+o segundo nível,
+<--------------------->
+
+<p 02><a 22><n 18>
+e então segura <dpad> <cima>
+antes de soltar o botão
+de ataque para atirar.
+<--------------------->
+
+<p 02><a 22><n 18>
+Para o Modelo FX,
+carregue até o
+segundo nível,
+<--------------------->
+
+<p 02><a 22><n 18>
+e então segure <dpad> <baixo>
+antes de soltar o botão
+de ataque para atirar.
 <*********************>
 
 <p 02><a 22><n 18>
-Take it easy and master
-the power of the
+Enfim! Você coletou
+todos os seis
+Biometais.
+<--------------------->
+
+<p 02><a 22><n 18>
+Nosso futuro está em
+suas mãos, <nome>.
+<*********************>
+
+<p 02><a 22><n 18>
+Você é o único com o
+poder necessário para
+nos salvar...
+<--------------------->
+
+<p 02><a 22><n 18>
+Temos fé em você.
+<*********************>
+
+<p 02><a 22><n 18>
+Ah sim, <nome>...
+<--------------------->
+
+<p 02><a 22><n 18>
+Leve isto com você.
+<--------------------->
+
+<p 02><a 22><n 18>
+Este chip diminuirá o
+tempo de carregamento
+das suas armas.
+<--------------------->
+
+<p 02><a 22><n 18>
+O chip pertencia a
+outro Guardião,
+<--------------------->
+
+<p 02><a 22><n 18>
+e demorou bastante para
+sincronizá-lo com o seu
 Biometal.
+<--------------------->
+
+<p 02><a 22><n 18>
+Na verdade, terminei
+a sincronização agora
+a pouco.
 <*********************>
 
 <p 02><a 22><n 18>
-I'm shocked.
+Você precisará relatar
+o término de sua última
+missão
+<--------------------->
+
+antes de eu puder
+reparar seus Biometais.
 <--------------------->
 
 <p 02><a 22><n 18>
-I would never have
-expected us to show up
-on the enemy's radar.
-<--------------------->
-
-<p 02><a 22><n 18>
-We must change our
-flight plans to avoid
-detection again.
-<--------------------->
-
-<p 02><a 22><n 18>
-I'll contact the
-Operators and let them
-chart us a new course.
+Faça isso primeiro,
+e depois fale comigo
+novamente.
 <*********************>
 
 <p 02><a 22><n 18>
-I've got something
-interesting to tell you
-<nome>.
+<nome>! Tenho excelentes
+notícias!
 <--------------------->
 
 <p 02><a 22><n 18>
-Did you know that each
-Biometal fragment has
-been divided into two
-<--------------------->
-
-pieces and split
-across two different
-Pseudoroids?
+Sobre a pedra estranha
+que você encontrou na
+Área N-1,
 <--------------------->
 
 <p 02><a 22><n 18>
-If you can find both
-parts,
-<--------------------->
-
-<p 02><a 22><n 18>
-you will have access to
-two varieties of charge
-<--------------------->
-
-attacks for each
-model.
-<--------------------->
-
-<p 02><a 22><n 18>
-The usage differs
-according to the model.
-<--------------------->
-
-<p 02><a 22><n 18>
-For Models HX, LX and
-PX, you charge up to a
-second level and then
-<--------------------->
-
-<p 02><a 22><n 18>
-press +Control Pad up
-while releasing the
-attack button to fire.
-<--------------------->
-
-<p 02><a 22><n 18>
-For Model FX, charge it
-up to the second level
-and then press
-<--------------------->
-
-<p 02><a 22><n 18>
-+Control Pad down while
-releasing the attack
-button to fire.
-<*********************>
-
-<p 02><a 22><n 18>
-At last! You've
-collected the six
-Biometal fragments.
-<--------------------->
-
-<p 02><a 22><n 18>
-Our future is now in
-your hands <nome>.
-<*********************>
-
-<p 02><a 22><n 18>
-You're the only one
-with the power to save
-us...
-<--------------------->
-
-<p 02><a 22><n 18>
-We have faith in you.
-<*********************>
-
-<p 02><a 22><n 18>
-Oh yes, <nome>...
-<--------------------->
-
-<p 02><a 22><n 18>
-Please take this with
-you.
-<--------------------->
-
-<p 02><a 22><n 18>
-This chip will cut your
-weapon's charging time
-down.
-<--------------------->
-
-<p 02><a 22><n 18>
-It used to belong to
-another Guardian,
-<--------------------->
-
-<p 02><a 22><n 18>
-and it took time to
-synchronize it with
-your Biometal.
-<--------------------->
-
-<p 02><a 22><n 18>
-I just finished it a
-little while ago.
-<*********************>
-
-<p 02><a 22><n 18>
-You'll need to file
-your mission report
-<--------------------->
-
-before I can repair
-your Biometal.
-<--------------------->
-
-<p 02><a 22><n 18>
-Please file it at the
-transerver and then
-come back then.
-<*********************>
-
-<p 02><a 22><n 18>
-<nome>! I have excellent
-news!
-<--------------------->
-
-<p 02><a 22><n 18>
-About the strange stone
-you found in Area N-1,
-<--------------------->
-
-<p 02><a 22><n 18>
-I think I may have
-figured something out.
-Could I have a look?
+acho que descobri algo
+muito importante.
+Posso dar uma olhada?
 <*********************>
 
 
@@ -2048,309 +2069,316 @@ Entregou a <c 03>Pedra Misteriosa
 <--------------------->
 
 <p 02><a 22><n 18>
-All done! This turns
-out to be a special
-variety of Biometal!
+Terminado! Parece que
+isto é um tipo especial
+de Biometal!
 <--------------------->
 
 <p 02><a 22><n 18>
-It has a very funny
-glow to it, but you
+Tem um brilho bem
+engraçado em volta,
 <--------------------->
 
-should be able to use
-it to transform.
+mas agora você pode
+usá-lo para se
+transformar.
 <*********************>
 
 <p 02><a 23><n 2F>
-I feel so pathetic.
+Me sinto tão patético.
 <--------------------->
 
 <p 02><a 23><n 2F>
-I tried to rescue
-everyone from the fire,
+Tentei resgatar todo
+mundo do incêndio,
 <--------------------->
 
-but ended up needing
-rescuing myself.
+mas foi eu quem acabou
+precisando de resgate.
 <*********************>
 
 <p 02><a 23><n 2F>
-I'm glad you came along
-when you did.
+Ainda bem que você
+apareceu quando eu
+estava em apuros.
 <--------------------->
 
 <p 02><a 23><n 2F>
-Thank you so much for
-your help.
+Muito obrigado por
+sua ajuda.
 <--------------------->
 
 <p 02><a 23><n 2F>
-I shudder to imagine
-what would've happened
+Tremo só de imaginar o
+que teria acontecido
 <--------------------->
 
-if you didn't arrive
-when you did.
+se você não tivesse lá
+pra me salvar.
 <*********************>
 
 <p 02><a 23><n 2F>
-We were in a big pinch.
+Estávamos em uma grande
+enrascada.
 <--------------------->
 
 <p 02><a 23><n 2F>
-Your moves were
-incredible as you wiped
+Seus ataques foram
+incríveis,
 <--------------------->
 
-enemy after enemy off
-of our ship.
+enquanto derrotava os
+inimigos na nossa nave,
+um atrás do outro.
 <*********************>
 
 <p 02><a 23><n 2F>
-Slither Inc. grows more
-powerful with each
-passing second.
+A Serpent Ltda está
+ficando mais poderosa
+a cada segundo.
 <--------------------->
 
 <p 02><a 23><n 2F>
-We have to find the
-rest of the Biometal...
+Temos que encontrar os
+Biometais restantes...
 <--------------------->
 
 <p 02><a 23><n 2F>
-If we don't, this world
-is as good as
-Serpent's.
+Do contrário, este
+mundo estará nas mãos
+de Serpent.
 <*********************>
 
 <p 02><a 23><n 2F>
-Thanks to you, it feels
-like the Guardians
-stand a chance.
+Graças a você, parece
+que os Guardiões ainda
+tem chance.
 <*********************>
 
 <p 02><a 23><n 2F>
-I hope we aren't
-holding you back. It
-feels like there's not
+Espero que nós não
+estejamos atrapalhando.
 <--------------------->
 
 <p 02><a 23><n 2F>
-much we can do for you
-now.
+Pois parece que não há
+muito que possamos
+fazer por você agora.
 <*********************>
 
 <p 02><a 23><n 2C>
-Hi <nome>!
+Oi, <nome>!
 <--------------------->
 
 <p 02><a 23><n 2C>
-That lava was pretty
-scary, wasn't it?
+A lava estava bem
+assustadora, não acha?
 <--------------------->
 
 <p 02><a 23><n 2C>
-Did you happen to find
-the switch for
-controlling its flow?
+Você chegou a encontrar
+a alavanca de controle
+do fluxo da lava?
 <*********************>
 
 <p 02><a 23><n 2C>
-It feels like you keep
-turning up just when I
-need help.
+Parece que você sempre
+surge quando estou
+em apuros.
 <--------------------->
 
 <p 02><a 23><n 2C>
-First, you saved me
-from that snake
-Mechaniloid.
+Primeiro, você me
+salvou daquele
+Mecanilóide cobra.
 <--------------------->
 
 <p 02><a 23><n 2C>
-Then you saved me from
-the burning building.
+Então você me salvou
+daquele edifício em
+chamas.
 <--------------------->
 
 <p 02><a 23><n 2C>
-If you weren't around,
-I'd be as good as gone.
+Se não fosse por você,
+eu não estaria aqui
+pra contar a história.
 <--------------------->
 
 <p 02><a 23><n 2C>
-Thank you.
+Obrigado.
 <*********************>
 
 <p 02><a 23><n 2C>
-I was worried about you
-<nome>.
+Fiquei preocupado com
+você, <nome>.
 <--------------------->
 
 <p 02><a 23><n 2C>
-The ship was rocking so
-much, I thought a
-meteor hit us.
+A nave estava tremendo
+tanto, que pensei que
+fosse um meteoro.
 <*********************>
 
 <p 02><a 23><n 2C>
-You didn't get hurt,
-did you <nome>?
+Você não se machucou,
+né <nome>?
 <--------------------->
 
 <p 02><a 23><n 2C>
-I'm still wounded, so
-I've been resting here.
+Ainda estou ferido,
+então estou de repouso
+aqui.
 <*********************>
 
 <p 02><a 23><n 2C>
-Are those the six
-Biometal fragments
-you've got there?
+São esses os seis
+Biometais que tem
+em mãos?
 <--------------------->
 
 <p 02><a 23><n 2C>
-They're amazing.
+São incríveis.
 <*********************>
 
 <p 02><a 23><n 2C>
-Incredible technology
-must be behind the
-Biometal.
+Deve haver tecnologia
+de ponta no Biometal.
 <--------------------->
 
 <p 02><a 23><n 2C>
-It's hard to believe it
-was made centuries
-ago...
+É difícil acreditar que
+foi criado séculos
+atrás...
 <*********************>
 
 <p 02><a 23><n 2D>
-Dude! You're <nome>,
-aren't you?
+Cara! Você é <nome>, né?
 <--------------------->
 
 <p 02><a 23><n 2D>
-I'm Morue, and it's so
-cool to meet you.
+Sou Morue, prazer em
+te conhecer.
 <--------------------->
 
 <p 02><a 23><n 2D>
-Did you get a chance to
-meet everyone in HQ?
+Já teve a chance de
+conhecer todo mundo
+no QG?
 <--------------------->
 
 <p 02><a 23><n 2D>
-They're all good
-people, you should
-totally chat it up.
+Todo mundo é gente
+fina. Você devia puxar
+um papo com o pessoal.
 <*********************>
 
 <p 02><a 23><n 2D>
-It looks like that road
-in Area D-1 is still
-outta commission.
+Parece que a estrada da
+Área D-1 ainda continua
+desativada.
 <--------------------->
 
 <p 02><a 23><n 2D>
-At least it does the
-trick for keeping out
-Mavericks on foot.
+O bom disso é que os
+Mavericks não chegam
+até a cidade.
 <--------------------->
 
 <p 02><a 23><n 2D>
-The switch in front
-activates with a quick
-attack.
+A alavanca no começo do
+viaduto é ativada com
+um ataque simples.
 <--------------------->
 
 <p 02><a 23><n 2D>
-You might be able to
-continue down the
-road now.
+Basta ativá-la, e
+você poderá continuar
+andando na estrada.
 <*********************>
 
 <p 02><a 23><n 2D>
-You had me worried
-<nome>!
+Você me deixou
+preocupado, <nome>!
 <--------------------->
 
 <p 02><a 23><n 2D>
-I thought you got
-wasted. I was so
-totally about to mourn.
+Pensei que você tinha
+batido as botas. Já
+estava ficando de luto.
 <--------------------->
 
 <p 02><a 23><n 2D>
-It's awesome that
-you're okay!
+Tô muito feliz por
+você estar bem!
 <*********************>
 
 <p 02><a 23><n 2D>
-You might already know
-this,
+Talvez você já saiba
+disso,
 <--------------------->
 
 <p 02><a 23><n 2D>
-but you can only take
-on one mission or quest
-at a time.
+mas você só pode pegar
+uma missão ou pedido
+por vez.
 <--------------------->
 
 <p 02><a 23><n 2D>
-If you want to ditch
-one for another,
+Se quiser trocar uma
+por outra,
 <--------------------->
 
 <p 02><a 23><n 2D>
-you have to cancel the
-current one.
+vai ter que cancelar
+a que está em
+andamento.
 <--------------------->
 
 <p 02><a 23><n 2D>
-That means everything
-you've done so far is
-for nothing though,
+Se cancelar, vai perder
+todo o progresso que
+fez na missão,
 <--------------------->
 
 <p 02><a 23><n 2D>
-so you'll have to start
-from scratch when you
-try it again.
+e você vai ter que
+começar do zero, quando
+pegá-la novamente.
 <*********************>
 
 <p 02><a 23><n 2D>
-I almost wet my pants
-when I saw all those
-ships surrounding us.
+Quase molhei minhas
+calças ao ver aquelas
+naves nos cercando.
 <*********************>
 
 <p 02><a 23><n 2D>
-You're one brave dude
-<nome>!
+Você é um cara bem
+corajoso, <nome>!
 <*********************>
 
 <p 02><a 23><n 2D>
-Those are the six
-Biometal fragments?
+Esses são os seis
+Biometais?
 <--------------------->
 
 <p 02><a 23><n 2D>
-It's like they're
-totally all harmonizing
-with each other.
+Parece que todos estão
+em harmonia uns com os
+outros.
 <*********************>
 
 <p 02><a 23><n 2D>
-Just don't let those
-Slither Inc. dudes get
-a hold of Model W.
+Não deixe esses caras
+da Serpent Ltda pôr as
+mãos no Modelo W.
 <--------------------->
 
 <p 02><a 23><n 2D>
-This world is so gonna
-be wasted if they get a
-hold of it!
+Eles vão dominar este
+mundo, se conseguirem
+o que querem!
 <*********************>
 
 <FIM>
