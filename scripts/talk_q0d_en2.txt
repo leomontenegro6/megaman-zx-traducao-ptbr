@@ -2,28 +2,29 @@
 <#####################>
 
 <p 02><a 2A><n 1E>
-*sigh* Oh, it's you
+*sigh* Oh, é você,
 Aile...
 <--------------------->
 
 <p 02><a 2A><n 1E>
-Actually...
+Na realidade...
 <--------------------->
 
 <p 02><a 2A><n 1E>
-I've been transferred,
-so I'll be leaving HQ
-soon...
+Eu fui transferido,
+então estarei deixando
+o QG em breve...
 <--------------------->
 
 <p 02><a 2A><n 1E>
-Could you deliver one
-last letter for me?
+Você poderia entregar
+uma última carta para
+mim?
 <*********************>
 
 <p 02><a 2A><n 1E>
-I've passed the letter
-on to the transerver.
+Eu enviei a carta pelo
+transervidor.
 <--------------------->
 
 <p 02><a 2A><n 1E>
@@ -31,51 +32,51 @@ on to the transerver.
 <*********************>
 
 <p 02><a 02><n 55>
-Deliver the letter to
-the woman in Area C-2.
+Entregar a carta para
+a mulher na Área C-2.
 <*********************>
 
 <e 01><a 02><n 55>
-  Yes
-  No
+  Sim
+  Não
 <*********************>
 
 <p 02><a 2A><n 1E>
-Did you deliver it yet?
+Você já entregou?
 <--------------------->
 
 <p 02><a 2A><n 1E>
-Maybe it's better if it
-never even gets
-delivered...
+Talvez seja melhor que
+ela nunca seja
+entregue...
 <*********************>
 
 <p 02><a 4B><n 46>
-Hey transporter, you
-don't look your usual
-cheerful self.
+Ei transportadora,
+você não parece estar
+alegre como sempre.
 <--------------------->
 
 <p 02><a 4B><n 46>
-Let me take a look at
-the letter.
+Deixe-me dar uma
+olhada nesta carta.
 <--------------------->
 
 <p 02><a 4B><n 46>
-"I've been transferred.
-I'll no longer be
-stationed at HQ..."
+"Fui transferido. Não
+estarei mais aqui
+neste QG..."
 <--------------------->
 
 <p 02><a 4B><n 46>
-"This will be the last
-letter I write."
+"Esta será a última
+carta que escrevo."
 <--------------------->
 
 <p 02><a 4B><n 46>
-"I'll probably never
-see you again. Goodbye
-forever..."
+"Provavelmente nunca
+mais a verei. Adeus
+para sempre..."
 <--------------------->
 
 <p 02><a 4B><n 46>
@@ -83,74 +84,74 @@ forever..."
 <--------------------->
 
 <p 02><a 4B><n 46>
-I never really liked
-the guy, but now I feel
-kind of... sad.
+Eu nunca gostei desse
+cara, mas agora eu me
+sinto... triste.
 <*********************>
 
 <p 02><a 2A><n 1E>
-I knew all along...
+Eu sempre soube...
 <--------------------->
 
 <p 02><a 2A><n 1E>
-That she never really
-liked me.
+Que ela nunca gostou
+de mim.
 <--------------------->
 
 <p 02><a 2A><n 1E>
-I always just tried to
-see the glass as half
-full...
+Eu apenas tentei ver o
+copo cheio...
 <--------------------->
 
-Even when it was empty.
-<--------------------->
-
-<p 02><a 2A><n 1E>
-Now I don't need to
-deceive myself anymore.
+Mesmo quando estava
+vazio.
 <--------------------->
 
 <p 02><a 2A><n 1E>
-Aile, thank you for
-helping me with all of
-those letters.
+Agora eu não preciso
+mais me enganar.
+<--------------------->
+
+<p 02><a 2A><n 1E>
+Aile, muito obrigado
+por ter me ajudado com
+todas aquelas cartas.
 <*********************>
 
 <p 02><a 4B><n 46>
-Hi there.
+Olá.
 <--------------------->
 
 <p 02><a 4B><n 46>
-I'm not good at this
-kind of stuff, but tell
-him not to be sad.
+Não sou boa nisso mas,
+diga para ele não
+ficar triste.
 <*********************>
 
 <p 02><a 02><n 55>
-Quest completed.
+Pedido concluído.
 <--------------------->
 
 <p 02><a 02><n 55>
-350 EC have been
-transferred to your
-account.
+Foram transferidos
+350 CE para a sua
+conta.
 <*********************>
 
 <p 02><a 2A><n 1E>
-It doesn't matter what
-she said...
+Não importa o que ela
+disse...
 <--------------------->
 
 <p 02><a 2A><n 1E>
-It's not like I'll ever
-see her again anyway.
+Nunca mais irei vê-la
+de qualquer maneira.
 <--------------------->
 
 <p 02><a 2A><n 1E>
-She probably doesn't
-care what happens to
-me.
+Ela provavelmente nem
+liga para o que
+acontece comigo.
 <*********************>
 
 <FIM>
