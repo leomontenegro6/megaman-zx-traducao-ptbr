@@ -2,141 +2,144 @@
 <#####################>
 
 <p 02><a 2A><n 1E>
-Hey Vent! I'm so sorry
-to bother you again,
+Ei Vent! Me desculpe
+por te incomodar de
+novo,
 <--------------------->
 
-but I have another
-favor to ask.
-<--------------------->
-
-<p 02><a 2A><n 1E>
-I've got a new letter
-for you-know-who.
+mas tenho um outro
+favor para pedir.
 <--------------------->
 
 <p 02><a 2A><n 1E>
-Not to toot my own
-horn, but this one's a
-winner!
+Escrevi uma nova carta
+para você-sabe-quem.
 <--------------------->
 
 <p 02><a 2A><n 1E>
-I must be a romantic
-genius!
+Não querendo me gabar,
+mas esta aqui é uma
+das boas!
 <--------------------->
 
 <p 02><a 2A><n 1E>
-Don't worry, I'll
-reward you again for
-your help.
+Devo ser um gênio
+romântico!
+<--------------------->
+
+<p 02><a 2A><n 1E>
+Não se preocupe, irei
+te recompensar de
+novo pela ajuda.
 <*********************>
 
 <p 02><a 2A><n 1E>
-I've passed the letter
-on to the transerver.
+Eu enviei a carta pelo
+transervidor.
 <--------------------->
 
 <p 02><a 2A><n 1E>
-I'll just warn you,
-whatever you do, do not
-read the letter!
+Só irei te alertar: O
+que quer que faça, não
+leia a carta!
 <--------------------->
 
 <p 02><a 2A><n 1E>
-A young man like
-yourself wouldn't
-understand love...
+Um jovem como você não
+entenderia o amor...
 <*********************>
 
 <p 02><a 02><n 55>
-Deliver the letter to
-the woman in Area C-2.
+Entregar a carta para
+a mulher na Área C-2.
 <*********************>
 
 <e 01><a 02><n 55>
-  Yes
-  No
+  Sim
+  Não
 <*********************>
 
 <p 02><a 2A><n 1E>
-I'm guessing she hasn't
-seen the letter yet...
+Estou achando que ela
+não leu a carta
+ainda...
 <--------------------->
 
 <p 02><a 2A><n 1E>
-I know the third time's
-the charm, but my heart
-is still racing!
+A terceira carta,
+mas o meu coração
+continua palpitando!
 <*********************>
 
 <p 02><a 4B><n 46>
-Oh, it's the
-transporter again. Yet
-another letter? For me?
+Oh, é o transportador
+de novo. Mais uma
+carta? Para mim?
 <--------------------->
 
 <p 02><a 4B><n 46>
-Let me guess who this
-one's from...
+Deixe-me adivinhar de
+que é esta...
 <--------------------->
 
 <p 02><a 4B><n 46>
-"Ugly but rich or
-handsome but poor."
+"Feio, porém rico ou
+bonito, porém pobre."
 <--------------------->
 
 <p 02><a 4B><n 46>
-"What's your type?"
+"Qual o seu tipo?"
 <--------------------->
 
 <p 02><a 4B><n 46>
-Unbelievable!
+Inacreditável!
 <--------------------->
 
 <p 02><a 4B><n 46>
-Of course they're both
-important.
+É óbvio que ambos são
+importantes.
 <--------------------->
 
 <p 02><a 4B><n 46>
-Either way I answer, I
-lose!
+Independente da minha
+resposta, eu perco!
 <*********************>
 
 <p 02><a 2A><n 1E>
-What did she say?
+O que ela disse?
 <--------------------->
 
 <p 02><a 2A><n 1E>
-Neither? She's so
-mysterious. Who
-wouldn't love that?
+Nada? Ela é tão
+misteriosa. Quem não
+amaria alguém assim?
 <*********************>
 
 <p 02><a 4B><n 46>
-Transporter! I have a
-message for old boy.
+Transportador! Tenho
+uma mensagem para o
+velho.
 <--------------------->
 
 <p 02><a 4B><n 46>
-Learn how to treat a
-lady!
+Aprenda a se dirigir a
+uma dama!
 <*********************>
 
 <p 02><a 02><n 55>
-Quest completed.
+Pedido concluído.
 <--------------------->
 
 <p 02><a 02><n 55>
-200 EC have been
-transferred to your
-account.
+Foram transferidos
+200 CE para a sua
+conta.
 <*********************>
 
 <p 02><a 4B><n 46>
-All these letters are
-giving me a headache...
+Todas aquelas cartas
+estão me dando dor na
+cabeça...
 <*********************>
 
 <FIM>

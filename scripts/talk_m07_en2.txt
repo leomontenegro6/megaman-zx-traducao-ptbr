@@ -55,77 +55,79 @@ você precisa salvá-los!
 <*********************>
 
 <p 03><d 601B><a 21><n 16>
-Ah the Guardian's Mega
-Man has arrived...
+Ah, o Mega Man dos
+Guardiões chegou...
 <--------------------->
 
-To think their great
-hero would be just a
-little girl.
+E pensar que o "grande
+herói" deles seria, de
+fato, uma garotinha.
 <--------------------->
 
 <p 03><d 611B><a 21><n 16>
-But I suppose if the
-Mavericks have chosen
-you,
+Mas suponho que se
+os Mavericks te
+escolheram,
 <--------------------->
 
-then you must be the
-one.
+então você deve ser
+o escolhido.
 <--------------------->
 
 <p 02><d 621B><a 07><n 02>
-Mavericks choosing me?
-What are you talking
-about!?
+Mavericks me esco-
+lhendo? Do que você
+está falando?!
 <--------------------->
 
 <p 03><d 631B><a 21><n 16>
-The Mavericks were not
-causing all of that
+Os Mavericks não
+estavam causando toda
+esta confusão
 <--------------------->
 
-trouble just for fun
-you know.
+apenas para se
+divertirem, sabia?
 <--------------------->
 
 <p 03><d 641B><a 21><n 16>
-They were trying to
-locate the perfect
-vessel for Model W.
+Eles estavam tentando
+localizar o receptáculo
+perfeito para Modelo W.
 <--------------------->
 
 <p 03><d 651B><a 21><n 16>
-It is all tied into the
-holders of the
-Biometal.
+Está tudo ligado
+aos titulares dos
+Biometais.
 <--------------------->
 
-The chosen ones. The
-Mega Men. You.
+Os escolhidos.
+Os Mega Mans.
+Você.
 <--------------------->
 
 <p 03><d 661B><a 21><n 16>
-After all, you survived
-the Maverick raid those
-many years ago.
+Afinal, você sobreviveu
+aos ataques Mavericks
+muitos anos atrás.
 <--------------------->
 
 <p 02><d 671B><a 07><n 02>
-Are you trying to say
-the Mavericks let me
-live!? That can't be!
+Está tentando dizer que
+os Mavericks me poupa-
+ram? Não pode ser!
 <--------------------->
 
 <p 03><d 681B><a 21><n 16>
-Ah, it appears you are
-not willing to accept
-the truth.
+Ah, parece que não está
+querendo aceitar a
+verdade.
 <--------------------->
 
-It does not matter,
-Model W will have the
-sacrifice it requires.
+Mas não importa, pois
+o Modelo W terá o
+sacrifício que exige.
 <--------------------->
 
 <p 03><d 691B><a 21><n 16>
@@ -135,12 +137,12 @@ do Modelo F.
 <--------------------->
 
 <p 03><d 6A1B><a 21><n 16>
-If you will not accept
-your destiny, then you
+Se não pretende aceitar
+seu destino,
 <--------------------->
 
-will have to accept
-your end.
+então terá de aceitar
+o seu fim.
 <*********************>
 
 <p 03><d 6B1B><a 21><n 16>
@@ -160,8 +162,8 @@ Eu devia ter o poder de
 um deus...
 <--------------------->
 
-But I was beaten by a
-little girl!
+Mas fui derrotado por
+uma mera garotinha!
 <*********************>
 
 <p 03><d 6E1B><a 34><n 08>
@@ -181,8 +183,8 @@ vai derrubar!
 <--------------------->
 
 <p 02><d 711B><a 05><n 02>
-W-wait! I haven't even
-explained anything yet!
+P-Peraí! Ainda nem te
+expliquei nada!
 <--------------------->
 
 <p 03><d 721B><a 34><n 08>
@@ -218,7 +220,7 @@ Tá achando ruim?
 <--------------------->
 
 <p 02><d 761B><a 05><n 02>
-Well no...
+Não mesmo...
 <--------------------->
 
 <p 03><d 771B><a 34><n 08>
@@ -449,328 +451,326 @@ fugiu.
 <--------------------->
 
 <p 02><a 48><n 43>
-He was terrifying,
-with flames covering
-his body.
+Ele era assustador,
+com chamas cobrindo
+todo o seu corpo.
 <--------------------->
 
 <p 02><a 48><n 43>
-He took several of the
-captives away.
+Ele levou vários reféns
+consigo.
 <--------------------->
 
 <p 02><a 48><n 43>
-Be careful if you spot
-him...
+Tome cuidado ao
+avistá-lo...
 <--------------------->
 
 <p 02><a 48><n 43>
-He looks very
-dangerous.
+Ele parece ser muito
+perigoso.
 <*********************>
 
 <p 02><s 01><a 48><n 43>
-What!? Stop kidding
-around and help me!
+O quê!? Pare de ficar
+de bobeira aí e me
+ajuda!
 <--------------------->
 
 <p 02><a 48><n 43>
-I don't know what else
-to say but...
+Não sei mais o que
+dizer, mas...
 <--------------------->
 
 <p 02><a 48><n 43>
-Thank you.
+Obrigado.
 <*********************>
 
 <p 02><a 4D><n 48>
-I was too slow and
-couldn't escape in
-time.
+Fui muito devagar e não
+consegui fugir a tempo.
 <--------------------->
 
 <p 02><a 4D><n 48>
-If you hadn't come
-along, I would have
+Se você não tivesse
+vindo aqui,
 <--------------------->
 
-become one extra crispy
-old man.
+certamente este velho
+aqui teria virado
+churrasquinho.
 <--------------------->
 
 <p 02><a 4D><n 48>
-There are a lot of
-others that need
-rescuing.
+Há várias pessoas que
+ainda precisam ser
+resgatadas.
 <*********************>
 
 <p 02><a 51><n 4C>
-I sprained my ankle and
-fell behind.
+Eu torci meu tornozelo
+e fiquei para trás.
 <--------------------->
 
 <p 02><a 51><n 4C>
-I was worried I
-wouldn't make it out of
+Fiquei preocupado,
+achando que não conse-
+guiria sair de lá vivo,
 <--------------------->
 
-here alive since I
-couldn't move.
-<--------------------->
-
-<p 02><a 51><n 4C>
-I'm so lucky you came
-along when you did!
+já que eu não podia me
+mover.
 <--------------------->
 
 <p 02><a 51><n 4C>
-Please, take this.
+Tenho muita sorte de
+você estar por perto,
+e ter me salvado!
+<--------------------->
+
+<p 02><a 51><n 4C>
+Por favor, fique com
+isto.
 <*********************>
 
 <p 02><a 55><n 51>
-Why me!? How did I end
-up in this mess?
+Por que eu?! Como eu
+fui parar nesta
+bagunça?
 <--------------------->
 
 <p 02><a 55><n 51>
-Hey, you there! Would
-you give me a hand?
+Ei, você aí! Poderia me
+dar uma mão?
 <--------------------->
 
 <p 02><a 55><n 51>
-I'll make it worth your
-while!
+Farei valer o seu
+esforço!
 <--------------------->
 
 <p 02><a 55><n 51>
-This is nothing
-compared to the value
-of a life.
+Isto não é nada,
+comparado ao valor
+de uma vida.
 <--------------------->
 
 <p 02><a 55><n 51>
-Please take it. It's
-yours!
+Por favor, fique com
+isto. É seu!
 <*********************>
 
 <p 02><a 56><n 52>
-Yiiip! Woof woof!
+Caim! Au au!
 <*********************>
 
 <p 02><a 23><n 2F>
-Thank you for saving
-me.
+Obrigado por me
+salvar.
 <--------------------->
 
-There are other people
-trapped here too.
-<--------------------->
-
-<p 02><a 23><n 2F>
-You can reach the next
-building over from the
-top floor...
+Há outras pessoas
+presas aqui também.
 <--------------------->
 
 <p 02><a 23><n 2F>
-The sprinkler system
-controls are locked
-away in there.
+Dá pra alcançar o
+próximo edifício,
+pelo andar de cima...
 <--------------------->
 
 <p 02><a 23><n 2F>
-Here, take this key and
-you should be able to
-access them.
+Os controles do sistema
+contra incêndios estão
+trancados lá.
+<--------------------->
+
+<p 02><a 23><n 2F>
+Aqui, fique com esta
+chave, e você poderá
+abrir a porta.
 <*********************>
 
 <p 02><a 23><n 30>
-Thank you for saving
-me.
+Obrigado por me salvar.
 <--------------------->
 
-There are other people
-trapped here too.
-<--------------------->
-
-<p 02><a 23><n 30>
-You can reach the next
-building over from the
-top floor...
+Há outras pessoas
+presas aqui também.
 <--------------------->
 
 <p 02><a 23><n 30>
-The sprinkler system
-controls are over there
-and locked.
+Dá pra alcançar o
+edifício seguinte
+pelo andar de cima...
 <--------------------->
 
 <p 02><a 23><n 30>
-Take this key and you
-should be able to
-access them.
+Os controles do sistema
+contra incêndios estão
+lá, trancados.
+<--------------------->
+
+<p 02><a 23><n 30>
+Fique com esta chave,
+e poderá abrir a
+porta.
 <*********************>
 
 <p 02><a 44><n 3F>
-Thank you for saving
-me.
+Obrigado por me salvar.
 <--------------------->
 
-There are other people
-trapped here too.
-<--------------------->
-
-<p 02><a 44><n 3F>
-You can reach the next
-building over from the
-top floor...
+Há outras pessoas
+presas aqui também.
 <--------------------->
 
 <p 02><a 44><n 3F>
-The sprinkler system
-controls are over there
-and locked.
+Dá pra alcançar o
+edifício seguinte
+pelo andar de cima...
 <--------------------->
 
 <p 02><a 44><n 3F>
-Take this key and you
-should be able to
-access them.
+Os controles do sistema
+contra incêndios estão
+lá, trancados.
+<--------------------->
+
+<p 02><a 44><n 3F>
+Fique com esta chave,
+e poderá abrir a
+porta.
 <*********************>
 
 <p 02><a 45><n 40>
-Thank you for saving
-me.
+Obrigado por me salvar.
 <--------------------->
 
-There are other people
-trapped here too.
-<--------------------->
-
-<p 02><a 45><n 40>
-You can reach the next
-building over from the
-top floor...
+Há outras pessoas
+presas aqui também.
 <--------------------->
 
 <p 02><a 45><n 40>
-The sprinkler system
-controls are over there
-and locked.
+Dá pra alcançar o
+edifício seguinte
+pelo andar de cima...
 <--------------------->
 
 <p 02><a 45><n 40>
-Take this key and you
-should be able to
-access them.
+Os controles do sistema
+contra incêndios estão
+trancados lá.
+<--------------------->
+
+<p 02><a 45><n 40>
+Fique com esta chave,
+e poderá abrir a
+porta.
 <*********************>
 
 <p 02><a 24><n 29>
-Thank you for saving
-me.
+Obrigado por me salvar.
 <--------------------->
 
-There are other people
-trapped here too.
-<--------------------->
-
-<p 02><a 24><n 29>
-You can reach the next
-building over from the
-top floor...
+Há outras pessoas
+presas aqui também.
 <--------------------->
 
 <p 02><a 24><n 29>
-The sprinkler system
-controls are over there
-and locked.
+Dá pra alcançar o
+edifício seguinte
+pelo andar de cima...
 <--------------------->
 
 <p 02><a 24><n 29>
-Take this key and you
-should be able to
-access them.
+Os controles do sistema
+contra incêndios estão
+trancados lá.
+<--------------------->
+
+<p 02><a 24><n 29>
+Fique com esta chave,
+e poderá abrir a
+porta.
 <*********************>
 
 <p 02><a 24><n 2A>
-Thank you for saving
-me.
+Obrigado por me salvar.
 <--------------------->
 
-There are other people
-trapped here too.
-<--------------------->
-
-<p 02><a 24><n 2A>
-You can reach the next
-building over from the
-top floor...
+Há outras pessoas
+presas aqui também.
 <--------------------->
 
 <p 02><a 24><n 2A>
-The sprinkler system
-controls are over there
-and locked.
+Dá pra alcançar o
+edifício seguinte
+pelo andar de cima...
 <--------------------->
 
 <p 02><a 24><n 2A>
-Take this key and you
-should be able to
-access them.
+Os controles do sistema
+contra incêndios estão
+lá, trancados.
+<--------------------->
+
+<p 02><a 24><n 2A>
+Fique com esta chave,
+e poderá abrir a
+porta.
 <*********************>
 
 <p 02><a 48><n 43>
-Thank you for saving
-me.
+Obrigado por me salvar.
 <--------------------->
 
-There are other people
-trapped here too.
-<--------------------->
-
-<p 02><a 48><n 43>
-You can reach the next
-building over from the
-top floor...
+Há outras pessoas
+presas aqui também.
 <--------------------->
 
 <p 02><a 48><n 43>
-The sprinkler system
-controls are over there
-and locked.
+Dá pra alcançar o
+edifício seguinte
+pelo andar de cima...
 <--------------------->
 
 <p 02><a 48><n 43>
-Take this key and you
-should be able to
-access them.
+Os controles do sistema
+contra incêndios estão
+trancados lá.
+<--------------------->
+
+<p 02><a 48><n 43>
+Fique com esta chave,
+e poderá abrir a
+porta.
 <*********************>
 
 <p 02><a 51><n 4C>
-Thank you for saving
-me.
+Obrigado por me salvar.
 <--------------------->
 
-There are other people
-trapped here too.
-<--------------------->
-
-<p 02><a 51><n 4C>
-You can reach the next
-building over from the
-top floor...
+Há outras pessoas
+presas aqui também.
 <--------------------->
 
 <p 02><a 51><n 4C>
-The sprinkler system
-controls are over there
-and locked.
+Dá pra alcançar o
+edifício seguinte
+pelo andar de cima...
+<--------------------->
+
+'<p 02><a 51><n 4C>
+Os controles do sistema
+contra incêndios estão
+trancados lá.
 <--------------------->
 
 <p 02><a 51><n 4C>
-Take this key and you
-should be able to
-access them.
+Fique com esta chave,
+e poderá abrir a
+porta.
 <*********************>
 
 <FIM>

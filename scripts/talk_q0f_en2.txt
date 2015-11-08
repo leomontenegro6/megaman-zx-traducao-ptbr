@@ -2,102 +2,103 @@
 <#####################>
 
 <p 02><a 43><n 3E>
-I was just walking
-through a mountain pass
-when a springy machine
+Eu estava caminhando
+por uma passagem na
+montanha, quando uma
 <--------------------->
 
-jumped out and startled
-me.
-<--------------------->
-
-<p 02><a 43><n 3E>
-I was so surprised, I
-dropped my pochette...
+máquina saltitante
+pulou e me assustou.
 <--------------------->
 
 <p 02><a 43><n 3E>
-It's a special purse
-that mother bought
-for me.
+Fiquei tão assustado,
+que perdi a minha
+pochette...
 <--------------------->
 
 <p 02><a 43><n 3E>
-Please... You must find
-it...
+É uma bolsa especial
+que a mamãe comprou
+para mim.
+<--------------------->
+
+<p 02><a 43><n 3E>
+Por favor... Você deve
+encontrá-la...
 <*********************>
 
 <p 02><a 43><n 3E>
-If I lose that
-pochette, mother
-will be oh so upset.
+Se eu perder aquela
+pochette, mamãe vai
+ficar muito brava.
 <*********************>
 
 <p 02><a 02><n 55>
-Find the pochette
-dropped in the Area B
-mountain pass.
+Encontrar a pochette
+perdida na passagem na
+montanha na Área B.
 <*********************>
 
 <e 01><a 02><n 55>
-  Yes
-  No
+  Sim
+  Não
 <*********************>
 
 <p 02><a 43><n 3E>
-Well? Have you found it
-yet?
+Bem? Você já encontrou
+a pochette?
 <--------------------->
 
 <p 02><a 43><n 3E>
-Oh! I almost forgot!
+Oh! Eu quase esqueci!
 <--------------------->
 
 <p 02><a 43><n 3E>
-I think a bird might
-have grabbed it after I
-dropped it and
+Eu acho que um pássaro
+pode ter agarrado ela
+depois que caiu e a
 <--------------------->
 
-taken it up to a high
-place.
+levou para um lugar
+alto.
 <*********************>
 
 <p 02><a 43><n 3E>
-My pochette!!! Thank
-you so much!
+Minha pochette!!!
+Muito obrigado!
 <*********************>
 
 <p 02><a 43><n 3E>
-I'll send you a little
-something. Just don't
-tell mother...
+Vou te enviar uma
+coisinha. Apenas não
+conte para mamãe...
 <--------------------->
 
 <p 02><a 43><n 3E>
-It'll be there by the
-time you go to the
-transerver.
+Estará lá na hora em
+que você for até o
+transervidor.
 <*********************>
 
 <p 02><a 02><n 55>
-Quest completed.
+Pedido concluído.
 <--------------------->
 
 <p 02><a 02><n 55>
-100 EC have been
-transferred to your
-account.
+Foram transferidos
+100 CE para a sua
+conta.
 <*********************>
 
 <p 02><a 43><n 3E>
-Thank you oh so much
-for your help earlier.
+Muito obrigada pela
+ajuda.
 <--------------------->
 
 <p 02><a 43><n 3E>
-Now mother won't be
-upset at me.
+Agora mamãe não vai
+ficar brava comigo.
 <*********************>
 
 <FIM>

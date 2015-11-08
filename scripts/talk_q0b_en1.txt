@@ -2,173 +2,175 @@
 <#####################>
 
 <p 02><a 2A><n 1E>
-Hey Vent! I'm so sorry
-to bother you again,
+Ei Vent! Me desculpe
+por te incomodar de
+novo,
 <--------------------->
 
-but I have another
-favor to ask.
-<--------------------->
-
-<p 02><a 2A><n 1E>
-I've got a new letter
-for you-know-who.
+mas tenho um outro
+favor para pedir.
 <--------------------->
 
 <p 02><a 2A><n 1E>
-I can feel it this
-time. This letter is
-the real deal!
+Escrevi uma nova carta
+para você-sabe-quem.
 <--------------------->
 
 <p 02><a 2A><n 1E>
-I can just picture her
-lovely, smiling face
-reading my letter.
+Sinto que dessa vez
+vai dar certo. Essa
+carta é muito boa!
 <--------------------->
 
 <p 02><a 2A><n 1E>
-Don't worry, I'll
-reward you again for
-your help.
+Posso até ver a face
+dela, sorrindo ao ler
+minha carta.
+<--------------------->
+
+<p 02><a 2A><n 1E>
+Não se preocupe, irei
+te recompensar de
+novo pela ajuda.
 <*********************>
 
 <p 02><a 2A><n 1E>
-I've passed the letter
-on to the transerver.
+Eu enviei a carta pelo
+transervidor.
 <--------------------->
 
 <p 02><a 2A><n 1E>
-You're probably tired
-of hearing this, but
-whatever you do,
+Deve estar cansado de
+ouvir isso, mas o que
+quer que você faça,
 <--------------------->
 
-don't open the letter!
-<--------------------->
-
-<p 02><a 2A><n 1E>
-It's so good, it might
-as well be a manual on
-love.
+não leia a carta!
 <--------------------->
 
 <p 02><a 2A><n 1E>
-It's way too soon for a
-young boy like you to
-be seeing it.
+É tão boa, que soa até
+como um manual sobre o
+amor.
+<--------------------->
+
+<p 02><a 2A><n 1E>
+Ainda é cedo demais
+para que um jovem como
+você leia algo assim.
 <*********************>
 
 <p 02><a 02><n 55>
-Deliver the letter to
-the woman in Area C-2.
+Entregar a carta para
+a mulher na Área C-2.
 <*********************>
 
 <e 01><a 02><n 55>
-  Yes
-  No
+  Sim
+  Não
 <*********************>
 
 <p 02><a 2A><n 1E>
-She hasn't read the
-letter yet, huh?
+Ela ainda não leu a
+carta ainda, não é?
 <--------------------->
 
 <p 02><a 2A><n 1E>
-This is the fourth one
-now, but my heart just
-won't stop racing!
+Esta já é a quarta
+vez, mas o meu coração
+continua palpitando!
 <*********************>
 
 <p 02><a 4B><n 46>
-Surprise, surprise,
-it's the transporter...
+Surpresa, surpresa, é
+o transportador...
 <--------------------->
 
-Let me guess, a letter
-for me from Casanova?
-<--------------------->
-
-<p 02><a 4B><n 46>
-"I just have to ask,
-how much do I mean to
-you?"
+Deixe-me adivinhar,
+uma carta para mim, do
+"Casanova"?
 <--------------------->
 
 <p 02><a 4B><n 46>
-Is this guy nuts?
+"Tenho que perguntar,
+o quanto eu significo
+para você?"
 <--------------------->
 
 <p 02><a 4B><n 46>
-I've only seen him once
-in town, why would he
-mean anything to me!?
+Esse cara está doido?
 <--------------------->
 
 <p 02><a 4B><n 46>
-He's like a star
-shining at high noon.
+Só o vi uma vez e ele
+acha que significa
+algo para mim!?
 <--------------------->
 
 <p 02><a 4B><n 46>
-Out of sight, out of
-mind.
+Ele é como uma estrela
+brilhando ao meio-dia.
+<--------------------->
+
+<p 02><a 4B><n 46>
+Fora de vista, fora de
+questão.
 <*********************>
 
 <p 02><a 2A><n 1E>
-Well, what did she say?
+Bem, o que ela disse?
 <--------------------->
 
 <p 02><a 2A><n 1E>
-She said I'm like a
-star? That's
-incredible!
+Ela disse que eu sou
+como uma estrela? Isso
+é incrível!
 <--------------------->
 
-She must realize how
-strongly my love shines
-for her.
+Ela deve ter entendido
+como é forte o brilho
+do meu amor por ela.
 <*********************>
 
 <p 02><a 4B><n 46>
-Transporter!
+Transportador!
 <--------------------->
 
 <p 02><a 4B><n 46>
-I have just one thing
-to say to the guy that
-wrote that letter!
+Tenho apenas uma coisa
+a dizer para quem
+escreveu isso!
 <--------------------->
 
 <p 02><a 4B><n 46>
-Being forced to read
-this nonsense is
-pure torture!
+Ser forçada a ler este
+absurdo é pura
+tortura!
 <*********************>
 
 <p 02><a 02><n 55>
-Quest completed.
+Pedido concluído.
 <--------------------->
 
 <p 02><a 02><n 55>
-250 EC have been
-transferred to your
-account.
+Foram transferidos
+250 CE para a sua
+conta.
 <*********************>
 
 <p 02><a 4B><n 46>
-I know you're a
-transporter, but do you
+Sei que você é um
+transportador, mas
+você tem mesmo que
 <--------------------->
 
-have to deliver these
-letters?
+entregar estas cartas?
 <--------------------->
 
 <p 02><a 4B><n 46>
-I'm getting a migraine
-just thinking about the
-next one...
+Estou ficando com uma
+enxaqueca só de pensar
+na próxima...
 <*********************>
 
 <FIM>
