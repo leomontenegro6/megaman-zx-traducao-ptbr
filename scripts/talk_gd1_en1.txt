@@ -138,7 +138,7 @@ Biometal, você se
 sente diferente?
 <--------------------->
 
-c<p 02><a 30><n 24>
+<p 02><a 30><n 24>
 Talvez eu esteja sendo
 curioso demais, né?
 <--------------------->
@@ -784,8 +784,8 @@ bem poderosos.
 
 <p 02><a 2F><n 23>
 Fleuve me falou sobre
-eles, e os chamada de
-Pseudoróides.
+eles, e os chamava de
+"Pseudoróides".
 <--------------------->
 
 <p 02><a 2F><n 23>
@@ -1484,7 +1484,7 @@ Então quer dizer que
 
 <p 02><a 2C><n 20>
 Desculpe. Ainda não me
-apresenteu.
+apresentei.
 <--------------------->
 
 <p 02><a 2C><n 20>

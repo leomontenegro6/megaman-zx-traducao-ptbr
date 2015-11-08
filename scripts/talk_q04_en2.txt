@@ -2,143 +2,142 @@
 <#####################>
 
 <p 02><a 3E><n 39>
-Olá! Você não gostaria
-de ajudar uma criança?
+Hey there! Could you
+help a kid out?
 <--------------------->
 
 <p 02><a 3E><n 39>
-Meu irmãozinho precisa
-de alguém para testar
-seu quiz.
+My little brother needs
+someone to try his quiz
+out.
 <--------------------->
 
 <p 02><a 3E><n 39>
-Ele adora brincar de
-quiz com as pessoas.
+He loves quizzing
+people.
 <--------------------->
 
 <p 02><a 3E><n 39>
-Você poderia testar o
-quiz dele para mim?
+Would you try his quiz
+out for me?
 <*********************>
 
 <p 02><a 3E><n 39>
-Você acha que que é
-uma perda de tempo me
-ajudar, não é?
+You think it's a waste
+of time to help me out,
+huh?
 <--------------------->
 
 <p 02><a 3E><n 39>
-Hum...
+Hmm...
 <--------------------->
 
 <p 02><a 3E><n 39>
-Bem, um transportador
-não entrega apenas
-coisas físicas...
+Well, a transporter
+doesn't just deliver
+physical things...
 <--------------------->
 
-Um transportador
-entrega esperança
-também...
+A transporter delivers
+hope too...
 <--------------------->
 
 <p 02><a 3E><n 39>
-Uau, que profundo!
+Wow, that's deep.
 <*********************>
 
 <p 02><a 02><n 55>
-Responder o quiz para
-o irmãozinho de Yu.<c 01>.
+Answer the quiz for
+Yu's little brother<c 01>.
 <*********************>
 
 <e 01><a 02><n 55>
-  Sim
-  Não
+  Yes
+  No
 <*********************>
 
 <p 02><a 3E><n 39>
-Os quiz de Lou não são
-fáceis...
+Lou's quizzes aren't
+easy...
 <--------------------->
 
 <p 02><a 3E><n 39>
-Mas você parece bem
-esperto. Sei que você
-se sairá bem.
+But you look smart. I'm
+sure you'll do fine.
 <*********************>
 
 <p 02><a 3F><n 3A>
-Está pronto para o
-desafio de Lou.
+Are you up to the Lou
+challenge?
 <--------------------->
 
 <p 02><a 3F><n 3A>
-Tudo bem, vamos logo
-começar.
+Alright, let's get it
+started!
 <--------------------->
 
 <p 02><a 3F><n 3A>
-Você sabia que há um
-lugar para jogar na
-Área C-2?
+Did you know there is a
+place to play games in
+Area C-2?
 <--------------------->
 
 <p 02><a 3F><n 3A>
-Qual o nome do jogo
-mais à direita naquele
-lugar?
+What's the name of the
+game to the far right
+in that place?
 <--------------------->
 
 <m><a 3F><n 3A>
-  Bola de Bombom
-  Chute Chute Chute
-  Corrida de Dribles
+  Bonbon Ball
+  Kick Kick Kick
+  Dribble Trouble
 <*********************>
 
 <p 02><a 3F><n 3A>
-Oh, que pena! Uau você
-é péssimo nisso.
+Oh, too bad! Wow,
+you're terrible at
+this.
 <*********************>
 
 <p 02><a 3F><n 3A>
-Muito bem! Você é mais
-esperto do que parece!
+Well done! You're
+smarter than you look!
 <*********************>
 
 <p 02><a 3E><n 39>
-O que achou do quiz
-do meu irmão?
-Não foi fácil, foi?
+What did you think of
+my brother's quiz?
+Wasn't easy was it?
 <*********************>
 
 <p 02><a 3F><n 3A>
-Ei, senhor...
+Hey, mister...
 <--------------------->
 
 <p 02><a 3F><n 3A>
-Pensarei em uma nova
-pergunta, então, volte
-depois.
+I'll think of a new
+question, so come back
+again sometime.
 <*********************>
 
 <p 02><a 02><n 55>
-Pedido concluído.
+Quest completed.
 <--------------------->
 
 <p 02><a 02><n 55>
-Foram transferidos
-50 CE para a sua
-conta.
+50 EC have been
+transferred to your
+account.
 <*********************>
 
 <p 02><a 02><n 55>
-Pedido concluído.
+Quest completed.
 <*********************>
 
 <p 02><a 3F><n 3A>
-Se estiver enfadado
-venha e jogue!
+If you're ever bored,
+come by and play!
 <*********************>
 
 <FIM>

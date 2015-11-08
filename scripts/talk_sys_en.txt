@@ -698,23 +698,23 @@ Encontrou um <c 03>Disco de Dados<c 00>!
 <*********************>
 
 
-Encontrou um <c 03>Cartão-Chave Amarelo<c 00>!
+Obteve <c 03>Cartão-Chave Amarelo<c 00>!
 <*********************>
 
 
-Encontrou um <c 03>Cartão-Chave Verde<c 00>!
+Obteve <c 03>Cartão-Chave Verde<c 00>!
 <*********************>
 
 
-Encontrou um <c 03>Cartão-Chave Vermelho<c 00>!
+Obteve <c 03>Cartão-Chave Vermelho<c 00>!
 <*********************>
 
 
-Encontrou um <c 03>Cartão-Chave Azul<c 00>!
+Obteve <c 03>Cartão-Chave Azul<c 00>!
 <*********************>
 
 
-Encontrou um <c 03>Cartão-Chave Branco<c 00>!
+Obteve <c 03>Cartão-Chave Branco<c 00>!
 <*********************>
 
 

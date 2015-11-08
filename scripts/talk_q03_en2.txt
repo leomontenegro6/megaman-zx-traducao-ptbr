@@ -2,82 +2,82 @@
 <#####################>
 
 <p 02><a 53><n 4E>
-*sigh* Eu estou muito
-preocupada...
+*sigh* I'm worried
+sick...
 <--------------------->
 
 <p 02><a 53><n 4E>
-O meu filho tem
-ignorado suas lições
-ultimamente...
+My son has been
+skipping his lessons
+lately...
 <--------------------->
 
 <p 02><a 53><n 4E>
-Chega em casa tarde
-todos os dias, e isso
-tem me preocupada.
+He comes home so late
+everyday, it has me
+concerned.
 <--------------------->
 
 <p 02><a 53><n 4E>
-Espero que ele não
-esteja em algum grupo
-ruim.
+I hope he hasn't fallen
+in with a bad crowd.
 <--------------------->
 
 <p 02><a 53><n 4E>
-Estou preocupada...
-Poderia me fazer um
-favor e vigiá-lo?
+I'm so worried... Could
+you do me a favor and
+go check on him?
 <*********************>
 
 <p 02><a 53><n 4E>
-Ele está chegando em
-casa tarde desde o
+He's been coming home
+late ever since the
 <--------------------->
 
 <p 02><a 53><n 4E>
-incêndio.
+fire incident.
 <--------------------->
 
 <p 02><a 53><n 4E>
-Eu não sei o que pode
-estar causando isso.
+I just don't know what
+could be causing it.
 <--------------------->
 
 <p 02><a 53><n 4E>
-O que poderia ser?
+What on earth could he
+be up to?
 <*********************>
 
 <p 02><a 02><n 55>
-Achar o garoto perto
-do local onde ocorreu
-o incêndio.
+Find the young boy 
+near the site where the
+fire broke out.
 <*********************>
 
 <e 01><a 02><n 55>
-  Sim
-  Não
+  Yes
+  No
 <*********************>
 
 <p 02><a 53><n 4E>
-Você ainda não o
-encontrou, ou já?
+You haven't found him
+yet, have you?
 <--------------------->
 
 <p 02><a 53><n 4E>
-Estou tão preocupada,
-você deve se apressar
-e encontrá-lo.
+I'm worried sick, you
+have to hurry and find
+him!
 <--------------------->
 
 <p 02><a 53><n 4E>
-Ele é o meu pequeno
-tesouro.
+He's my little
+treasure.
 <--------------------->
 
-Se você o achar para
-mim, me certificarei
-que seja recompensado.
+If you find him for me,
+I'll make sure you're
+rewarded.
 <*********************>
 
 <p 02><a 3A><n 35>
@@ -88,318 +88,312 @@ que seja recompensado.
 
 <p 02><a 3A><n 35>
 0!
-Aqui vou eu!
+Here I come!
 <*********************>
 
 <p 02><a 3A><n 35>
-Uau! Você me assustou!
+Woah! You scared me!
 <--------------------->
 
 <p 02><a 3A><n 35>
-Está se escondendo
-também, senhora?
+Are you hiding too,
+miss?
 <--------------------->
 
 <p 02><a 3A><n 35>
-Oh, já é hora de ir
-para casa?
+Oh, is it time to go
+home already?
 <--------------------->
 
 <p 02><a 3A><n 35>
-Ainda não posso! Tenho
-que encontrar todos!
+I can't yet! I have to
+find everyone!
 <--------------------->
 
 <p 02><a 3A><n 35>
-Hum!? Você vai me
-ajudar a encontrá-los?
+Huh!? Are you going
+to help me find them?
 <--------------------->
 
 <p 02><a 3A><n 35>
-Uau, obrigado! Certo,
-te darei uma dica.
+Wow, thanks! Alright,
+I'll give you a hint.
 <--------------------->
 
 <p 02><a 3A><n 35>
-Quem estava procurando
-da última vez, não é
-bom em se esconder.
+The guy that was the
+seeker last time is no
+good at hiding.
 <--------------------->
 
 <p 02><a 3A><n 35>
-Ele está, com certeza,
-em um andar não muito
-longe daqui.
+He's probably on a
+floor not too far from
+here.
 <--------------------->
 
 <p 02><a 3A><n 35>
-Obrigado pela ajuda!
+Thanks for the help!
 <*********************>
 
 <p 02><a 3B><n 36>
-Ah droga! Tu me achou!
+Ah shoot! Ya found me!
 <--------------------->
 
 <p 02><a 3B><n 36>
-Por que todos são
-melhores que eu em se
-esconder?
+Why is everyone better
+at hiding than me?
 <--------------------->
 
 <p 02><a 3B><n 36>
-Ei senhora, você está
-procurando os outros?
+Hey miss, are you
+looking for the others?
 <--------------------->
 
 <p 02><a 3B><n 36>
-Precisa de uma dica?
+Need a hint?
 <--------------------->
 
 <p 02><a 3B><n 36>
-Aqueles mais difíceis
-de achar, estão bem
-debaixo do seu nariz.
+The hardest things to
+find are right over
+your nose.
 <*********************>
 
 <p 02><a 3C><n 37>
-Droga, tu me achou!
-ei, onde estão todos?
+Dang, ya found me!
+Hey, where's everyone
+else?
 <--------------------->
 
 <p 02><a 3C><n 37>
-Está procurando por
-algum de nós?
+You're lookin' for one
+of us?
 <--------------------->
 
 <p 02><a 3C><n 37>
-Há um cara que é, de
-fato, muito quieto.
+There's one really
+quiet guy.
 <--------------------->
 
 <p 02><a 3C><n 37>
-Ele está escondido em
-algum canto por aí.
+He's probably hidin' in
+a corner somewhere.
 <*********************>
 
 <p 02><a 3D><n 38>
-Hum...?
+...Hm?
 <--------------------->
 
 <p 02><a 3D><n 38>
-Estou me escondendo.
+I'm hiding.
 <--------------------->
 
 <p 02><a 3D><n 38>
-Ei, não me incomode.
+Hey, don't bother me.
 <--------------------->
 
 <p 02><a 3D><n 38>
-Este lugar é ótimo
-para se esconder. É
-tão escuro.
+This place is great for
+hiding. It's so dark.
 <--------------------->
 
 <p 02><a 3D><n 38>
-O que você quer!? Você
-vai me levar embora!?
-Droga!
+What do you want!?
+You're gonna give me
+away! Scram!
 <--------------------->
 
 <p 02><a 3D><n 38>
-Tanto faz... Apenas se
-certifique de achar o
-outro cara.
+Whatever... Just make
+sure you find the other
+guy.
 <--------------------->
 
 <p 02><a 3D><n 38>
-Eu não gosto muito
-dele.
+I don't like him very
+much.
 <--------------------->
 
 <p 02><a 3D><n 38>
-Ele é o cara novo, mas
-ele é o melhor em se
-esconder.
+He's the new guy, but
+he's already the best
+at hiding.
 <--------------------->
 
 <p 02><a 3D><n 38>
-A prima Bonbon estava
-caçoando de mim por
-brincar feito criança.
+My cousin Bonbon was
+making fun of me for
+playing kids' games.
 <--------------------->
 
 <p 02><a 3D><n 38>
-Mas isso não vem ao
-caso.
+But that's beside the
+point.
 <--------------------->
 
-O cara novo roubou meu
-lugar como o número um
-em se esconder!
+The new guy stole my
+place as the number one
+hider!
 <--------------------->
 
 <p 02><a 3D><n 38>
-Você vai ter que se
-esforçar muito se
-quiser encontrá-lo.
+You're going to have to
+try really hard if you
+hope to find him.
 <*********************>
 
 <p 02><a 39><n 34>
-Nãão! Como alguém pôde
-me encontrar neste
-esconderijo bacana.
+Nooo! How could anyone
+find this prime hide
+and seek real estate?
 <--------------------->
 
 <p 02><a 39><n 34>
-Espere, eu não te
-conheço.
+Wait, I don't know you.
 <--------------------->
 
 <p 02><a 39><n 34>
-Oh, a mamãe te pediu
-para vir até aqui e me
-encontrar, hã?
+Oh, mom asked you to
+come and find me, huh?
 <--------------------->
 
 <p 02><a 39><n 34>
-Eu nunca pensei que
-brincar com amigos
-fosse tão divertido.
+I never knew playing
+with friends could be
+this much fun.
 <--------------------->
 
 <p 02><a 39><n 34>
-Sempre que chego em
-casa, não tenho nada
-mais que tarefa
+Whenever I get home
+from school,
 <--------------------->
 
-escolar esperando por
-mim.
-<--------------------->
-
-<p 02><a 39><n 34>
-Eu sei que mamãe está
-apenas zelando pelo
-meu futuro, mas eu não
+I've got nothing but
+homework waiting for
+me.
 <--------------------->
 
 <p 02><a 39><n 34>
-quero pensar sobre o
-futuro por enquanto.
-<--------------------->
-
-Sou apenas um garoto,
-você entende?
+I know mom is only
+looking out for my
+future,
 <--------------------->
 
 <p 02><a 39><n 34>
-Você acreditaria que
-é mais difícil se
-esconder bem no
+but I don't want to
+think about my future
+right now.
+<--------------------->
+
+I'm just a kid, you
+know?
 <--------------------->
 
 <p 02><a 39><n 34>
-esconde-esconde que
-tirar nota 10 em uma
-prova da escola?
+Would you believe that
+it's harder to hide
+well in hide
 <--------------------->
 
 <p 02><a 39><n 34>
-Farei o que eu quiser
-fazer de agora em
-diante!
+and seek than to score
+100 percent on a test
+in school?
 <--------------------->
 
 <p 02><a 39><n 34>
-Mas..., Não quero que
-a mamãe fique triste
-também.
+I'm gonna do what I
+wanna do from now on!
 <--------------------->
 
 <p 02><a 39><n 34>
-Irei para casa agora e
-direi para ela como eu
-me sinto.
+...But then again, I
+don't want mom to be
+sad either.
 <--------------------->
 
-Obrigado por ter vindo
-me buscar.
+<p 02><a 39><n 34>
+I'll go home now and
+tell her how I feel.
+<--------------------->
+
+Thanks for coming to
+fetch me.
 <*********************>
 
 <p 02><a 53><n 4E>
-Meu filho voltou...
+My son is back...
 <--------------------->
 
 <p 02><a 53><n 4E>
-Ele era um bom garoto,
-Eu não sei o que pode
-ter acontecido...
+He was such a good kid,
+I don't know what
+happened...
 <--------------------->
 
 <p 02><a 53><n 4E>
-Esta é a primeira vez
-que eu terei que
-castigá-lo.
+This is the first time
+I've ever had to punish
+him.
 <--------------------->
 
 <p 02><a 53><n 4E>
-Deve ser aquele grupo
-ao qual ele se juntou.
+It must be that crowd
+he hangs out with.
 <--------------------->
 
 <p 02><a 53><n 4E>
-Muito obrigada por ter
-trazido ele de volta
-para casa.
+Thank you for bringing
+him home.
 <*********************>
 
 <p 02><a 53><n 4E>
-Enviei uma coisinha
-ao transervidor para
-você.
+I've sent a little
+something to the
+transerver for you.
 <*********************>
 
 <p 02><a 02><n 55>
-Pedido concluído.
+Quest completed.
 <--------------------->
 
 <p 02><a 02><n 55>
-Foram transferidos
-400 CE para a sua
-conta.
+400 EC have been
+transferred to your
+account.
 <*********************>
 
 <p 02><a 53><n 4E>
-Espero que você ache
-a quantia que eu
-transferi suficiente.
+I hope you found the
+amount I transferred
+enough.
 <--------------------->
 
-Muito obrigado por ter
-me ajudado a encontrar
-o meu garoto.
-<--------------------->
-
-<p 02><a 53><n 4E>
-Falei sobre várias
-coisas com o meu filho
-e foi a primeira vez
+Thank you so much
+for your help
+finding my boy.
 <--------------------->
 
 <p 02><a 53><n 4E>
-que o ouvi falar
-assim.
+I talked things over
+with my son and it was
+the first time
 <--------------------->
 
 <p 02><a 53><n 4E>
-Foi apenas uma loucura
-atrás da outra.
+I've heard him talk
+like that.
 <--------------------->
 
 <p 02><a 53><n 4E>
-Nunca deixe ninguém
-dizer que ser mãe é
-uma tarefa fácil!
+It was just one crazy
+thing after another.
+<--------------------->
+
+<p 02><a 53><n 4E>
+Never let anyone say
+being a parent is easy!
 <*********************>
 
 <FIM>

@@ -2,320 +2,327 @@
 <#####################>
 
 <p 02><d 8913><a 02><n 55>
-I've detected a
-Biometal signature in
+Detectei uma assinatura
+de Biometal na Área E,
 <--------------------->
 
-Area E outside the
-residential district.
+do lado de fora do
+distrito residencial.
 <--------------------->
 
 <p 02><d 8A13><a 02><n 55>
-Slither Inc. owns the
-power plant there.
+A Serpent Ltda possui
+uma usina elétrica lá.
 <--------------------->
 
 <p 02><d 8B13><a 02><n 55>
-The facility was raided
-by Mavericks a long
-time ago.
+A usina foi saqueada
+por Mavericks muito
+tempo atrás.
 <--------------------->
 
 <p 02><d 8C13><a 02><n 55>
-Ever since then no one
-has dared go anywhere
-near it.
+E desde então, ninguém
+ousou se aproximar
+de lá.
 <--------------------->
 
 <p 02><d 8D13><a 02><n 55>
-Investigate the plant
-and retrieve the
-Biometal.
+Investigue a usina e
+recupere o Biometal.
 <*********************>
 
 <p 02><d 8E13><a 02><n 04>
-The plant... It's still
-active and producing
-energy.
+A usina... Ainda está
+ativa e produzindo
+energia.
 <--------------------->
 
 <p 02><d 8F13><a 02><n 04>
-According to the
-database, it has been
+Segundo nosso banco de
+dados, a usina estava
+desativada
 <--------------------->
 
-offline ever since the
-Maverick raid.
+desde o dia em que foi
+saqueada por Mavericks.
 <--------------------->
 
 <p 02><d 9013><a 02><n 04>
-There's something fishy
-going on. Be careful
-Vent.
+Há algo suspeito
+acontecendo. Tome
+cuidado, Vent.
 <*********************>
 
 <p 02><d 9113><a 05><n 01>
-What's this? There are
-tiny balls of light
+O que é isto? Algumas
+bolinhas minúsculas de
+luz
 <--------------------->
 
-circling around the
-facility.
+estão circulando pela
+usina.
 <*********************>
 
 <p 02><d 9213><a 02><n 04>
-This signature...
-Cyber-elves!?
+Esta assinatura...
+Cyber-elfos!?
 <--------------------->
 
 <p 02><d 9313><a 05><n 01>
-Cyber-elves? What are
-those?
+Cyber-elfos? O que é
+isso?
 <--------------------->
 
 <p 02><d 9413><a 02><n 04>
-Sentient programs
-created with pure
+Cyber-elfos são
+programas sensientes,
+criados a partir de
 <--------------------->
 
-energy and made in the
-image of elves.
+pura energia, e com
+aparência similar a de
+elfos.
 <--------------------->
 
 <p 02><d 9513><a 02><n 04>
-I don't understand why
-there are so many of
-them here.
+Não entendo por que há
+tantos deles aqui.
 <--------------------->
 
 <p 02><d 9613><a 02><n 04>
-That power plant...
+Esta usina...
 <--------------------->
 
 <p 02><d 9713><a 02><n 04>
-It must be using the
-Cyber-elves to generate
-power!
+Deve estar usando os
+Cyber-elfos para gerar
+energia!
 <--------------------->
 
 <p 02><d 9813><a 05><n 01>
-So that's the secret
-behind this place.
+Então este é o segredo
+por trás deste lugar.
 <--------------------->
 
 <p 02><d 9913><a 02><n 04>
-Unbelievable!
-Cyber-elves are all
+Inacreditável!
+Cyber-elfos são seres
+vivos,
 <--------------------->
 
-sentient beings like
-the rest of us!
+igual a todos nós!
 <--------------------->
 
 <p 02><d 9A13><a 02><n 04>
-Vent, please, you must
-shut down that power
-plant!
+Vent, você precisa
+desativar esta usina!
 <*********************>
 
 <p 03><d 9B13><a 1B><n 10>
-Well, well. It looks
-like you've found the
-skeleton in our closet.
+Ora, ora. Parece que
+você descobriu o nosso
+segredinho embaraçoso.
 <--------------------->
 
 <p 03><d 9C13><a 1B><n 10>
-That's unfortunate. Now
-I can't let you leave
-in one piece.
+É uma pena. Agora não
+posso deixá-lo sair
+daqui com vida.
 <--------------------->
 
 <p 02><d 9D13><a 07><n 01>
-You're one of the
-Mavericks that Serpent
-is controlling!
+Você é um dos Mavericks
+que Serpent está
+controlando!
 <--------------------->
 
 <p 03><d 9E13><a 1B><n 10>
-You've done your
-research. It looks like
+Ora, como está bem
+informado. Parece que
 <--------------------->
 
-I can skip the
-introduction.
+posso pular as
+apresentações.
 <--------------------->
 
 <p 03><d 9F13><a 1B><n 10>
-However, make no
-mistake, I'm not just a
+No entanto, não se
+engane.
 <--------------------->
 
-simple puppet like
-those Mavericks.
+Não sou um simples
+fantoche, como os
+outros Mavericks.
 <--------------------->
 
 <p 03><d A013><a 1B><n 10>
-I'm an artificial Mega
-Man created to draw out
+Sou um Mega Man
+artificial, criado
+com base
 <--------------------->
 
-the power of the
+nos poderes do meu
 Biometal.
 <--------------------->
 
 <p 03><d A113><a 1B><n 10>
-I'm the Model H
-Pseudoroid, Hivolt.
+Sou o Pseudoróide do
+Modelo H, Hivolt.
 <--------------------->
 
 <p 03><d A213><a 1B><n 10>
-Have no fear. It'll all
-be over soon.
+Não tema. Tudo acabará
+em breve.
 <--------------------->
 
 <p 03><d A313><a 1B><n 10>
-You'll just feel a
-little jolt before you
-sleep forever!
+Você sentirá apenas um
+pequeno choque, antes
+de dormir para sempre!
 <*********************>
 
 <p 01><p 03><d A413><a 1B><n 10>
-Curiosity got the cat,
-and your curiosity just
-got you.
+A curiosidade matou o
+gato, e pelo visto
+você também.
 <*********************>
 
 <p 03><d A513><a 1B><n 10>
-Hah... The energy we've
-produced here is
+Rá... A energia que
+produzimos aqui
 <--------------------->
 
-already well on its
-way to Lord Serpent.
+já está a caminho de
+Mestre Serpent.
 <--------------------->
 
 <p 03><d A613><a 1B><n 10>
-All that's left is for
-him to hack into the
-Model W Core.
+Só o que resta a ele é
+invadir o núcleo do
+Modelo W.
 <--------------------->
 
 <p 03><d A713><a 1B><n 10>
-Poor misguided fool.
-Your end draws near as
-a new age is beginning!
+Pobre tolo desiludido. 
+Seu fim se aproxima com
+o início da nova era!
 <*********************>
 
 <p 03><d A813><a 33><n 07>
-I am the Biometal of
-the Wind, Model H.
+Sou o Biometal do
+Vento, Modelo H.
 <--------------------->
 
 <p 03><d A913><a 33><n 07>
-Thank you for saving
-me, young hero.
+Obrigado por me salvar,
+jovem herói.
 <--------------------->
 
 <p 02><d AA13><a 05><n 01>
-Lend me your strength
-Model H.
+Empreste-me sua força,
+Modelo H.
 <--------------------->
 
 <p 02><d AB13><a 05><n 01>
-I have to find the
-passwords and destroy
+Tenho que encontrar as
+senhas e destruir o
+núcleo do Modelo W,
 <--------------------->
 
-the Model W Core
-before it's too late!
+antes que seja tarde
+demais!
 <--------------------->
 
 <p 03><d AC13><a 33><n 07>
-Do you think that will
-end this?
+Acha mesmo que lutar
+acabará com este ciclo
+sem fim?
 <--------------------->
 
 <p 02><d AD13><a 05><n 01>
-What do you mean?
+O que quer dizer?
 <--------------------->
 
 <p 03><d AE13><a 33><n 07>
-All of this was started
-by a single man.
+Tudo isto foi iniciado
+por um único homem.
 <--------------------->
 
 <p 03><d AF13><a 33><n 07>
-Even if you destroy the
-Model W Core and stop
-Serpent...
+Mesmo se você destruir
+o núcleo do Modelo W
+e impedir Serpent...
 <--------------------->
 
 <p 03><d B013><a 33><n 07>
-What's to stop another
-madman from rising up
-and taking his place?
+O que impedirá outro
+louco de ascender e
+tomar o seu lugar?
 <--------------------->
 
 <p 02><d B113><a 08><n 01>
-I... don't know...
+Eu... não sei...
 <--------------------->
 
 <p 02><d B213><a 08><n 01>
-But what I do know is
-that Serpent is about
-to destroy the world!
+Mas sei de uma coisa:
+Serpent está prestes a
+destruir o mundo!
 <--------------------->
 
 <p 02><d B313><a 07><n 01>
-I'm the only one that
-can stop it now. I
-can't give up!
+Sou o único que pode
+impedi-lo agora. Eu não
+posso desistir!
 <--------------------->
 
 <p 03><d B413><a 33><n 07>
-Hmph. Those humans we
-fought so hard to
+Hmph. Esses humanos
+pelos quais lutamos
+bravamente
 <--------------------->
 
-protect hundreds of
-years ago have been
+para proteger, centenas
+de anos atrás, acabaram
+convencidos
 <--------------------->
 
 <p 03><d B513><a 33><n 07>
-lulled into a false
-sense of security by
+pela falsa sensação de
+segurança,
 <--------------------->
 
-the empty promise of
-peace.
+oriunda da promessa
+vazia de paz.
 <--------------------->
 
 <p 03><d B613><a 33><n 07>
-But I still believe our
-fight had meaning.
+Mas ainda acredito que
+nossa luta tinha um
+significado.
 <--------------------->
 
 <p 03><d B713><a 33><n 07>
-So, young hero, yes I
-will lend you my
-strength.
+Então, jovem herói,
+sim! Eu emprestarei a
+você minha força.
 <--------------------->
 
 <p 03><d B813><a 33><n 07>
-Serpent has separated
-my data into two
-halves.
+Mas Serpent separou
+meus dados em duas
+metades.
 <--------------------->
 
-There is another
-Pseudoroid with the
-other part.
+Há outro Pseudoróide
+com minha outra metade.
 <--------------------->
 
 <p 03><d B913><a 33><n 07>
-If you can defeat it, I
-will be able to give
-you my password.
+Só após derrotá-lo,
+poderei dar a você
+minha senha completa.
 <*********************>
 
 <FIM>

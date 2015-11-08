@@ -90,7 +90,7 @@ Fiquei preocupada.
 
 <p 02><a 24><n 28>
 Mas você é bem mais
-duro na queda do que
+dura na queda do que
 aparenta.
 <--------------------->
 
@@ -101,7 +101,7 @@ fosse tão forte!
 
 <p 02><a 24><n 28>
 Com certeza Prairie
-está feliz por tê-lo
+está feliz por tê-la
 conosco.
 <--------------------->
 
@@ -116,7 +116,7 @@ Que choque...
 <--------------------->
 
 <p 02><a 24><n 28>
-Sorte a nossa de tê-lo
+Sorte a nossa de tê-la
 aqui para ajudar a
 repelir aquele ataque.
 <--------------------->
@@ -371,7 +371,7 @@ adorável lança-mísseis?
 <p 02><a 27><n 1B>
 Fui atribuída ao QG,
 então raramente tenho
-a chance de usá-la.
+a chance de usá-lo.
 <--------------------->
 
 <p 02><a 27><n 1B>
@@ -462,21 +462,21 @@ Olá, <nome>!
 <--------------------->
 
 <p 02><a 27><n 1B>
-O que acha deste
-equipamento?
+O que acha desta
+raridade aqui?
 <--------------------->
 
 <p 02><a 27><n 1B>
+É chamado de E-Tanque.
+<--------------------->
+
+<p 02><a 27><n 1B>
+E recupera toda a sua
+saúde de uma vez só.
+<--------------------->
+
 É um item valioso meu,
 gostaria de ficar?
-<--------------------->
-
-<p 02><a 27><n 1B>
-É chamado de E-Tank.
-<--------------------->
-
-Recupera toda a sua
-saúde de uma vez só.
 <--------------------->
 
 <p 02><a 27><n 1B>
@@ -506,9 +506,9 @@ cristais aí!
 <*********************>
 
 <p 02><s 01><a 27><n 1B>
-Como você está seguro
-de si... Mas é sua
-vida, fazer o quê.
+Ora, mas como é
+confiante... Mas é
+sua vida, fazer o quê.
 <*********************>
 
 <p 02><s 01><a 24><n 2A>
@@ -598,7 +598,7 @@ até agora, certo?
 
 <p 02><a 0B><n 04>
 Estou surpresa. Você
-foi o escolhido pelo
+foi a escolhida pelo
 Modelo X.
 <*********************>
 
@@ -691,7 +691,7 @@ a nave!
 <*********************>
 
 <p 02><a 2D><n 21>
-Você é o rapaz que
+Você é a garota que
 chamam de <nome>, né?
 <--------------------->
 

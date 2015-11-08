@@ -2,64 +2,63 @@
 <#####################>
 
 <p 02><a 4B><n 46>
-Olá transportadora.
-Tenho um favor para te
-pedir.
+Hey there transporter.
+I have a favor to ask
+of you.
 <--------------------->
 
 <p 02><a 4B><n 46>
-Entregaria uma carta
-para você-sabe-quem no
-QG dos Guardiões?
+Could you deliver a
+letter to you-know-who
+in Guardian HQ for me?
 <*********************>
 
 <p 02><a 4B><n 46>
-Enviarei a carta pelo
-transervidor.
+I'll send the letter to
+the transerver.
 <*********************>
 
 <p 02><a 02><n 55>
-Entregar a carta para
-Truite no QG dos
-Guardiões.
+Deliver the letter to
+Truite in Guardian HQ.
 <*********************>
 
 <e 01><a 02><n 55>
-  Sim
-  Não
+  Yes
+  No
 <*********************>
 
 <p 02><a 2A><n 1E>
-Uma carta para mim?
-Quem me enviaria uma
-carta?
+A letter for me? I
+wonder who it could be
+from?
 <--------------------->
 
 <p 02><a 2A><n 1E>
-Oh, é dela! Sobre o
-que ela escreveria
-para mim...?
+Oh, it's from her! What
+could she be writing
+me about...
 <--------------------->
 
 <p 02><a 2A><n 1E>
-"O homem que cruzei na
-rua aquele dia, não é
+"The man I passed in
+the street that day is
 <--------------------->
 
-o tipo de homem que se
-acovarda."
-<--------------------->
-
-<p 02><a 2A><n 1E>
-"Não gosto da sua
-teimosia e otimismo
-excessivo."
+not the kind of man
+that gets discouraged."
 <--------------------->
 
 <p 02><a 2A><n 1E>
-"Mas também não gosto
-dessa sua atitude
-negativa."
+"I don't like the fact
+that you're stubborn
+and overly optimistic."
+<--------------------->
+
+<p 02><a 2A><n 1E>
+"But I don't like you
+being negative even
+more."
 <--------------------->
 
 <p 02><a 2A><n 1E>
@@ -67,92 +66,89 @@ negativa."
 <--------------------->
 
 <p 02><a 2A><n 1E>
-Quero saber se isso
-significa que ela me
-ama ou que me odeia...
+I wonder if that means
+she likes me or hates
+me...
 <*********************>
 
 <p 02><a 4B><n 46>
-Aquela foi a primeira
-vez que eu escrevi uma
-carta.
+That's the first time
+I've ever written a
+letter.
 <--------------------->
 
-Espero que ela tenha
-feito ele se sentir
-melhor.
-<--------------------->
-
-<p 02><a 4B><n 46>
-Devo admitir, estava
-bem chateada com todas
-aquelas cartas bobas.
+I hope it helped him
+feel better.
 <--------------------->
 
 <p 02><a 4B><n 46>
-Mas agora que sei que
-não receberei mais
-nenhuma,
+I have to admit, I was
+really annoyed by all
+of his silly letters.
 <--------------------->
 
-estou um tanto quanto
-triste.
+<p 02><a 4B><n 46>
+But now that I know I
+won't be getting
+anymore,
+<--------------------->
+
+I'm kind of sad.
 <*********************>
 
 <p 02><a 4B><n 46>
-Bem, espero que minha
-carta o tenha animado.
+Well, I just hope my
+letter cheered him up.
 <--------------------->
 
 <p 02><a 4B><n 46>
-Você não acha que eu
-exagerei, não é?
+You don't think it was
+too much, do you?
 <*********************>
 
 <p 02><a 2A><n 1E>
-Eu ficaria feliz em
-responder pela
-primeira vez.
+I was just happy to get
+a reply for the first
+time.
 <--------------------->
 
 <p 02><a 2A><n 1E>
-Mas é apenas uma
-questão de tempo
+But it's only a matter
+of time before I pass
 <--------------------->
 
-Até que eu esteja fora
-dos seus pensamentos
-completamente...
+out of her thoughts
+entirely...
 <*********************>
 
 <p 02><a 02><n 55>
-Pedido concluído.
+Quest completed.
 <--------------------->
 
 <p 02><a 02><n 55>
-Foram transferidos
-100 CE para a sua
-conta.
+100 EC have been
+transferred to your
+account.
 <*********************>
 
 <p 02><a 4B><n 46>
-Obrigada...
+Thank you...
 <--------------------->
 
 <p 02><a 4B><n 46>
-Se eu precisar enviar
-uma outra carta, sei
-a quem chamar!
+If I ever have another
+letter, I know who to
+call!
 <*********************>
 
 <p 02><a 2A><n 1E>
-Para ter certeza que
-sempre lembrarei dela,
+To make sure I always
+remember her,
 <--------------------->
 
-gravei as memórias que
-tenho dela em um chip
-especial.
+I've recorded my 
+memories of her onto a
+special chip.
 <*********************>
 
 <FIM>

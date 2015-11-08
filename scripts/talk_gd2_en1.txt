@@ -428,21 +428,21 @@ Olá, <nome>!
 <--------------------->
 
 <p 02><a 27><n 1B>
-O que acha deste
-equipamento?
+O que acha desta
+raridade aqui?
 <--------------------->
 
 <p 02><a 27><n 1B>
+É chamado de E-Tanque.
+<--------------------->
+
+<p 02><a 27><n 1B>
+E recupera toda a sua
+saúde de uma vez só.
+<--------------------->
+
 É um item valioso meu,
 gostaria de ficar?
-<--------------------->
-
-<p 02><a 27><n 1B>
-É chamado de E-Tank.
-<--------------------->
-
-Recupera toda a sua
-saúde de uma vez só.
 <--------------------->
 
 <p 02><a 27><n 1B>
@@ -472,9 +472,9 @@ cristais aí!
 <*********************>
 
 <p 02><s 01><a 27><n 1B>
-Como você está seguro
-de si... Mas é sua
-vida, fazer o quê.
+Ora, mas como é
+confiante... Mas é
+sua vida, fazer o quê.
 <*********************>
 
 <p 02><a 24><n 2A>

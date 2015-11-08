@@ -833,12 +833,13 @@ aura.
 <*********************>
 
 
-<c 01>Computer Chip
-<c 00>This chip was
-found on the
-remains of a
-Maverick in
-Area B.
+<c 01>Chip Comput.
+<c 00>Este chip foi
+encontrado em
+meio aos
+restos de um
+Maverick na
+Área B.
 <*********************>
 
 

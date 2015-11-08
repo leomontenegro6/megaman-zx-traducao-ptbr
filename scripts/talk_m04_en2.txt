@@ -219,7 +219,8 @@ cientista desaparecida.
 <--------------------->
 
 <p 03><d BE0F><a 05><n 02>
-Uma "certa cientista"?
+Uma cientista
+desaparecida?
 <*********************>
 
 <p 02><d BF0F><a 0C><n 04>
@@ -239,7 +240,7 @@ Ah... Entendo.
 <p 03><d C20F><a 0D><n 03>
 Sim, e o Biometal que
 estávamos transportando
-estava no laboratório.
+era desse laboratório.
 <*********************>
 
 <p 02><d C30F><a 0B><n 04>
@@ -596,7 +597,7 @@ a lenda em ação.
 
 <p 03><d F40F><a 12><n 03>
 Urgh...
-Fique... Longe...
+Fique... longe...
 É uma armadilha...
 <*********************>
 
@@ -636,11 +637,11 @@ ambos.
 <--------------------->
 
 <p 03><d FC0F><a 14><n 00>
-O Biometal que os
+Os Biometais que os
 Guardiões encontraram
 <--------------------->
 
-pode muito bem ser
+podem muito bem ser
 apenas pedaços de
 sucata.
 <*********************>
@@ -783,11 +784,12 @@ onde vocês estavam.
 <--------------------->
 
 <p 03><d 1310><a 14><n 0C>
-Uma batalha as forças
-de segurança da Serpent
-Ltda, tidos como o bem,
+Uma batalha entre as
+forças de segurança da
+Serpent Ltda,
 <--------------------->
 
+tidos como o bem,
 e os Mavericks, tidos
 como o mal.
 <--------------------->
@@ -936,7 +938,7 @@ combinados.
 <p 03><d 2A10><a 32><n 06>
 A decisão é sua.
 Você deve tomá-la
-sozinho.
+sozinha.
 <--------------------->
 
 <p 03><d 2B10><a 32><n 06>
@@ -984,11 +986,11 @@ Giro... Eu... Eu...
 <p 02><d 3310><a 02><n 04>
 Aile... A batalha entre
 as forças de segurança
-da Serpent Ltda
+da Serpent Ltda,
 <--------------------->
 
-e os Mavericks já
-começou.
+e os Mavericks, acabou
+de começar.
 <--------------------->
 
 <p 02><d 3410><a 02><n 04>
@@ -1080,7 +1082,8 @@ de Mavericks.
 
 <p 02><d 4210><a 0B><n 04>
 Mas Serpent só possui
-o Biometal do Modelo W.
+parte do poder do
+Biometal Modelo W.
 <--------------------->
 
 <p 02><d 4410><a 0B><n 04>
@@ -1092,7 +1095,7 @@ esperando ser acordado.
 <p 02><d 4510><a 0B><n 04>
 Não sei o que é este
 tal Projeto Refúgio que
-Serpent Mencionou...
+Serpent mencionou...
 <--------------------->
 
 <p 02><d 4610><a 0B><n 04>

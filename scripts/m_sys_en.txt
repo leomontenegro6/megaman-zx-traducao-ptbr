@@ -186,51 +186,51 @@ Z
 <*********************>
 
 
-Area B-2 Montanhas
+Área B-2 Montanhas
 <*********************>
 
 
-Area C-2 Cidade
+Área C-2 Cidade
 <*********************>
 
 
-Area D-2 Viaduto
+Área D-2 Viaduto
 <*********************>
 
 
-Area E-7 Usina Elétrica
+Área E-7 Usina Elétrica
 <*********************>
 
 
-Area F-5 Lago
+Área F-5 Lago
 <*********************>
 
 
-Area G-5 Foco de Incêndio
+Área G-5 Foco de Incêndio
 <*********************>
 
 
-Area I-3 Confinamento
+Área I-3 Confinamento
 <*********************>
 
 
-Area K-4 Campo de Lava
+Área K-4 Campo de Lava
 <*********************>
 
 
-Area L-4 Lab. de Pesquisas
+Área L-4 Lab. de Pesquisas
 <*********************>
 
 
-Area M-3 Restos
+Área M-3 Restos
 <*********************>
 
 
-Area O-2 Viaduto 2
+Área O-2 Viaduto 2
 <*********************>
 
 
-Area X-1 QG Guardiões
+Área X-1 QG Guardiões
 <*********************>
 
 

@@ -2,62 +2,63 @@
 <#####################>
 
 <p 02><d 7117><a 02><n 55>
-I've detected a
-distress call coming
-from Area F.
+Detectei uma chamada de
+emergência vindo da
+Área F.
 <--------------------->
 
 <p 02><d 7217><a 02><n 55>
-There are Maverick and
-Biometal signatures in
-close proximity.
+Há assinaturas de
+Mavericks e Biometais
+nas proximidades.
 <--------------------->
 
 <p 02><d 7317><a 02><n 55>
-Whoever sent the
-distress call is being
+Seja lá quem tiver
+feito esta chamada,
 <--------------------->
 
-pinned down by the
+provavelmente está
+cercado pelos
 Mavericks.
 <--------------------->
 
 <p 02><d 7417><a 02><n 55>
-It's likely that they
-are innocent civilians
-trying to flee.
+É provável que sejam
+civis inocentes,
+tentando fugir.
 <--------------------->
 
 <p 02><d 7517><a 02><n 55>
-Head to Area F and
-rescue those people.
+Dirija-se à Área F e
+salve estas pessoas.
 <--------------------->
 
 <p 02><d 7617><a 02><n 55>
-Secure the Biometal
-while you're at it.
+E em seguida, recupere
+o Biometal no local.
 <*********************>
 
 <p 02><d 7717><a 02><n 04>
-The distress call
-definitely came from
-this area.
+A chamada de emergência
+com certeza veio desta
+área.
 <--------------------->
 
 <p 02><d 7817><a 02><n 04>
-The signal is too weak
-to pinpoint the exact
-location.
+O sinal está muito
+fraco para apontar a
+localização exata.
 <--------------------->
 
 <p 02><d 7917><a 05><n 01>
-I can't get a lock on
-it either.
+Também não vejo nada
+estranho pela frente.
 <--------------------->
 
-I'll proceed and let
-you know if I find
-anything.
+Vou prosseguir e te
+avisar se eu achar
+alguma coisa.
 <*********************>
 
 <p 02><d 7A17><a 01><n 00>
@@ -65,9 +66,9 @@ anything.
 <--------------------->
 
 <p 02><d 7B17><a 07><n 01>
-Hey! Is anyone here! I
-came to help! Tell me
-where you are!
+Ei! Tem alguém aqui!
+Vim para ajudar! Me
+digam onde estão!
 <--------------------->
 
 <p 02><d 7C17><a 01><n 00>
@@ -75,140 +76,142 @@ where you are!
 <--------------------->
 
 <p 02><d 7D17><a 05><n 01>
-Strange. There's no
-reply.
+Estranho. Ninguém
+responde.
 <*********************>
 
 <p 02><d 7E17><a 02><n 04>
-The source of the
-signal is definitely
+Com certeza a fonte do
+sinal está vindo de um
+local próximo
 <--------------------->
 
-coming from near your
-position.
+de sua localização
+atual.
 <--------------------->
 
 <p 02><d 7F17><a 02><n 04>
-The device emitting the
-signal should be close.
-Try to locate it.
+O dispositivo emitindo
+o sinal deve estar por
+perto. Tente achá-lo.
 <*********************>
 
 <p 02><d 8017><a 05><n 01>
-Prairie, I found the
-terminal that has been
-sending out the signal.
+Prairie, achei o
+terminal que estava
+enviando os sinais.
 <--------------------->
 
 <p 02><d 8117><a 05><n 01>
-But there's no one
-around.
+Mas não há ninguém por
+perto.
 <*********************>
 
 <p 02><d 8217><a 02><n 04>
-What? I wonder what
-could have happened
-there?
+Como? O que será que
+aconteceu aqui?
 <*********************>
 
 <p 03><d 8317><a 05><n 01>
-What's this? There's a
-data disk still in the
-terminal.
+O que é isso? Há um
+disco de dados dentro
+do terminal.
 <--------------------->
 
 <p 02><a 04><n 56>
-I don't have much
-longer. I pray that
-this data
+Não tenho muito tempo
+Rezo para que estes
+dados
 <--------------------->
 
-doesn't fall into the
-wrong hands.
+não caiam em mãos
+erradas.
 <*********************>
 
 <p 02><a 04><n 56>
-The recon unit has
-unearthed a strange
-metal in this area.
+A unidade de reconhe-
+cimento descobriu um
+metal estranho na área.
 <--------------------->
 
 <p 02><a 04><n 56>
-It seems... conscious.
-It began to speak to us
-in our minds.
+Parece... consciente.
+O meal começou a falar
+conosco mentalmente.
 <--------------------->
 
 <p 02><a 04><n 56>
-The commander called it
-"Biometal Model W."
+A comandante chamou-o
+de "Biometal Modelo W".
 <--------------------->
 
 <p 02><a 04><n 56>
-We continued to
-research the Biometal
-under her orders.
+Continuamos a pesquisar
+o Biometal sob suas
+ordens.
 <--------------------->
 
 <p 02><a 04><n 56>
-However, everyone
-was complaining of
-unexplained
+Mas todos estavam
+reclamando de dores de
+cabeça inexplicáveis
 <--------------------->
 
-headaches and a strange
-numbness...
+e estranhas sensações
+de dormência...
 <*********************>
 
 <p 02><a 04><n 56>
-Upon hearing this, she
-removed us from the
+Ao ouvir isto, ela
+nos retirou do local
 <--------------------->
 
-site and continued the
-research on her own.
-<--------------------->
-
-<p 02><a 04><n 56>
-Despite these 
-precautions, our unit
-was annihilated.
+e continuou a pesquisa
+sozinha.
 <--------------------->
 
 <p 02><a 04><n 56>
-One of our own had
-suddenly gone mad...
+Apesar das precauções,
+nossa unidade foi
+aniquilada.
+<--------------------->
+
+<p 02><a 04><n 56>
+Um de nossos colegas
+do nada começou a
+surtar...
 <*********************>
 
 <p 03><d 8417><a 05><n 01>
-That's the end of the
-data.
+É o fim dos dados.
 <--------------------->
 
 <p 02><d 8517><a 02><n 04>
-Sis... This is a report
-from the first
-commander's recon unit!
+É um relatório da uni-
+dade de reconhecimento,
+comandada pela irmã...
 <--------------------->
 
 <p 02><d 8617><a 02><n 04>
-The distress call must
-have been activated to
+A chamada de emergência
+deve ter sido ativada
 <--------------------->
 
-make sure someone would
-find this data.
+para fazer com que
+alguém encontrasse
+esses dados.
 <--------------------->
 
 <p 02><d 8717><a 02><n 04>
-But the recon unit
-is... gone.
+Mas a unidade de
+reconhecimento...
+se foi.
 <--------------------->
 
 <p 03><d 8817><a 07><n 01>
-Stay with me Prairie. I
-need to know where the
-Biometal is.
+Tenha foco, Prairie.
+Preciso saber onde está
+o Biometal.
 <--------------------->
 
 <p 02><d 8917><a 02><n 04>
@@ -216,221 +219,222 @@ Vent?
 <--------------------->
 
 <p 03><d 8A17><a 05><n 01>
-Slither Inc. might have
-the rest of the data.
+A Serpent Ltda talvez
+tenha o restante dos
+dados.
 <--------------------->
 
 <p 03><d 8B17><a 05><n 01>
-Don't give up on your
-sister just yet.
+Não desista de sua
+irmã ainda.
 <--------------------->
 
 <p 02><d 8C17><a 02><n 04>
-You're right. I'm sorry
+Tem razão. Sinto muito,
 Vent.
 <--------------------->
 
 <p 02><d 8D17><a 02><n 04>
-I'm reading the
-Biometal signature just
-beyond the locked door.
+Estou lendo a assina-
+ura do Biometal além
+da porta trancada.
 <--------------------->
 
 <p 02><d 8E17><a 02><n 04>
-We'll hack the lock
-from Guardian HQ.
+Quebraremos a trava da
+porta daqui do QG dos
+Guardiões.
 <--------------------->
 
 <p 03><d 8F17><a 05><n 01>
-Looks like we're back
-in business!
+E enfim voltamos à
+ativa!
 <*********************>
 
 <p 03><d 9017><a 1A><n 0F>
-Oh my! What's that disk
-you've got there?
+Olha só! Que disco é
+esse que tem aí?
 <--------------------->
 
 <p 03><d 9117><a 1A><n 0F>
-Agh! I thought I told
-you Mavericks to leave
+Argh! Pensei ter dito
+aos Mavericks para
+deixar
 <--------------------->
 
-anything of importance
-with me!
+todo e qualquer assunto
+de importância comigo!
 <--------------------->
 
 <p 03><d 9217><a 1A><n 0F>
-Hmph! Worthless
-fool!
+Hmph! Tolos inúteis!
 <--------------------->
 
 <p 02><d 9317><a 07><n 01>
-I knew it. You're after
-this disk! Where's the
-rest of it?
+Eu sabia. Você está
+atrás deste disco!
+Onde está o restante?
 <--------------------->
 
 <p 03><d 9417><a 1A><n 0F>
-Oh my my... You must be
-one of those horrid
-interlopers trying
+Céus... Você deve
+ser um desses intrusos
+horríveis que estão
 <--------------------->
 
-to stop poor Lord
-Serpent's plan.
-<--------------------->
-
-<p 03><d 9517><a 1A><n 0F>
-Well hmph! I'm not
-telling you anything,
-<--------------------->
-
-so how do you like
-that!?
-<--------------------->
-
-<p 03><d 9617><a 1A><n 0F>
-I am the lovely
-Pseudoroid Model L,
-Lurerre.
-<--------------------->
-
-<p 03><d 9717><a 1A><n 0F>
-I'm going to tear you
-apart piece by piece!
-<--------------------->
-
-Prepare for the end
-little man!
-<*********************>
-
-<p 01><p 03><d 9817><a 1A><n 0F>
-Oh my... It looks like
-we've come to the
-end...
-<--------------------->
-
-<p 01><p 03><d 9917><a 1A><n 0F>
-Your end! Goodbye,
-little brat!
-<*********************>
-
-<p 03><d 9A17><a 1A><n 0F>
-Oh my... Oh my...
-Goodbye cruel world.
-<--------------------->
-
-<p 03><d 9B17><a 1A><n 0F>
-How could this be! Done
-in by a creepy little
-runt!
-<*********************>
-
-<p 03><d 9C17><a 35><n 09>
-I am the Biometal of
-the Ice, Model L.
-<--------------------->
-
-<p 03><d 9D17><a 35><n 09>
-Thank you for freeing
-me from that awful
-body.
-<--------------------->
-
-<p 03><d 9E17><a 35><n 09>
-You're looking for the
-rest of the data disk
-right?
-<--------------------->
-
-<p 03><d 9F17><a 35><n 09>
-I'm sorry, but it has
-already been taken away
-somewhere.
-<--------------------->
-
-<p 03><d A017><a 35><n 09>
-A hundred years have
-passed since the war,
-<--------------------->
-
-but it looks like some
-things will never
-change.
-<--------------------->
-
-<p 02><d A117><a 05><n 01>
-A man named Serpent is
-attempting to reawaken
-Model W.
-<--------------------->
-
-<p 02><d A217><a 05><n 01>
-To stop him, I need
-your help and the
-password.
-<--------------------->
-
-<p 03><d A317><a 35><n 09>
-Hmm... Model Z, I heard
-the story about
+tentando impedir os
+planos de Mestre
 Serpent.
 <--------------------->
 
-<p 03><d A417><a 35><n 09>
-I know you were
-linked with a host
-body, but I heard
+<p 03><d 9517><a 1A><n 0F>
+Bem hmph! Não vou te
+dizer nada,
 <--------------------->
 
-he beat you in
-combat.
+pois vou te matar aqui,
+e agora!
+<--------------------->
+
+<p 03><d 9617><a 1A><n 0F>
+Sou a amável
+Pseudoróide do Modelo
+L, Lurerre.
+<--------------------->
+
+<p 03><d 9717><a 1A><n 0F>
+Vou fazer você em
+mil pedaços!
+<--------------------->
+
+Prepare-se para o fim,
+homemzinho!
+<*********************>
+
+<p 01><p 03><d 9817><a 1A><n 0F>
+Céus... Parece que
+chegamos ao fim...
+<--------------------->
+
+<p 01><p 03><d 9917><a 1A><n 0F>
+O seu fim! Adeus,
+pestinha!
+<*********************>
+
+<p 03><d 9A17><a 1A><n 0F>
+Céus... Céus...
+Adeus mundo cruel.
+<--------------------->
+
+<p 03><d 9B17><a 1A><n 0F>
+Não pode ser! Derrotada
+por um nanico como
+você!
+<*********************>
+
+<p 03><d 9C17><a 35><n 09>
+Sou o Biometal do Gelo,
+Modelo L.
+<--------------------->
+
+<p 03><d 9D17><a 35><n 09>
+Obrigada por me
+libertar deste corpo
+terrível.
+<--------------------->
+
+<p 03><d 9E17><a 35><n 09>
+Está procurando pelo
+resto dos discos de
+dados, certo?
+<--------------------->
+
+<p 03><d 9F17><a 35><n 09>
+Sinto muito, mas já
+foram levados a
+outro lugar.
+<--------------------->
+
+<p 03><d A017><a 35><n 09>
+Cem anos se passaram
+desde a guerra,
+<--------------------->
+
+mas parece que algumas
+coisas nunca mudarão.
+<--------------------->
+
+<p 02><d A117><a 05><n 01>
+Um homem chamado
+Serpent está tentando
+reacordar o Modelo W.
+<--------------------->
+
+<p 02><d A217><a 05><n 01>
+Para impedi-lo,
+preciso de sua ajuda,
+e de sua senha.
+<--------------------->
+
+<p 03><d A317><a 35><n 09>
+Hmm... Modelo Z, ouvi a
+história sobre Serpent.
+<--------------------->
+
+<p 03><d A417><a 35><n 09>
+Sei que você estava
+conectado a um corpo
+hospedeiro,
+<--------------------->
+
+mas ouvi dizer que ele
+lhe derrotou em
+combate.
 <--------------------->
 
 <p 02><d A517><a 32><n 06>
-Yes... My failure led
-to the death of a good
-man named Giro.
+Sim... Minha falha
+causou a morte de um
+bom homem chamado Giro.
 <--------------------->
 
 <p 03><d A617><a 35><n 09>
-I see... Alright, I'll
-join you.
+Entendo... Certo, me
+juntarei a vocês.
 <--------------------->
 
 <p 03><d A717><a 35><n 09>
-It should be an
-interesting challenge
+Será um desafio bem
+interessante,
 <--------------------->
 
-to take on the one who
-bested the great
-Model Z.
+enfrentar o homem que
+venceu o grandioso
+Modelo Z.
 <--------------------->
 
 <p 03><d A817><a 35><n 09>
-I'll give you my
-password, but the data
+Darei a vocês minha
+senha,
 <--------------------->
 
-is split into two
-halves.
+mas os dados estão
+divididos em duas
+metades.
 <--------------------->
 
 <p 03><d A917><a 35><n 09>
-The other Pseudoroid
-with my power has the
-remaining half.
+O outro Pseudoróide com
+meu poder detém a outra
+metade.
 <--------------------->
 
 <p 03><d AA17><a 35><n 09>
-I won't be able to give
-you the complete
+Não poderei dar a você
+a senha completa,
 <--------------------->
 
-password until you
-defeat him.
+até você derrotá-lo.
 <*********************>
 
 <FIM>

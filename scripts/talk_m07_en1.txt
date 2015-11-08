@@ -2,442 +2,442 @@
 <#####################>
 
 <p 02><d 591B><a 02><n 55>
-The office district in
-Area G is under heavy
-fire from Mavericks.
+O distrito comercial da
+Área G está sendo ata-
+cado por Mavericks.
 <--------------------->
 
 <p 02><d 5A1B><a 02><n 55>
-There are several
-Guardians in the area,
+Há vários membros dos
+Guardiões na área,
 <--------------------->
 
-but they're calling for
-backup.
+mas eles estão chamando
+reforços.
 <--------------------->
 
 <p 02><d 5B1B><a 02><n 55>
-I'm also detecting the
-presence of a Biometal
+Também detectei a
+presença da assinatura
+de um Biometal,
 <--------------------->
 
-signature among the
-Mavericks.
+entre os Mavericks na
+região.
 <--------------------->
 
 <p 02><d 5C1B><a 02><n 55>
-Head to Area G and face
-down the Maverick
-threat.
+Dirija-se à Área G e
+aniquile a ameaça dos
+Mavericks.
 <*********************>
 
 <p 03><d 5D1B><a 23><n 2C>
-Oww... The other
-Guardians went further
+Aww... Os outros
+Guardiões seguiram em
+frente
 <--------------------->
 
-on to try and save more
-people.
+para tentar salvar mais
+pessoas.
 <--------------------->
 
 <p 03><d 5E1B><a 23><n 2C>
-They were surrounded by
-Mavericks and haven't
-come back.
+Eles foram cercados por
+Mavericks e não
+voltaram.
 <--------------------->
 
 <p 03><d 5F1B><a 23><n 2C>
-Use this old portable
-transerver. Please, you
-have to save everyone!
+Use este transervidor
+portátil. Por favor,
+você precisa salvá-los!
 <*********************>
 
 <p 03><d 601B><a 21><n 16>
-I came all this way
-expecting to find a
+Vim até este lugar,
+esperando encontrar
+um grande guerreiro,
 <--------------------->
 
-great warrior, but
-you are just a boy.
+mas você é apenas um
+garoto.
 <--------------------->
 
 <p 03><d 611B><a 21><n 16>
-All this associating
-with Mavericks and
-kidnapping people is
+Coordenar os Mavericks
+e sequestrar todas
+essas pessoas
 <--------------------->
 
-interfering with my
-training.
+está interferindo no
+meu treinamento.
 <--------------------->
 
 <p 02><d 621B><a 07><n 01>
-Kidnapping? What have
-you done with
-everyone!?
+Sequestrar? O que você
+fez com todos?!
 <--------------------->
 
 <p 03><d 631B><a 21><n 16>
-I have no need to tell
-you.
+Não tenho razão para
+contá-lo.
 <--------------------->
 
 <p 03><d 641B><a 21><n 16>
-Serpent promised to
-take me beyond the
-limits of my training
+Serpent prometeu me
+guiar além dos limites
+do meu treinamento,
 <--------------------->
 
-and give me the
-power of a god if I
-helped him.
+e me dar os poderes
+de um deus, se eu
+ajudá-lo.
 <--------------------->
 
 <p 03><d 651B><a 21><n 16>
-It sounded like an
-excellent proposition.
+Soou como uma excelente
+proposta.
 <--------------------->
 
-I will do whatever it
-takes to get power.
+Farei o que for
+necessário para
+ganhar poder.
 <--------------------->
 
 <p 02><d 661B><a 07><n 01>
-That's not true power!
-You can't get it
-through evil.
+Isto não é poder de
+verdade! Não se conse-
+gue poder pelo mal.
 <--------------------->
 
 <p 03><d 671B><a 21><n 16>
-You might turn out to
-be a stubborn opponent
-after all.
+Talvez você prove ser
+um oponente astuto para
+mim, afinal.
 <--------------------->
 
-My Biometal is burning
-to get a piece of you.
+Meu Biometal está
+ardendo para arrancar
+um pedaço seu.
 <--------------------->
 
 <p 03><d 691B><a 21><n 16>
-The name is Fistleo, I
-am the Model F
-Pseudoroid.
+Me chamo Fistleo.
+Sou o Pseudoróide
+do Modelo F.
 <--------------------->
 
 <p 03><d 6A1B><a 21><n 16>
-You are about to find
-out just how true my
-power really is!
+Você descobrirá como
+o meu poder é grandioso
+e verdadeiro!
 <*********************>
 
 <p 03><d 6B1B><a 21><n 16>
-Hmph. That should have
-been easier. I must
-continue my training.
+Hmph. Essa devia ter
+sido mais fácil. Devo
+treinar mais.
 <*********************>
 
 <p 03><d 6C1B><a 21><n 16>
-How could this happen!?
-I was transformed into
-a Pseudoroid...
+Como isto aconteceu?!
+Fui transformado em
+um Pseudoróide...
 <--------------------->
 
 <p 03><d 6D1B><a 21><n 16>
-I was supposed to have
-the power of a god...
+Eu devia ter o poder de
+um deus...
 <--------------------->
 
-But I was beaten by
-a little boy!
+Mas fui derrotado por
+um garotinho!
 <*********************>
 
 <p 03><d 6E1B><a 34><n 08>
-Yahoo! Thanks for
-saving me!
+Maravilha! Valeu por me
+salvar!
 <--------------------->
 
 <p 03><d 6F1B><a 34><n 08>
-I am the Biometal of
-the Flame, Model F!
+Sou o Biometal da
+Chama, Modelo F!
 <--------------------->
 
 <p 03><d 701B><a 34><n 08>
-Let's get a move on!
-Who are we gonna take
-down next?
+Vamo nessa! Quem é o
+próximo que a gente
+vai derrubar!
 <--------------------->
 
 <p 02><d 711B><a 05><n 01>
-H-hold on a second. I
-haven't told you what's
-going on.
+C-Calminha aí. Nem te
+falei o que está
+acontecendo.
 <--------------------->
 
 <p 03><d 721B><a 34><n 08>
-I know, I know, Serpent
-is up to something
+Eu sei, eu sei. Serpent
+está planejando algo
+sorrateiro,
 <--------------------->
 
-sneaky with that
-Model W.
+com os poderes do
+Modelo W.
 <--------------------->
 
 <p 03><d 731B><a 34><n 08>
-It's all so
-complicated.
+É tudo tão complicado.
 <--------------------->
 
-I don't really know
-what's going on.
+Nem eu entendi direito
+o que houve.
 <--------------------->
 
 <p 03><d 741B><a 34><n 08>
-I just know that he
-used my power to do his
-dirty work.
+Mas sei que ele usou
+meu poder para fazer
+seu trabalho sujo.
 <--------------------->
 
 <p 03><d 751B><a 34><n 08>
-If you're out for
-payback, I'm your
-model!
+Se quiser dar o troco,
+serei seu modelo!
 <--------------------->
 
-Got a problem with
-that?
+Tá achando ruim?
 <--------------------->
 
 <p 02><d 761B><a 05><n 01>
-N-no...
+N-não...
 <--------------------->
 
 <p 03><d 771B><a 34><n 08>
-Oh, the password.
+Ah, a senha.
 <--------------------->
 
-Sorry, but I can't give
-the whole thing to you
-yet.
+Foi mal, mas não posso
+te dar a senha toda
+ainda.
 <--------------------->
 
 <p 03><d 781B><a 34><n 08>
-Serpent split my power
-down the middle and the
+Serpent dividiu meu
+poder em dois,
 <--------------------->
 
-other part is with
-another Pseudoroid.
+e a outra parte está
+com outro Pseudoróide.
 <--------------------->
 
 <p 03><d 791B><a 34><n 08>
-If you can take that
-one down, I can give
-you the password.
+Se puder derrotar o
+outro, poderei te dar
+a senha.
 <*********************>
 
 <p 02><a 23><n 2F>
-You there! Are you here
-to help with the rescue
-operation?
+Você aí! Veio aqui para
+ajudar na operação de
+resgate?
 <--------------------->
 
 <p 02><a 23><n 2F>
-Beyond that window,
-one of us went inside
-to help,
+Um de nós entrou por
+aquela janela, para
+ajudar,
 <--------------------->
 
 <p 02><a 23><n 2F>
-but the fire has
-surrounded them and now
-they are trapped.
+mas o fogo cercou eles,
+e agora estão presos.
 <--------------------->
 
 <p 02><a 23><n 2F>
-If you stand in front
-of the window and press
+Se ficar de frente a
+uma janela e pressionar
+<dpad> <cima>,
 <--------------------->
 
-up on the +Control Pad,
-you can enter inside.
+poderá entrar nelas.
 <*********************>
 
 <p 02><a 23><n 30>
-We came to help too,
+Também viemos ajudar,
 <--------------------->
 
 <p 02><a 23><n 30>
-but we got surrounded
-by the flames.
+mas fomos cercados
+pelas chamas.
 <--------------------->
 
 <p 02><a 23><n 30>
-There are others who
-need your help in the
-area.
+Há outros que precisam
+de sua ajuda na área.
 <--------------------->
 
 <p 02><a 23><n 30>
-Please, you have to
-help them!
+Por favor, você tem
+que ajudá-los!
 <--------------------->
 
 <p 02><a 23><n 30>
-Oh! By the way, make
-sure you aren't
-transformed when you
+Ah! Falando nisso, não
+não esqueça de se
+destransformar,
 <--------------------->
 
-talk to the
-townspeople.
+antes de falar com
+os cidadãos.
 <*********************>
 
 <p 02><a 24><n 29>
-I came here to try and
-help people,
+Vim aqui para ajudar
+as pessoas,
 <--------------------->
 
 <p 02><a 24><n 29>
-but I can't get through
-the flames.
+mas não consigo
+atravessar as chamas.
 <--------------------->
 
 <p 02><a 24><n 29>
-You could use the dash
-jump to leap over them!
+Você poderia fazer
+um pulo com o dash, e
+assim passar por cima!
 <--------------------->
 
 <p 02><a 24><n 29>
-Please! Do whatever you
-can to help the others!
+Por favor! Faça o
+possível para ajudar
+os outros!
 <*********************>
 
 <p 02><a 24><n 2A>
-Thank you for coming to
-save us!
+Obrigado por vir nos
+salvar!
 <--------------------->
 
 <p 02><a 24><n 2A>
-Just remember to
-transform back to
+Lembre-se de voltar à
+forma humana,
 <--------------------->
 
-normal before talking
-to people.
-<--------------------->
-
-<p 02><a 24><n 2A>
-Otherwise they'll be
-too afraid to accept
-your help.
+antes de conversar
+com as pessoas.
 <--------------------->
 
 <p 02><a 24><n 2A>
-Of course us Guardians
-know you and won't be
-afraid.
+Do contrário, eles
+ficarão com medo de
+aceitar sua ajuda.
+<--------------------->
+
+<p 02><a 24><n 2A>
+É claro que nós do QG
+conhecemos você, e não
+nos assustaremos.
 <*********************>
 
 <p 02><a 37><n 32>
-Nooo! I can't find
-Bosch!
+Nããoo! Não consigo
+achar Bosch!
 <--------------------->
 
 <p 02><a 37><n 32>
-Someone! Please save
-him!
+Alguém! Por favor
+salve-o!
 <*********************>
 
 <p 02><a 40><n 3B>
-It's so hot and
-scary...
+Está tão quente e
+assustador...
 <--------------------->
 
 <p 02><a 40><n 3B>
-Where are mommy and
-daddy?
+Cadê a mamãe e o papai?
 <--------------------->
 
 <p 02><a 40><n 3B>
-I want to see mommy and
-daddy! I wanna go home!
+Quero ver a mamãe e o
+papai! Quero ir pra
+casa!
 <*********************>
 
 <p 02><a 44><n 3F>
-*cough cough* Who are
-you? Did you come to
-save us?
+Cof! Cof! Quem é você?
+Veio nos salvar?
 <--------------------->
 
 <p 02><a 44><n 3F>
-As you can see, this
-room is covered in
-smoke.
+Como pode ver, esta
+sala está coberta de
+fumaça.
 <--------------------->
 
 <p 02><a 44><n 3F>
-Some of the people
-escaped through the
-room windows.
+Algumas pessoas fugiram
+pelas janelas das
+salas.
 <--------------------->
 
 <p 02><a 44><n 3F>
-They might still be
-waiting for help on the
-other side.
+Elas podem ainda estar
+precisando de ajuda,
+no outro lado.
 <*********************>
 
 <p 02><a 45><n 40>
-Did you come to help
-us?
+Veio nos salvar?
 <--------------------->
 
 <p 02><a 45><n 40>
-Thank you... I think
-someone is controlling
-the Mavericks.
+Obrigado... Acho que
+alguém está controlando
+os Mavericks.
 <--------------------->
 
 <p 02><a 45><n 40>
-This fire is all his
-fault!
+Este fogo é tudo culpa
+desse alguém!
 <--------------------->
 
 <p 02><a 45><n 40>
-He should be at the top
-of this building,
+Ele deve estar no topo
+deste edifício,
 <--------------------->
 
-getting ready to head
-to the next one over.
+preparando-se para
+incendiar os próximos.
 <--------------------->
 
 <p 02><a 45><n 40>
-You've got to teach him
-that if you play with
-fire, you get burned!
+Tem que ensiná-lo que
+se brincar com fogo,
+vai se queimar!
 <*********************>
 
 <p 02><a 48><n 43>
-W-who are you? Are you
-from the rescue unit?
+Q-Quem é você? É da
+unidade de resgate?
 <--------------------->
 
 <p 02><e 01><a 48><n 43>
-Help! Please!
-  Yes
-  No
+Ajude! Por favor!
+  Sim
+  Não
 <*********************>
 
 <p 02><a 48><n 43>
-Thank you! I thought I
-was done for!
+Obrigado! Pensei que ia
+morrer!
 <--------------------->
 
 <p 02><a 48><n 43>
-One of the Mavericks
-that attacked this
-place stood out.
+Um dos Mavericks, que
+atacou este lugar,
+fugiu.
 <--------------------->
 
 <p 02><a 48><n 43>

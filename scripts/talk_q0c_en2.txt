@@ -2,148 +2,144 @@
 <#####################>
 
 <p 02><a 2A><n 1E>
-Ei Aile! Me desculpe
-por te incomodar de
-novo,
+Hey Aile! I'm so sorry
+to bother you again,
 <--------------------->
 
-mas tenho um outro
-favor para pedir.
-<--------------------->
-
-<p 02><a 2A><n 1E>
-O que é?
+but I have another
+favor to ask.
 <--------------------->
 
 <p 02><a 2A><n 1E>
-Bem, tenho certeza que
-pode adivinhar do que
-se trata...
+What is it?
 <--------------------->
 
 <p 02><a 2A><n 1E>
-Não se preocupe, irei
-te recompensar de
-novo pela ajuda.
+Well, I'm sure you can
+guess what it is...
+<--------------------->
+
+<p 02><a 2A><n 1E>
+Don't worry, I'll
+reward you again for
+your help.
 <*********************>
 
 <p 02><a 2A><n 1E>
-Eu enviei a carta pelo
-transervidor.
+I've passed the letter
+on to the transerver.
 <--------------------->
 
 <p 02><a 2A><n 1E>
-Posso sentir o amor
-aumentando a cada
-carta que escrevo!
+I can just feel the
+love growing with every
+letter I write!
 <*********************>
 
 <p 02><a 02><n 55>
-Entregar a carta para
-a mulher na Área C-2.
+Deliver the letter to
+the woman in Area C-2.
 <*********************>
 
 <e 01><a 02><n 55>
-  Sim
-  Não
+  Yes
+  No
 <*********************>
 
 <p 02><a 2A><n 1E>
-Você não entregou a
-carta ainda, não é
-mesmo?
+You still haven't
+delivered the letter
+right?
 <--------------------->
 
 <p 02><a 2A><n 1E>
-Cinco vezes e o meu
-coração continua a
-palpitar como se fosse
+Five times, and my
+heart is racing like
 <--------------------->
 
-a primeira vez, sempre
-e sempre!
+it's the first time all
+over again!
 <*********************>
 
 <p 02><a 4B><n 46>
-Ah! É você! Apenas me
-deixe em paz!
+Agh! It's you! Just
+leave me alone!
 <--------------------->
 
 <p 02><a 4B><n 46>
-Certo, lerei isso!
-Mais cedo leio, mais
-cedo você vai embora!
+Fine, I'll read it! The
+sooner I read it, the
+sooner you'll go away!
 <--------------------->
 
 <p 02><a 4B><n 46>
-"Você é meu raio de
-sol..."
+"You are my
+sunshine..."
 <--------------------->
 
 <p 02><a 4B><n 46>
-"Meu raio de sol...
-Sempre serei sua
-estrela brilhante."
+"My only sunshine...
+And I'll forever be
+your shining star."
 <--------------------->
 
 <p 02><a 4B><n 46>
-Esse cara não se toca,
-não é mesmo?
+This guy just can't get
+over himself can he?
 <--------------------->
 
 <p 02><a 4B><n 46>
-Eu desejo que sua
-estrela vá brilhar em
-outro lugar!
+I wish his star would
+shine elsewhere!
 <*********************>
 
 <p 02><a 2A><n 1E>
-Ela quer que eu vá
-brilhar em outro
-lugar?
+She wants me to shine
+elsewhere?
 <--------------------->
 
-Pobrezinha, ela deve
-achar que não é boa o
-suficiente para mim...
+Poor girl, she must
+feel like she isn't
+good enough for me...
 <--------------------->
 
 <p 02><a 2A><n 1E>
-Que amorzinho!
+What a sweetheart!
 <*********************>
 
 <p 02><a 4B><n 46>
-Aí transportadora! Se
-certifique de dizer
-isso para ele!
+Yo transporter! Make
+sure you tell him this
+for me!
 <--------------------->
 
 <p 02><a 4B><n 46>
-Se toca!
+Get a clue!
 <*********************>
 
 <p 02><a 02><n 55>
-Pedido concluído.
+Quest completed.
 <--------------------->
 
 <p 02><a 02><n 55>
-Foram transferidos
-300 CE para a sua
-conta.
+300 EC have been
+transferred to your
+account.
 <*********************>
 
 <p 02><a 4B><n 46>
-Você poderia terminar
-esse jogo para mim!?
+Would you mind ending
+this game for me!?
 <--------------------->
 
 <p 02><a 4B><n 46>
-Parece que não adianta
-quantas vezes eu diga
-que não, isso nunca
+It doesn't seem to
+matter how many times I
+say no,
 <--------------------->
 
-vai chegar ao fim!
+this is never going to
+end!
 <*********************>
 
 <FIM>
