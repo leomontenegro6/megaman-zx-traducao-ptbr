@@ -2,49 +2,51 @@
 <#####################>
 
 <p 02><d 411F><a 02><n 55>
-The radar is picking up
-a Biometal signature.
+O radar detectou uma
+assinatura de Biometal.
 <--------------------->
 
 <p 02><d 421F><a 02><n 55>
-It's on the move and
-has entered Area H on
-its own.
+Está se movendo, e
+entrou na Área H
+sozinho.
 <--------------------->
 
 <p 02><d 431F><a 02><n 55>
-Area H is where the
-amusement park was
+Na Área H, situa-se um
+parque de diversões
 <--------------------->
 
-attacked in a Maverick
-raid ten years ago.
+que sofreu um severo
+ataque de Mavericks
+dez anos atrás.
 <--------------------->
 
 <p 02><d 441F><a 02><n 55>
-It's abandoned, but it
-seems as though some of
+Está abandonado, mas
+parece que parte de
+sua maquinaria
 <--------------------->
 
-the machinery is still
-in operation.
+ainda está em
+funcionamento.
 <--------------------->
 
 <p 02><d 451F><a 02><n 55>
-Head to Area H and
-secure the Biometal.
+Dirija-se à Área H e
+recupere o Biometal.
 <*********************>
 
 <p 02><d 461F><a 02><n 04>
-Aile! Mavericks are
-concentrating in that
-area!
+Aile! Mavericks estão
+se concentrando nesta
+área!
 <--------------------->
 
 <p 02><d 471F><a 02><n 04>
-It looks like they're
-after the Biometal too,
-so be careful!
+Parece que estão atrás
+do Biometal também,
+por isso cuidado!
 <--------------------->
 
 <p 02><d 481F><a 08><n 02>
@@ -52,310 +54,314 @@ so be careful!
 <--------------------->
 
 <p 02><d 491F><a 02><n 04>
-Aile? Did you hear me?
-What's wrong?
+Aile? À escuta?
+O que houve?
 <--------------------->
 
 <p 02><d 4A1F><a 05><n 02>
-Oh! I'm okay. I'm going
-to proceed with the
-mission now.
+Ah! Estou bem. Vou
+prosseguir com a
+missão agora.
 <--------------------->
 
 <p 02><d 4B1F><a 08><n 02>
-I can't believe I have
-to fight here...
+Não acredito que vou
+ter que lutar neste
+lugar...
 <*********************>
 
 <p 02><d 4C1F><a 07><n 02>
-Hmm, this isn't the one
-with the Biometal.
+Hmm, este não é o
+inimigo que está com
+o Biometal.
 <--------------------->
 
-I wonder where it could
-be?
+Onde está? Não vejo a
+hora de sair daqui!
 <*********************>
 
 <p 02><d 4D1F><a 02><n 04>
-Aile, what's going on?
+Aile, o que está
+havendo?
 <--------------------->
 
-You've been acting
-strange ever since this
-mission started.
+Notei que você está
+estranha, desde que
+a missão começou.
 <--------------------->
 
 <p 02><d 4E1F><a 07><n 02>
-Prairie, can you tell
-me where that Biometal
-signature is coming
+Prairie, de onde vem
+a assinatura do
+Biometal?!
 <--------------------->
 
-from!? Just hurry up
-and tell me!
+Seja rápida e me diga
+logo!
 <--------------------->
 
 <p 02><d 4F1F><a 02><n 04>
-Aile, calm down! What's
-going on with you?
+Aile, calma! O que está
+havendo com você?
 <*********************>
 
 <p 02><d 501F><a 08><n 02>
-Ten years ago I was
-attacked by the
+Dez anos atrás eu
+fui atacada por
 Mavericks...
 <--------------------->
 
 <p 02><d 511F><a 08><n 02>
-I was separated from my
-mom during the panic,
+Fui separada de minha
+mãe durante o pânico,
 <--------------------->
 
-and Giro is the one
-that found and rescued
-me.
+e foi Giro que me achou
+e me salvou.
 <--------------------->
 
 <p 02><d 521F><a 02><n 04>
-You were there ten
-years ago during the
-Maverick raid...
+Você estava lá dez anos
+atrás, durante o ataque
+dos Mavericks...
 <--------------------->
 
 <p 02><d 531F><a 08><n 02>
-This place has a lot of
-memories for me, both
-good and bad.
+Este lugar me traz
+muitas memórias, tanto
+boas como ruins.
 <--------------------->
 
 <p 02><d 541F><a 08><n 02>
-I just don't want
-anything to happen to
-those memories.
+Não quero que aconteça
+nada com essas
+memórias.
 <--------------------->
 
-I want them to stay
-the way they are.
+Quero que elas
+continuem como estão.
 <--------------------->
 
 <p 02><d 551F><a 02><n 04>
-Now I understand. I'm
-sorry, I...
+Agora eu entendo.
+Sinto muito, eu...
 <--------------------->
 
 <p 02><d 561F><a 05><n 02>
-No, I'm sorry. I was
-getting all worked up
+Não, sou eu quem devo
+me desculpar.
 <--------------------->
 
-with the memories of my
-mom and Giro flooding
-back.
+Fiquei estressada com
+as lembranças de minha
+mãe e Giro voltando.
 <--------------------->
 
 <p 02><d 571F><a 02><n 04>
-Aile, please remember
-that you are never
-alone.
+Aile, lembre-se de que
+você não está sozinha.
 <--------------------->
 
 <p 02><d 581F><a 02><n 04>
-You've got me and the
-other Guardians...
+Você tem a mim e aos
+outros Guardiões...
 <--------------------->
 
-And you've got Giro
-watching over you too.
+E Giro também está
+olhando por você.
 <--------------------->
 
 <p 02><d 591F><a 02><n 04>
-We'll save this country
-together.
+Salvaremos este país
+juntos.
 <*********************>
 
 <p 02><d 5A1F><a 05><n 02>
-Thank you Prairie.
+Obrigada, Prairie.
 <--------------------->
 
 <p 02><d 5B1F><a 06><n 02>
-Recommencing mission!
+Continuando a missão!
 <*********************>
 
 <p 03><d 5C1F><a 1D><n 12>
-Ook! Ook! So a
-Maverick has come to
-take me back eh?
+U, u, á, á! Então um
+Maverick veio pra me
+levar de volta?
 <--------------------->
 
 <p 03><d 5D1F><a 1D><n 12>
-Lord Serpent just
-doesn't understand how
-to treat his employees!
+Mestre Serpent não
+sabe como tratar
+seus empregados!
 <--------------------->
 
 <p 02><d 5E1F><a 07><n 02>
-So you're the one with
-the Biometal!
+Então é você que está
+com o Biometal!
 <--------------------->
 
-I'm sorry but I'll be
-taking it now.
+Desculpe, mas vou
+tomá-lo de você
+agora.
 <--------------------->
 
 <p 03><d 5F1F><a 1D><n 12>
-Oh, so you're not one
-of the Mavericks? Then
-get out of my park!
+Ah, não é um dos
+Mavericks? Se manda do
+meu parque então!
 <--------------------->
 
 <p 02><d 601F><a 07><n 02>
-I'm the one with the
-memories here. You get
-out of my park!
+Este lugar é precioso
+pra mim. Quem vai se
+mandar daqui é você!
 <--------------------->
 
 <p 03><d 611F><a 1D><n 12>
-Ook? You aren't
-actually going to
-challenge an
+U, u, á, á? Vai mesmo
+desafiar um dos execu-
+tivs da Serpent Ltda?
 <--------------------->
 
-officer of Slither Inc.
-are you? This should be
-interesting.
+Isso vai ser
+interessante.
 <--------------------->
 
 <p 03><d 631F><a 1D><n 12>
-I'll show you just how
-powerful the Pseudoroid
-Purprill really is!
+Vou te mostrar como
+o Pseudoróide Purprill
+é forte!
 <*********************>
 
 <p 03><d 641F><a 1D><n 12>
-Ook! Ook! That'll teach
-you to interrupt me
+U, u, á, á! U, u, á, á!
+Quem mandou vir pra
+cima de mim,
 <--------------------->
 
-with nonsense about
-memories.
+com esse papinho de
+"lugar precioso"?
 <--------------------->
 
 <p 03><d 651F><a 1D><n 12>
-I'm an executive
-officer!
+Sou um executivo!
 <--------------------->
 
-Did you really think
-I'd be done in by the
-likes of you?
+Achou mesmo que eu ia
+perder pra uma magrela
+que nem você?
 <*********************>
 
 <p 03><d 661F><a 1D><n 12>
-N-nooo! I'm too
-powerful to be beaten!
-I'm an... officer...
+N-nããoo! Sou poderoso
+demais para ser
+derrotado!
 <--------------------->
 
 <p 03><d 671F><a 1D><n 12>
-I should be...
-unstoppable... Ooook!!!
+Sou um...  executivo...
+Eu deveria ser...
+imparável... U, u, ááá!
 <*********************>
 
 <p 03><d 681F><a 36><n 0A>
-Drowning in his own
-power...
+Afogando-se no próprio
+poder...
 <--------------------->
 
-What an appropriate end
-for a low-life that
-wanted it so badly.
+É um fim apropriado pra
+esse ralé que queria
+meu poder tanto assim.
 <--------------------->
 
 <p 03><d 691F><a 36><n 0A>
-I am the Biometal of
-the Shadows, Model P.
-You fought bravely.
+Sou o Biometal das
+Sombras, Modelo P.
+Você lutou bravamente.
 <--------------------->
 
 <p 03><d 6A1F><a 36><n 0A>
-Model X, since you are
-lending your power to
+Modelo X, já que você
+está emprestando seu
+poder a este rapaz,
 <--------------------->
 
-this one, am I to
-assume the time has
-come?
+devo pressupor que a
+hora chegou?
 <--------------------->
 
 <p 02><d 6B1F><a 31><n 05>
-It has. Someone is
-trying to revive
-Model W.
+Sim. Alguém está
+tentando reviver o
+Modelo W.
 <--------------------->
 
-Will you help us stop
-him?
+Você nos ajudará a
+impedi-lo?
 <--------------------->
 
 <p 03><d 6C1F><a 36><n 0A>
-It is our destiny
-across the ages to
+É nosso destino no
+passar das eras
 <--------------------->
 
-protect the world of
-Man.
+proteger o mundo dos
+homens.
 <--------------------->
 
 <p 03><d 6D1F><a 36><n 0A>
-Let us once again
-become humanity's blade
-for striking down evil.
+Tornemo-nos novamente
+a espada da humanidade
+para decepar o mal.
 <--------------------->
 
 <p 03><d 6E1F><a 36><n 0A>
-I apologize that I
-cannot hand over the
-password.
+Peço perdão por não
+poder lhe passar toda
+a senha.
 <--------------------->
 
-Serpent split my data
-up into two parts.
+Serpent dividiu meus
+dados em duas partes.
 <--------------------->
 
 <p 03><d 6F1F><a 36><n 0A>
-The other part is
-contained in a
-different Pseudoroid.
+A outra parte está
+contida em um Pseudo-
+róide diferente.
 <--------------------->
 
 <p 03><d 701F><a 36><n 0A>
-As long as that
-Pseudoroid is
+Enquanto este
+Pseudoróide continuar
+operacional,
 <--------------------->
 
-operational, you will
-never reach Model W.
+você não conseguirá
+chegar ao Modelo W.
 <--------------------->
 
 <p 02><d 711F><a 05><n 02>
-I better stay alert if
-there's another enemy
+Melhor eu ficar alerta
+se tiver outro inimigo
+por aí
 <--------------------->
 
-out there with the
-power of Model P.
+com os poderes do
+Modelo P.
 <*********************>
 
 <p 02><d 461F><a 02><n 04>
-Aile! Mavericks are
-concentrating in that
-area!
+Aile! Mavericks estão
+se concentrando nesta
+área!
 <--------------------->
 
 <p 01><p 02><d 471F><a 02><n 04>
-It looks like they're
-after the Biometal too,
-so be careful!
+Parece que estão atrás
+do Biometal também,
+então cuidado!
 <--------------------->
 
 <p 02><d 481F><a 05><n 02>
@@ -363,19 +369,20 @@ so be careful!
 <--------------------->
 
 <p 02><d 491F><a 02><n 04>
-Aile? Did you hear me?
-What's wrong?
+Aile? À escuta?
+O que houve?
 <--------------------->
 
 <p 02><d 4A1F><a 05><n 02>
-Oh! I'm okay. I'm going
-to proceed with the
-mission now.
+Ah! Estou bem. Vou
+prosseguir com a
+missão agora.
 <--------------------->
 
 <p 02><d 4B1F><a 05><n 02>
-I can't believe I have
-to fight here...
+Não acredito que vou
+ter que lutar neste
+lugar...
 <*********************>
 
 <FIM>

@@ -101,7 +101,7 @@ emergência.
 
 <p 02><d 8117><a 05><n 02>
 Mas não vejo ninguém
-por aqui.
+por perto.
 <*********************>
 
 <p 02><d 8217><a 02><n 04>
@@ -111,8 +111,8 @@ aconteceu aqui?
 
 <p 03><d 8317><a 05><n 02>
 Hmm... Parece que ainda
-há um disco de dados
-no terminal.
+há um disco de dados no
+terminal. Vou abri-lo.
 <--------------------->
 
 <p 02><a 04><n 56>
@@ -132,7 +132,7 @@ metal estranho na área.
 <--------------------->
 
 <p 02><a 04><n 56>
-Parece... Consciente.
+Parece... consciente.
 A comandante chamou-o
 de "Biometal Modelo W".
 <--------------------->
@@ -182,8 +182,8 @@ pesquisa...
 <*********************>
 
 <p 03><d 8417><a 05><n 02>
-É aqui que os dados
-terminam...
+E os dados terminam
+subitamente aqui...
 <--------------------->
 
 <p 02><d 8517><a 02><n 04>
@@ -236,15 +236,15 @@ com o Biometal?
 <--------------------->
 
 <p 02><d 8D17><a 02><n 04>
-Estou lendo a assina-
-ura do Biometal além
-da porta trancada.
+Detectei sinais do
+Biometal na porta
+trancada lá embaixo.
 <--------------------->
 
 <p 02><d 8E17><a 02><n 04>
 Quebraremos a trava da
 porta daqui do QG dos
-Guardiões.
+Guardiões. Vá até lá.
 <--------------------->
 
 <p 03><d 8F17><a 05><n 02>
@@ -273,10 +273,11 @@ Hmph! Tolos inúteis!
 <p 02><d 9317><a 07><n 02>
 Devia saber que vocês
 estavam atrás deste
-disco de dados!
+disco!
 <--------------------->
 
-Onde está o restante!?
+Onde está o restante
+dos dados!?
 <--------------------->
 
 <p 03><d 9417><a 1A><n 0F>
@@ -331,7 +332,7 @@ Adeus mundo cruel.
 
 <p 03><d 9B17><a 1A><n 0F>
 Não pode ser! Derrotada
-por um nanico como
+por uma nanica como
 você!
 <*********************>
 

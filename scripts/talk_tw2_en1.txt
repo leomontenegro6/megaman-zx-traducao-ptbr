@@ -1325,7 +1325,7 @@ forno!
 <p 02><a 54><n 4F>
 Não posso comer isso
 tudo, então pode ficar
-com alguns.
+com um.
 <*********************>
 
 <p 02><a 54><n 4F>
@@ -1359,8 +1359,7 @@ O que achou?
 <--------------------->
 
 <p 02><a 43><n 3E>
-Mamãe comprou esta
-pochete pra mim.
+Mamãe comprou pra mim.
 <--------------------->
 
 <p 02><a 43><n 3E>
