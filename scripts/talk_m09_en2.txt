@@ -2,57 +2,57 @@
 <#####################>
 
 <p 02><d 2923><a 02><n 55>
-I've detected a
-Biometal signature
-in Area I.
+Detectei uma assinatura
+de Biometal na Área I.
 <--------------------->
 
 <p 02><d 2A23><a 02><n 55>
-In addition to the
-Biometal,
+Além do Biometal
+que encontramos,
 <--------------------->
 
-there are other signs
-of life in the area.
+há outros sinais de
+vida na região.
 <--------------------->
 
 <p 02><d 2B23><a 02><n 55>
-It looks like some
-innocent citizens are
+Parece que alguns civis
+inocentes
 <--------------------->
 
-being held inside of
-the facility.
+estão sendo mantidos
+dentro da instalação.
 <--------------------->
 
 <p 02><d 2C23><a 02><n 55>
-Head to Area I and free
-the captives.
+Dirija-se à Área I e
+liberte os reféns.
 <*********************>
 
 <p 02><d 2D23><a 02><n 04>
-The life signs look
-like they're located in
+Os sinais de vida
+parecem estar
+localizados
 <--------------------->
 
-the very back of the
-area.
+lá no final da região.
 <--------------------->
 
 <p 02><d 2E23><a 02><n 04>
-Since you defeated the
-one in charge of the
-power plant operation,
+Como você derrotou o
+outro, encarregado das
+operações na usina,
 <--------------------->
 
-some of the equipment
-isn't functioning now.
+alguns equipamentos
+não estão funcionando
+agora.
 <--------------------->
 
 <p 02><d 2F23><a 02><n 04>
-If you could just find
-a way to get the
-electricity flowing...
+Talvez se você achar
+um jeito de religar a
+eletricidade...
 <--------------------->
 
 <p 02><d 3023><a 05><n 02>
@@ -62,9 +62,9 @@ back on.
 <*********************>
 
 <p 02><d 3123><a 1C><n 11>
-Let me guess, you're
-here to save the poor
-folks in the next room?
+Deixe-me adivinhar,
+está aqui para salvar
+os coitados na sala?
 <--------------------->
 
 Quite the little
@@ -72,97 +72,104 @@ heroine aren't you?
 <--------------------->
 
 <p 02><d 3223><a 1C><n 11>
-They're valuable
-sacrifices for the
+São sacríficios
+valiosos para a
+ressureição
 <--------------------->
 
 do Modelo W.
 <--------------------->
 
 <p 02><d 3323><a 1C><n 11>
-Cyber-elves exposed to
-data on fear are the
+Cyber-elfos expostos a
+dados sobre medo,
 <--------------------->
 
-key to reviving
-Model W.
+são a chave para
+reviver o Modelo W.
 <--------------------->
 
 <p 02><d 3423><a 1C><n 11>
-I am the Model H
-Pseudoroid, Hurricaune!
+Sou o Pseudoróide do
+Modelo H, Hurricaune!
 <--------------------->
 
 <p 02><d 3523><a 1C><n 11>
-You're about to become
-the next sacrifice.
+Está prestes a se
+tornar o próximo
+sacrifício.
 <--------------------->
 
-Just make sure to
-scream for me!
+Não esqueça de gritar
+para mim, antes de
+morrer!
 <*********************>
 
 <p 02><d 3623><a 1C><n 11>
-Ahahaha! Your screams
-were delightful!
+Á, rá, rá, rá! Seus
+gritos de desespero
+foram deleitosos!
 <*********************>
 
 <p 02><d 3723><a 1C><n 11>
-Hah... Not bad... Do
-whatever you want with
+Rá... Nada mau...
 <--------------------->
 
-the people in the next
-room...
+Faça o que quiser com
+as pessoas na outra
+sala...
 <--------------------->
 
 <p 02><d 3823><a 1C><n 11>
-It won't matter anyway.
-Model W's awakening
+Não vai importar mesmo,
+pois o despertar do
+Modelo W
 <--------------------->
 
-will still come to
-pass! Ahahaha!
+ainda sim há
+de acontecer!
+A, rá, rá, rá!
 <*********************>
 
 <p 03><d 3923><a 33><n 07>
-It looks like you've
-recovered the password
-and my power.
+Parece que você
+recuperou a senha e
+o meu poder.
 <--------------------->
 
 <p 03><d 3A23><a 33><n 07>
-I am grateful. However,
-it will take time to
-reassemble the password
+Estou grato. Porém,
+levará tempo para
+recombinar a senha
 <--------------------->
 
-into something you can
-use.
+para algo que possa
+ser utilizável.
 <--------------------->
 
 <p 03><d 3B23><a 33><n 07>
-Please be patient.
+Por favor seja
+paciente.
 <*********************>
 
 <p 02><d 3C23><a 02><n 04>
-The people are in
-that room. You have
-to free them.
+As pesoas estão naquela
+sala. Você tem que
+salvá-las.
 <*********************>
 
 <p 03><d 3D23><a 46><n 41>
-W-we're saved!!!
+E-Estamos salvos!!!
 <--------------------->
 
 <p 03><d 3E23><a 46><n 41>
-We were just about to
-become Cyber-elves!
+Estávamos prestes a
+virar Cyber-elfos!
 <--------------------->
 
 <p 03><d 3F23><a 46><n 41>
-Thank you for rescuing
-us!
+Obrigado por nos
+resgatar!
 <--------------------->
 
 <p 02><d 4023><a 05><n 02>
@@ -172,38 +179,39 @@ What do you mean?
 <--------------------->
 
 <p 03><d 4123><a 46><n 41>
-Those bad guys, they
-steal our memories and
+Esses malvados, eles
+roubam nossas memórias
 <--------------------->
 
-change us into
-Cyber-elves.
+e nos transformam em
+Cyber-elfos.
 <--------------------->
 
 <p 03><d 4223><a 46><n 41>
-They were also trying
-to scare us before
-we changed.
+Eles também estavam
+tentando nos assustar,
+antes da transformação.
 <--------------------->
 
 <p 03><d 4323><a 46><n 41>
-I saw them... I saw the
-others changing
+Eu vi eles...
 <--------------------->
 
-one-by-one into those
-Cyber-elves.
+Vi os outros sendo
+transformados em Cyber-
+elfos, um por um.
 <--------------------->
 
 <p 02><d 4423><a 02><n 04>
-So that's how they were
-able to create so many
-of them...
+Então é assim que
+conseguem criar
+tantos deles...
 <--------------------->
 
 <p 02><d 4523><a 02><n 04>
-They're even crueler
-than I had imagined.
+Eles são bem mais
+cruéis do que eu
+imaginava.
 <--------------------->
 
 <p 02><d 4623><a 02><n 04>
