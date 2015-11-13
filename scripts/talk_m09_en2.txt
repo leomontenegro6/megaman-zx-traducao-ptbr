@@ -56,9 +56,9 @@ eletricidade...
 <--------------------->
 
 <p 02><d 3023><a 05><n 02>
-Alright, I'll find some
-way to get the power
-back on.
+Certo, encontrarei uma
+maneira de fazer voltar
+a energia.
 <*********************>
 
 <p 02><d 3123><a 1C><n 11>
@@ -67,12 +67,12 @@ está aqui para salvar
 os coitados na sala?
 <--------------------->
 
-Quite the little
-heroine aren't you?
+Como é heroína, você,
+hein?
 <--------------------->
 
 <p 02><d 3223><a 1C><n 11>
-São sacríficios
+Eles são sacríficios
 valiosos para a
 ressureição
 <--------------------->
@@ -173,9 +173,9 @@ resgatar!
 <--------------------->
 
 <p 02><d 4023><a 05><n 02>
-You were going to
-"become" Cyber-elves?
-What do you mean?
+Estavam prestes a
+"virar" Cyber-elfos?
+Como assim?
 <--------------------->
 
 <p 03><d 4123><a 46><n 41>
@@ -215,9 +215,9 @@ imaginava.
 <--------------------->
 
 <p 02><d 4623><a 02><n 04>
-We'll send the people
-back to town. Thank you
-for saving them, Aile.
+Enviaremos as pessoas à
+cidade. Obrigada por
+salvá-los, Aile.
 <*********************>
 
 <FIM>

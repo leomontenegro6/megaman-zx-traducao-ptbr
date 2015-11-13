@@ -116,7 +116,7 @@ terminal. Vou abri-lo.
 <--------------------->
 
 <p 02><a 04><n 56>
-Não tenho muito tempo
+Não tenho muito tempo.
 Rezo para que estes
 dados
 <--------------------->
