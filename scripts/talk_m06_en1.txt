@@ -119,7 +119,7 @@ do terminal.
 <--------------------->
 
 <p 02><a 04><n 56>
-Não tenho muito tempo
+Não tenho muito tempo.
 Rezo para que estes
 dados
 <--------------------->
@@ -235,15 +235,15 @@ Vent.
 <--------------------->
 
 <p 02><d 8D17><a 02><n 04>
-Estou lendo a assina-
-ura do Biometal além
-da porta trancada.
+Detectei sinais do
+Biometal na porta
+trancada lá embaixo.
 <--------------------->
 
 <p 02><d 8E17><a 02><n 04>
 Quebraremos a trava da
 porta daqui do QG dos
-Guardiões.
+Guardiões. Vá até lá.
 <--------------------->
 
 <p 03><d 8F17><a 05><n 01>

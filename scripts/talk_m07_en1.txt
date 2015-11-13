@@ -168,7 +168,7 @@ Chama, Modelo F!
 <p 03><d 701B><a 34><n 08>
 Vamo nessa! Quem é o
 próximo que a gente
-vai derrubar!
+vai derrubar?
 <--------------------->
 
 <p 02><d 711B><a 05><n 01>
@@ -203,10 +203,10 @@ seu trabalho sujo.
 
 <p 03><d 751B><a 34><n 08>
 Se quiser dar o troco,
-serei seu modelo!
+serei o seu Biometal!
 <--------------------->
 
-Tá achando ruim?
+Tem algo contra?
 <--------------------->
 
 <p 02><d 761B><a 05><n 01>
@@ -234,7 +234,7 @@ com outro Pseudoróide.
 <p 03><d 791B><a 34><n 08>
 Se puder derrotar o
 outro, poderei te dar
-a senha.
+a senha completa.
 <*********************>
 
 <p 02><a 23><n 2F>
@@ -304,7 +304,7 @@ atravessar as chamas.
 
 <p 02><a 24><n 29>
 Você poderia fazer
-um pulo com o dash, e
+um pulo com dash, e
 assim passar por cima!
 <--------------------->
 
@@ -409,7 +409,8 @@ deste edifício,
 <--------------------->
 
 preparando-se para
-incendiar os próximos.
+incendiar os próximos
+prédios.
 <--------------------->
 
 <p 02><a 45><n 40>
@@ -430,8 +431,8 @@ Ajude! Por favor!
 <*********************>
 
 <p 02><a 48><n 43>
-Obrigado! Pensei que ia
-morrer!
+Obrigada! Pensei que
+fosse morrer!
 <--------------------->
 
 <p 02><a 48><n 43>
@@ -462,9 +463,8 @@ perigoso.
 <*********************>
 
 <p 02><s 01><a 48><n 43>
-O quê!? Pare de ficar
-de bobeira aí e me
-ajuda!
+Como é!? Para com essa
+brincadeira e me ajuda!
 <--------------------->
 
 <p 02><a 48><n 43>
@@ -473,7 +473,7 @@ dizer, mas...
 <--------------------->
 
 <p 02><a 48><n 43>
-Obrigado.
+Obrigada.
 <*********************>
 
 <p 02><a 4D><n 48>
@@ -503,9 +503,9 @@ e fiquei para trás.
 <--------------------->
 
 <p 02><a 51><n 4C>
-Fiquei preocupado,
-achando que não conse-
-guiria sair de lá vivo,
+Fiquei preocupada,
+achando que não ia
+sair daqui viva,
 <--------------------->
 
 já que eu não podia me
@@ -530,24 +530,24 @@ bagunça?
 <--------------------->
 
 <p 02><a 55><n 51>
-Ei, você aí! Poderia me
-dar uma mão?
+Ei, você aí! Obrigado
+por me dar uma mão!
 <--------------------->
 
 <p 02><a 55><n 51>
-Farei valer o seu
-esforço!
+Farei seu esforço
+valer a pena!
 <--------------------->
 
 <p 02><a 55><n 51>
-Isto não é nada,
+Isto pode não é ser,
 comparado ao valor
 de uma vida.
 <--------------------->
 
 <p 02><a 55><n 51>
-Por favor, fique com
-isto. É seu!
+Mas por favor, fique
+com isto. É seu!
 <*********************>
 
 <p 02><a 56><n 52>
@@ -582,7 +582,7 @@ abrir a porta.
 <*********************>
 
 <p 02><a 23><n 30>
-Obrigado por me salvar.
+Obrigada por me salvar.
 <--------------------->
 
 Há outras pessoas

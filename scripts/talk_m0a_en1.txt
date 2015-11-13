@@ -2,289 +2,303 @@
 <#####################>
 
 <p 02><d 1127><a 02><n 55>
-We received a report
-about the Guardian
-recon unit
+Recebemos um relatório
+sobre o disco de dados
+da unidade de
 <--------------------->
 
-data disk intercepted
-by the enemy.
+reconhecimento dos
+Guardiões, interceptado
+pela Serpent Ltda.
 <--------------------->
 
 <p 02><d 1227><a 02><n 55>
-The word is that the
-Slither Inc. unit that
-has it is on the move.
+Dizem que a unidade
+inimiga com o disco
+está se movendo.
 <--------------------->
 
 <p 02><d 1327><a 02><n 55>
-The enemy is
-transporting it using a
+O inimigo está
+transportando-o através
+de um túnel,
 <--------------------->
 
-tunnel deep under the
-sea in Area J.
+situado nas profundezas
+do mar, na Área J.
 <--------------------->
 
 <p 02><d 1427><a 02><n 55>
-Head to Area J and
-recover the data disk.
+Dirija-se à Área J e
+recupere o disco de
+dados.
 <*********************>
 
 <p 02><d 1527><a 02><n 04>
-The data disk contains
-the report that Sis was
+O disco de dados contém
+o relatório em que a
+irmã estava trabalhando
 <--------------------->
 
-working on while she
-was in the recon unit.
+enquanto ela ainda
+estava na unidade
+de reconhecimento.
 <--------------------->
 
 <p 02><d 1627><a 05><n 01>
-So it contains the rest
-of what we decoded from
+Então contém o restante
+do que decodificamos
+no outro disco,
 <--------------------->
 
-the other disk we found
-at the distress call
-source...
+que encontramos no
+local daquela chamada
+de emergência...
 <--------------------->
 
 <p 02><d 1727><a 02><n 04>
-We found the enemy
-delivery unit along
+Encontramos a unidade
+de entrega inimiga,
 <--------------------->
 
-with a Biometal
-signature.
+juntamente com uma
+assinatura de
+Biometal.
 <--------------------->
 
 <p 02><d 1827><a 02><n 04>
-There must be something
-important stored on
-that disk.
+Deve haver algo
+importante, armazenado
+naquele disco.
 <--------------------->
 
 <p 02><d 1927><a 02><n 04>
-The Biometal signature
-is further back in the
-same area.
+A assinatura do
+Biometal também está
+situada na mesma área.
 <--------------------->
 
-Be careful Vent.
+Tenha cuidado, Vent.
 <*********************>
 
 <p 03><d 1A27><a 1E><n 13>
-Hwahaha! So you're the
-great Mega Man that
-keeps trying to
+Ruá, rá rá! Então você
+é o grande Mega Man
 <--------------------->
 
-interfere with our
-plans.
+que fica interferindo
+nos nossos planos.
 <--------------------->
 
 <p 03><d 1B27><a 1E><n 13>
-I suppose it's asking
-too much to expect
-someone so young
+Suponho que seja pedir
+demais esperar que
+alguém tão jovem
 <--------------------->
 
-to understand what
-we're trying to do.
+entenda o que estamos
+tentando fazer.
 <--------------------->
 
 <p 03><d 1C27><a 1E><n 13>
-You should respect your
-elders and listen to us
-old folk.
+Deveria respeitar os
+mais velhos e escutar
+nossos conselhos.
 <--------------------->
 
 <p 02><d 1D27><a 05><n 01>
-I don't usually listen
-to shady types like you
+Eu normalmente não
+dou ouvidos a gente
+pessimista como você,
 <--------------------->
 
-that go around and hide
-the truth.
+que faz coisas obscuras
+e esconde a verdade.
 <--------------------->
 
 <p 02><d 1E27><a 05><n 01>
-So don't expect any
-respect from me.
+Então não espere nenhum
+respeito da minha
+parte.
 <--------------------->
 
 <p 03><d 1F27><a 1E><n 13>
-Hwahaha! Sometimes
-ignorance is bliss
-little one!
+Ruá, rá, rá! Às vezes
+a ignorância é uma
+bênção, pequenino!
 <--------------------->
 
 <p 03><d 2027><a 1E><n 13>
-I am the Model L
-Pseudoroid, Leganchor.
+Sou o Pseudoróide do
+Modelo L, Leganchor.
 <--------------------->
 
 <p 03><d 2127><a 1E><n 13>
-It looks like I'll have
-to teach you some
-respect.
+Parece que terei que
+ensiná-lo um pouco de
+respeito.
 <*********************>
 
 <p 03><d 2227><a 1E><n 13>
-Now that's a good
-little boy.
+Essa foi muito boa,
+garotinho!
 <--------------------->
 
-Sleep tight at the
-bottom of the sea.
+Durma com os peixes,
+no fundo do mar.
 <*********************>
 
 <p 03><d 2327><a 1E><n 13>
-Why... Why do you fight
-so hard?
+Por que... Por que você
+luta tão bravamente?
 <--------------------->
 
-Why do you risk your
-life for those fools?
+Por que arrisca sua
+vida por esses tolos?
 <--------------------->
 
 <p 03><d 2427><a 1E><n 13>
-Youth is wasted... on
-the young...
+A juventude é desper-
+diçada... nos jovens...
 <*********************>
 
 <p 03><d 2527><a 35><n 09>
-How could anyone give
-my power to someone
-like that!?
+Como alguém pôde dar
+meu poder a alguém
+assim?!
 <--------------------->
 
 <p 03><d 2627><a 35><n 09>
-I'm sorry, it'll take
-some time to recover
-the password.
+Sinto muito, mas levará
+um tempo para recuperar
+a senha.
 <--------------------->
 
 <p 03><d 2727><a 35><n 09>
-I'll make sure it's
-available before
+Me esforçarei para
+recuperá-la
 <--------------------->
 
-you have to take on
-Model W.
+antes de você enfrentar
+o Modelo W.
 <*********************>
 
 <p 02><d 2827><a 02><n 04>
-Vent, the data disk,
-is...
+Vent, o disco de dados,
+está...
 <--------------------->
 
 <p 02><d 2927><a 05><n 01>
-Yeah, the recon unit
-report is on it.
+Sim, a unidade de
+reconhecimento está
+nele.
 <*********************>
 
 <p 02><a 04><n 00>
-The recon unit was
-wiped out by the act of
-one of our own.
+A unidade de reconhe-
+cimento foi aniquilada
+por um dos nossos.
 <*********************>
 
 <p 01><p 02><a 04><n 00>
-His name is Serpent and
-he was always the one
+Seu nome é Serpent e
+ele sempre foi o mais
+interessado
 <--------------------->
 
-most interested in the
-Model W fragment.
-<--------------------->
-
-<p 01><p 02><a 04><n 00>
-He erased the research
-data and vanished with
-the Biometal.
+no Biometal do
+Modelo W.
 <--------------------->
 
 <p 01><p 02><a 04><n 00>
-I've never heard of a
-Maverick that powerful.
+Ele apagou os dados da
+pesquisa e desapareceu
+com o Biometal.
 <--------------------->
 
 <p 01><p 02><a 04><n 00>
-Model W must have
-transformed him into
-"something else."
+Nunca ouvi falar de um
+Maverick tão poderoso
+assim.
 <--------------------->
 
 <p 01><p 02><a 04><n 00>
-We now know that
-Model W has the power
-to create an enemy much
+O modelo W deve tê-lo
+transformado em
+"outra pessoa".
 <--------------------->
 
-more terrifying than
-the Mavericks.
+<p 01><p 02><a 04><n 00>
+Agora sabemos que o
+Modelo W tem o poder
+de criar um inimigo
+<--------------------->
+
+muito mais assustador
+que os Mavericks.
 <*********************>
 
 <p 02><a 04><n 00>
-I only hope that our
-sacrifice bought the
+Espero que nosso
+sacrifício tenha
+dado tempo suficiente
 <--------------------->
 
-commander enough time
-to escape.
+para a comandante
+conseguir escapar.
 <--------------------->
 
 <p 02><a 04><n 00>
-I don't have much
-longer. I pray that
-this data
+Não tenho muito tempo.
+Rezo para que estes
+dados
 <--------------------->
 
-doesn't fall into the
-wrong hands.
+não caiam em mãos
+erradas.
 <--------------------->
 
 <p 02><d 2A27><a 02><n 04>
-Serpent was awfully
-worried about that data
-leaking out.
+Serpent estava muito
+preocupado com esses
+dados vazarem.
 <--------------------->
 
 <p 02><d 2B27><a 02><n 04>
-He must have known the
-reaction the people of
+Ele certamente sabe
+como o povo deste país
+teria reagido,
 <--------------------->
 
-this country would have
-if they knew the truth.
+se eles soubessem
+a verdade.
 <--------------------->
 
 <p 02><d 2C27><a 02><n 04>
-Send the data disk
-along with your mission
-report.
+Envie o disco de dados,
+juntamente com o seu
+relatório da missão.
 <--------------------->
 
 <p 02><d 2D27><a 02><n 04>
-We can't allow the
-information contained
-on it to get out until
+Não podemos deixar que
+a informação contida
+este disco vaze,
 <--------------------->
 
-we know exactly what
-it is.
+até que saibamos
+exatamente do que
+se trata.
 <--------------------->
 
 <p 02><d 2E27><a 05><n 01>
-Alright, I'll send it.
+Certo, vou enviá-lo.
 <--------------------->
 
 <p 02><d 2F27><a 02><n 04>
-Sis... She must have
-gotten away while the
-others protected her.
+Irmã... Ela deve ter
+fugido enquanto os
+outros a protegeram.
 <--------------------->
 
 <p 02><d 3027><a 05><n 01>

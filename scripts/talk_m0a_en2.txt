@@ -2,314 +2,325 @@
 <#####################>
 
 <p 02><d 1127><a 02><n 55>
-We received a report
-about the Guardian
-recon unit
+Recebemos um relatório
+sobre o disco de dados
+da unidade de
 <--------------------->
 
-data disk intercepted
-by the enemy.
+reconhecimento dos
+Guardiões, interceptado
+pela Serpent Ltda.
 <--------------------->
 
 <p 02><d 1227><a 02><n 55>
-The word is that the
-Slither Inc. unit that
-has it is on the move.
+Dizem que a unidade
+inimiga com o disco
+está se movendo.
 <--------------------->
 
 <p 02><d 1327><a 02><n 55>
-The enemy is
-transporting it using a
+O inimigo está
+transportando-o através
+de um túnel,
 <--------------------->
 
-tunnel deep under the
-sea in Area J.
+situado nas profundezas
+do mar, na Área J.
 <--------------------->
 
 <p 02><d 1427><a 02><n 55>
-Head to Area J and
-recover the data disk.
+Dirija-se à Área J e
+recupere o disco de
+dados.
 <*********************>
 
 <p 02><d 1527><a 02><n 04>
-The data disk contains
-the report that Sis was
+O disco de dados contém
+o relatório em que a
+irmã estava trabalhando
 <--------------------->
 
-working on while she
-was in the recon unit.
+enquanto ela ainda
+estava na unidade
+de reconhecimento.
 <--------------------->
 
 <p 02><d 1627><a 05><n 02>
-So that disk is going
-to contain the rest of
-the data that was
+Então este disco deve
+conter o restante dos
+dados desaparecidos
 <--------------------->
 
-missing from the one we
-found at the distress
-call terminal.
+naquele outro disco que
+encontramos no local da
+chamada de emergência.
 <--------------------->
 
 <p 02><d 1727><a 02><n 04>
-We found the enemy
-delivery unit along
+Encontramos a unidade
+de entrega inimiga,
 <--------------------->
 
-with a Biometal
-signature.
+juntamente com uma
+assinatura de
+Biometal.
 <--------------------->
 
 <p 02><d 1827><a 02><n 04>
-There must be something
-important stored on
-that disk.
+Deve haver algo
+importante, armazenado
+naquele disco.
 <--------------------->
 
 <p 02><d 1927><a 02><n 04>
-The Biometal signature
-is further back in the
-same area.
+A assinatura do
+Biometal também está
+situada na mesma área.
 <--------------------->
 
-Be careful Aile.
+Tome cuidado, Aile.
 <*********************>
 
 <p 03><d 1A27><a 1E><n 13>
-Hwahaha! So you're the
-great Mega Man that
-keeps trying to
+Ruá, rá rá! Então você
+é o grande Mega Man
 <--------------------->
 
-interfere with our
-plans.
+que fica interferindo
+nos nossos planos.
 <--------------------->
 
 <p 03><d 1B27><a 1E><n 13>
-I suppose it's asking
-too much to expect
-someone so young
+Suponho que seja pedir
+demais esperar que
+alguém tão jovem
 <--------------------->
 
-to understand what
-we're trying to do.
+entenda o que estamos
+tentando fazer.
 <--------------------->
 
 <p 03><d 1C27><a 1E><n 13>
-You should respect your
-elders and listen to us
-old folk.
+Deveria respeitar os
+mais velhos e escutar
+nossos conselhos.
 <--------------------->
 
 <p 02><d 1D27><a 05><n 02>
-You're asking for
-respect when you're
-going around hiding
+Você fica pedindo
+respeito,
 <--------------------->
 
-the truth from the
-people?
+enquanto continua
+escondendo a verdade
+das pessoas?
 <--------------------->
 
 <p 02><d 1E27><a 05><n 02>
-Yeah, you're a great
-role model.
+É, belo exemplo a
+seguir você é.
 <--------------------->
 
 <p 03><d 1F27><a 1E><n 13>
-Hwahaha! Sometimes
-ignorance is bliss
-little one!
+Ruá, rá, rá! Às vezes
+a ignorância é uma
+bênção, pequenina!
 <--------------------->
 
 <p 03><d 2027><a 1E><n 13>
-I am the Model L
-Pseudoroid, Leganchor.
+Sou o Pseudoróide do
+Modelo L, Leganchor.
 <--------------------->
 
 <p 03><d 2127><a 1E><n 13>
-It looks like I'll have
-to teach you some
-respect.
+Parece que terei que
+ensiná-la um pouco de
+respeito.
 <*********************>
 
 <p 03><d 2227><a 1E><n 13>
-Now that's a good
-little girl.
+Essa foi boa,
+garotinha.
 <--------------------->
 
-Sleep tight at the
-bottom of the sea.
+Durma com os peixes,
+no fundo do mar.
 <*********************>
 
 <p 03><d 2327><a 1E><n 13>
-Why... Why do you fight
-so hard?
+Por que... Por que você
+luta tão bravamente?
 <--------------------->
 
-Why do you risk your
-life for those fools?
+Por que arrisca sua
+vida por esses tolos?
 <--------------------->
 
 <p 03><d 2427><a 1E><n 13>
-Youth is wasted... on
-the young...
+A juventude é desper-
+diçada... nos jovens...
 <*********************>
 
 <p 03><d 2527><a 35><n 09>
-How could anyone give
-my power to someone
-like that!?
+Como alguém pôde dar
+meu poder a alguém
+assim?!
 <--------------------->
 
 <p 03><d 2627><a 35><n 09>
-I'm sorry, it'll take
-some time to recover
-the password.
+Sinto muito, mas levará
+um tempo para recuperar
+a senha.
 <--------------------->
 
 <p 03><d 2727><a 35><n 09>
-I'll make sure it's
-available before
+Me esforçarei para
+recuperá-la
 <--------------------->
 
-you have to take on
-Model W.
+antes de você enfrentar
+o Modelo W.
 <*********************>
 
 <p 02><d 2827><a 02><n 04>
-Aile, the data disk,
-is...
+Aile, o disco de dados
+está...
 <--------------------->
 
 <p 02><d 2927><a 05><n 02>
-Yes, the recon unit
-report is on it.
+Sim, a unidade de
+reconhecimento está
+nele.
 <*********************>
 
 <p 02><a 04><n 00>
-Serpent wiped out the
-recon unit and vanished
+Serpent aniquilou a
+unidade de reconheci-
+mento,
 <*********************>
 
 <p 01><p 02><a 04><n 00>
-with the Model W
-fragment.
+com o Biometal do
+Modelo W.
 <--------------------->
 
-Others had come into
-contact with the
-fragment, so I don't
-<--------------------->
-
-<p 01><p 02><a 04><n 00>
-understand the reason
-Serpent was the only
-one affected.
+Outros também ficaram
+ilesos ao entrar em
+contato com o Biometal,
 <--------------------->
 
 <p 01><p 02><a 04><n 00>
-If I recall correctly,
-there was one thing
-that was different.
+logo não entendo como
+o Serpent foi o único
+afetado.
 <--------------------->
 
 <p 01><p 02><a 04><n 00>
-He was a Maverick raid
-survivor.
+Se não me falha a
+memória, havia uma
+diferença no caso dele.
 <--------------------->
 
 <p 01><p 02><a 04><n 00>
-His passion for
-research must have been
-linked to his fear.
+Ele era um sobrevivente
+de um ataque de
+Mavericks.
 <--------------------->
 
-Model W must have been
-able to manipulate his
-emotions.
+<p 01><p 02><a 04><n 00>
+Sua paixão por pesquisa
+deve estar ligada a
+seu medo.
+<--------------------->
+
+O Modelo W deve ter
+conseguido manipular
+suas emoções.
 <*********************>
 
 <p 02><a 04><n 00>
-However, that still
-leaves the question of
+No entanto, isso ainda
+deixa a dúvida
 <--------------------->
 
-what Model W is
-after...
+do que o Modelo W está
+atrás...
 <--------------------->
 
 <p 02><a 04><n 00>
-I don't have much
-longer. I pray that
-this data
+Não tenho muito tempo.
+Rezo para que estes
+dados
 <--------------------->
 
-doesn't fall into the
-wrong hands.
+não caiam em mãos
+erradas.
 <--------------------->
 
 <p 02><d 2A27><a 02><n 04>
-Serpent was awfully
-worried about that data
-leaking out.
+Serpent estava muito
+preocupado com esses
+dados vazarem.
 <--------------------->
 
 <p 02><d 2B27><a 02><n 04>
-He must have known the
-reaction the people of
+Ele certamente sabe
+como o povo deste país
+teria reagido,
 <--------------------->
 
-this country would have
-if they knew the truth.
+se eles soubessem
+a verdade.
 <--------------------->
 
 <p 02><d 2C27><a 02><n 04>
-Send the data disk
-along with your mission
-report.
+Envie o disco de dados,
+juntamente com o seu
+relatório da missão.
 <--------------------->
 
 <p 02><d 2D27><a 02><n 04>
-We can't allow the
-information contained
-on it to get out until
+Não podemos deixar que
+a informação contida
+este disco vaze,
 <--------------------->
 
-we know exactly what
-it is.
+até que saibamos
+exatamente do que
+se trata.
 <--------------------->
 
 <p 02><d 2E27><a 08><n 02>
-So Serpent is a
-survivor of Maverick
-raids just like me...
+Então Serpent é um
+sobrevivente desses
+ataques, igual a mim...
 <--------------------->
 
 <p 02><d 2F27><a 08><n 02>
-If he became what he is
-now.
+Se ele se tornou o que
+é agora,
 <--------------------->
 
-What's to stop me from
-becoming the same
-thing?
+o que vai me impedir
+de virar a mesma
+coisa?
 <--------------------->
 
 <p 02><d 3027><a 02><n 04>
-Aile, you won't become
-the same as him.
+Aile, você não vai
+se tornar o mesmo que
+ele.
 <--------------------->
 
-Remember the courage
-you showed when you
-saved me.
+Lembre-se da coragem
+que você mostrou,
+quando me salvou.
 <--------------------->
 
 <p 02><d 3127><a 02><n 04>
-If you hold onto that
-purity, you won't stray
-from the right path.
+Se continuar com essa
+pureza de coração, não
+sairá do caminho certo.
 <--------------------->
 
 <p 02><a 05><n 02>
