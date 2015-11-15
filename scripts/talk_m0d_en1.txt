@@ -2,127 +2,132 @@
 <#####################>
 
 <p 02><d C932><a 02><n 04>
-Vent! Can you hear me!?
-Come in!
+Vent! À escuta?!
+Pode me ouvir?!
 <--------------------->
 
 <p 02><d CA32><a 02><n 04>
-HQ radar has spotted
-multiple Slither Inc.
-airships!
+O radar do QG detectou
+várias aeronaves da
+Serpent Ltda.
 <--------------------->
 
 <p 02><d CB32><a 02><n 04>
-Their fleet is flying
-full speed straight
-at us!
+Sua frota está voando
+à toda velocidade
+em nossa direção!
 <--------------------->
 
 <p 02><d CC32><a 02><n 04>
-Please get back here!
-We need your help!
+Por favor venha até
+aqui! Precisamos de
+sua ajuda!
 <*********************>
 
 <p 03><d CD32><a 07><n 01>
-Prairie, what's the
-status on the enemy
-fleet?
+Prairie, qual é a
+situação da frota
+inimiga?
 <*********************>
 
 <p 02><d CE32><a 0B><n 04>
-Not good! They're
-right on top of us!
+Nada bom! Estão bem
+em cima de nós!
 <--------------------->
 
 <p 02><d CF32><a 0B><n 04>
-This ship wasn't
-designed for heavy
-battle.
+Esta aeronave não foi
+projetada para combate
+pesado.
 <--------------------->
 
-If the enemy boards us,
-we're done for!
+Se o inimigo conseguir
+pousar, estaremos
+acabados!
 <*********************>
 
 <p 02><d D032><a 02><n 55>
-Slither Inc.'s
-fleet has fired an
-opening volley!
+A frota da Serpent Ltda
+lançou a primeira
+salva de tiros!
 <--------------------->
 
 <p 02><d D132><a 02><n 55>
-Returning fire!
+Retornar fogo!
 <*********************>
 
 <p 02><d D232><a 0B><n 04>
-All hands man the port
-and starboard machine
-guns!
+Todos guarneçam o porto
+e as metralhadoras do
+estibordo!
 <--------------------->
 
 <p 02><d D332><a 0B><n 04>
-Don't let them get
-any closer!
+Não deixe que se
+aproximem!
 <*********************>
 
 <p 02><d D432><a 0B><n 04>
-Vent! You have to get
-to the deck and do what
+Vent! Você tem que
+chegar ao convés e
+fazer o que puder
 <--------------------->
 
-you can to stop those
-boarding parties!
+para impedir as tropas
+de pousarem na nave!
 <*********************>
 
 <p 03><d D532><a 07><n 01>
-Leave it to me! No
-one's going to get hurt
-on my watch!
+Deixa comigo! Ninguém
+vai se machucar comigo
+aqui!
 <--------------------->
 
 <p 03><d D632><a 07><n 01>
-I'll protect the
-Guardians!
+Vou proteger os
+Guardiões!
 <*********************>
 
 <p 02><d D732><a 07><n 01>
-They're the ones from
-before!
+São aqueles caras de
+antes!
 <--------------------->
 
 <p 02><d D832><a 02><n 04>
-Enemy troops have
-boarded the ship!
+Tropas inimigas
+aterrissaram na nave!
 <--------------------->
 
 <p 02><d D932><a 02><n 04>
-They're heading for the
-engine room down below!
+Estão se dirigindo à
+sala dos motores lá
+embaixo!
 <--------------------->
 
 <p 02><d DA32><a 02><n 04>
-You have to get down
-there and protect the
-engines! Hurry!
+Você tem que chegar até
+lá para proteger os
+motores! Rápido!
 <--------------------->
 
 <p 02><d DB32><a 07><n 01>
-Hmph! Don't worry, they
-won't get through me!
+Hmph! Não se preocupe,
+eles não vão passar por
+mim!
 <*********************>
 
 <p 02><d DC32><a 23><n 2C>
-Hey you! Stand away
-from the reactor!
+Ei, você! Fique longe
+do reator!
 <*********************>
 
 <p 03><d DD32><a 19><n 0E>
-Move aside...
+Nos dê passagem...
 <*********************>
 
 <p 02><d DE32><a 07><n 01>
-Prairie, are you
-alright!?
+Prairie, tudo bem com
+você!?
 <--------------------->
 
 <p 02><d DF32><a 0B><n 04>
@@ -130,54 +135,56 @@ Vent!
 <*********************>
 
 <p 01><p 03><d E032><a 19><n 0E>
-You... The boy from
-before... Model X...
-Model Z... together...
+Você... O garoto de
+antes... Modelo X...
+Modelo Z... juntos...
 <--------------------->
 
 <p 01><p 03><d E132><a 18><n 0D>
-Or should we just say
-Model ZX now?
+Ou será que agora
+deveríamos dizer
+"Modelo ZX"?
 <--------------------->
 
 <p 01><p 03><d E232><a 18><n 0D>
-Serpent's orders are to
-eliminate the Guardians
-here and now...
+A ordens de Serpent são
+para eliminar os Guar-
+diões, aqui e agora...
 <--------------------->
 
-Such a waste.
+Que desperdício.
 <--------------------->
 
 <p 01><p 03><d E332><a 18><n 0D>
-It's time for one final
-test to see if you will
-make a worthy sacrifice
+É chegada a hora do
+teste final, para ver
+se você fará
 <--------------------->
 
-for the revival of
-Model W.
+um sacrifício digno
+para a ressureição do
+Modelo W.
 <--------------------->
 
 <p 01><p 02><d E432><a 07><n 01>
-Sacrifice!? Me!?
+Sacrifício!? Eu!?
 <*********************>
 
 <p 03><d E532><a 19><n 0E>
-Prometheus... It's not
-fair...
+Prometeus... Não é
+justo...
 <--------------------->
 
 <p 03><d E632><a 18><n 0D>
-Don't worry, I'll be
-sure to leave some fun
-for you.
+Não se preocupe. Vou
+deixar um pouco da
+diversão pra você.
 <--------------------->
 
 <p 03><d E732><a 18><n 0D>
-That is unless he's too
-fragile and gets blown
-to pieces.
+A não ser que ele seja
+frágil demais, e acabe
+em pedaços antes.
 <*********************>
 
 <p 02><d E832><a 0B><n 04>
@@ -185,227 +192,233 @@ Vent!
 <--------------------->
 
 <p 02><d E932><a 07><n 01>
-Get back Prairie! I'll
-handle him!
+Afaste-se, Prairie!
+Vou cuidar deles!
 <*********************>
 
 <p 03><d EA32><a 18><n 0D>
-Interesting... You're
-more powerful than I
-expected.
+Interessante... Você é
+mais forte do que eu
+esperava.
 <--------------------->
 
 <p 03><d EB32><a 18><n 0D>
-You've combined the
-Biometal fragments to
-draw out more power.
+Você combinou os dois
+Biometais para obter
+mais poder.
 <--------------------->
 
 <p 03><d EC32><a 18><n 0D>
-Excellent feature. That
-woman knew what she was
+Excelente função.
+Aquela mulher sabia o
+que estava fazendo,
 <--------------------->
 
-doing when she created
-that Biometal...
+quando ela criou aquele
+Biometal...
 <*********************>
 
 <p 02><d ED32><a 0B><n 04>
-Wait!
+Espere!
 <*********************>
 
 <p 02><d EE32><a 0B><n 04>
-"That woman!?" You're
-talking about Sis!
+"Aquela mulher"?!
+Estão falando da irmã!
 <*********************>
 
 <p 03><d EF32><a 18><n 0D>
-Oh, you know her? Well
-then you must not be of
-this time either...
+Ah, conhece ela? Bom,
+então você também não
+deve ser desta era...
 <--------------------->
 
 <p 03><d F032><a 18><n 0D>
-Haha... What an
-interesting little
+Rá, rá...
 <--------------------->
 
-connection you two
-have!
+Que conexãozinha
+interessante essa
+que vocês dois possuem!
 <*********************>
 
 <p 02><d F132><a 07><n 01>
-Wait! Get back here!
+Espere! Volte aqui!
 <*********************>
 
 <p 03><d F232><a 18><n 0D>
-Hmph. Don't be so quick
-to bear your claws to
-me little one.
+Hmph. Não seja tão
+rápido ao mostrar suas
+garras para mim, jovem.
 <--------------------->
 
-It'll cost you your
-life, just like it cost
-the red Mega Man his.
+Vai acabar custando sua
+vida, tal como custou
+a do Mega Man vermelho.
 <--------------------->
 
 <p 02><d F332><a 07><n 01>
-Why you-!
+Ora, seu!
 <--------------------->
 
 <p 03><d F432><a 18><n 0D>
-Haha... Consider
-yourself lucky to be
-alive.
+Rá, rá... Considere-se
+sortudo por ainda estar
+vivo.
 <--------------------->
 
-Remember this moment
-and how I let you live!
+Lembre-se deste momento
+e como eu o deixei
+viver!
 <--------------------->
 
 <p 03><d F532><a 18><n 0D>
-If you want to press
-your luck, we'll be
-waiting! Hahahahaha!
+Mas se quer testar sua
+sorte, estaremos lhe
+esperando! Rá, rá, rá!
 <*********************>
 
 <p 02><d F632><a 02><n 55>
-Commander Prairie! The
-enemy fleet is moving
-away!
+Comandante Prairie!
+A frota inimiga estão
+se afastando!
 <--------------------->
 
 <p 02><d F732><a 0B><n 04>
-The enemy has
-retreated. I want a
-damage report!
+O inimigo recuou.
+Quero um relatório
+dos danos!
 <--------------------->
 
 <p 02><d F832><a 0C><n 04>
-And make sure the
-wounded get priority.
+E lembrem-se de dar
+prioridade aos feridos.
 <--------------------->
 
 <p 02><d F932><a 02><n 55>
-Understood.
+Entendido.
 <*********************>
 
 <p 02><d FA32><a 0C><n 04>
-Vent, come back to the
-command center.
+Vent, volte ao centro
+de comando.
 <*********************>
 
 <p 02><d FB32><a 0B><n 04>
-There's something we
-need to talk about.
+Há algo que precisamos
+conversar.
 <--------------------->
 
 <p 03><d FC32><a 05><n 01>
-Is this about
-Prometheus saying you
-were not of this time?
+É sobre Prometeus
+dizendo que vocês dois
+não são desta era?
 <*********************>
 
 <p 02><d FD32><a 0C><n 04>
-Did you know that a
-long, long time ago
-humans and
+Você sabia quem,
+muitos, muitos anos
+atrás,
 <--------------------->
 
-machines were at war
-with each other?
+humanos e máquinas
+estavam em guerra
+entre si?
 <*********************>
 
 <p 03><d FE32><a 05><n 01>
-I've heard about it,
-but that was hundreds
-of years ago.
+Ouvi sobre, mas isso
+foi há séculos.
 <--------------------->
 
-It's just history now.
+Já virou história
+agora.
 <--------------------->
 
 <p 02><d FF32><a 0C><n 04>
-I'm a machine born of
-that era.
+Eu sou uma máquina
+nascida nesta era de
+guerra.
 <*********************>
 
 <p 02><d 0033><a 0C><n 04>
-I was designed to look
-like a person. I'm a
-Reploid.
+Fui projetada para ser
+parecida com humanos.
+Sou uma Replóide.
 <--------------------->
 
 <p 03><d 0133><a 07><n 01>
-You're a Reploid built
-hundreds of years ago!?
+Você é uma Replóide
+construída a centenas
+de anos atrás?!
 <*********************>
 
 <p 01><p 02><d 0233><a 09><n 04>
-But Sis... She was not
-a Reploid. She was
-human.
+Mas a irmã... Ela não
+era uma Replóide.
+Ela era humana.
 <--------------------->
 
 <p 01><p 02><d 0333><a 09><n 04>
-She was a scientist who
-tried to protect us
+Ela era uma cientista
+que tentou proteger
+nós Replóides,
 <--------------------->
 
-Reploids when no one
-else would.
+quando ninguém mais
+queria fazê-lo.
 <--------------------->
 
 <p 01><p 02><d 0433><a 09><n 04>
-When the war ended,
-Human and Reploid were
-both living in harmony,
+No fim da guerra, ambos
+os humanos e Replóides
+viviam em harmonia,
 <--------------------->
 
-and peace had finally
-prevailed.
+e a paz finalmente
+havia prevalecido.
 <--------------------->
 
 <p 01><p 02><d 0533><a 09><n 04>
-But the sentient
-machines known as
-Mavericks
+Mas então, as máquinas
+sencientes conhecidas
+como Mavericks
 <--------------------->
 
-continued to threaten
-mankind.
+continuaram a ameaçar
+a humanidade.
 <*********************>
 
 <p 01><p 02><d 0633><a 09><n 04>
-Sis formed the
-Guardians and tried to
-locate the source of
+A irmã formou os
+Guardiões e tentou
+localizar a fonte 
 <--------------------->
 
-the Maverick outbreaks
-in order to stop it.
+desses ataques de
+Mavericks, para tentar
+impedi-los.
 <--------------------->
 
 <p 01><p 02><d 0733><a 0C><n 04>
-But Sis... She... she's
-gone. And...
+Mas a irmã... Ela...
+Ela se foi. E...
 <*********************>
 
 <p 03><d 0833><a 05><n 01>
-You've been fighting
-Mavericks for
-centuries...
+Você esteve combatendo
+os Mavericks por
+séculos...
 <--------------------->
 
 <p 03><d 0933><a 05><n 01>
-Fighting for the ones
-you love just like
-me...
+Você luta por aqueles
+que ama, igual a mim...
 <--------------------->
 
-Well, not quite like
-me. You've been at it
-much longer than me.
+Bom, não exatamente.
+Você está nisso a mais
+tempo que eu.
 <*********************>
 
 <p 02><d 0A33><a 09><n 04>
@@ -413,40 +426,41 @@ Vent.
 <--------------------->
 
 <p 03><d 0B33><a 05><n 01>
-Boss told me never to
-give up.
+O Chefe me disse para
+nunca desistir.
 <--------------------->
 
-That I still had
-something I must
-protect.
+Disse que eu ainda
+tinha algo que devo
+proteger.
 <--------------------->
 
 <p 03><d 0C33><a 05><n 01>
-We must destroy Model W
-and stop the Maverick
-outbreaks!
+Devemos destruir o
+Modelo W, e impedir os
+ataques de Mavericks!
 <--------------------->
 
 <p 03><d 0D33><a 05><n 01>
-For Boss... For mom...
-For your sister...
+Pelo Chefe...
+Pela mamãe...
+Pela sua irmã...
 <--------------------->
 
 <p 03><d 0E33><a 06><n 01>
-For everyone that we
-hold dear in our
-hearts!
+Por cada pessoa que
+guardamos com afeto
+em nossos corações!
 <*********************>
 
 <p 02><d 0F33><a 0A><n 04>
-You're right... Thank
-you, Vent.
+Tem razão...
+Obrigada, Vent.
 <--------------------->
 
 <p 02><d 1033><a 09><n 04>
-Let's get this mission
-underway!
+Vamos continuar as
+outras missões!
 <*********************>
 
 <FIM>
