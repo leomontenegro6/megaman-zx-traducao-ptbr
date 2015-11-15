@@ -2,187 +2,196 @@
 <#####################>
 
 <p 02><d E12E><a 02><n 55>
-We've located an old
-research lab in Area L.
+Localizamos um antigo
+laboratório de pesquisa
+na Área L.
 <--------------------->
 
 <p 02><d E22E><a 02><n 55>
-The facility's layout
-is similar to the one
+Este laboratório é bem
+parecido com o outro
 <--------------------->
 
-where the first
-commander discovered
-Model X.
+onde a primeira
+comandante descobriu
+o Modelo X.
 <--------------------->
 
 <p 02><d E32E><a 02><n 55>
-There might be some
-clues about the
-Biometal around there.
+Deve haver outras
+pistas sobre o Biometal
+no local.
 <--------------------->
 
 <p 02><d E42E><a 02><n 55>
-The enemy is already
-moving into the area.
+O inimigo já está se
+movendo até a área.
 <--------------------->
 
 <p 02><d E52E><a 02><n 55>
-We can't let that data
-fall into their hands.
+Não podemos deixar
+esses dados cairem
+em mãos erradas.
 <--------------------->
 
 <p 02><d E62E><a 02><n 55>
-Head to Area L and
-acquire the data before
-they do.
+Dirija-se à Área L e
+adquira os dados antes
+deles.
 <*********************>
 
 <p 02><d E72E><a 02><n 04>
-Aile! The enemy has
-commenced their attack!
+Aile! O inimigo iniciou
+seu ataque!
 <--------------------->
 
 <p 02><d E82E><a 02><n 04>
-If we don't hurry, all
-of the data in the
+Se não nos apressarmos,
+todos os dados do
+laboratório de pesquisa
 <--------------------->
 
-research lab will be
-lost!
+serão perdidos!
 <--------------------->
 
 <p 02><d E92E><a 02><n 04>
-The room with the data
-should be up ahead!
+A sala com os dados
+deve estar logo a
+frente!
 <*********************>
 
 <p 03><d EA2E><a 20><n 15>
-You've come at last...
+Enfim você veio...
 <--------------------->
 
-The foolish Mega Man
-who has sided with the
-Guardians.
+A Mega Man tola que
+se aliou aos Guardiões.
 <--------------------->
 
 <p 03><d EB2E><a 20><n 15>
-All of the data that
-was found here is now
+Todos os dados que
+encontramos aqui,
 <--------------------->
 
-in my internal data
-disk.
+agora estão no meu
+disco de dados
+interno.
 <--------------------->
 
 <p 03><d EC2E><a 20><n 15>
-I just need to destroy
-this room with you in
-it,
+Só preciso destruir
+esta sala, com você
+dentro,
 <--------------------->
 
-and all of the loose
-ends will be tied up.
+e todas as pontas
+soltas estarão
+amarradas.
 <--------------------->
 
 <p 03><d ED2E><a 20><n 15>
-I am the Model P
-Pseudoroid, Protectos!
+Sou o Pseudoróide do
+Modelo P, Protectos!
 <--------------------->
 
 <p 03><d EE2E><a 20><n 15>
-I will crush anyone
-that stands in our way!
+Esmagarei qualquer um
+que ficar em nosso
+caminho!
 <*********************>
 
 <p 03><d EF2E><a 20><n 15>
-Hmph! Your pathetic
-sense of righteousness
-got you nowhere.
+Hmph! Seu senso de
+justiça não a levou
+a lugar algum.
 <*********************>
 
 <p 03><d F02E><a 20><n 15>
-Ugh! No! How could
-anyone break through my
-armor!
+Urgh! Não! Como alguém
+conseguiu atravessar
+minha armadura?!
 <--------------------->
 
 <p 03><d F12E><a 20><n 15>
-Rrraaagh!
+Rrrááárgh!
 <*********************>
 
 <p 03><d F22E><a 36><n 0A>
-Oh how the mighty have
-fallen.
+No fim, até os mais
+poderosos acabam
+caindo.
 <--------------------->
 
-Strong armor is
-nothing compared to
-the power of will.
+Uma armadura resistente
+não é nada, comparado à
+força de vontade.
 <--------------------->
 
 <p 03><d F32E><a 36><n 0A>
-It will take some time
-before I am capable of
+Levará um tempo até
+eu ser capaz de
 <--------------------->
 
-recovering the
-password.
+recuperar toda a
+senha.
 <--------------------->
 
 <p 03><d F42E><a 36><n 0A>
-The password will be
-ready when you need it.
+No entanto, a senha
+estará pronta quando
+precisar.
 <*********************>
 
 <p 02><d F52E><a 02><n 04>
-That data disk was left
-behind by Sis. It had
-to be.
+Esse disco de dados foi
+deixado para trás pela
+irmã. Só pode ser.
 <--------------------->
 
 <p 02><d F62E><a 02><n 04>
-Make sure you don't
-forget to pick it up.
+Não esqueça de pegá-lo,
+antes de voltar.
 <*********************>
 
 <p 02><a 01><n 00>
-Biometal Report
-Classification #555913
-* Chosen One *
+Relatório de Biometal
+Classificação n. 555913
+* Escolhida *
 <--------------------->
 
 <p 02><a 01><n 00>
-This message is
-intended for the chosen
-one who will someday
+Esta mensagem será
+intencionada ao
+escolhido,
 <--------------------->
 
-find the Biometal I
-have created.
+que algum dia
+encontrará o Biometal
+que eu criei.
 <--------------------->
 
 <p 02><a 01><n 00>
-In order... fight...
-Model W... causing
-the Maverick...
+Para... combater...
+Modelo W... causando
+os ataques de Mav...
 <--------------------->
 
 <p 02><d F72E><a 08><n 02>
-No good. It looks like
-the data is corrupt.
+Nada bom. Parece que
+os dados estão
+corrompidos.
 <--------------------->
 
 <p 02><d F82E><a 02><n 04>
-We might still have
-something that can
-recover the data at HQ.
+Talvez tenhamos algo
+que possa recuperar
+os dados, no QG.
 <--------------------->
 
 <p 02><d F92E><a 02><n 04>
-Please send it to us
-along with your mission
-report.
+Por favor envie-o para
+nós, junto com o seu
+relatório da missão.
 <*********************>
 
 <FIM>

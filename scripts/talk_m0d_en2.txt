@@ -2,124 +2,129 @@
 <#####################>
 
 <p 02><d C932><a 02><n 04>
-Aile! Can you hear me!?
-Come in!
+Aile! Pode me ouvir?
+À escuta?!
 <--------------------->
 
 <p 02><d CA32><a 02><n 04>
-HQ radar has spotted
-multiple Slither Inc.
-airships!
+O radar do QG detectou
+várias aeronaves da
+Serpent Ltda.
 <--------------------->
 
 <p 02><d CB32><a 02><n 04>
-Their fleet is flying
-full speed straight
-at us!
+Sua frota está voando
+à toda velocidade
+em nossa direção!
 <--------------------->
 
 <p 02><d CC32><a 02><n 04>
-Aile! Get back here! We
-need your help!
+Aile! Venha até aqui!
+Precisamos de sua
+ajuda!
 <*********************>
 
 <p 03><d CD32><a 07><n 02>
-Prairie, what's the
-current situation with
-the enemy fleet!?
+Prairie, qual é a
+situação atual da
+frota inimiga?!
 <*********************>
 
 <p 02><d CE32><a 0B><n 04>
-Not good! They're
-right on top of us!
+Nada bom! Estão bem
+em cima de nós!
 <--------------------->
 
 <p 02><d CF32><a 0B><n 04>
-This ship wasn't
-designed for heavy
-battle.
+Esta aeronave não foi
+projetada para combate
+pesado.
 <--------------------->
 
-If the enemy boards us,
-we're done for!
+Se o inimigo conseguir
+pousar, estaremos
+acabados!
 <*********************>
 
 <p 02><d D032><a 02><n 55>
-Slither Inc.'s
-fleet has fired an
-opening volley!
+A frota da Serpent Ltda
+lançou a primeira
+salva de tiros!
 <--------------------->
 
 <p 02><d D132><a 02><n 55>
-Returning fire!
+Retornar fogo!
 <*********************>
 
 <p 02><d D232><a 0B><n 04>
-All hands man the port
-and starboard machine
-guns!
+Todos guarneçam o porto
+e as metralhadoras do
+estibordo!
 <--------------------->
 
 <p 02><d D332><a 0B><n 04>
-Don't let them get
-any closer!
+Não deixe que se
+aproximem!
 <*********************>
 
 <p 02><d D432><a 0B><n 04>
-Aile! You have to get
-to the deck and do what
+Aile! Você tem que ir
+ao convés, e fazer o
+que puder,
 <--------------------->
 
-you can to stop those
-boarding parties!
+para impedir as tropas
+de pousarem na nave!
 <*********************>
 
 <p 03><d D532><a 07><n 02>
-I'm on it! I won't let
-anyone get hurt!
+A caminho! Não vou
+deixar ninguém se
+machucar!
 <--------------------->
 
 <p 03><d D632><a 07><n 02>
-I'll keep every last
-Guardian safe!
+Deixarei todos os
+Guardiões a salvo!
 <*********************>
 
 <p 02><d D732><a 07><n 02>
-Wait a second. I've
-seen them before!
+Peraí. Já vi eles
+antes!
 <--------------------->
 
 <p 02><d D832><a 02><n 04>
-Enemy troops have
-boarded the ship!
+Tropas inimigas
+aterrissaram na nave!
 <--------------------->
 
 <p 02><d D932><a 02><n 04>
-They're heading for the
-engine room down below!
+Estão se dirigindo à
+sala dos motores lá
+embaixo!
 <--------------------->
 
 <p 02><d DA32><a 02><n 04>
-You have to get down
-there and protect the
-engines! Hurry!
+Você tem que chegar até
+lá para proteger os
+motores! Rápido!
 <--------------------->
 
 <p 02><d DB32><a 07><n 02>
-Hmph! I'll stop 'em!
+Hmph! Vou impedi-los!
 <*********************>
 
 <p 02><d DC32><a 23><n 2C>
-Hey you! Stand away
-from the reactor!
+Ei, você! Fique longe
+do reator!
 <*********************>
 
 <p 03><d DD32><a 19><n 0E>
-Move aside...
+Nos dê passagem...
 <*********************>
 
 <p 02><d DE32><a 07><n 02>
-Prairie! Are you okay?
+Prairie! Você está bem?
 <--------------------->
 
 <p 02><d DF32><a 0B><n 04>
@@ -127,55 +132,56 @@ Aile!
 <*********************>
 
 <p 01><p 03><d E032><a 19><n 0E>
-You... The girl from
-before... Model X...
-Model Z... together...
+Você... A garota de
+antes... Modelo X...
+Modelo Z... juntos...
 <--------------------->
 
 <p 01><p 03><d E132><a 18><n 0D>
-Or should we just say
-Model ZX now?
+Ou será que agora
+deveríamos dizer
+"Modelo ZX"?
 <--------------------->
 
 <p 01><p 03><d E232><a 18><n 0D>
-I came here to crush
-the Guardians once and
-for all,
+Vim aqui para esmagar
+os Guardiões de uma vez
+por todas,
 <--------------------->
 
-but it's such a shame
-it has to end so
-easily.
+mas é uma pena que isso
+vai terminar tão
+facilmente.
 <--------------------->
 
 <p 01><p 03><d E332><a 18><n 0D>
-I'll find out whether
-or not you're worthy of
+Descobrirei se você é
+ou não digno de ser um
+peão,
 <--------------------->
 
-being a pawn in his
-grand game!
+neste grande jogo!
 <--------------------->
 
 <p 01><p 02><d E432><a 07><n 02>
-Game!? Who's game!?
+Jogo!? Que jogo!?
 <*********************>
 
 <p 03><d E532><a 19><n 0E>
-Prometheus... It's not
-fair...
+Prometeus... Não é
+justo...
 <--------------------->
 
 <p 03><d E632><a 18><n 0D>
-Don't worry, I'll be
-sure to leave some fun
-for you.
+Não se preocupe. Vou
+deixar um pouco da
+diversão pra você.
 <--------------------->
 
 <p 03><d E732><a 18><n 0D>
-That is unless she's
-too fragile and gets
-blown to pieces.
+A não ser que ela seja
+frágil demais, e acabe
+em pedaços antes.
 <*********************>
 
 <p 02><d E832><a 0B><n 04>
@@ -183,204 +189,213 @@ Aile!
 <--------------------->
 
 <p 02><d E932><a 07><n 02>
-Stay back Prairie! I'll
-take care of him!
+Para trás, Prairie!
+Cuidarei dele!
 <*********************>
 
 <p 03><d EA32><a 18><n 0D>
-Interesting... You're
-more powerful than I
-expected.
+Interessante... Você é
+mais forte do que eu
+esperava.
 <--------------------->
 
 <p 03><d EB32><a 18><n 0D>
-You are worthy of being
-one of us.
+Você é digno de ser um
+de nós.
 <--------------------->
 
 <p 03><d EC32><a 18><n 0D>
-Consider yourself part
-of the game!
+Considere-se parte do
+jogo agora!
 <*********************>
 
 <p 02><d ED32><a 07><n 02>
-One of you!? You must
-be joking!
+Um de vocês?!
+Só pode ser uma piada!
 <*********************>
 
 <p 03><d EE32><a 18><n 0D>
-Your name was Aile<c 01>,
-<c 00>wasn't it?
+Seu nome era Aile<c 01>,
+<c 00>não era?
 <--------------------->
 
-Well, I like your
-spirit, so I'll let you
-off this time!
+Bom, gostei de seu
+espírito de luta, então
+te pouparei desta vez!
 <*********************>
 
 <p 02><d EF32><a 07><n 02>
-W-wait!
+E-Espere!
 <--------------------->
 
 <p 03><d F032><a 18><n 0D>
-Aile! You still have a
-long way to grow before
-you can hope to
+Aile! Você ainda tem
+um longo caminho pela 
+frente, antes de achar
 <--------------------->
 
-challenge us. Come to
-us when you are ready!
+que pode nos desafiar.
+Volte quando estiver
+pronta!
 <*********************>
 
 <p 03><d F132><a 18><n 0D>
-Model W will be waiting
-with open arms! 
+O Modelo W estará
+esperando de braços
+abertos!
 <*********************>
 
 <p 02><d F232><a 0B><n 04>
-Aile! Are you alright?
+Aile! Você está bem?
 <--------------------->
 
 <p 02><d F332><a 08><n 02>
-Who... am... I?
+Quem... sou... eu?
 <*********************>
 
 <p 02><d F632><a 02><n 55>
-Commander Prairie! The
-enemy fleet is moving
-away!
+Comandante Prairie!
+A frota inimiga estão
+se afastando!
 <--------------------->
 
 <p 02><d F732><a 0B><n 04>
-The enemy has
-retreated. I want a
-damage report!
+O inimigo recuou.
+Quero um relatório
+dos danos!
 <--------------------->
 
 <p 02><d F832><a 0C><n 04>
-And make sure the
-wounded get priority.
+E lembrem-se de dar
+prioridade aos feridos.
 <--------------------->
 
 <p 02><d F932><a 02><n 55>
-Understood.
+Entendido.
 <*********************>
 
 <p 02><d FA32><a 0C><n 04>
-Aile, come back to the
-command center.
+Aile, volte ao centro
+de comando.
 <*********************>
 
 <p 03><d FB32><a 07><n 02>
-You have to tell me
-everything you know!
+Você tem que me dizer
+tudo que sabe!
 <--------------------->
 
 <p 03><d FC32><a 07><n 02>
-Who am I? Why was Giro
-watching over me all of
-those years!?
+Quem sou eu? Por que
+Giro cuidou de mim por
+todos esses anos?!
 <*********************>
 
 <p 02><d FD32><a 0B><n 04>
-Calm down Aile! I don't
-know much about what's
-going on either.
+Acalme-se, Aile! Também
+não sei muito do que
+está havendo.
 <*********************>
 
 <p 02><d FE32><a 0B><n 04>
-The one that gave Giro
-the order to protect
+Quem deu a Giro a ordem
+de protegê-la, não fui
+eu,
 <--------------------->
 
-you was the first
-commander.
+e sim a primeira
+comandante.
 <--------------------->
 
 <p 03><d FF32><a 05><n 02>
-By first commander, you
-mean your sister right?
+E por primeira coman-
+dante, você se refere
+à sua irmã, certo?
 <*********************>
 
 <p 01><p 02><d 0033><a 0B><n 04>
-The order was to
-protect anyone that
+A ordem era de proteger
+qualquer pessoa que
+sobreviveu
 <--------------------->
 
-survived the Maverick
-raid.
+a qualquer tipo de
+ataque de Mavericks.
 <--------------------->
 
 <p 01><p 02><d 0133><a 0B><n 04>
-At first I didn't
-understand why she
+A princípio, não
+entendi o motivo
 <--------------------->
 
-would give such an
-order.
+pelo qual ela decidiu
+nos dar tal ordem.
 <*********************>
 
 <p 01><p 02><d 0233><a 0B><n 04>
-But when I saw Giro
-transform into the
-Model Z
+Mas quando vi Giro
+se transformando no
+Mega Man Modelo Z,
 <--------------------->
 
-Mega Man, I finally
-understood the reason.
+finalmente entendi
+a razão.
 <--------------------->
 
 <p 01><p 02><d 0333><a 0B><n 04>
-Survivors of Maverick
-raids share the ability
+Os sobreviventes de
+ataques de Mavericks
+compartilham
 <--------------------->
 
-to transform with the
-power of the Biometal.
+a habilidade de se
+transformar, com o
+poder dos Biometais.
 <--------------------->
 
 <p 01><p 02><d 0433><a 0B><n 04>
-People like you and
+Pessoas como você e
 Giro.
 <--------------------->
 
 <p 01><p 02><d 0533><a 0C><n 04>
-I'm telling you the
-truth when I say that's
-all I know.
+Estou lhe dizendo a
+verdade ao dizer que
+isso é tudo que sei.
 <*********************>
 
 <p 02><d 0633><a 0B><n 04>
-I have no idea why some
-are chosen to be Mega
+Eu não entendo por que
+alguns são escolhidos
+para virar Mega Mans,
 <--------------------->
 
-Men while others are
-not.
+enquanto que outros
+não o são.
 <--------------------->
 
 <p 02><d 0733><a 0B><n 04>
-I'm guessing the only
-one who knows the real
+O meu palpite é que, se
+tem alguém que sabe a
+verdade por trás disso,
 <--------------------->
 
-truth behind all of
-this is Serpent.
+esse alguém é
+Serpent.
 <*********************>
 
 <p 03><d 0833><a 05><n 02>
-So if I want the truth,
-I'm going to have to
-keep fighting.
+Então se eu quiser
+saber a verdade, terei
+que continuar lutando.
 <--------------------->
 
 <p 03><d 0933><a 07><n 02>
-Alright then, give me
-my next mission.
+Certo então, me dê a
+próxima missão.
 <--------------------->
 
-I have to find out
-just who I really am!
+Tenho que descobrir
+quem eu sou de verdade!
 <*********************>
 
 <FIM>
