@@ -2,185 +2,185 @@
 <#####################>
 
 <p 02><a 2E><n 22>
-Remember the modified
-energy pack I gave
-to old Muguet?
+Lembra do pacote de
+energia modificado que
+dei para velha Muguet?
 <--------------------->
 
 <p 02><a 2E><n 22>
-Well now everyone in HQ
-wants one!
+Bem, agora todos no QG
+querem um!
 <--------------------->
 
 <p 02><a 2E><n 22>
-I'm going to try my
-best to make one for
-everybody.
+Vou tentar fazer o
+melhor para garantir
+um para todos.
 <--------------------->
 
 <p 02><a 2E><n 22>
-You helped me so much
-last time Aile.
+Você me ajudou muito
+da última vez, Aile.
 <--------------------->
 
 <e 22><a 2E><n 22>
-Could I get your help?
-  Yes
-  No
+Poderia me ajudar?
+  Sim
+  Não
 <*********************>
 
 <p 02><a 2E><n 22>
-Thanks Aile!
+Obrigado Aile!
 <--------------------->
 
 <p 02><a 2E><n 22>
-Please bring me an
-energy pack like
-you did last time.
+Por favor, traga-me um
+pacote de energia como
+fez da última vez.
 <--------------------->
 
 <p 02><a 2E><n 22>
-With my newfound
-skill...
+Com a minha nova
+habilidade...
 <--------------------->
 
 <p 02><a 2E><n 22>
-I should be able to
-create enough of my
+Serei capaz de criar
+o suficiente dos meus
+presentes especiais
 <--------------------->
 
-special presents for
-everyone in HQ.
+para todos no QG.
 <--------------------->
 
 <p 02><a 2E><n 22>
-I can't wait to see
-their faces!
+Mal posso esperar para
+ver a cara deles!
 <*********************>
 
 <p 02><a 2E><n 22>
-Oh... I see... I'm
-sorry to hear that.
+Oh... Entendo... Não
+esperava ouvir isso.
 <--------------------->
 
 <p 02><a 2E><n 22>
-I guess I should stick
-to studying medicine.
+Acho que eu deveria
+ficar estudando
+medicina.
 <*********************>
 
 <p 02><a 2E><n 22>
-Where did you find the
-last one anyway?
+Onde você encontrou o
+último mesmo?
 <--------------------->
 
 <p 02><a 2E><n 22>
-What!? You went to that
-much trouble?
+Quê!? Você teve muitos
+problemas?
 <--------------------->
 
 <p 02><a 2E><n 22>
-I didn't know you had
-to take on Mavericks
-for it.
+Eu não sabia que você
+teria que lidar com
+Mavericks por isso.
 <--------------------->
 
 <p 02><a 2E><n 22>
-Be careful if you go
-back there. I don't
-want you to get hurt.
+Cuidado se for voltar
+lá. Não quero que
+você se machuque.
 <*********************>
 
 <p 02><a 02><n 55>
-Find the requested item
-in an Area L container.
+Encontrar o item pedido
+no container da Área L.
 <*********************>
 
 <e 01><a 02><n 55>
-  Yes
-  No
+  Sim
+  Não
 <*********************>
 
 <p 02><a 2E><n 22>
-Did you have any luck?
+Fez algum progresso?
 <--------------------->
 
 <p 02><a 2E><n 22>
-It's no rush, so take
-your time.
+Sem pressa, leve o
+tempo que precisar.
 <--------------------->
 
 <p 02><a 2E><n 22>
-I'll be waiting here
-until you bring it
-back.
+Estarei esperando aqui
+até que você o traga
+de volta.
 <*********************>
 
 <p 02><a 2E><n 22>
-Aile! You brought it!
+Aile! Você o trouxe!
 <--------------------->
 
 <p 02><a 2E><n 22>
-I'll hand my special
-presents out later when
-they're done.
+Entregarei os presentes
+especiais mais tarde,
+logo estejam prontos.
 <*********************>
 
 <p 02><a 2E><n 22>
-The special present
-can only be used
-once unfortunately...
+O presente especial só
+pode ser usado uma vez
+infelizmente...
 <--------------------->
 
 <p 02><a 2E><n 22>
-If they want more
-later, I might have to
+Se eles quiserem mais,
+terei que te pedir
 <--------------------->
 
-ask you for your help
-again.
+ajuda novamente.
 <*********************>
 
 <p 02><a 2E><n 22>
-I appreciate your
-assistance.
+Eu aprecio a sua
+assistência.
 <--------------------->
 
 <p 02><a 2E><n 22>
-Actually, I modified my
-present even more this
-time.
+Na verdade, modifiquei
+meu presente ainda mais
+dessa vez.
 <--------------------->
 
 <p 02><a 2E><n 22>
-And guess what? I
-discovered how to make
-an entirely new item!
+E o que acha? Descobri
+como fazer um item
+totalmente novo!
 <--------------------->
 
 <p 02><a 2E><n 22>
-I sent one to the
-transerver for you too,
+Enviei um para você
+pelo transervidor,
 Aile!
 <*********************>
 
 <p 02><a 02><n 55>
-Quest completed.
+Pedido concluído.
 <--------------------->
 
 <p 02><a 02><n 55>
-150 EC and a Sub Tank
-have been transferred
-to your account.
+Foram transferidos
+150 CE para a sua
+conta.
 <*********************>
 
 <p 02><a 02><n 55>
-Quest completed.
+Pedido concluído.
 <--------------------->
 
 <p 02><a 02><n 55>
-150 EC has been
-transferred to your
-account.
+Foram transferidos
+150 CE para a sua
+conta.
 <*********************>
 
 <FIM>
