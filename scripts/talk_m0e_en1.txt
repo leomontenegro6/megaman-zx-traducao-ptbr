@@ -2,53 +2,55 @@
 <#####################>
 
 <p 02><d B136><a 02><n 04>
-We finally have all six
-Biometal fragments.
+Finalmente temos todos
+os seis Biometais.
 <--------------------->
 
 <p 02><d B236><a 02><n 04>
-We must regroup and
-prepare. Head back to
-HQ.
+Devemos reagrupar e
+fazer os preparativos.
+Retorne ao QG.
 <*********************>
 
 <p 02><d B336><a 09><n 04>
-Good work.
+Bom trabalho.
 <--------------------->
 
 <p 02><d B436><a 09><n 04>
-We've successfully
-recovered the content
-on the data disk you
+Conseguimos recuperar,
+com sucesso, todo o
+conteúdo do disco
 <--------------------->
 
-brought back from the
-research lab.
+de dados que você
+trouxe do laboratório
+de pesquisa.
 <--------------------->
 
 <p 02><d B536><a 09><n 04>
-It was left behind by
-Sis after all.
+No fim das contas, foi
+deixado para trás pela
+minha irmã.
 <*********************>
 
 <p 03><d B636><a 05><n 01>
-It looked like a report
-about the Biometal.
-What was on it?
+Pareceu ser um rela-
+tório sobre Biometais.
+O que tinha nele?
 <--------------------->
 
 <p 02><d B736><a 0B><n 04>
-It describes Model W,
-Model X, Model Z...
+Ele descreve os
+Modelos W, X e Z...
 <--------------------->
 
-Everything about the
-Biometal.
+Tudo sobre os
+Biometais.
 <--------------------->
 
 <p 02><d B836><a 0B><n 04>
-Including its true
-nature.
+Inclusive sua
+verdadeira natureza.
 <--------------------->
 
 <p 03><d B936><a 05><n 01>
@@ -56,246 +58,257 @@ nature.
 <*********************>
 
 <p 01><p 02><d BA36><a 0B><n 04>
-In the war hundreds of
-years ago, there was a
+Na guerra que aconteceu
+séculos atrás,
 <--------------------->
 
-man who tried to
-conquer the world.
+havia um homem que
+tentou conquistar o
+mundo.
 <--------------------->
 
 <p 01><p 02><d BB36><a 0B><n 04>
-In order to carry out
-his mad scheme, he
-created a giant
+Para executar seu plano
+maligno, ele criou uma
+estação de batalha
 <--------------------->
 
-battle station in space
-known as Ragnarok.
+gigantesca, no espaço
+sideral, conhecida como
+Ragnarok.
 <--------------------->
 
 <p 01><p 02><d BC36><a 0B><n 04>
-He fused with
-Ragnarok, but he was
+Ele fundiu-se com
+Ragnarok para aniquilar
+a espécie humana,
 <--------------------->
 
-challenged by a hero
-and defeated.
+mas no fim, foi
+desafiado por um
+herói, e derrotado.
 <--------------------->
 
 <p 01><p 02><d BD36><a 0B><n 04>
-Ragnarok broke apart
-and fell through the
-atmosphere, burning
+Ragnarok foi destruída
+e caiu na atmosfera,
+queimando e brilhando
 <--------------------->
 
-brightly like a
-shooting star in the
-night sky.
+como várias estrelas
+cadentes no céu da
+noite.
 <--------------------->
 
 <p 01><p 02><d BE36><a 0B><n 04>
-That image will be
-burned into my mind
-forever.
+Esta imagem estará
+gravada na minha mente
+para sempre.
 <*********************>
 
 <p 03><d BF36><a 05><n 01>
-Then that means Model W
-is...
+Então quer dizer que
+o Modelo W é...
 <--------------------->
 
 <p 02><d C036><a 0B><n 04>
-Yes, the soul of that
-man contained in a
+Sim, a alma daquele
+homem contida em um
+fragmento de Ragnarok.
 <--------------------->
 
-fragment of Ragnarok.
-That's Model W.
+Este é o Modelo W.
 <--------------------->
 
 <p 02><d C136><a 0B><n 04>
-Sis recognized its
-existence and set about
+A irmã reconheceu sua
+existência, e decidiu
+criar algo capaz
 <--------------------->
 
-to create something
-capable of fighting the
-threat.
+de enfrentar esta
+ameaça.
 <--------------------->
 
 <p 02><d C236><a 0B><n 04>
-She used her research
-to create Biometal
-with the powers of
+Ela usou sua pesquisa
+para criar os
+Biometais,
 <--------------------->
 
-legendary heroes from
-an age long ago.
+com os poderes de
+heróis lendários de
+eras atrás.
 <--------------------->
 
 <p 03><d C336><a 05><n 01>
-So she succeeded. What
-happened next?
+Então ela conseguiu.
+O que aconteceu depois?
 <--------------------->
 
 <p 02><d C436><a 0C><n 04>
-I don't know. That's
-where the data ends.
+Não sei. É aqui que os
+dados terminam.
 <*********************>
 
 <p 03><d C536><a 05><n 01>
-Oh...
+Ah...
 <--------------------->
 
 <p 03><d C636><a 05><n 01>
-Model X, do you know
-what became of
-Prairie's sister?
+Modelo X, você sabe o
+que aconteceu com a
+irmã de Prairie?
 <--------------------->
 
 <p 03><d C736><a 31><n 05>
-I'm sorry. I don't
-remember anything.
+Sinto muito, mas não
+me lembro de nada.
 <--------------------->
 
 <p 03><d C836><a 31><n 05>
-All of our memories of
-the moments after our
-creation were erased.
+Todas as memórias de
+antes de sermos criados
+foram apagadas.
 <--------------------->
 
 <p 03><d C936><a 31><n 05>
-Vent. We have assembled
-all of the passwords.
+Vent. Conseguimos
+remontar todas as
+senhas.
 <*********************>
 
 <p 03><d CA36><a 31><n 05>
-With them, you can
-enter the ruins where
-the Model W Core lies.
+Com elas, pode entrar
+nas ruínas, onde está
+o núcleo do Modelo W.
 <*********************>
 
 <p 03><d CB36><a 05><n 01>
-They've been digging
-and are probably close
-to the core by now.
+Ele estão escavando,
+e provavelmente estão
+perto do núcleo agora.
 <--------------------->
 
-We have to hurry!
+Temos que correr!
 <*********************>
 
 <p 02><d CC36><a 09><n 04>
-You're right! I'll
-enter the mission data
+Tem razão! Digitarei
+os dados da missão
 <--------------------->
 
-into the transerver
-right away!
+nos transervidores
+agora mesmo!
 <--------------------->
 
 <p 02><d CD36><a 09><n 04>
-Vent, this is going to
-be dangerous. Be
-careful!
+Vent, isso vai ser
+bastante perigoso.
+Tenha cuidado!
 <*********************>
 
 <p 02><d CE36><a 02><n 55>
-Slither Inc. is at the
-ruins.
+A Serpent Ltda está nas
+ruínas.
 <--------------------->
 
 <p 02><d CF36><a 02><n 55>
-They're digging down to
-the Model W Core.
+Estão escavando direto
+até o núcleo do Modelo
+W.
 <--------------------->
 
 <p 02><d D036><a 02><n 55>
-Head to Area M and stop
-the dig.
+Dirija-se à Área M e
+impeça a escavação.
 <*********************>
 
 <p 02><d D136><a 05><n 01>
-Model W is close...
+O Modelo W está
+próximo...
 <*********************>
 
 <p 02><d D236><a 32><n 06>
-We'll open the door
-when you're ready.
+Abriremos a porta
+quando você estiver
+preparado.
 <*********************>
 
 <p 02><d D336><a 07><n 01>
-I'm as ready as I'll
-ever be.
+Estou mais preparado
+do que nunca.
 <*********************>
 
 <p 02><d D436><a 31><n 05>
-Everyone... Input your
-passwords.
+Todos... Digitem suas
+senhas.
 <*********************>
 
 <p 02><d D536><a 33><n 07>
-I am the wind that
-blows through the sky,
+Eu sou o vento que
+sopra pelos céus,
 Ventus Airus.
 <*********************>
 
 <p 02><d D636><a 35><n 09>
-I am the water that
-flows across the land,
-Glacius Passio.
+Eu sou a água que flui
+em toda terra,
+Guacius Passio.
 <*********************>
 
 <p 02><d D736><a 34><n 08>
-I am the fire that
-brings heat to all
-life, Flamma Wies.
+Eu sou o fogo que traz
+calor a todas as formas
+de vida, Flamma Wies.
 <*********************>
 
 <p 02><d D836><a 36><n 0A>
-I am the shadow that
-never leaves the side
-of justice,
+Eu sou a sombra que
+nunca deixa o lado da
+justiça,
 <--------------------->
 
 Umbra Profess.
 <*********************>
 
 <p 02><d D936><a 31><n 05>
-I am the light that
-illuminates all
-possibilities,
+Eu sou a luz que
+ilumina todas as
+possibilidades,
 <--------------------->
 
 Lumine Infinitus...
 <*********************>
 
 <p 02><d DA36><a 32><n 06>
-I am the courage that
-fights for beliefs,
+Eu sou a coragem que
+luta por crenças,
 Fortitude Creed...
 <*********************>
 
 <p 02><d DB36><a 31><n 05>
-Let's go!
+Vamos lá!
 <*********************>
 
 <p 02><d DC36><a 32><n 06>
-The rest is up to you.
+O resto agora é com
+você.
 <*********************>
 
 <p 01><p 03><d DD36><a 14><n 0C>
-Well well, it looks
-like you found me.
+Muito bem, parece que
+você me encontrou.
 <--------------------->
 
 <p 01><p 03><d DE36><a 14><n 0C>
-I never could have
-imagined that little
+Jamais teria imaginado
+que aquele garotinho
+que conheci,
 <--------------------->
 
-boy I met would
-survive this long.
+teria sobrevivido por
+tanto tempo.
 <--------------------->
 
 <p 01><p 02><d DF36><a 07><n 01>
@@ -303,14 +316,14 @@ Serpent!
 <--------------------->
 
 <p 01><p 03><d E036><a 14><n 0C>
-It's a shame you're too
-late.
+É uma pena que chegou
+tarde demais.
 <--------------------->
 
 <p 01><p 03><d E136><a 14><n 0C>
-Witness the power to
-control the world! The
-true form of Model W!
+Testemunhe este poder
+incrível! A verdadeira
+forma do Modelo W!
 <*********************>
 
 <p 01><p 02><d E236><a 07><n 01>
@@ -318,25 +331,24 @@ true form of Model W!
 <--------------------->
 
 <p 01><p 03><d E336><a 14><n 0C>
-Do you feel it!? Its
-glorious presence is
-starting to rise!
+Consegue sentir?! Sua
+gloriosa presença está
+começando a se elevar!
 <--------------------->
 
 <p 01><p 03><d E436><a 14><n 0C>
-Even the precious
-Biometal in your
-possession is
+Mesmo o precioso
+Biometal em sua
+posse é insignificante,
 <--------------------->
 
-insignificant compared
-to the might of
-Model W!
+comparado à grandeza do
+Modelo W!
 <--------------------->
 
 <p 01><p 03><d E536><a 14><n 0C>
-Finally, the power is
-mine! All of it!
+Finalmente, este poder
+é meu! Todo meu!
 <*********************>
 
 <p 03><d E636><a 14><n 0C>
@@ -344,107 +356,110 @@ Pandora!
 <*********************>
 
 <p 03><d E736><a 14><n 0C>
-We have an honored
-guest favoring us with
-his presence.
+Temos uma honrada
+visita, nos favorecendo
+com sua presença.
 <--------------------->
 
-Take good care of him.
+Cuide bem dele.
 <--------------------->
 
 <p 03><d E836><a 19><n 0E>
-I will...
+Irei...
 <--------------------->
 
 <p 03><d E936><a 14><n 0C>
-Project Haven is now in
-its final stage!
+O Projeto Refúgio agora
+está no seu estágio
+final!
 <--------------------->
 
 <p 03><d EA36><a 14><n 0C>
-Gaze upon the
-beginning of a brand
-new age!
+Contemple o início de
+uma nova era!
 <*********************>
 
 <p 03><d EB36><a 19><n 0E>
-Model ZX... Mega Man...
+Mega Man...
+Modelo ZX...
 <--------------------->
 
 <p 03><d EC36><a 19><n 0E>
-You will not...
-interfere...
+Você não vai...
+interferir...
 <*********************>
 
 <p 02><d ED36><a 07><n 01>
-No! Model W!
+Não! Modelo W!
 <--------------------->
 
 <p 03><d EE36><a 19><n 0E>
-The wheel of fate... in
-motion...
+A roda do destino...
+está em movimento...
 <--------------------->
 
-No one can stop... our
-destiny of
-destruction...
+Ninguém pode impedir...
+nosso destino de
+destruição...
 <--------------------->
 
 <p 03><d EF36><a 19><n 0E>
-Not you... Not
-Serpent... No one...
+Nem você...
+Nem Serpent...
+Nem ninguém...
 <--------------------->
 
 <p 02><d F036><a 07><n 01>
-What!?
+O quê!?
 <*********************>
 
 <p 02><d F136><a 07><n 01>
-Destiny of
-destruction!? What are
-they trying to do!?
+Destino de destruição?!
+O que eles estão
+tentando fazer?!
 <*********************>
 
 <p 02><d F236><a 02><n 04>
-Vent! The Slither Inc.
-fleet is on the move!
+Vent! A frota da
+Serpent Ltda está
+se movendo!
 <--------------------->
 
 <p 02><d F336><a 07><n 01>
-I couldn't stop the
-reawakening of Model W
-in time!
+Não pude impedir o
+despertar do Modelo W
+a tempo!
 <--------------------->
 
-Can you catch them?
+Consegue achá-los?
 <*********************>
 
 <p 02><d F436><a 02><n 04>
-We'll do what we can!
-Hold on!
+Faremos o que for
+possível! Um segundo!
 <--------------------->
 
 <p 02><d F536><a 02><n 04>
-Wh-what's this!?
+O-O que foi isto!?
 <--------------------->
 
 <p 02><d F636><a 02><n 04>
-There is a massive
-outbreak of Mavericks
+Um enorme surto de
+Mavericks foi detectado
 <--------------------->
 
-detected in the western
-region of Area D!
+na região oeste da
+Área D!
 <--------------------->
 
 <p 02><d F736><a 02><n 04>
-The readings are off
-the chart and
-interfering with
+As leituras são muito
+numerosas, e estão
+interferindo
 <--------------------->
 
-our ability to track
-Model W!
+na nossa habilidade de
+rastrear o Modelo W!
 <--------------------->
 
 <p 02><d F836><a 07><n 01>
@@ -452,27 +467,28 @@ Seeerpeeent!!!
 <--------------------->
 
 <p 02><d F936><a 02><n 04>
-I've added the mission
-data for the Mavericks!
+Adicionamos os dados da
+missão de combater o
+surto de Mavericks!
 <--------------------->
 
 <p 02><d FA36><a 02><n 04>
-Get prepared and start
-the mission ASAP!
+Prepare-se para iniciar
+a missão urgentemente!
 <--------------------->
 
 <p 02><d FB36><a 02><n 04>
-I'll do what I can to
-get a fix on Model W's
-signature!
+Farei o que puder para
+encontrar a assinatura
+do Modelo W!
 <--------------------->
 
 <p 02><d FC36><a 07><n 01>
-Do your best!
+Faça o seu melhor!
 <*********************>
 
 
-Final key assembled!
+Chave final montada!
 <*********************>
 
 <FIM>

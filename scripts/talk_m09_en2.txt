@@ -95,7 +95,7 @@ Modelo H, Hurricaune!
 <--------------------->
 
 <p 02><d 3523><a 1C><n 11>
-Está prestes a se
+Você está prestes a se
 tornar o próximo
 sacrifício.
 <--------------------->
@@ -134,7 +134,7 @@ A, rá, rá, rá!
 <p 03><d 3923><a 33><n 07>
 Parece que você
 recuperou a senha e
-o meu poder.
+todo o meu poder.
 <--------------------->
 
 <p 03><d 3A23><a 33><n 07>
@@ -179,7 +179,7 @@ Como assim?
 <--------------------->
 
 <p 03><d 4123><a 46><n 41>
-Esses malvados, eles
+Esses vilões, eles
 roubam nossas memórias
 <--------------------->
 

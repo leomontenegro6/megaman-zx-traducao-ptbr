@@ -117,7 +117,7 @@ mim!
 <*********************>
 
 <p 02><d DC32><a 23><n 2C>
-Ei, você! Fique longe
+Ei, vocês! Fiquem longe
 do reator!
 <*********************>
 
@@ -142,7 +142,7 @@ Modelo Z... juntos...
 
 <p 01><p 03><d E132><a 18><n 0D>
 Ou será que agora
-deveríamos dizer
+deveríamos chamar de
 "Modelo ZX"?
 <--------------------->
 
@@ -280,7 +280,7 @@ esperando! Rá, rá, rá!
 
 <p 02><d F632><a 02><n 55>
 Comandante Prairie!
-A frota inimiga estão
+A frota inimiga está
 se afastando!
 <--------------------->
 

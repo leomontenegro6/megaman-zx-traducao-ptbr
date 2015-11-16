@@ -233,8 +233,8 @@ sobre a cidade abaixo.
 <--------------------->
 
 <p 02><a 24><n 29>
-Essa aeronave não é
-brinquedo não!
+Demos muita sorte nessa
+nave.
 <*********************>
 
 <p 02><a 24><n 29>
@@ -396,7 +396,7 @@ de guarda noutra sala,
 
 <p 02><a 27><n 1B>
 mas queria estar
-luando ao seu lado!
+lutando ao seu lado!
 <--------------------->
 
 <p 02><a 27><n 1B>
@@ -512,7 +512,8 @@ pessoas.
 
 <p 02><a 24><n 2A>
 Olhe pra este lugar...
-Até o corrimão sumiu...
+Até o parapeito
+sumiu...
 <--------------------->
 
 <p 02><a 24><n 2A>
@@ -522,8 +523,8 @@ consertar isso tudo.
 <*********************>
 
 <p 02><a 24><n 2A>
-A aeronave tá toda
-detonada.
+O estado da aeronave
+está péssimo.
 <--------------------->
 
 <p 02><a 24><n 2A>

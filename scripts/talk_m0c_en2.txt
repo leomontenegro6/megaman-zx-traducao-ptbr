@@ -156,24 +156,24 @@ antes de voltar.
 <p 02><a 01><n 00>
 Relatório de Biometal
 Classificação n. 555913
-* Escolhida *
+* Escolhidos *
 <--------------------->
 
 <p 02><a 01><n 00>
 Esta mensagem será
-intencionada ao
-escolhido,
+intencionada aos
+escolhidos,
 <--------------------->
 
 que algum dia
-encontrará o Biometal
-que eu criei.
+encontrarão os
+Biometais que eu criei.
 <--------------------->
 
 <p 02><a 01><n 00>
 Para... combater...
 Modelo W... causando
-os ataques de Mav...
+os surtos de Mav...
 <--------------------->
 
 <p 02><d F72E><a 08><n 02>

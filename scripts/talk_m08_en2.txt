@@ -65,19 +65,19 @@ missão agora.
 <--------------------->
 
 <p 02><d 4B1F><a 08><n 02>
-Não acredito que vou
+(Não acredito que vou
 ter que lutar neste
-lugar...
+lugar...)
 <*********************>
 
 <p 02><d 4C1F><a 07><n 02>
-Hmm, este não é o
+(Hmm, este não é o
 inimigo que está com
-o Biometal.
+o Biometal.)
 <--------------------->
 
-Onde está? Não vejo a
-hora de sair daqui!
+(Onde está? Não vejo a
+hora de sair daqui!)
 <*********************>
 
 <p 02><d 4D1F><a 02><n 04>
@@ -152,9 +152,9 @@ Não, sou eu quem devo
 me desculpar.
 <--------------------->
 
-Fiquei estressada com
+Fiquei estressada, com
 as lembranças de minha
-mãe e Giro voltando.
+mãe e Giro, voltando.
 <--------------------->
 
 <p 02><d 571F><a 02><n 04>
@@ -221,7 +221,7 @@ mandar daqui é você!
 <p 03><d 611F><a 1D><n 12>
 U, u, á, á? Vai mesmo
 desafiar um dos execu-
-tivs da Serpent Ltda?
+tivos da Serpent Ltda?
 <--------------------->
 
 Isso vai ser
@@ -229,9 +229,9 @@ interessante.
 <--------------------->
 
 <p 03><d 631F><a 1D><n 12>
-Vou te mostrar como
-o Pseudoróide Purprill
-é forte!
+Vou te mostrar como eu,
+o Pseudoróide do Modelo
+P, Purprill, sou forte!
 <*********************>
 
 <p 03><d 641F><a 1D><n 12>
@@ -255,7 +255,7 @@ que nem você?
 
 <p 03><d 661F><a 1D><n 12>
 N-nããoo! Sou poderoso
-demais para ser
+demais pra ser
 derrotado!
 <--------------------->
 
@@ -287,7 +287,7 @@ está emprestando seu
 poder a este rapaz,
 <--------------------->
 
-devo pressupor que a
+devo presumir que a
 hora chegou?
 <--------------------->
 
@@ -380,9 +380,9 @@ missão agora.
 <--------------------->
 
 <p 02><d 4B1F><a 05><n 02>
-Não acredito que vou
+(Não acredito que vou
 ter que lutar neste
-lugar...
+lugar...)
 <*********************>
 
 <FIM>

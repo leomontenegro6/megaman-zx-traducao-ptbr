@@ -2,206 +2,214 @@
 <#####################>
 
 <p 02><d 993A><a 02><n 55>
-I'm picking up a sudden
-Maverick outbreak in
-Area O.
+Estou detectando um
+surto de Mavericks
+repentino na Área O.
 <--------------------->
 
 <p 02><d 9A3A><a 02><n 55>
-The Maverick army is
-heading down the
+O exército de Mavericks
+está se dirigindo ao
+viaduto,
 <--------------------->
 
-highway right for the
-residential district.
+especificamente indo
+em direção ao distrito
+residencial.
 <--------------------->
 
 <p 02><d 9B3A><a 02><n 55>
-Head to Area O and
-respond to the Maverick
-threat.
+Dirija-se à Área O e
+combata a ameaça dos
+Mavericks.
 <*********************>
 
 <p 02><d 9C3A><a 02><n 04>
-Aile! You made it to
-Area O.
+Aile! Você chegou à
+Área O.
 <--------------------->
 
 <p 02><d 9D3A><a 02><n 04>
-The Maverick army is
-drawing closer to the
+O exército Maverick
+está chegando cada vez
+mais perto
 <--------------------->
 
-residential district
-with every passing
-second.
+do distrito residencial
+a cada segundo que
+passa.
 <--------------------->
 
 <p 02><d 9E3A><a 02><n 04>
-We need to stop them
-and avoid as many
+Precisamos impedi-los,
+e evitar ao máximo
 <--------------------->
 
-Guardian casualties as
-possible.
+as casualidades entre
+os Guardiões.
 <--------------------->
 
 <p 02><d 9F3A><a 02><n 04>
-Find the Maverick
-leading them and take
-it out!
+Encontre os líderes dos
+Mavericks, e acabe com
+eles!
 <*********************>
 
 <p 02><d A03A><a 07><n 02>
-Surprise, surprise. You
-two are the ones behind
+Que "surpresa".
+Vocês dois são
+os responsáveis
 <--------------------->
 
-all this, Pandora and
-Prometheus!
+por tudo isso, Pandora
+e Prometeus!
 <--------------------->
 
 <p 03><d A13A><a 18><n 0D>
-Well, we've finally
-drawn the curtain and
+Bem, finalmente abrimos
+as curtinas,
 <--------------------->
 
-have arrived at our
-final act!
+e chegamos para a nossa
+peça final!
 <--------------------->
 
 <p 03><d A23A><a 18><n 0D>
-All of the chosen Mega
-Men are together for
-the grand finale.
+Todos os Mega Mans
+escolhidos estão juntos
+para o grande final.
 <--------------------->
 
 <p 03><d A33A><a 18><n 0D>
-We are all the same.
-Lives brought together
+Somos todos iguais.
+Vidas arrasadas por
+um destino cruel,
 <--------------------->
 
-by some cursed fate
-that hangs over our
-heads.
+que tem ficado na nossa
+cabeça por anos.
 <--------------------->
 
 <p 02><d A43A><a 07><n 02>
-I'm nothing like you!
+Não sou nada parecido
+com você!
 <--------------------->
 
 <p 03><d A53A><a 19><n 0E>
-On the contrary... You
-are the same...
+Pelo contrário... Você
+é igual...
 <--------------------->
 
 <p 03><d A63A><a 19><n 0E>
-A Mega Man... Holder of
-the power... Controller
-of Biometal...
+Um Mega Man... Titular
+do poder... Controlador
+do Biometal...
 <--------------------->
 
 <p 03><d A73A><a 18><n 0D>
-Serpent has done well
-for us.
+Serpent fez um bom
+trabalho para nós.
 <--------------------->
 
-Just digging up Model W
-was enough for him to
-serve his purpose.
+Ele serviu muito bem
+ao seu propósito, por
+escavar até o Modelo W.
 <--------------------->
 
 <p 03><d A83A><a 18><n 0D>
-Too bad Model W is too
-much for his weak will
-to handle and he'll end
+É uma pena o Modelo W
+ser poderoso demais
+para ele controlar,
 <--------------------->
 
-up losing more and more
-of his soul as time
-passes.
+e se insistir, acabará
+perdendo toda sua alma,
+com o passar do tempo.
 <--------------------->
 
 <p 02><d A93A><a 07><n 02>
-So you've been using
-Serpent the whole time!
+Então você estiveram
+usando Serpent por todo
+esse tempo!
 <--------------------->
 
 <p 03><d AA3A><a 19><n 0E>
-It's too late... Model
-W... about to awaken.
+É tarde demais...
+O Modelo W... prestes
+a despertar.
 <--------------------->
 
 <p 03><d AB3A><a 18><n 0D>
-We'll keep you occupied
-while you wait Mega
-Man... Model ZX!
+Manteremos você ocupada
+enquando isso, Mega Man
+Modelo ZX!
 <*********************>
 
 <p 02><d AC3A><a 07><n 02>
-What are you trying to
-accomplish!?
+O que vocês estão
+tentando realizar?!
 <--------------------->
 
-And why do I have to be
-involved in all of
-this!?
+E por que eu tenho que
+estar envolvida nisso
+tudo?!
 <--------------------->
 
 <p 03><d AD3A><a 19><n 0E>
-It is destiny... Mega
-Men must fight until
-only one remains.
+É o destino... Os
+Mega Mans devem lutar
+até restar apenas um.
 <--------------------->
 
 <p 03><d AE3A><a 18><n 0D>
-Hah-hahaha! If you want
-to know the truth,
-you'll have to fight!
+Rá, rá, rá, rá! Se quer
+saber a verdade, vai
+ter que lutar!
 <--------------------->
 
 <p 03><d AF3A><a 18><n 0D>
-You. Serpent. Us.
+Você. Serpent. Nós.
 <--------------------->
 
 <p 03><d B03A><a 18><n 0D>
-We are all just pawns
-on the great
-board.
+Nós todos somos apenas
+peões em um enorme
+tabuleiro.
 <--------------------->
 
-His board.
+O tabuleiro dele.
 <*********************>
 
 <p 02><d B13A><a 02><n 04>
-The Maverick activity
-is finally subsiding.
+A atividade dos
+Mavericks está
+finalmente abaixando.
 <--------------------->
 
-You must have taken out
-their leader!
+Você deve ter derrotado
+seus líderes!
 <--------------------->
 
 <p 02><d B23A><a 07><n 02>
-This fight is far from
-over.
+Esta luta ainda está
+longe de terminar.
 <--------------------->
 
-Have you managed to
-narrow down Model W's
-location?
+Conseguiu rastrear
+a localização do
+Modelo W?
 <--------------------->
 
 <p 02><d B33A><a 02><n 04>
-I'm sorry. We're going
-to need a little more
-time with that.
+Desculpe. Precisaremos
+de mais tempo para
+descobrir.
 <--------------------->
 
 <p 02><d B43A><a 02><n 04>
-Aile, come back to
-Guardian HQ while we
-try to find it.
+Aile, volte ao QG dos
+Guardiões enquanto
+tentamos encontrá-lo.
 <*********************>
 
 <FIM>
