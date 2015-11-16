@@ -115,7 +115,7 @@ Hmph! Vou impedi-los!
 <*********************>
 
 <p 02><d DC32><a 23><n 2C>
-Ei, você! Fique longe
+Ei, vocês! Fiquem longe
 do reator!
 <*********************>
 
@@ -139,7 +139,7 @@ Modelo Z... juntos...
 
 <p 01><p 03><d E132><a 18><n 0D>
 Ou será que agora
-deveríamos dizer
+deveríamos chamar de
 "Modelo ZX"?
 <--------------------->
 
@@ -149,22 +149,23 @@ os Guardiões de uma vez
 por todas,
 <--------------------->
 
-mas é uma pena que isso
-vai terminar tão
+mas será uma pena se
+tudo acabar tão
 facilmente.
 <--------------------->
 
 <p 01><p 03><d E332><a 18><n 0D>
 Descobrirei se você é
-ou não digno de ser um
-peão,
+ou não digna de entrar
+neste grande jogo,
 <--------------------->
 
-neste grande jogo!
+criado por ele!
 <--------------------->
 
 <p 01><p 02><d E432><a 07><n 02>
-Jogo!? Que jogo!?
+Jogo!? Jogo criado
+por quem!?
 <*********************>
 
 <p 03><d E532><a 19><n 0E>
@@ -200,7 +201,7 @@ esperava.
 <--------------------->
 
 <p 03><d EB32><a 18><n 0D>
-Você é digno de ser um
+Você é digna de ser um
 de nós.
 <--------------------->
 
@@ -215,11 +216,12 @@ Só pode ser uma piada!
 <*********************>
 
 <p 03><d EE32><a 18><n 0D>
-Seu nome era Aile<c 01>,
-<c 00>não era?
+Seu nome era mesmo
+<c 01>Aile,<c 00> ou será que
+não?
 <--------------------->
 
-Bom, gostei de seu
+Enfim, gostei do seu
 espírito de luta, então
 te pouparei desta vez!
 <*********************>
@@ -255,7 +257,7 @@ Quem... sou... eu?
 
 <p 02><d F632><a 02><n 55>
 Comandante Prairie!
-A frota inimiga estão
+A frota inimiga está
 se afastando!
 <--------------------->
 

@@ -63,15 +63,15 @@ A-ah, estou a caminho!
 <--------------------->
 
 <p 02><d 4B1F><a 05><n 01>
-Jamais pensei que
+(Jamais pensei que
 voltaria aqui outra
-vez...
+vez...)
 <*********************>
 
 <p 02><d 4C1F><a 07><n 01>
-Argh! Não era esse
+(Argh! Não era esse
 inimigo que estava
-com o Biometal.
+com o Biometal.)
 <*********************>
 
 <p 02><d 4D1F><a 02><n 04>
@@ -216,9 +216,9 @@ ser irada!
 <--------------------->
 
 <p 03><d 631F><a 1D><n 12>
-Vou te mostrar como
-o Pseudoróide Purprill
-é forte!
+Vou te mostrar como eu,
+o Pseudoróide do Modelo
+P, Purprill, sou forte!
 <*********************>
 
 <p 03><d 641F><a 1D><n 12>
@@ -242,7 +242,7 @@ que nem você?
 
 <p 03><d 661F><a 1D><n 12>
 N-nããoo! Sou poderoso
-demais para ser
+demais pra ser
 derrotado!
 <--------------------->
 
@@ -271,10 +271,10 @@ Você lutou bravamente.
 <p 03><d 6A1F><a 36><n 0A>
 Modelo X, já que você
 está emprestando seu
-poder a este rapaz,
+poder a esta jovem,
 <--------------------->
 
-devo pressupor que a
+devo presumir que a
 hora chegou?
 <--------------------->
 
@@ -365,9 +365,9 @@ A-ah, estou a caminho!
 <--------------------->
 
 <p 01><p 02><d 4B1F><a 05><n 01>
-Jamais pensei que
+(Jamais pensei que
 voltaria aqui outra
-vez...
+vez...)
 <*********************>
 
 <FIM>

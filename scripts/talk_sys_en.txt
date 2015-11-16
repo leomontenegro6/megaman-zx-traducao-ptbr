@@ -690,7 +690,7 @@ Encontrou <c 03>Chip de Computador<c 00>!
 <*********************>
 
 
-Encontrou um <c 03>Cartão-Chave Roxo<c 00>!
+Obteve <c 03>Cartão-Chave Roxo<c 00>!
 <*********************>
 
 
