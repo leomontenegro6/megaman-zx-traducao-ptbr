@@ -2,109 +2,109 @@
 <#####################>
 
 <p 02><a 2C><n 20>
-Ever been to the
-reservoir in Area B-4?
+Você já esteve no
+reservatório da Área
+B-4?
 <--------------------->
 
 <p 02><a 2C><n 20>
-If ya have, you'll
-know what I'm about to
-tell ya.
+Se sim, você saberá
+sobre o que estou
+prestes a te contar.
 <--------------------->
 
 <p 02><a 2C><n 20>
-Slither Inc. is dumpin'
-waste from their
-factory in the lakes.
+A Slither Inc. está
+despejando resíduos de
+sua fábrica nos lagos.
 <--------------------->
 
 <p 02><a 2C><n 20>
-We've been spreadin'
-around neutralizer in
-the water.
+Estivemos espalhando um
+neutralizador na água.
 <--------------------->
 
 <p 02><a 2C><n 20>
-Would ya help us
-finish the job?
+Poderia nos ajudar a
+terminar o serviço?
 <--------------------->
 
 <p 02><a 2C><n 20>
-Oh! Sorry, I should
-explain better.
+Oh! Desculpe, vou
+explicar melhor.
 <--------------------->
 
 <p 02><a 2C><n 20>
-The neutralizer is what
-cleans up the pollution
-in the water supply.
+O neutralizador é o que
+limpa a poluição no
+suprimento de água.
 <*********************>
 
 <p 02><a 2C><n 20>
-I hate to think what
-would happen if the
-water from the
+Não quero nem pensar no
+que aconteceria se a
+água dos lagos
 <--------------------->
 
-lakes made it into
-the river...
+adentrasse a água dos
+rios...
 <--------------------->
 
 <p 02><a 2C><n 20>
-We have to neutralize
-the pollution before
-that happens.
+Temos que neutralizar a
+poluição antes que isso
+aconteça.
 <*********************>
 
 <p 02><a 02><n 55>
-Spread the neutralizer
-across the lakes.
+Espalhar neutralizador
+na água dos lagos.
 <*********************>
 
 <e 01><a 02><n 55>
-  Yes
-  No
+  Sim
+  Não
 <*********************>
 
 <p 02><a 2C><n 20>
-The water is still
-pretty dirty.
+A água continua muito
+suja.
 <--------------------->
 
 <p 02><a 2C><n 20>
-You'll have to use all
-5 neutralizers to clean
-the lakes up!
+Você precisará usar
+todos 5 neutralizadores
+para limpar os lagos!
 <*********************>
 
 <p 02><a 2C><n 20>
-Well done. Well done!
-Don't forget to file a
-report.
+Muito bem. Muito bem!
+Não esqueça de fazer
+um relatório.
 <*********************>
 
 <p 02><a 02><n 55>
-Quest completed.
+Pedido concluído.
 <--------------------->
 
 <p 02><a 02><n 55>
-300 EC have been
-transferred to your
-account.
+Foram transferidos
+300 CE para a sua
+conta.
 <*********************>
 
 <p 02><a 2C><n 20>
-I'm definitely
-impressed.
+Estou muito
+impressionado.
 <--------------------->
 
 <p 02><a 2C><n 20>
-I shoulda known
-someone with the
+Eu deveria saber que
+alguém com o Biometal
 <--------------------->
 
-Biometal could do a
-better job than us.
+faria um trabalho
+melhor que o nosso.
 <*********************>
 
 <FIM>
