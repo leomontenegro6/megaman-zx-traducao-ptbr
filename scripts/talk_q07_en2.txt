@@ -2,169 +2,172 @@
 <#####################>
 
 <p 02><a 42><n 3D>
-Oh where oh where has
-my Mushroom gone?
+Oh! Onde será que o meu
+Cogumelo foi?
 <--------------------->
 
 <p 02><a 42><n 3D>
-I was just in the
-forest and I had him in
-my bag...
+Eu estava na floresta e
+ele ele estava na minha
+mochila...
 <--------------------->
 
 <p 02><a 42><n 3D>
-I keep trying to look
-for him, but I just
-can't find him.
+Eu continuo procurando
+por ele, mas eu não
+consigo encontrá-lo.
 <--------------------->
 
 <p 02><a 42><n 3D>
-You're a transporter,
-right?
+Você é uma
+transportadora, não é?
 <--------------------->
 
 <p 02><a 42><n 3D>
-If you find him, could
-you bring him back for
-me?
+Se o encontrar, poderia
+trazê-lo de volta para
+mim?
 <*********************>
 
 <p 02><a 42><n 3D>
-I've made the 
-request, so it should
-be in the transerver.
+Fiz um pedido formal
+que já deve estar no
+transervidor.
 <*********************>
 
 <p 02><a 42><n 3D>
-I hope my poor little
-Mushroom comes back to
-me safe and sound...
+Coitadinho do Cogumelo,
+espero que ele volte
+para mim são e salvo.
 <*********************>
 
 <p 02><a 02><n 55>
-Find Mushroom for
+Encontrar Cogumelo para
 Arcia.
 <*********************>
 
 <e 01><a 02><n 55>
-  Yes
-  No
+  Sim
+  Não
 <*********************>
 
 <p 02><a 42><n 3D>
-Hey, Mushroom is no
-mushroom...
+Ei, Cogumelo não é um
+cogumelo...
 <--------------------->
 
 <p 02><a 42><n 3D>
-It's the name of my pet
-bird!
+Este é o nome do
+meu passarinho de
+estimação!
 <--------------------->
 
 <p 02><a 42><n 3D>
-Please, you have to
-find him!
+Por favor, você tem que
+encontrá-lo!
 <*********************>
 
 <p 02><a 42><n 3D>
-Mushroom!!! Thank
-goodness you're okay!
+Cogumelo!!! Meu Deus,
+você está bem!
 <--------------------->
 
 <p 02><a 42><n 3D>
-Mushroom only likes
-girls.
+Cogumelo gosta apenas
+de garotas.
 <--------------------->
 
 <p 02><a 42><n 3D>
-I'm so grateful there
-are women transporters
-like you Aile!
+Estou tão agradecida
+que existam mulheres
+transportadoras como
 <*********************>
 
 <p 02><a 42><n 3D>
-Thank you Aile.
+você Aile!
+Muito obrigada Aile.
 <--------------------->
 
 <p 02><a 42><n 3D>
-I was so lonely without
-Mushroom these last
-three hours.
+Estive tão solitária
+nestas três horas sem
+o Cogumelo..
 <--------------------->
 
 <p 02><a 42><n 3D>
-Life without Mushroom
-is like dinner without
-dessert.
+Viver ser o Cogumelo é
+como um jantar sem
+sobremesa.
 <--------------------->
 
 <p 02><a 42><n 3D>
-Hm? You don't get it?
+Hum? Você não entendeu?
+Estava tentando dizer
 I'm just trying to say
 it's meaningless.
 <*********************>
 
 <p 02><a 42><n 3D>
-I'll send something to
-the transerver in
-thanks!
+Enviarei algo para o
+transervidor em
+agradecimento.
 <*********************>
 
 <p 02><a 42><n 3D>
-Oh yeah! My grandpa had
-something too.
+Ah sim! Meu avô tem
+algo para você também.
 <--------------------->
 
 <p 02><a 42><n 3D>
-He wanted me to give it
-to you.
+Ele queria que eu desse
+para você.
 <--------------------->
 
 <p 02><a 42><n 3D>
-I'll send it to the
-transerver as well.
+Enviarei para o
+transervidor também.
 <--------------------->
 
 <p 02><a 42><n 3D>
-He used to use it back
-in his ice climbing
-days.
+Ele costumava usar
+isso em seus dias
+de alpinista.
 <--------------------->
 
 <p 02><a 42><n 3D>
-It's a bit old, but
-I'm sure it still
-works like a charm.
+É um tanto velha, mas
+tenho certeza que
+funciona muito bem.
 <*********************>
 
 <p 02><a 02><n 55>
-Quest completed.
+Pedido concluído.
 <--------------------->
 
 <p 02><a 02><n 55>
-200 EC and an item have
-been transferred to
-your account.
+Foram transferidos
+200 CE para a sua
+conta.
 <*********************>
 
 <p 02><a 42><n 3D>
-Mushroom's acting kind
-of funny.
+Cogumelo está se
+divertindo muito.
 <--------------------->
 
 <p 02><a 42><n 3D>
-It must be from all the
-time spent alone in the
-forest.
+Deve estar compensando
+todo o tempo que passou
+sozinho na floresta.
 <--------------------->
 
 <p 02><a 42><n 3D>
-He reverted a bit to
-him old wild self and
+Ele até volto a ficar
+selvagem quando tentei
 <--------------------->
 
-bit me when I tried to
-feed him.
+alimentá-lo e me deu
+uma bicada.
 <*********************>
 
 <FIM>
