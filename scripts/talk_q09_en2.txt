@@ -2,158 +2,159 @@
 <#####################>
 
 <p 02><a 2A><n 1E>
-Hey Aile! I have
-another favor to ask.
+Ei Aile! Tenho um outro
+favor para te pedir.
 <--------------------->
 
 <p 02><a 2A><n 1E>
-I've got a new letter
-for you-know-who.
+Tenho uma outra carta
+para você-sabe-quem.
 <--------------------->
 
 <p 02><a 2A><n 1E>
-I put a lot of work
-into this one!
+Tive bastante trabalho
+com esta aqui!
 <--------------------->
 
 <p 02><a 2A><n 1E>
-I'm sure this time
-she'll fall head over
-heels for me.
+Tenho certeza que esta
+a deixará caidinha por
+mim.
 <--------------------->
 
 <p 02><a 2A><n 1E>
-Don't worry, I'll
-reward you for your
-help.
+Não se preocupe, irei
+recompensar a sua
+ajuda.
 <*********************>
 
 <p 02><a 2A><n 1E>
-I've passed the letter
-on to the transerver.
+Eu enviei a carta pelo
+transervidor.
 <--------------------->
 
 <p 02><a 2A><n 1E>
-Whatever you do, don't
-read it!
+Haja o que houver, não
+a leia!
 <--------------------->
 
 <p 02><a 2A><n 1E>
-I stayed up all night
-to find the perfect way
-to win a woman's
+Eu fiquei aqui a noite
+inteira pensando na
+forma perfeita de
 <--------------------->
 
-heart, and I don't want
-to let the secret get
-out.
+conquistar o coração de
+uma mulher e não quero
+que o segredo vaze.
 <*********************>
 
 <p 02><a 02><n 55>
-Deliver the letter to
-the woman in Area C-2.
+Entregar a carta para
+a mulher na Área C-2.
 <*********************>
 
 <e 01><a 02><n 55>
-  Yes
-  No
+  Sim
+  Não
 <*********************>
 
 <p 02><a 2A><n 1E>
-She hasn't read the
-letter yet, has she?
+Ela não leu a carta
+ainda, ou já leu?
 <--------------------->
 
 <p 02><a 2A><n 1E>
-I've done this before,
-but my heart is still
-racing!
+Eu já disse isso antes
+mas, meu coração está
+a mil!
 <*********************>
 
 <p 02><a 4B><n 46>
-Oh, it's the
-transporter again.
-What!? Another letter?
+Oh, é o transportador
+de novo. O quê!? Outra
+carta?
 <--------------------->
 
 <p 02><a 4B><n 46>
-I wonder who this one
-is from...
+Gostaria de saber quem
+é desta vez...
 <--------------------->
 
 <p 02><a 4B><n 46>
-"Are you a dog person
-or a cat person?"
+"Você gosta de cães ou
+prefere os gatos?"
 <--------------------->
 
 <p 02><a 4B><n 46>
-"I like lions myself!"
+"Eu gosto de leoas!"
 <--------------------->
 
 <p 02><a 4B><n 46>
-What's the meaning of
-this!? Is this some
-kind of test?
+O que significa isso!?
+É algum tipo de teste
+ou coisa parecida?
 <--------------------->
 
 <p 02><a 4B><n 46>
-Alright, I'll answer...
+Certo, vou responder...
 <--------------------->
 
 <p 02><a 4B><n 46>
-I like dogs AND cats,
-but I DON'T like
-annoying men.
+Gosto de cães E gatos,
+mas DETESTO homens
+chatos.
 <*********************>
 
 <p 02><a 2A><n 1E>
-She likes cats?
-Wonderful! A lion is a
-kind of cat after all.
+Ela gosta de gatos?
+Que bom! A leoa é um
+tipo de felino.
 <--------------------->
 
 <p 02><a 2A><n 1E>
-This relationship is
-moving right along.
+Este relacionamento
+está indo no caminho
+certo.
 <--------------------->
 
 <p 02><a 2A><n 1E>
-It must be destiny!
+Deve ser o destino!
 <*********************>
 
 <p 02><a 4B><n 46>
-Transporter!
+Transportadora!
 <--------------------->
 
 <p 02><a 4B><n 46>
-Let him down easy for
-me, okay?
+Decepcione-o para mim,
+ok?
 <--------------------->
 
 <p 02><a 4B><n 46>
-Hmph. I don't know why
-I even bother...
+Hmph. Não sei por que
+ainda me importo...
 <*********************>
 
 <p 02><a 02><n 55>
-Quest completed.
+Pedido concluído.
 <--------------------->
 
 <p 02><a 02><n 55>
-150 EC have been
-transferred to your
-account.
+Foram transferidos
+150 CE para a sua
+conta.
 <*********************>
 
 <p 02><a 4B><n 46>
-Not that it matters to
-you...
+Não que isso importe
+para você...
 <--------------------->
 
 <p 02><a 4B><n 46>
-But there was nothing
-in that letter to stir
-a woman's heart.
+Mas aquela carta não
+conseguiria abalar o
+coração de uma mulher.
 <*********************>
 
 <FIM>
