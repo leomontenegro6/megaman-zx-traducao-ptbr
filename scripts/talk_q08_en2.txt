@@ -2,167 +2,168 @@
 <#####################>
 
 <p 02><a 2A><n 1E>
-Hey Aile! I hate to
-bother you, but I have
-a favor to ask.
+Ei Aile! Me desculpe
+te incomodar, mas tenho
+um favor a te pedir.
 <--------------------->
 
 <p 02><a 2A><n 1E>
-I was hoping you could
-deliver this letter to
-a girl.
+Estava pensando se não
+poderia entregar esta
+carta para uma garota.
 <--------------------->
 
 <p 02><a 2A><n 1E>
-You're surprised to
-hear people still write
+Você está surpresa por
+notar que as pessoas
 <--------------------->
 
-letters in this day and
-age?
-<--------------------->
-
-<p 02><a 2A><n 1E>
-Nothing beats a letter
-for capturing the human
-heart.
+ainda escrevem cartas
+assim hoje em dia?
 <--------------------->
 
 <p 02><a 2A><n 1E>
-Please, Aile.
+Nada supera uma carta
+quando o assunto é
+capturar o coração.
 <--------------------->
 
 <p 02><a 2A><n 1E>
-I'll compensate you for
-your time!
+Por favor, Aile.
 <--------------------->
 
 <p 02><a 2A><n 1E>
-As for the name of the
-girl of my dreams...
-I'm not sure.
+Irei te compensar pelo
+seu tempo!
 <--------------------->
 
 <p 02><a 2A><n 1E>
-But I did see her
-near the fountain in
-town the other day.
+O nome da garota do
+meus sonhos é...
+Não tenho certeza.
+<--------------------->
+
+<p 02><a 2A><n 1E>
+Mas eu a vi perto da
+fonte na cidade outro
+dia.
 <*********************>
 
 <p 02><a 2A><n 1E>
-Aile, I'll send the
-letter to the
-transerver.
+Aile, irei enviar a
+carta para o
+transervidor.
 <--------------------->
 
 <p 02><a 2A><n 1E>
-Whatever you do, don't
-open it!
+O que quer que faça,
+não abra!
 <--------------------->
 
 <p 02><a 2A><n 1E>
-You're a transporter,
-so I'm sure you know
+És um transportadora,
+então, estou certo que
+você não violará a
 <--------------------->
 
-better than to invade a
-client's privacy.
+privacidade do seu
+cliente.
 <*********************>
 
 <p 02><a 02><n 55>
-Deliver the letter to
-the woman in Area C-2.
+Entregar a carta para
+a mulher na Área C-2.
 <*********************>
 
 <e 01><a 02><n 55>
-  Yes
-  No
+  Sim
+  Não
 <*********************>
 
 <p 02><a 2A><n 1E>
-You haven't delivered
-the letter yet, have
-you?
+Você ainda não entregou
+a carta ainda, ou já
+entregou?
 <--------------------->
 
 <p 02><a 2A><n 1E>
-My heart is racing! I
-wonder what she'll
-say...
+Meu coração está a mil!
+Gostaria de saber o que
+ela dirá...
 <--------------------->
 
 <p 02><a 2A><n 1E>
-She should be near the
-fountain, so make sure
-she gets it.
+Ela deveria estar perto
+da fonte, então faça
+com que ela receba.
 <*********************>
 
 <p 02><a 4B><n 46>
-Oh, you're a
-transporter. You have a
-letter? For me?
+Oh, você é uma
+transportadora e tem
+uma carta? Para mim?
 <--------------------->
 
 <p 02><a 4B><n 46>
-I wonder who it's
-from...
+Gostaria de saber quem
+enviou...
 <--------------------->
 
 <p 02><a 4B><n 46>
-Let's see now... "Would
-you like to have dinner
-sometime?"
+Vejamos... "Gostaria de
+jantar comigo algum
+dia?"
 <--------------------->
 
 <p 02><a 4B><n 46>
-The nerve! Do I look
-that easy to ask out on
-a date!?
+Que droga! Um pedido de
+encontro. Eu pareço tão
+fácil assim!?
 <*********************>
 
 <p 02><a 2A><n 1E>
-Did she say anything
-about the letter?
+Ela disse alguma coisa
+sobre a carta?
 <--------------------->
 
 <p 02><a 2A><n 1E>
-I hope she writes one
-back to me!
+Espero que ela responda
+minha carta!
 <*********************>
 
 <p 02><a 4B><n 46>
-Hey transporter!
+Ei transportadora!
 <--------------------->
 
 <p 02><a 4B><n 46>
-Tell that guy to knock
-it off!
+Diga para esse cara
+cair fora!
 <--------------------->
 
 <p 02><a 4B><n 46>
-I don't even know him
-that well.
+Eu nem o conheço
+direito.
 <*********************>
 
 <p 02><a 02><n 55>
-Quest completed.
+Pedido concluído.
 <--------------------->
 
 <p 02><a 02><n 55>
-100 EC have been
-transferred to your
-account.
+Foram transferidos
+100 CE para a sua
+conta.
 <*********************>
 
 <p 02><a 4B><n 46>
-I know it's just your
-job to deliver things.
+Sei que é seu trabalho
+entregar coisas.
 <--------------------->
 
 <p 02><a 4B><n 46>
-But I'll be honest, I
-found that letter
-creepy!
+Mas, serei honesta, eu
+achei aquela carta bem
+assustadora!
 <*********************>
 
 <FIM>
