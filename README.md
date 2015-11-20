@@ -7,11 +7,17 @@ Mega Man ZX é o primeiro jogo da sexta saga da franquia Mega Man. Lançado em 2
 # Informações
 
 Nome do jogo: Mega Man ZX
+
 Versão: Americana
+
 Plataforma: Nintendo DS
+
 Desenvolvedora: Inticreates
+
 Distribuidora: Capcom
+
 Gênero: Aventura / Plataforma / Metroidvania
+
 Jogadores: 1
 
 # Enredo
@@ -39,9 +45,13 @@ Consegui a ajuda do Ondinha na tradução de alguns scripts, e juntos, já tradu
 # Status da Tradução
 
 Textos: 67%
+
 Acentos: 100%
+
 Gráficos: 0%
+
 Vídeos: 0%
+
 Ferramenta Dumper / Inserter de textos: 100%
 
 # Informações Adicionais
