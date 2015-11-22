@@ -2,104 +2,103 @@
 <#####################>
 
 <p 02><d 813E><a 0B><n 04>
-Vent. We've tracked
-down Model W's
-location.
+Vent. Nós rastreamos
+a localização do
+Modelo W.
 <--------------------->
 
 <p 02><d 823E><a 0B><n 04>
-It's in the tallest
-building right in the
-center of the country -
+Está no edifício mais
+alto de todos, situado
+no centro deste país:
 <--------------------->
 
-Slither Inc's head
-office.
+A sede da Serpent Ltda.
 <*********************>
 
 <p 01><p 02><d 833E><a 0B><n 04>
-I'm detecting a huge
-concentration of energy
+Estou detectando uma
+enorme concentração de
+energia,
 <--------------------->
 
-amassing within the
-building.
+acumulando-se dentro do
+edifício.
 <--------------------->
 
 <p 01><p 02><d 843E><a 0B><n 04>
-Something big is about
-to happen. It's going
-to be dangerous.
+Algo grande está
+prestes a acontecer.
+Vai ser perigoso.
 <--------------------->
 
 <p 01><p 03><d 853E><a 05><n 01>
-I know it'll be
-dangerous, but this is
-something I have to do.
+Sei dos perigos, mas é
+algo que eu tenho que
+fazer.
 <*********************>
 
 <p 02><d 863E><a 0C><n 04>
-Vent. I know it's a
-little late, but...
+Vent. Sei que é um
+pouco tarde, mas...
 <*********************>
 
 <p 02><d 873E><a 0C><n 04>
-I'm so sorry I keep
-putting your life in
-jeopardy.
+Peço mil desculpas por
+continuar pondo sua
+vida em risco.
 <--------------------->
 
 <p 02><d 883E><a 0C><n 04>
-If I never would have
-made that transporter
-request,
+Se eu nunca tivesse
+feito aquele pedido à
+transportadora,
 <--------------------->
 
-you wouldn't have
-gotten wrapped up in
-all this.
+você não teria se
+metido em toda essa
+confusão.
 <--------------------->
 
 <p 02><d 893E><a 0C><n 04>
-And Giro...
+E Giro...
 <--------------------->
 
 <p 02><d 8A3E><a 0C><n 04>
-I feel like I've caused
-you so much pain and
-suffering.
+Sinto que eu o causei
+tanta dor e sofrimento.
 <--------------------->
 
 <p 03><d 8B3E><a 05><n 01>
-Please don't feel that
-way. I'm grateful to
-you.
+Por favor, não fique se
+martirizando. Eu sou
+grato a você.
 <*********************>
 
 <p 02><d 8C3E><a 0C><n 04>
-Really? Why?
+Mesmo? Por quê?
 <--------------------->
 
 <p 03><d 8D3E><a 05><n 01>
-It's my fault that I
-couldn't save Boss. I
-wasn't strong enough.
+É culpa minha eu não
+ter conseguido salvar o
+Chefe. Não tinha força.
 <--------------------->
 
 <p 03><d 8E3E><a 05><n 01>
-But now I have the
-power of the Biometal.
+Mas agora tenho os
+poderes dos Biometais.
 <--------------------->
 
 <p 03><d 8F3E><a 05><n 01>
-Thanks to you and the
-Biometal,
+Graças a você e aos
+Biometais,
 <--------------------->
 
 <p 03><d 903E><a 05><n 01>
-I finally have the
-strength to protect the
-ones I care about.
+finalmente tenho a
+força para proteger as
+pessoas próximas a mim.
 <--------------------->
 
 <p 02><d 913E><a 09><n 04>
@@ -107,864 +106,871 @@ Vent...
 <--------------------->
 
 <p 03><d 923E><a 05><n 01>
-I'll be back soon.
+Voltarei em breve.
 <--------------------->
 
 <p 03><d 933E><a 05><n 01>
-I'm off to end this
-nightmare!
+Estou indo acabar com
+todo este pesadelo!
 <--------------------->
 
 <p 02><d 943E><a 09><n 04>
-The final mission data
-has been added to the
-transerver.
+A missão final foi
+adicionada aos
+transervidores.
 <--------------------->
 
 <p 02><d 953E><a 09><n 04>
-Vent. Make sure you
-come back to us okay?
+Vent. Volte para nós
+vivo, tá?
 <*********************>
 
 <p 02><d 963E><a 02><n 55>
-There is a Biometal
-signature coming from
+Há uma assinatura de
+Biometal
 <--------------------->
 
-Slither Inc.'s head
-office in Area D.
+vindo da sede da
+Serpent Ltda, situada
+na Área D.
 <--------------------->
 
 <p 02><d 973E><a 02><n 55>
-It's Model W.
+É o Modelo W.
 <--------------------->
 
 <p 02><d 983E><a 02><n 55>
-Go to Slither Inc.'s
-head office and destroy
-it.
+Vá à sede da Serpent
+Ltda e destrua-o.
 <*********************>
 
 <p 03><d 993E><a 1B><n 10>
-The curtain is rising
-on a new age!
+As curtinas estão se
+abrindo para uma nova
+era!
 <--------------------->
 
-Unfortunately, you
-won't be around to see
-it.
+Infelizmente, você não
+estará por perto,
+para vê-la.
 <--------------------->
 
 <p 03><d 9A3E><a 1B><n 10>
-The light of the new
-world burns too
+A luz do novo mundo
+brilha forte demais
 <--------------------->
 
-brightly for people
-like you!
+para pessoas como
+você!
 <*********************>
 
 <p 01><p 03><d 9B3E><a 1B><n 10>
-You just don't have
-what it takes to
+Você não tem o que é
+preciso para entender
+nossa verdadeira visão.
 <--------------------->
 
-understand our true
-vision. What a shame...
+Que pena...
 <*********************>
 
 <p 03><d 9C3E><a 1B><n 10>
-*cough* *cough* I have
-no fear of the end!
+Cof! Cof! Não tenho
+medo do fim!
 <--------------------->
 
 <p 03><d 9D3E><a 1B><n 10>
-My spirit will fuse
-with Model W and Lord
-Serpent!
+Meu espírito há de se
+fundir com Modelo W
+e Mestre Serpent!
 <*********************>
 
 <p 03><d 9E3E><a 1A><n 0F>
-Unbelievable! You've
-been bothering poor
+Inacreditável! Você
+esteve incomodando
 <--------------------->
 
-Lord Serpent this whole
-time!
+o pobrezinho do Mestre
+Serpent esse tempo
+todo!
 <--------------------->
 
 <p 03><d 9F3E><a 1A><n 0F>
-You little brat! I'm
-going to grind you up!
+Seu fedelho!
+Vou esmagá-lo agora!
 <*********************>
 
 <p 01><p 03><d A03E><a 1A><n 0F>
-Oh my! Was that all you
-had?
+Céus! Isso é tudo que
+pode fazer?
 <--------------------->
 
 <p 01><p 03><d A13E><a 1A><n 0F>
-You little monster,
-you barely put up a
-fight!
+Seu monstrinho! Você
+não luta nada!
 <*********************>
 
 <p 03><d A23E><a 1A><n 0F>
-Oh! Lord Serpent...
-Take my spirit... it's
-yours to have!
+Céus! Mestre Serpent...
+Leve meu espírito...
+é todo seu!
 <--------------------->
 
 <p 03><d A33E><a 1A><n 0F>
-As for you, I hope you
-get squished like the
-bug you are!
+Quanto a você, espero
+que seja esmagado como
+um inseto!
 <*********************>
 
 <p 03><d A43E><a 21><n 16>
-Another chance to fight
-the kid. My spirit is
-on fire!
+Outra chance de lutar
+com o garoto. Minha
+alma está em chamas!
 <--------------------->
 
 <p 03><d A53E><a 21><n 16>
-Alright boy! Show me
-your strength!
+Beleza! Me mostra tua
+força!
 <*********************>
 
 <p 03><d A63E><a 21><n 16>
-You did not even have
-the courage to forget
+Se você não tem nem
+coragem de esquecer
+o passado,
 <--------------------->
 
-the past, how did you
-expect to emerge
-victorious!?
+como espera sair
+vitorioso nessa luta?!
 <*********************>
 
 <p 03><d A73E><a 21><n 16>
-Even if it is only in
-spirit, I will continue
-to fight!
+Mesmo em espírito,
+continuarei a lutar!
 <--------------------->
 
-I will become one with
-Model W!
+Hei de me tornar um,
+com o Modelo W!
 <--------------------->
 
 <p 03><d A83E><a 21><n 16>
-This... this is what
-Serpent must have been
-saying about the power
+Isso... É isso que
+Serpent queria dizer
+com poder de um deus!
 <--------------------->
 
-of a god! It is
-incredible... Simply
-incredible!
+É incrível...
+Simplesmente incrível!
 <*********************>
 
 <p 03><d A93E><a 1D><n 12>
-Ook! Ook! It's a
-miracle! I'm back and
-I'm feeling great!
+U, u, á, á! U, u, á, á!
+É um milagre! Voltei
+e me sinto o máximo!
 <--------------------->
 
 <p 03><d AA3E><a 1D><n 12>
-I'm sorry, this won't
-be a fair fight!
+Foi mal aí, mas não
+vai ser uma luta justa!
 <--------------------->
 
-I'll probably take you
-down with one hit!
+Se bobear, vou acabar
+te derrubando com uma
+porrada só!
 <*********************>
 
 <p 03><d AB3E><a 1D><n 12>
-Ook! Ook! Your spirit
-is far too weak to be
-absorbed into Model W!
+U, u, á, á! Sua alma é
+fraca demais para ir
+junto do Modelo W!
 <*********************>
 
 <p 03><d AC3E><a 1D><n 12>
-Ook... Ook! Done in
-again!
+U, u... á, á!
+Apanhei de novo!
 <--------------------->
 
-Oh well, at least I was
-back for a little
-while.
+Bom, pelo menos eu pude
+viver um pouco mais.
 <--------------------->
 
 <p 03><d AD3E><a 1D><n 12>
-Lord Serpent! Take my
-spirit, I freely give
-it to Model W!
+Mestre Serpent! Eu cedo
+minha alma ao Modelo W
+por livre arbítrio!
 <*********************>
 
 <p 03><d AE3E><a 1C><n 11>
-Hmph. You're a real
-pest! Still trying to
-fight the inevitable.
+Hmph. Sua peste! Ainda
+tentando combater o
+inevitável.
 <--------------------->
 
-Lord Serpent will be
-victorious!
+Mestre Serpent sairá
+vitorioso!
 <--------------------->
 
 <p 03><d AF3E><a 1C><n 11>
-I'll carve you up and
-then you'll realize how
-futile your battle was!
+Vou aniquilá-lo, e
+então perceberá o quão
+fútil sua batalha foi!
 <*********************>
 
 <p 03><d B03E><a 1C><n 11>
-You must have been
-quite brave to dare
-challenge me!
+Você era bem corajoso
+por ousar me desafiar!
 <--------------------->
 
 <p 03><d B13E><a 1C><n 11>
-Well, bravery isn't
-everything.
+Bom, bravura não é
+tudo.
 <*********************>
 
 <p 03><d B23E><a 1C><n 11>
-Agh! I will continue to
-live on as one with
-Model W...
+Argh! Continuarei a
+viver como um só, junto
+do Modelo W...
 <--------------------->
 
 <p 03><d B33E><a 1C><n 11>
-I don't care how long
-it takes, I will defeat
-you!
+Não importa quanto
+tempo levar, vou
+derrotá-lo!
 <*********************>
 
 <p 03><d B43E><a 1E><n 13>
-Youth truly is wasted
-on the young.
+A juventude realmente
+é desperdiçada nos
+jovens.
 <--------------------->
 
-You still continue to
-defy Lord Serpent!?
+Ainda continua a
+desafiar Mestre
+Serpent?!
 <--------------------->
 
 <p 03><d B53E><a 1E><n 13>
-You're blind to
-reality! The world that
-Lord Serpent is
+Você é cego para a
+realidade! O mundo que
+Mestre Serpent criará
 <--------------------->
 
-building is the next
-step in humanity's
-evolution!
+é o próximo passo
+na evolução humana!
 <*********************>
 
 <p 03><d B63E><a 1E><n 13>
-Youth was against
-you...
+A juventude estava
+contra você...
 <--------------------->
 
-It takes maturity
-beyond your years to
-be a true Mega Man!
+É preciso de anos de
+maturidade, para ser um
+verdadeiro Mega Man!
 <*********************>
 
 <p 03><d B73E><a 1E><n 13>
-If only you could
-become one with
-Model W, you too would
+Se ao menos você se
+tornasse um com o
+Modelo W,
 <--------------------->
 
-understand the truth.
+você também entenderia
+a verdade.
 <--------------------->
 
 <p 03><d B83E><a 1E><n 13>
-We must evolve... with
-a new world.
+Devemos evoluir... com
+um novo mundo.
 <*********************>
 
 <p 03><d B93E><a 1F><n 14>
-Haha! You should thank
-me. I went through all
+Rá, rá! Devia me
+agradecer.
 <--------------------->
 
-the trouble of
-diggin' your grave!
+Tive todo o trabalho de
+cavar sua cova!
 <--------------------->
 
 <p 03><d BA3E><a 1F><n 14>
-Now I just have to bury
-ya!
+Agora só tenho que te
+enterrar!
 <*********************>
 
 <p 03><d BB3E><a 1F><n 14>
-Hmm! It's goin' to be
-tough to put your
+Hmm! Acho que vai ser
+difícil
 <--------------------->
 
-pieces back together
-again...
+juntar todos os seus
+pedaços novamente...
 <--------------------->
 
 <p 03><d BC3E><a 1F><n 14>
-I guess I'll just
-scatter some dust on ya
-and skip the grave!
+Acho que, pra você,
+não vai ter enterro!
 <*********************>
 
 <p 03><d BD3E><a 1F><n 14>
-I can sense the
-shockwaves of Model W
-ripplin' underground...
+Já sinto as ondas de
+choque do Modelo W
+tremendo o chão...
 <--------------------->
 
 <p 03><d BE3E><a 1F><n 14>
-Feel free to take your
-dirt nap when Model W
-is done with you!
+Quando o Modelo W
+te pegar, você vai
+bater as botas!
 <*********************>
 
 <p 03><d BF3E><a 20><n 15>
-I never expected you to
-make it all the way to
-our head office...
+Nunca esperei que você
+conseguisse chegar tão
+longe na nossa sede...
 <--------------------->
 
-But this is where your
-journey ends.
+Mas é aqui que a sua
+jornada termina.
 <--------------------->
 
 <p 03><d C03E><a 20><n 15>
-Your smug sense of
-righteousness will be
-your undoing!
+Esse seu senso de
+justiça presunçoso
+será sua ruína!
 <*********************>
 
 <p 03><d C13E><a 20><n 15>
-You should feel proud!
-You have become the
-first stepping
+Deveria se orgulhar!
+Você se tornou a
+primeira pedra de apoio
 <--------------------->
 
-stone on the road to a
-new world!
+na estrada para um
+novo mundo!
 <*********************>
 
 <p 03><d C23E><a 20><n 15>
-Lord Serpent... He will
-leave a big footprint
-in history!
+Mestre Serpent... Ele
+deixará uma enorme
+marca na história!
 <--------------------->
 
 <p 03><d C33E><a 20><n 15>
-The footprint left
-behind where he
-crushes you!
+A marca onde ele
+esmagará você!
 <*********************>
 
 <p 02><d C43E><a 07><n 01>
-Cyber-elves! Why are
-there so many of them!?
+Cyber-elfos! Por que há
+tantos deles aqui?!
 <*********************>
 
 <p 03><d C53E><a 14><n 0C>
-You must be wondering
-why we need so many
+Você deve estar se
+perguntando por que
+precisamos
 <--------------------->
 
-Cyber-elves to awaken
-Model W...
+de tantos Cyber-elfos
+para despertar o
+Modelo W...
 <--------------------->
 
 <p 03><d C63E><a 14><n 0C>
-Hmph! A child like you
-could never understand.
+Hmph! Uma criança como
+você jamais entenderá.
 <*********************>
 
 <p 03><d C73E><a 14><n 0C>
-Their fright...
+O medo que eles
+sentem...
 <--------------------->
 
-It becomes the power
-that drives Model W!
+O medo se torna o
+poder que impulsiona
+o Modelo W!
 <*********************>
 
 <p 02><d C83E><a 07><n 01>
-What!?
+O quê!?
 <*********************>
 
 <p 03><d C93E><a 14><n 0C>
-Model W, it's time! The
-despair and fear of
-this country are yours!
+Modelo W, é chegada a
+hora! O medo e deses-
+pero deste país é seu!
 <*********************>
 
 <p 03><d CA3E><a 14><n 0C>
-By joining us, the weak
-are freed from their
-suffering!
+Juntando-se a nós,
+os fracos são liber-
+tados do sofrimento!
 <--------------------->
 
 <p 03><d CB3E><a 14><n 0C>
-The chosen one, Mega
-Man, will save the
-people!
+O Mega Man escolhido
+salvará as pessoas!
 <--------------------->
 
-That is the glory of
-Project Haven!
+Esta é a glória do
+Projeto Refúgio!
 <--------------------->
 
 <p 02><d CC3E><a 07><n 01>
-Mega Man will save the
-people!?
+"Salvará todas as
+pessoas"?!
 <--------------------->
 
 <p 02><d CD3E><a 07><n 01>
-Where did you get all
-of these Cyber-elves!?
+De onde obteve todos
+esses Cyber-elfos?!
 <--------------------->
 
 <p 03><d CE3E><a 14><n 0C>
-Ten years ago, people
-fell victim to a
-Maverick raid.
+Dez anos atrás, um
+surto de Mavericks
+vitimou várias pessoas.
 <--------------------->
 
 <p 03><d CF3E><a 14><n 0C>
-My company's security
-force dealt with the
+A força de segurança da
+minha empresa acabou
+com esses Mavericks,
 <--------------------->
 
-Maverick threat and
-were welcomed back as
-heroes.
+e assim, acabei sendo
+reconhecido como herói.
 <--------------------->
 
 <p 03><d D03E><a 14><n 0C>
-Since then, this
-country has been
-plagued by raid after
+Desde então, este país
+foi atormentado por um
+surto atrás do outro,
 <--------------------->
 
-raid and my company
-has always come to the
-rescue.
+com minha empresa
+sempre vindo ao
+resgate no final.
 <--------------------->
 
 <p 03><d D13E><a 14><n 0C>
-I was able to earn the
-trust of the people,
-while at the same
+Consegui ganhar a
+confiança das pessoas,
+enquanto que,
 <--------------------->
 
-time harvest the
-spirits I needed!
+ao mesmo tempo, eu
+coletava os espítitos
+que precisava!
 <--------------------->
 
 <p 03><d D23E><a 14><n 0C>
-This country's history
-is merely one facet of
+A história deste país é
+meramente uma faceta
+de um plano maior:
 <--------------------->
 
-a greater plan -
-Project Haven.
+Projeto Refúgio.
 <--------------------->
 
 <p 02><d D33E><a 07><n 01>
-So you just used the
-victims of the raids
-ten years ago, people
+Então você usou as
+vítimas dos surtos de
+dez anos atrás,
 <--------------------->
 
-like my mom to create
-the Cyber-elves!?
+pessoas como a minha
+mãe, para criar os
+Cyber-elfos?!
 <--------------------->
 
 <p 02><d D43E><a 07><n 01>
-All of it! My mom!
-Boss! Prairie's sister!
+Todas elas! Minha mãe!
+O Chefe! A irmã de
+Prairie!
 <--------------------->
 
-You're behind all of
-their losses!
+Você está por trás de
+todas essas perdas!
 <--------------------->
 
 <p 03><d D53E><a 14><n 0C>
-Survival of the
-fittest! The strong
-survive while the weak
+Sobrevivência do mais
+apto! Os fortes vivem
+e os fracos morrem!
 <--------------------->
 
-fade away! It's the
-classic struggle for
-life!
+É a clássica luta pela
+vida!
 <--------------------->
 
 <p 03><d D63E><a 14><n 0C>
-The spirits of the
-people have given me
-what I need
+Os espíritos das
+pessoas me deram o
+que eu precisava
 <--------------------->
 
-to obtain the power of
-Model W!
+para obter o poder do
+Modelo W!
 <--------------------->
 
 <p 03><d D73E><a 14><n 0C>
-Look at you! You're
-only able to stand
-before me today thanks
+Olhe para você! Só está
+diante de mim hoje
+graças ao poder
 <--------------------->
 
-to the power of Model Z
-absorbed from that red
-Mega Man!
+do Modelo Z, absorvido
+daquele Mega Man
+vermelho!
 <--------------------->
 
 <p 03><d D83E><a 14><n 0C>
-Everything has been
-leading up to this
-moment. You and me!
+Tudo levou a este
+momento. Você e eu!
 <*********************>
 
 <p 01><p 03><d D93E><a 15><n 0C>
-Your fear and despair
-combined with my joy in
-victory...
+Seu medo e desespero,
+combinados com minha
+alegria na vitória...
 <--------------------->
 
 <p 01><p 03><d DA3E><a 15><n 0C>
-They shall be the
-ultimate gift to
-Model W!
+Esses sentimentos serão
+o presente final para
+o Modelo W!
 <*********************>
 
 <p 03><d DB3E><a 15><n 0C>
-Gyahahaha!
+Giá, rá, rá, rá!
 <--------------------->
 
 <p 02><d DC3E><a 07><n 01>
-What's so funny
-Serpent!?
+Qual é a graça,
+Serpent?!
 <--------------------->
 
 <p 03><d DD3E><a 15><n 0C>
-It's just as Prometheus
-and Pandora said. You
-are the final key.
+É como Prometeus e
+Pandora disseram. Você
+é a chave final.
 <--------------------->
 
 <p 03><d DE3E><a 15><n 0C>
-Right now... you are
-being controlled by a
-powerful emotion...
+Agora mesmo, você está
+sendo controlado por
+um forte sentimento...
 <*********************>
 
 <p 03><d DF3E><a 15><n 0C>
-Emotion so powerful
-it exceeds even mine!
+Tão forte, que excede
+até mesmo os meus!
 <*********************>
 
 <p 02><d E03E><a 07><n 01>
-My transformation
-was cancelled!
-What's... going on!?
+Minha transformação foi
+cancelada! O que...
+está havendo?!
 <*********************>
 
 <p 03><d E13E><a 15><n 0C>
-The emotion driving you
-now...
+O sentimento que está
+guiando você agora...
 <--------------------->
 
 <p 03><d E23E><a 15><n 0C>
-That emotion is not
-bravery...
+Este sentimento não é
+bravura...
 <--------------------->
 
-It's not born out of
-some sense of
-righteousness...
+E sequer veio de algum
+tipo de senso de
+justiça...
 <--------------------->
 
 <p 03><d E33E><a 15><n 0C>
-It's hate. Your hate
-for me and everything
-I've taken from you!
+É ódio. Seu ódio por
+mim e tudo que tomei
+de você!
 <--------------------->
 
 <p 02><d E43E><a 07><n 01>
-What!?
+O quê!?
 <*********************>
 
 <p 02><d E53E><a 08><n 01>
-That means... I was the
-key for awakening
-Model W?
+Quer dizer que...
+Eu era a chave para
+despertar o Modelo W?
 <--------------------->
 
 <p 02><d E63E><a 08><n 01>
-All of the pain... All
-of the fighting... Was
-a mistake?
+Toda a dor...
+Todas essas batalhas...
+Foram um erro?
 <--------------------->
 
 <p 02><d E73E><a 31><n 05>
-Don't give up yet.
+Não desista ainda.
 <*********************>
 
 <p 02><d E83E><a 32><n 06>
-Your battle is not
-over.
+Sua batalha ainda não
+acabou.
 <--------------------->
 
 <p 02><d E93E><a 08><n 01>
-Eh!?
+Hã!?
 <*********************>
 
 <p 02><d EA3E><a 33><n 07>
-We did not lend you our
-power just to let you
+Não emprestamos nosso
+poder a você apenas
 <--------------------->
 
-carry out some kind of
-petty revenge...
+por uma sede de
+vingança mesquinha...
 <--------------------->
 
 <p 02><d EB3E><a 34><n 08>
-Beating up someone just
-because you don't like
+Derrotar alguém só
+porque você não gosta
+da pessoa
 <--------------------->
 
-them is nothing more
-than the action of a
-playground bully.
+não passa de um simples
+ato de bullying.
 <--------------------->
 
 <p 02><d EC3E><a 35><n 09>
-Don't give in to the
-hate.
+Não se renda ao seu
+ódio.
 <--------------------->
 
-If you fight the flow,
-you just end up
-swimming in place.
+Você tem que nadar
+contra a maré, senão
+ficará preso no ciclo.
 <--------------------->
 
 <p 02><d ED3E><a 36><n 0A>
-Even in the darkest
-tunnel, there is always
+Mesmo no túnel mais
+escuro,
 <--------------------->
 
-a light at the end of
-it for you to follow.
+sempre há uma luz no
+fim, para você
+seguir.
 <*********************>
 
 <p 02><d EE3E><a 31><n 05>
-Your power is not
-based on hate.
+Seu poder não é baseado
+no ódio.
 <--------------------->
 
 <p 02><d EF3E><a 31><n 05>
-Your real power. Your
-wellspring of bravery
-lies within you!
+Seu verdadeiro poder.
+Há uma fonte de bravura
+dentro de você!
 <--------------------->
 
 <p 02><d F03E><a 32><n 06>
-Look within yourself!
+Olhe dentro do seu
+coração!
 <*********************>
 
 <p 02><d F13E><a 07><n 01>
-You're right. I made a
-promise to you on that
-day!
+Tem razão. Eu fiz uma
+promessa a você
+naquele dia!
 <--------------------->
 
 <p 02><d F23E><a 07><n 01>
-I said I will protect
-the people! All of
-them!
+Eu disse que vou
+proteger as pessoas!
+Todas elas!
 <--------------------->
 
 <p 03><d F33E><a 16><n 0C>
-Well then. If you're so
-sure of yourself, let's
-find out which Mega Man
+Muito bem. Se está tão
+seguro de si,
 <--------------------->
 
-is destined to rule the
-world!
+vamos descobrir qual
+Mega Man está destinado
+a governar o mundo!
 <--------------------->
 
 <p 02><d F43E><a 07><n 01>
-I don't care about
-ruling the world!
+Governar o mundo não
+importa para mim!
 <--------------------->
 
 <p 02><d F53E><a 07><n 01>
-Serpent, if you want to
-be the Mega Man
-destined to rule the
+Serpent, se deseja ser
+o Mega Man destinado a
+governar o mundo,
 <--------------------->
 
 <p 02><d F63E><a 07><n 01>
-world, then I am the
-Mega Man that is
-destined to save it!
+então eu sou o Mega Man
+que é destinado a
+salvá-lo!
 <*********************>
 
 <p 02><d F73E><a 07><n 01>
-You're no Mega Man, and
-you're no ruler.
+Você não é um Mega Man,
+e muito menos um
+governador.
 <--------------------->
 
 <p 02><d F83E><a 07><n 01>
-You're just a tool.
-Model W manipulated
-you. You've played
+Você é apenas uma
+ferramenta, manipulada
+pelo Modelo W.
 <--------------------->
 
-with lives and you're
-nothing more than a
-Maverick!
+Você brincou com vidas,
+e não passa de um
+simples Maverick!
 <--------------------->
 
 <p 03><d F93E><a 17><n 0C>
-A Maverick!? Me!? How
-dare you call me a
-Maverick!
+Um Maverick?! Eu?!
+Como ousa me chamar
+de Maverick?!
 <--------------------->
 
 <p 03><d FA3E><a 17><n 0C>
-You're the one stopping
-progress. You're the
-one denying change.
+É você que está
+impedindo o progresso.
+Negando mudanças.
 <--------------------->
 
-Maybe you're the
-Maverick!
+Talvez o Maverick aqui
+seja você!
 <--------------------->
 
 <p 03><d FB3E><a 17><n 0C>
-People and society are
-destined for change!
+A sociedade é destinada
+a sofrer mudanças!
 <--------------------->
 
-They must shed their
-hate-filled hearts and
-suffering bodies.
+As pessoas precisam se
+livrar de seus corpos
+e corações corruptos.
 <--------------------->
 
 <p 03><d FC3E><a 17><n 0C>
-We must move forward!
-We must have change!
+Devemos seguir em
+frente! Precisamos de
+mudanças!
 <--------------------->
 
 <p 02><d FD3E><a 07><n 01>
-I will not let anyone
-get stepped on in your
-road to "progress!"
+Não deixarei ninguém
+ser morto graças ao que
+chama de "progresso"!
 <--------------------->
 
 <p 03><d FE3E><a 17><n 0C>
-On a planet... Life is
-born... Humans and
-machines...
+Em um planeta...
+A vida nasce...
+Humanos e máquinas...
 <--------------------->
 
-Waves of war and peace
-roll on.
+Eras de guerra e paz
+vem e vão.
 <--------------------->
 
 <p 03><d FF3E><a 17><n 0C>
-And in every age, a
-fool like you tries to
-fight it.
+E a cada era que passa,
+um tolo como você tenta
+combater as guerras.
 <--------------------->
 
 <p 03><d 003F><a 17><n 0C>
-You don't want to see
-anyone get hurt. You
-want to protect the
+Não quer que ninguém se
+machuque. Quer proteger
+as pessoas importantes.
 <--------------------->
 
-ones you care about.
-You don't want to lose
-anything.
+Não quer perder nada.
 <--------------------->
 
 <p 03><d 013F><a 17><n 0C>
-By acting on that
-desire, you continue to
+Por agir baseado nesse
+desejo, você continua
+a fazer escolhas
 <--------------------->
 
-make choices that avoid
-the pain.
+que evitam a dor.
 <--------------------->
 
 <p 03><d 023F><a 17><n 0C>
-The Mega Man destined
-to save the world?
+O Mega Man destinado a
+salvar o mundo?
 <--------------------->
 
 <p 03><d 033F><a 17><n 0C>
-Unchanging life... A
-world devoid of the
-light of hope.
+Vidas imutáveis... Um
+mundo desprovido da luz
+da esperança.
 <--------------------->
 
-What's the point!?
+Qual é o sentido
+disso!?
 <--------------------->
 
 <p 02><d 043F><a 07><n 01>
-But...!
+Mas...!
 <*********************>
 
 <p 02><d 053F><a 31><n 05>
-Vent! Everything's
-falling apart! You've
-got to get out of here!
+Vent!
+Tudo está desmoronando!
+Você tem que sair daí!
 <*********************>
 
 <p 02><d 063F><a 08><n 01>
-"We must move forward.
-We must have change."
+"Devemos seguir em
+frente. Precisamos de
+mudanças"...
 <--------------------->
 
 <p 02><d 073F><a 08><n 01>
-I couldn't think of
-anything to say to
-that.
+Não consegui pensar em
+nada para responder
+a isso.
 <*********************>
 
 <p 03><d 083F><a 0D><n 03>
-Well then, why did you
-decide to fight?
+Bom, por que você
+decidiu lutar?
 <*********************>
 
 <p 03><d 093F><a 0D><n 03>
-Why? Because you wanted
-to change the world.
+Porque você queria
+mudar o mundo.
 <--------------------->
 
 <p 03><d 0A3F><a 0D><n 03>
-You decided that you
-did not want to be a
-slave to destiny.
+Você decidiu que não
+queria se tornar um
+escravo do destino.
 <--------------------->
 
-You are the one that
-fought to change that
-destiny.
+Você é a pessoa que
+lutou para mudar aquele
+destino.
 <--------------------->
 
 <p 02><d 0B3F><a 05><n 01>
-Boss!?
+Chefe!?
 <--------------------->
 
 <p 03><d 0C3F><a 0D><n 03>
-You were a real pain.
+Você era horrível de
+lidar.
 <--------------------->
 
 <p 02><d 0D3F><a 05><n 01>
@@ -972,133 +978,136 @@ You were a real pain.
 <--------------------->
 
 <p 03><d 0E3F><a 0D><n 03>
-You never treated the
-clients with respect.
+Nunca tratava os
+clientes com respeito.
 <--------------------->
 
 <p 03><d 0F3F><a 0D><n 03>
-You ignored me. You
-were always reckless
+Você me ignorava. Era
+sempre descuidado
 <--------------------->
 
-and ran off on your
-own.
+e fugia sozinho.
 <*********************>
 
 <p 03><d 103F><a 0D><n 03>
-Yeah, you were
-definitely a real pain.
+É, definitivamente você
+era horrível de lidar.
 <--------------------->
 
-You drove me crazy, but
-I always cared about
-you.
+Você me deixava louco,
+mas eu sempre me
+importava com você.
 <--------------------->
 
 <p 03><d 113F><a 0D><n 03>
-Even the times you
-drove me crazy...
+Mesmo nas horas que
+você me tirava do
+sério...
 <--------------------->
 
-Every moment is a
-precious memory to me.
+Cada momento é uma
+preciosa lembrança
+para mim.
 <--------------------->
 
 <p 02><d 123F><a 05><n 01>
-Boss...
+Chefe...
 <*********************>
 
 <p 01><p 03><d 133F><a 0D><n 03>
-Strip away the hate and
-the sorrow from our
-hearts and what's left?
+Ao se livrar de todos
+os sentimentos de ódio
+e dor, o que sobra?
 <--------------------->
 
 <p 01><p 03><d 143F><a 0D><n 03>
-Serpent threw away
-everything until
-nothing was left
+Serpent jogou tudo
+fora, até não sobrar
+mais nada,
 <--------------------->
 
-and tried to change the
-world.
+e assim, tentou mudar o
+mundo.
 <--------------------->
 
 <p 01><p 03><d 153F><a 0D><n 03>
-Vent. What will you do?
+Vent. O que você vai
+fazer?
 <--------------------->
 
 <p 01><p 02><d 163F><a 05><n 01>
-I'll never get over the
-grief I feel for your
+Jamais vou superar a
+dor de ter perdido
+pessoas importantes,
 <--------------------->
 
-loss or the loss of my
-mom.
+como você e a minha
+mãe.
 <--------------------->
 
 <p 01><p 02><d 173F><a 05><n 01>
-But, those memories are
-proof I am alive.
+Mas, essas lembranças
+são provas de que estou
+vivo.
 <*********************>
 
 <p 01><p 02><d 183F><a 07><n 01>
-Difficult memories...
-Sad memories. But I
+Lembranças difíceis...
+Memórias tristes.
 <--------------------->
 
-don't want to lose
-them!
+Mas mesmo assim, não
+quero perdê-las!
 <--------------------->
 
 <p 01><p 02><d 193F><a 07><n 01>
-I will protect all of
-them!
+Vou proteger todas
+essas memórias!
 <*********************>
 
 <p 03><d 1A3F><a 0E><n 03>
-Then it's your turn
-Vent. Guide the world.
+Então é sua vez, Vent.
+Guie o mundo.
 <--------------------->
 
 <p 03><d 1B3F><a 0E><n 03>
-Bring the world the
-future you think it
-deserves.
+Traga ao mundo o futuro
+que você acredita que
+merece.
 <*********************>
 
 <p 03><d 1C3F><a 0E><n 03>
-That's my last job
-request for you,
-transporter.
+Este é meu último
+pedido a você,
+transportador.
 <*********************>
 
 <p 02><d 1D3F><a 31><n 05>
-Everyone hides some
-painful weakness in
-their heart.
+Todos escondem alguma
+fraqueza dolorosa em
+seus corações.
 <--------------------->
 
 <p 02><d 1E3F><a 31><n 05>
-But that pain is what
-allows people to reach
-out to others.
+Mas esta dor é o que
+faz as pessoas enten-
+derem uns aos outros.
 <--------------------->
 
 <p 02><d 1F3F><a 32><n 06>
-Face your destiny and
-carve out a new future
-for yourself.
+Desafie o seu destino e
+crie seu próprio
+futuro.
 <--------------------->
 
 <p 02><d 203F><a 32><n 06>
-That's the struggle
-that you and every
-living thing
+Esta é a luta que você,
+e cada ser vivo neste
+planeta,
 <--------------------->
 
-on the planet must cope
-with.
+devem travar.
 <*********************>
 
 <p 02><d 213F><a 0A><n 04>
@@ -1106,31 +1115,31 @@ Vent!
 <*********************>
 
 <p 01><p 03><d 223F><a 05><n 01>
-Facing our destinies
-and carving out the
-future...
+Desafiar nossos
+destinos e criar o
+próprio futuro.
 <--------------------->
 
-That's our struggle.
+Esta é nossa luta.
 <--------------------->
 
 <p 01><p 03><d 233F><a 05><n 01>
-I have something I must
-protect.
+Tenho algo que devo
+proteger.
 <--------------------->
 
 <p 01><p 03><d 243F><a 05><n 01>
-And now I have the
-power to protect it.
+E agora tenho o poder
+necessário para tal.
 <--------------------->
 
 <p 01><p 03><d 253F><a 05><n 01>
-I will fight!
+Eu lutarei!
 <--------------------->
 
 <p 01><p 03><d 263F><a 05><n 01>
-I will fight for what I
-believe in!
+Eu lutarei por aquilo
+que eu acredito!
 <*********************>
 
 <FIM>
