@@ -232,7 +232,7 @@ Edite usando a tela inferior
 <*********************>
 
 
-Select Edit/Default/Exit
+Selecione Editar/Padrões/Sair
 <*********************>
 
 
@@ -341,495 +341,485 @@ Servidor encontrado na área
 <*********************>
 
 
-<c 01>Cake
-<c 00>A slice of
-birthday cake.
-Restores 8
-points of life.
+<c 01>Bolo
+<c 00>Uma fatia
+de bolo de
+aniversário.
+Recupera 8
+pontos de
+vida.
 <*********************>
 
 
-<c 01>E Tank
-<c 00>This completely
-restores life.
-The technology
-used to make it
-is quite old.
+<c 01>E-Tanque
+<c 00>Recupera sua
+vida total-
+mente. A
+tecnologia
+usada é bem
+antiga.
 <*********************>
 
 
-<c 01>W Tank
-<c 00>Restores all of
-the energy for
-Biometal in
-possession.
+<c 01>W-Tanque
+<c 00>Recupera toda
+a energia do
+Biometal em
+uso.
 <*********************>
 
 
-<c 01>Orange
-<c 00>An orange from
-Max. It looks
-very sweet and
-juicy! Restores
-4 points of
-life.
+<c 01>Laranja
+<c 00>Uma laranja de
+Max. Parece bem
+doce e sucu-
+lenta! Recupera
+4 pontos de
+vida.
 <*********************>
 
 
-<c 01>Candy
-<c 00>This piece of
-strawberry
-candy was a
-crane game
-prize. It
-restores 4
-points of life.
+<c 01>Doce
+<c 00>Este docinho de
+morango foi o
+prêmio de uma
+máquina de
+garra. Recupera
+4 pontos de
+vida.
 <*********************>
 
 
-<c 01>Bread
-<c 00>Freshly baked
-bread courtesy
-of Lucia. It
-restores 6
-points of life.
+<c 01>Pão
+<c 00>Pão fresquinho,
+cortesia de
+Lucia. Recupera
+6 pontos de
+vida.
 <*********************>
 
 
-<c 01>Apple
-<c 00>This apple
-didn't fall far
-from the tree
-in Area A-3. It
-restores 8
-points of life.
+<c 01>Maçã
+<c 00>Esta maçã caiu
+da árvore na
+Área A-3.
+Recupera 8
+pontos de
+vida.
 <*********************>
 
 
-<c 01>Smelling Salts
-<c 00>Recover from
-the ill effects
-of the jamming
-satellites.
+<c 01>Sais de Cheiro
+<c 00>Recupera-se dos
+efeitos colate-
+rais dos saté-
+lites de inter-
+ferência.
 <*********************>
 
 
-<c 01>Absorber
-<c 00>It will cushion
-the blow and
-eliminate
-knockback
-effects from
-getting hit.
+<c 01>Absorsor
+<c 00>Amortece os
+impactos e
+elimina efeitos
+de recuo ao ser
+atingido.
 <*********************>
 
 
-<c 01>Featherweight
-<c 00>This allows
-movement on
-surfaces that
-would normally
-sink or crumble
-underfoot.
+<c 01>Peso Pena
+<c 00>Permite movi-
+mento em super-
+fícies que
+normalmente se
+partem ou
+afundam.
 <*********************>
 
 
-<c 01>Extender
-<c 00>The period of
-invincibility
-after a hit is
-stretched out a
-little longer.
+<c 01>Extensor
+<c 00>Aumenta o
+período de
+invencibilidade
+após ser
+atingido.
 <*********************>
 
 
-<c 01>Quick Charger
-<c 00>The time it
-takes to charge
-up an attack is
-reduced.
+<c 01>Carga Rápida
+<c 00>O tempo que
+leva para
+carregar um
+ataque é
+reduzido.
 <*********************>
 
 
-<c 01>Ice Boots
-<c 00>Can walk across
-ice without
-slipping on the
-surface.
+<c 01>Botas de Gelo
+<c 00>Permite andar
+por superfícies
+geladas sem
+deslizar.
 <*********************>
 
 
-<c 01>Wind Boots
-<c 00>Grips the
-surface to
-prevent getting
-pushed around
-by wind and
+<c 01>Botas de Vento
+<c 00>Gera aderência
+em superfícies
+para não ser
+empurrado por
+ventos e
 tornados.
 <*********************>
 
 
-<c 01>Frog
-<c 00>Reduces the
-speed of 
-sliding down
-walls.
+<c 01>Sapo
+<c 00>Reduz a
+velocidade de
+deslizamento em
+paredes.
 <*********************>
 
 
-<c 01>Eraser
-<c 00>This gives
-saber weapons
-the power to
-destroy enemy
-energy shots.
+<c 01>Corta-Projéteis
+<c 00>Adiciona à
+armas cortantes
+o poder de
+cortar projé-
+teis inimigos.
 <*********************>
 
 
-<c 01>Absorber
-<c 00>It will cushion
-the blow and
-eliminate
-knockback
-effects from
-getting hit.
-(Equipped)
+<c 01>Absorsor
+<c 00>Amortece os
+impactos e
+elimina efeitos
+de recuo ao ser
+atingido.
+(Equipado)
 <*********************>
 
 
-<c 01>Featherweight
-<c 00>This allows
-movement on
-surfaces that
-would normally
-sink or crumble
-underfoot.
-(Equipped)
+<c 01>Peso Pena
+<c 00>Permite movi-
+mento em super-
+fícies que
+normalmente se
+partem ou
+afundam.
+(Equipado)
 <*********************>
 
 
-<c 01>Extender
-<c 00>The period of
-invincibility
-after a hit is
-stretched out a
-little longer.
-(Equipped)
+<c 01>Extensor
+<c 00>Aumenta o
+período de
+invencibilidade
+após ser
+atingido.
+(Equipado)
 <*********************>
 
 
-<c 01>Quick Charger
-<c 00>The time it
-takes to charge
-up an attack is
-reduced.
-(Equipped)
+<c 01>Carga Rápida
+<c 00>O tempo que
+leva para
+carregar um
+ataque é
+reduzido.
+(Equipado)
 <*********************>
 
 
-<c 01>Ice Boots
-<c 00>Can walk across
-ice without
-slipping on the
-surface.
-(Equipped)
+<c 01>Botas de Gelo
+<c 00>Permite andar
+por superfícies
+geladas sem
+deslizar.
+(Equipado)
 <*********************>
 
 
-<c 01>Wind Boots
-<c 00>Grips the
-surface to
-prevent getting
-pushed around
-by wind and
+<c 01>Botas de Vento
+<c 00>Gera aderência
+em superfícies
+para não ser
+empurrado por
+ventos e
 tornados.
-(Equipped)
+(Equipado)
 <*********************>
 
 
-<c 01>Frog
-<c 00>Reduces the
-speed of 
-sliding down
-walls.
-(Equipped)
+<c 01>Sapo
+<c 00>Reduz a
+velocidade de
+deslizamento em
+paredes.
+(Equipado)
 <*********************>
 
 
-<c 01>Eraser
-<c 00>This gives
-saber weapons
-the power to
-destroy enemy
-energy shots.
-(Equipped)
+<c 01>Corta-Projéteis
+<c 00>Adiciona à
+armas cortantes
+o poder de
+cortar projé-
+teis inimigos.
+(Equipado)
 <*********************>
 
 
-<c 01>Miracle Flower
-<c 00>A mystical
-flower found on
-a quest for
-Michelle. The
-scent is quite
-refreshing.
+<c 01>Flor Milagrosa
+<c 00>Uma flor miste-
+riosa achada em
+um pedido de
+Michelle. O
+cheiro é bem
+refrescante.
 <*********************>
 
 
-<c 01>Stuffed Animal
-<c 00>This is very
-precious to
-Prairie. It
-serves as proof
-of passing the
-Guardian test.
+<c 01>Bicho Pelúcia
+<c 00>É precioso à
+Prairie. Serve
+como prova de
+ter passado no
+teste dos
+Guardiões.
 <*********************>
 
 
-<c 01>Pink Crystal
-<c 00>A mysterious
-mineral
-received from
-Lou. Someone
-would probably
-appreciate this
-very much.
+<c 01>Cristal Rosa
+<c 00>Um minério
+misterioso
+recebido de
+Lou. Alguém
+gostaria muito
+de tê-lo.
 <*********************>
 
 
-<c 01>Green Bird
-<c 00>A small bird
-found in the
-forest. It's so
-tame it must
-have been
-someone's pet.
+<c 01>Pássaro Verde
+<c 00>Um passarinho
+achado na
+floresta. É tão
+adestrado que
+deve ser de
+alguém.
 <*********************>
 
 
-<c 01>Mushroom
-<c 00>This small
-fungi is from
-the forest.
-It's always
-wise to avoid
-eating strange
-mushrooms.
+<c 01>Cogumelo
+<c 00>Pequeno fungo
+achado na
+floresta. É bom
+evitar comer
+cogumelos
+estranhos.
 <*********************>
 
 
-<c 01>Letter
-<c 00>This letter is
-from Truite. It
-needs to be
-delivered to a
-woman in Area
-C-2.
+<c 01>Carta
+<c 00>Esta carta é de
+Truite. Precisa
+ser entregue a
+uma mulher na
+Área C-2.
 <*********************>
 
 
-<c 01>Letter #2
-<c 00>This letter is
-from Truite. It
-needs to be
-delivered to a
-woman in Area
-C-2.
+<c 01>Carta n. 2
+<c 00>Esta carta é de
+Truite. Precisa
+ser entregue a
+uma mulher na
+Área C-2.
 <*********************>
 
 
-<c 01>Letter #3
-<c 00>This letter is
-from Truite. It
-needs to be
-delivered to a
-woman in Area
-C-2.
+<c 01>Carta n. 3
+<c 00>Esta carta é de
+Truite. Precisa
+ser entregue a
+uma mulher na
+Área C-2.
 <*********************>
 
 
-<c 01>Letter #4
-<c 00>This letter is
-from Truite. It
-needs to be
-delivered to a
-woman in Area
-C-2.
+<c 01>Carta n. 4
+<c 00>Esta carta é de
+Truite. Precisa
+ser entregue a
+uma mulher na
+Área C-2.
 <*********************>
 
 
-<c 01>Letter #5
-<c 00>This letter is
-from Truite. It
-needs to be
-delivered to a
-woman in Area
-C-2.
+<c 01>Carta n. 5
+<c 00>Esta carta é de
+Truite. Precisa
+ser entregue a
+uma mulher na
+Área C-2.
 <*********************>
 
 
-<c 01>Letter #6
-<c 00>This letter is
-from Truite. It
-needs to be
-delivered to a
-woman in Area
-C-2.
+<c 01>Carta n. 6
+<c 00>Esta carta é de
+Truite. Precisa
+ser entregue a
+uma mulher na
+Área C-2.
 <*********************>
 
 
-<c 01>Letter #7
-<c 00>This letter is
-from Melody. It
-needs to be
-delivered to
-Truite in
-Guardian HQ.
+<c 01>Carta n. 7
+<c 00>Esta carta é de
+Melody. Precisa
+ser entregue ao
+Truite no QG
+dos Guardiões.
 <*********************>
 
 
 <c 01>Pochette
-<c 00>This small
-purse that Luca
-lost was found
-in Area B. It's
-quite elegant
-for a kid to
-have.
+<c 00>Esta bolsinha
+que Luca perdeu
+foi encontrada
+na Área B. É
+bem elegante
+para uma
+criança.
 <*********************>
 
 
-<c 01>Cold Pearl
-<c 00>This pearl was
-found for
-Raven. It only
-grows at the
-bottom of 
-freezing cold
-lakebeds.
+<c 01>Pérola Gelada
+<c 00>Esta pérola foi
+encontrada para
+Raven. Cresce
+apenas no fundo
+de lagos
+congelados.
 <*********************>
 
 
-<c 01>Special Rock
-<c 00>A small stone
-found near a
-geyser. It
-looks like
-something is
-stuck inside.
+<c 01>Pedra Especial
+<c 00>Uma pequena
+pedra achada
+perto de um
+gêiser. Parece
+que há algo
+preso dentro.
 <*********************>
 
 
-<c 01>Ceratanium
-<c 00>This small
-piece was
-separated from
-a rock using
-the crusher at
-the power
-plant.
+<c 01>Ceratânio
+<c 00>Este metal foi
+separado de uma
+pedra usando o
+imprensador da
+usina elétrica.
 <*********************>
 
 
-<c 01>Screw A
-<c 00>By finding all
-of these small
-screws that
-Anguille
-dropped, he'll
-be able to make
-something new.
+<c 01>Parafuso A
+<c 00>Ao achar todos
+esses pequenos
+parafusos que
+Anguille per-
+deu, ele será
+capaz de criar
+algo novo.
 <*********************>
 
 
-<c 01>Screw B
-<c 00>By finding all
-of these small
-screws that
-Anguille
-dropped, he'll
-be able to make
-something new.
+<c 01>Parafuso B
+<c 00>Ao achar todos
+esses pequenos
+parafusos que
+Anguille per-
+deu, ele será
+capaz de criar
+algo novo.
 <*********************>
 
 
-<c 01>Screw C
-<c 00>By finding all
-of these small
-screws that
-Anguille
-dropped, he'll
-be able to make
-something new.
+<c 01>Parafuso C
+<c 00>Ao achar todos
+esses pequenos
+parafusos que
+Anguille per-
+deu, ele será
+capaz de criar
+algo novo.
 <*********************>
 
 
-<c 01>Screw D
-<c 00>By finding all
-of these small
-screws that
-Anguille
-dropped, he'll
-be able to make
-something new.
+<c 01>Parafuso D
+<c 00>Ao achar todos
+esses pequenos
+parafusos que
+Anguille per-
+deu, ele será
+capaz de criar
+algo novo.
 <*********************>
 
 
-<c 01>Screw E
-<c 00>By finding all
-of these small
-screws that
-Anguille
-dropped, he'll
-be able to make
-something new.
+<c 01>Parafuso E
+<c 00>Ao achar todos
+esses pequenos
+parafusos que
+Anguille per-
+deu, ele será
+capaz de criar
+algo novo.
 <*********************>
 
 
-<c 01>Aid Kit
-<c 00>This medical
-supply kit is
-for Muguet in
-order to help
-treat the
-wounded.
+<c 01>Kit de Socorros
+<c 00>Este kit
+de primeiros
+socorros é pra
+Muguet, para
+ela tratar os
+feridos.
 <*********************>
 
 
-<c 01>Energy Pack
-<c 00>Rose wanted
-this supply of
-energy for
+<c 01>Bateria
+<c 00>Rose quer dar
+esta bateria de
+presente à
 Muguet.
 <*********************>
 
 
-<c 01>Aid Kit
-<c 00>This medical
-supply kit is
-for Muguet in
-order to help
-treat the
-wounded.
+<c 01>Kit de Socorros
+<c 00>Este kit
+de primeiros
+socorros é pra
+Muguet, para
+ela tratar os
+feridos.
 <*********************>
 
 
-<c 01>Energy Pack
-<c 00>Rose wanted
-this supply of
-energy for the
-people back at
-Guardian HQ.
+<c 01>Bateria
+<c 00>Rose quer dar
+esta bateria às
+pessoas no QG
+dos Guardiões.
 <*********************>
 
 
-<c 01>Mysterious Rock
-<c 00>This small
-stone found in
-Area N is
-giving off a
-mysterious
-aura.
+<c 01>P. Misteriosa
+<c 00>Esta pequena
+pedra achada na
+Área N emana
+uma aura
+misteriosa.
 <*********************>
 
 
@@ -843,82 +833,84 @@ Maverick na
 <*********************>
 
 
-<c 01>Purple Card Key
-<c 00>Obviously this
-key goes to
-purple doors.
+<c 01>C. C. Roxo
+<c 00>Obviamente este
+cartão-chave
+abre portas
+roxas.
 <*********************>
 
 
-<c 01>Data Disk 1
-<c 00>This data disk
-was left behind
-in a terminal.
-It contains the
-Guardian recon
-unit report.
+<c 01>Disco Dados 1
+<c 00>Este disco de
+dados foi aban-
+donado num ter-
+minal. Contém o
+relatório da
+unidade de
+reconhecimento.
 <*********************>
 
 
-<c 01>Data Disk 2
-<c 00>The disk that
-Leganchor had
-in his
-possession.
-Part of the
-recon unit
-report is here.
+<c 01>Disco Dados 2
+<c 00>O disco que
+Leganchor guar-
+dava dentro de
+si. Contém par-
+te do relatório
+da unidade de
+reconhecimento.
 <*********************>
 
 
-<c 01>Data Disk 3
-<c 00>The disk that
-was found in
-the room with
-Protectos. The
-rest of the
-recon unit
-report is here.
+<c 01>Disco Dados 3
+<c 00>O disco encon-
+trado na sala
+com Protectos.
+Contém o resto
+do relatório da
+unidade de
+reconhecimento.
 <*********************>
 
 
-<c 01>Yellow Card Key
-<c 00>It's easy to
-guess this
-unlocks yellow
-doors.
+<c 01>C. C. Amarelo
+<c 00>É fácil
+adivinhar que
+isto abre
+portas
+amarelas.
 <*********************>
 
 
-<c 01>Green Card Key
-<c 00>It can only be
-assumed this
-opens green
-doors.
+<c 01>C. C. Verde
+<c 00>Supõe-se que
+isto abre
+portas verdes.
 <*********************>
 
 
-<c 01>Red Card Key
-<c 00>This probably
-opens red
-doors.
+<c 01>C. C. Vermelho
+<c 00>Provavelmente
+abre portas
+vermelhas.
 <*********************>
 
 
-<c 01>Blue Card Key
-<c 00>It should come
-as no surprise
-that this goes
-to blue doors.
+<c 01>C. C. Azul
+<c 00>Não é de se
+espantar que
+isto abra
+portas azuis.
 <*********************>
 
 
-<c 01>White Card Key
-<c 00>It doesn't take
-a genius to
-figure out this
-opens white
-doors.
+<c 01>C. C. Branco
+<c 00>Não precisa ser
+gênio para adi-
+vinhar que isto
+abre portas
+brancas.
 <*********************>
 
 
@@ -977,7 +969,7 @@ Destino: Área J-5
 
 
 Missão: Ataque as Escavadoras
-Destination:Area K-4
+Destino: Área K-4
 <*********************>
 
 
@@ -1002,7 +994,7 @@ Destino: Área O
 
 
 Missão: Destrua o Modelo W
-Destino: Area D-4/D-5
+Destino: Área D-4/D-5
 <*********************>
 
 
@@ -1036,7 +1028,7 @@ Destino: Área B-4
 <*********************>
 
 
-Pedido: Encontre o Cogumelo
+Pedido: Encontre Cogumelo
 Destino: Área A-2
 <*********************>
 
@@ -1106,22 +1098,22 @@ Destino: Área C-1
 <*********************>
 
 
-Pedido: Entregue o Kit de Socorros
+Pedido: Ache um Kit de Socorros
 Destino: Área L-1/L-2/L-3
 <*********************>
 
 
-Pedido: Entregue o Pacote de Energia
+Pedido: Entregue a Bateria
 Destino: Área L-1/L-2/L-3
 <*********************>
 
 
-Pedido: Entregue o Kit de Socorros
+Pedido: Ache um Kit de Socorros
 Destino: Área L-1/L-2/L-3
 <*********************>
 
 
-Pedido: Entregue o Pacote de Energia
+Pedido: Entregue a Bateria
 Destino: Área L-1/L-2/L-3
 <*********************>
 
@@ -1236,7 +1228,7 @@ Relate o término da missão
 <*********************>
 
 
-Pedido: Encontre o Cogumelo
+Pedido: Encontre Cogumelo
 Relate o término da missão
 <*********************>
 
@@ -1311,7 +1303,7 @@ Relate o término da missão
 <*********************>
 
 
-Pedido: Entregue o Pacote de Energia
+Pedido: Entregue a Bateria
 Relate o término da missão
 <*********************>
 
@@ -1321,7 +1313,7 @@ Relate o término da missão
 <*********************>
 
 
-Pedido: Entregue o Pacote de Energia
+Pedido: Entregue a Bateria
 Relate o término da missão
 <*********************>
 
