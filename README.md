@@ -22,9 +22,9 @@ Jogadores: 1
 
 # Enredo
 
-Cerca de dois séculos depois dos acontecimentos de Mega Man Zero, no ano 25XX, humanos e replóides agora vivem em harmonia, sem mais lutas e guerras entre si. Antigas ruínas são constantemente escavadas e os arqueólogos encontram um artefato conhecido como “Biometal”, que tem os registros das batalhas, histórias e vida de antigos guerreiros, como X, Zero, Harpuia, etc.
+Cerca de dois séculos depois dos acontecimentos de Mega Man Zero, no ano 25XX, humanos e replóides agora vivem em harmonia, sem mais lutas e guerras entre si. A harmoniosidade entre ambos é tão grande, que mal se nota a diferença entre um humano e um replóide agora. Mas mesmo após o ocorrido há dois séculos, resquícios do passado continuam sendo encontrados. Antigas ruínas são constantemente escavadas e arqueólogos encontram artefatos estranhos, contendo registros das batalhas, histórias e vida de antigos guerreiros, como X, Zero, Harpuia, etc. Estes artefatos foram batizados de "Biometais".
 
-Porém, alguns replóides começam a agir estranhamente. Ficam violentos, agressivos, atacam quem estiver em sua frente: Os Mavericks haviam ressurgido. Os humanos e os replóides inafetados tiveram uma única saída: construíram um tipo de “cidade fortaleza”, chamada de Innerpeace, para prevenir a entrada dos Mavericks, que ficam nas fronteiras do lado de fora.
+No entanto, após um bom tempo de paz, repentinamente alguns replóides, e até mesmo humanos, começam a agir de forma estranha. Ficam violentos, agressivos, atacam quem estiver em sua frente: Os Mavericks haviam ressurgido. O restante dos humanos e os replóides inafetados tiveram uma única saída: construíram um tipo de “cidade fortaleza”, chamada de Innerpeace, para prevenir a entrada dos Mavericks, que ficam nas fronteiras do lado de fora.
 
 Vent e Aile são dois jovens que trabalham Girouette Expresso, uma transportadora que circula por toda a Innerpeace. Porém, certa vez eles se vêem obrigados a ir às fronteiras para cumprir seu trabalho, e é nessa hora que eles são atacados por Mavericks.
 
