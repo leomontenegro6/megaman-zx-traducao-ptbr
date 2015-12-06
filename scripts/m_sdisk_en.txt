@@ -2,13 +2,13 @@
 <#####################>
 
 
-<dpad>Control Pad <esquerda>/<direita>: Select
-<btn_a>Button:OK <btn_b>Button:Cancel
+<dpad> <esquerda>/<direita>: Selecionar
+<btn_a>: OK <btn_b>: Cancelar
 <*********************>
 
 
-<dpad>Control Pad: Select Disk
-<btn_a>Button:View <btn_b>Button:Cancel
+<dpad>: Selecionar Disco
+<btn_a>: Ver <btn_b>: Cancelar
 <*********************>
 
 
@@ -16,13 +16,14 @@ Eyeballoon
 <*********************>
 
 
-This Mechaniloid was
-developed to prevent wild
-Outland birds from eating
-the crops. As this need
-faded, they were equipped
-with ring beam weapons to
-drive away other enemies.
+Este Mecanilóide foi
+desenvolvido para evitar que
+pássaros das fronteiras
+comessem as colheitas. Após
+essa necessidade sumir,
+foram equipados com lança-
+raios redondos, para
+espantar outros inimigos.
 <*********************>
 
 
@@ -30,14 +31,14 @@ Frostybear
 <*********************>
 
 
-This polar bear Mechaniloid
-has portable cooling units
-on its arms allowing it to
-create snowballs for hurling
-at enemies. While its arm
-temperature can drop below
-zero, it manages to stay
-warm internally.
+Este Mecanilóide urso polar
+ataca arremessando bolas de
+neve criadas a partir de
+congeladores portáteis nos
+braços. Apesar dos braços
+conseguirem ficar a tempera-
+turas abaixo de zero, estes
+ficam aquecidos por dentro.
 <*********************>
 
 
@@ -45,12 +46,14 @@ Angle Cannon
 <*********************>
 
 
-This Mechaniloid's tough
-armor can repel any attack.
-Its powerful attack can
-also blast through any
-armor. However, every
-Achilles has a heel...
+A armadura resistente deste
+Mecanilóide pode repelir
+qualquer ataque. Seu
+poderoso tiro também é capaz
+de atravessar qualquer
+armadura. No entanto, todos
+possuem um calcanhar de
+Aquiles...
 <*********************>
 
 
@@ -58,14 +61,14 @@ Web Bolt
 <*********************>
 
 
-This spider Mechaniloid
-lives in the wiring. Over
-time, it has evolved the
-ability to fire electric
-bolts to trap prey. With an
-infrared sensor in its
-stomach, it can operate just
-as effectively in the dark.
+Este Mecanilóide aranha vive
+nas fiações. Com o tempo,
+desenvolveu a habilidade de
+atirar raios elétricos para
+aprisionar presas. Possui um
+sensor infravermelho no
+estômago que o faz operar
+bem, até mesmo no escuro.
 <*********************>
 
 
@@ -73,11 +76,12 @@ Rattrap
 <*********************>
 
 
-These Mechaniloid mice tend
-to come in huge numbers.
-With so many of them, they
-are sometimes prone to
-short-circuit and blow up.
+Esses Mecanilóides ratos
+tendem a vir em grandes
+números. Com tantos deles,
+às vezes são propensos
+a curtos-circuitos, e
+explodem.
 <*********************>
 
 
@@ -85,13 +89,14 @@ Energy Cannon
 <*********************>
 
 
-This cannon has a protective
-hatch which will open up
-just long enough for it to
-fire an energy blast. Given
-time, it learns how to more
-efficiently utilize energy
-for more powerful attacks.
+Este canhão possui uma
+escotilha protetora que
+abrirá apenas enquanto o
+canhão dispara. Com o tempo,
+ele aprende a utilizar
+energia com mais eficiência
+para disparar projéteis
+mais poderosos.
 <*********************>
 
 
@@ -99,14 +104,13 @@ Shrimpstroke
 <*********************>
 
 
-This shrimp Mechaniloid
-propels backwards through
-the water. It uses its
-antennae to feel out enemies
-and will fire a shot when in
-range. The revolver-like
-segment acts like a turbine
-for propelling it.
+Este Mecanilóide camarão
+nada para trás na água.
+Utiliza suas antenas para
+sentir inimigos, e atirar
+quando estiver no alcance.
+O recuo do tiro é usado
+como impulso para nadar.
 <*********************>
 
 
@@ -114,12 +118,13 @@ Electric Dart
 <*********************>
 
 
-This hermit crab Mechaniloid
-is often found to crop up
-near lightning strikes and
-can use its powerful suction
-feet to move upside down on
-surfaces.
+Este Mecanilóide caranguejo-
+ermitão é comumente encon-
+trado próximo a instalações
+elétricas e pode usar suas
+poderosas ventosas para
+mover-se de cabeça para
+baixo em superfícies.
 <*********************>
 
 
@@ -127,13 +132,13 @@ Auto Counter ECO
 <*********************>
 
 
-When hit, this Mechaniloid
-rains fire down on the
-surrounding area. It was
-originally designed for
-incinerating garbage, but is
-now being used for evil
-purposes.
+Quando atingido, este
+Mecanilóide lança projéteis
+de fogo nos arredores. Foi
+originalmente projetado para
+incinerar lixo, mas agora
+está sendo usado para fins
+malignos.
 <*********************>
 
 
@@ -141,13 +146,14 @@ Auto Counter POP
 <*********************>
 
 
-This Mechaniloid was
-originally designed to be a
-vending machine, but with a
-little tinkering it has been
-transformed into a strange
-weapon that rains junk food
-down on enemies when hit.
+Este Mecanilóide foi origi-
+nalmente projetado para ser
+uma máquina de vendas, mas
+com alguns ajustes, foi
+transformado em uma estranha
+arma que, quando atingido,
+lança comida estragada nos
+inimigos.
 <*********************>
 
 
@@ -155,13 +161,11 @@ Cutting Gyro
 <*********************>
 
 
-This Mechaniloid regularly
-fires shots in two
-directions. The propellers
-are sharp blades that will
-cut anything that comes in
-contact with them into
-pieces.
+Este Mecanilóide normalmente
+atira projéteis em duas
+direções. As hélices são
+lâminas afiadas que cortam
+tudo que entra em contato.
 <*********************>
 
 
@@ -169,14 +173,13 @@ Capsule Shooter
 <*********************>
 
 
-This cannon fires capsules
-that bounce off of floors
-and walls. Once the capsule
-settles down, it blows apart
-and shots come out.
-Cutting-edge prize machine
-technology is used to
-prevent capsule jamming.
+Este canhão dispara cápsulas
+que ricocheteiam no chão e
+em paredes. Quando o canhão
+é destruído, as cápsulas se
+espalharão em meio aos
+destroços, e poderão causar
+danos.
 <*********************>
 
 
@@ -184,14 +187,14 @@ Galleon Wing
 <*********************>
 
 
-This Galleon has a flight
-unit attached to its back.
-It can fly freely through
-the air while using its
-buster weapon to attack. Its
-frame is much lighter than a
-normal Galleon to aid in
-flight.
+Este Galleon possui uma uni-
+dade de vôo anexada nas suas
+costas. Pode voar livremente
+no ar, enquanto usa sua arma
+buster para atacar. Sua
+armação é bem mais leve que
+a de um Galleon normal, de
+modo a  auxiliar no vôo.
 <*********************>
 
 
@@ -199,14 +202,14 @@ Galleon Shroud
 <*********************>
 
 
-This Galleon uses a bunker
-for protection. It opens a
-hatch to fire its bazooka
-and fires its buster weapon
-from a gap in the bunker. If
-the Galleon inside is
-destroyed, the bunker is
-taken down with it.
+Este Galleon utiliza uma
+casamata para proteção. Abre
+uma escotilha para atirar
+com sua bazuca, e usa sua
+arma buster de dentro da
+casamata. Se o Galleon de
+dentro é abatido, a casamata
+é destruída junto com ele.
 <*********************>
 
 
@@ -214,14 +217,14 @@ Galleon Diver
 <*********************>
 
 
-This Galleon rides an aqua
-cycle and receives
-compressed air from a pipe,
-allowing it to dive deep
-beneath the surface. If the
-pipe ruptures, the Galleon
-will succumb to water
-pressure and be destroyed.
+Este Galleon monta em um
+aquaciclo e recebe ar
+comprimido de um cano,
+permitindo-o mergulhar em
+águas profundas. Se o cano
+se romper, o Galleon
+sucumbirá à pressão da
+água e será destruído.
 <*********************>
 
 
@@ -229,14 +232,14 @@ Galleon Burner
 <*********************>
 
 
-This Galleon has a jet
-burner on each shoulder.
-When the fuel runs out, it
-will drop down and wait to
-recharge. It is outfitted
-with special heat shielding
-allowing it to withstand
-extreme temperatures.
+Este Galleon possui um
+lança-chamas em cada ombro.
+Quando o combustível acaba,
+ele se esconde enquanto os
+lança-chamas recarregam. É
+equipado com uma blindagem
+especial contra calor resis-
+tente a altas temperaturas.
 <*********************>
 
 
@@ -244,11 +247,12 @@ Galleon Hunter
 <*********************>
 
 
-This is the basic Galleon
-model equipped with arm
-busters. It is programmed to
-follow orders and complete
-its mission at any cost.
+Este é o modelo básico de
+Galleon, equipado com
+busters nos braços. É
+programado para seguir
+ordens e concluir sua
+missão a todo custo.
 <*********************>
 
 
@@ -256,13 +260,12 @@ Galleon Sledder
 <*********************>
 
 
-This unit has received
-training to handle its
-special features. They
-fire a bazooka from above
-and a buster from below.
-There are two jet engines
-attached to the sled.
+Esta unidade recebeu treina-
+mento para melhor manusear
+seus equipamentos. Usam uma
+bazuca de cima, e um buster
+de baixo. Há duas turbinas
+acopladas à plataforma.
 <*********************>
 
 
@@ -270,13 +273,14 @@ Platform Cannon
 <*********************>
 
 
-This cannon Mechaniloid
-floats up and down in the
-air while firing shots from
-its sides. If the cannon
-gets destroyed, the floating
-platform left behind can be
-used as a foothold.
+Este Mecanilóide canhão
+move-se para cima e para
+baixo no ar, enquanto atira
+pros lados. Se o canhão for
+destruído, a plataforma
+flutuante deixada para trás
+pode ser usada como ponto
+de apoio.
 <*********************>
 
 
@@ -284,12 +288,13 @@ Carom
 <*********************>
 
 
-This floating security
-Mechaniloid can fire shots
-up & down or left & right.
-If it is on the receiving
-end of a powerful blast,
-it'll get sent flying.
+Este Mecanilóide flutuante
+de segurança pode atirar
+para todas as direções,
+alternando entre os eixos
+horizontal e vertical.
+Explode ao ser atingido no
+seu núcleo.
 <*********************>
 
 
@@ -297,12 +302,13 @@ Crickaleap
 <*********************>
 
 
-This wild Mechaniloid hops
-around erratically. A long
-time ago, an outbreak of the
-hoppers resulted in hundreds
-of casualties and they have
-been much feared ever since.
+Este Mecanilóide gafanhoto
+salta erraticamente. Muito
+tempo atrás, um surto desses
+gafanhotos resultou em
+centenas de vítimas e eles
+passaram ser bem mais
+temidos desde então.
 <*********************>
 
 
@@ -310,14 +316,14 @@ Sci-sensor
 <*********************>
 
 
-These assembly kit
-Mechaniloids were donated to
-schools all over by Slither
-Inc. They don't require glue
-or tools to put together and
-are quick to be thrown away
-when something else catches
-the child's fancy.
+Esses Mecanilóides desmon-
+táveis foram doados a várias
+escolas pela Serpent Ltda.
+Não precisam de cola ou
+ferramentas para remontar e
+são rapidamente jogados fora
+quando outra coisa chama a
+atenção da criança.
 <*********************>
 
 
@@ -325,13 +331,13 @@ Spi-King
 <*********************>
 
 
-This weapon is comprised of
-30 recycled tires smashed
-together and fitted with 8
-dangerous spikes. The spikes
-give it the ability to roll
-anywhere regardless of the
-surface condition.
+Esta arma é composta da jun-
+ção de 30 pneus reciclados,
+com a adição de 8 espinhos
+perigosos. Os espinhos dão a
+habilidade de se locomover a
+qualquer lugar, independente
+das condições da superfície.
 <*********************>
 
 
@@ -339,12 +345,12 @@ Springer
 <*********************>
 
 
-This security Mechaniloid
-uses its powerful springs to
-constantly leap about. It
-has a special stabilization
-system that prevents it from
-falling over.
+Este Mecanilóide de segu-
+rança usa suas poderosas
+molas para saltar constante-
+mente. Possui um sistema
+especial de estabilização
+que o impede de cair.
 <*********************>
 
 
@@ -352,14 +358,14 @@ Chain Anchor
 <*********************>
 
 
-The spike at the end of this
-Mechaniloid's chain attaches
-itself to a surface and
-sends a powerful electrical
-current coursing into the
-target. It's possible to
-grab onto the chain or use
-it as a footing.
+O espinho na ponta da
+corrente deste Mecanilóide
+prende-se a uma superfície e
+envia uma poderosa corrente
+elétrica até o alvo. É
+possível agarrar-se na
+corrente ou usá-la como
+ponto de apoio.
 <*********************>
 
 
@@ -367,14 +373,14 @@ Beanball
 <*********************>
 
 
-The principles of leverage
-are employed with this rock
-throwing Mechaniloid. If it
-manages to build up enough
-energy, the flaming rocks it
-hurls are enough to punch
-through walls and cause an
-explosion on impact.
+Os princípios de alavancagem
+estão empregados neste
+Mecanilóide arremessador de
+rochas. Se conseguir energia
+suficiente, as rochas flame-
+jantes que joga conseguem
+atravessar paredes e causar
+uma explosão no impacto.
 <*********************>
 
 
@@ -382,13 +388,13 @@ Sphenalauncher
 <*********************>
 
 
-This iguana Mechaniloid
-fires the spikes on its back
-like missiles. It is
-normally quite docile, but
-if a perceived threat
-approaches, it will react
-aggressively.
+Este Mecanilóide iguana
+atira os espinhos de suas
+costas como mísseis. Normal-
+mente, é bastante dócil, mas
+ao perceber ameaças se
+aproximando, ele torna-se
+agressivo.
 <*********************>
 
 
@@ -396,13 +402,13 @@ Tornado Fencer
 <*********************>
 
 
-This drill-shaped
-Mechaniloid is constantly
-rotating at high speeds. It
-can put up a shield to block
-enemy attacks, but it has
-weak spots that can cause it
-to surge when hit.
+Este Mecanilóide em forma de
+broca está constantemente
+girando a altas velocidades.
+Usa um escudo para bloquear
+ataques inimigos, mas possui
+pontos fracos que, quando
+atingidos, podem destruí-lo.
 <*********************>
 
 
@@ -410,13 +416,13 @@ Valkyraffe
 <*********************>
 
 
-This tall Mechaniloid is
-composed of three major
-segments - a head, neck and
-body segment. There is a
-unit contained within its
-body that can regenerate
-broken parts.
+Este Mecanilóide alto é
+composto de três segmentos
+maiores: Cabeça, pescoço e
+corpo. Há uma unidade
+contida em seu corpo que é
+capaz de regenerar pares
+danificadas.
 <*********************>
 
 
@@ -424,12 +430,13 @@ Pattrolaur
 <*********************>
 
 
-This security Mechaniloid
-was designed and developed
-by Slither Inc. It wears a
-helmet and appears in great
-numbers thanks to factory
-overproduction.
+Este Mecanilóide de
+segurança foi projetado e
+desenvolvido pela Serpent
+Ltda. Utiliza um capacete
+e aparece em grandes números
+graças à superprodução das
+fábricas.
 <*********************>
 
 
@@ -437,12 +444,13 @@ Bambooloss
 <*********************>
 
 
-This plant Mechaniloid is
-found in the forests of
-Innerpeace. Its roots are so
-deep that it's rumored all
-of them are connected to a
-single source.
+Este Mecanilóide planta é
+encontrado nas florestas de
+Innerpeace. Suas raízes são
+tão profundas que dizem
+rumores que todas elas
+estão conectadas a uma
+única fonte.
 <*********************>
 
 
@@ -450,14 +458,14 @@ Bee Rockets
 <*********************>
 
 
-These bee Mechaniloids are
-very territorial. They tend
-to travel in groups and are
-willing to sacrifice
-themselves for other
-members. On occasion, they
-will use their combined heat
-to trigger an explosion.
+Estes Mecanilóides abelhas
+são bastante territoriais.
+Tendem a viajar em grupos e
+são predispostos a se sacri-
+ficar por outros membros. Se
+dada a ocasião eles usarão
+seu calor combinado para
+criar uma explosão.
 <*********************>
 
 
@@ -465,14 +473,14 @@ Whirling 38
 <*********************>
 
 
-It sprays out fire while
-spinning around at high
-speeds. Its rotational
-ability comes from an
-internal drive device. If it
-gets hit with too powerful a
-shock, it will fly off the
-rope. Exercise caution.
+Este Mecanilóide atira para
+todas as direções com seus
+canhões, enquanto gira a
+altas velocidades. Sua habi-
+lidade de girar vem de um
+dispositivo giratório
+interno. Se atingido com um
+golpe forte, voará longe.
 <*********************>
 
 
@@ -480,14 +488,14 @@ Whirling 44
 <*********************>
 
 
-This Mechaniloid continues
-to move up and down on a
-metal rope. Its original
-design is based on a toy
-that the designer's child
-used to play with. It was
-created to be art, but has
-become a dangerous weapon.
+Este Mecanilóide move-se pra
+cima e pra baixo numa corda
+de metal. Seu design
+original é baseado em um
+brinquedo que o filho do
+projetista brincava. Foi
+criado para ser arte, mas
+acabou virando uma arma.
 <*********************>
 
 
@@ -495,14 +503,14 @@ Fire Dart
 <*********************>
 
 
-This hermit crab Mechaniloid
-can use its powerful suction
-feet to move upside down on
-surfaces. With a little
-tinkering, these hot
-machines can be
-reverse-engineered to become
-a convenient cooking range.
+Este Mecanilóide caranguejo-
+ermitão usa suas ventosas
+para mover-se de cabeça para
+baixo em superfícies. Com
+alguns ajustes, essas
+máquinas quentes podem ser
+adaptadas para se tornarem
+bons utensílios de cozinha.
 <*********************>
 
 
@@ -510,11 +518,12 @@ Buoybuoy
 <*********************>
 
 
-This sea turtle Mechaniloid
-uses its fins to stay
-afloat. It protects itself
-from enemies by laying down
-bombs while swimming around.
+Este Mecanilóide tartaruga
+marinha usa suas barbatanas
+para manter-se flutuando.
+Protege-se dos inimigos
+lançando bombas enquanto
+nada.
 <*********************>
 
 
@@ -522,14 +531,14 @@ Shock Face
 <*********************>
 
 
-This model of Mechaniloid
-was based on a giant face
-sculpture. It fires
-electricity that crawls
-across the ground. It used
-to let out a strange laugh,
-but that functionality was
-creepy and later removed.
+Este modelo de Mecanilóide
+foi baseado numa escultura
+de um rosto gigante. Atira
+esferas elétricas que
+percorrem o solo. Costumava
+emitir uma gargalhada
+estranha, mas esta funciona-
+lidade bizarra foi removida.
 <*********************>
 
 
@@ -537,14 +546,14 @@ Heat Face
 <*********************>
 
 
-This model of Mechaniloid is
-the second in a series based
-on giant face sculptures.
-This particular model
-breathes fire and will
-scorch any enemy that comes
-near. Many engineers were
-lost in the design phase.
+Este modelo de Mecanilóide é
+o segundo de uma série
+baseada em esculturas de
+rostos gigantes. O modelo em
+questão cospe fogo, incine-
+rando inimigos próximos.
+Muitos engenheiros foram
+perdidos na fase de design.
 <*********************>
 
 
@@ -552,13 +561,14 @@ Frozen Face
 <*********************>
 
 
-This model of Mechaniloid is
-the third in a series based
-on giant face sculptures. It
-fires frozen junk from its
-mouth at enemies and will
-make sad noises when no one
-is near.
+Este modelo de Mecanilóide é
+o terceiro de uma série
+baseada em esculturas de
+rostos gigantes. Dispara
+esferas congelantes de sua
+boca, nos inimigos. Fará
+barulhos tristes quando
+ninguém está por perto.
 <*********************>
 
 
@@ -566,12 +576,12 @@ Fly Chopper
 <*********************>
 
 
-These Mechaniloids tend to
-operate in groups of three
-and will vary their
-formations to try and
-confuse the enemy while they
-swoop in for an attack.
+Estes Mecanilóides tendem a
+operar em grupos de três e
+variarão suas formações
+para tentar confundir os
+inimigos, enquanto avançam
+para atacar.
 <*********************>
 
 
@@ -579,13 +589,13 @@ Batty
 <*********************>
 
 
-These bat Mechaniloids tend
-to appear out of nowhere and
-focus their attacks on
-weakened enemies. There's an
-urban legend that says the
-locations they congregate at
-are cursed.
+Estes Mecanilóides morcegos
+tendem a surgir do nada e
+focar seus ataques em
+inimigos enfraquecidos. Há
+uma lenda urbana que diz
+que os lugares que se
+reúnem são amaldiçoados.
 <*********************>
 
 
@@ -593,12 +603,13 @@ Presto Cannon
 <*********************>
 
 
-This cannon has been weighed
-down with modifications to
-increase its firing and cool
-down rates. The main flaw in
-this design is that it is so
-heavy it can't move.
+Este canhão foi equipado com
+diversos aparatos para
+aumentar a velocidade e
+frequência de seus disparos.
+A maior falha no seu design
+é que ficou tão pesado que
+não consegue mais se mover.
 <*********************>
 
 
@@ -606,14 +617,14 @@ Hover Cannon
 <*********************>
 
 
-This cannon has two firing
-ports. If an enemy
-approaches, it attempts to
-use its hovering ability to
-run away, but it quickly
-runs out of power. It fires
-a special shot that breaks
-into three smaller shots.
+Este canhão possui dois
+canhões de disparos. Se um
+inimigo se aproximar, ele
+tenta usar sua habilidade de
+flutuação para fugir, mas
+rapidamente esgota sua ener-
+gia. Dispara um tiro espe-
+cial que se divide em três.
 <*********************>
 
 
@@ -621,14 +632,13 @@ Bora Bora
 <*********************>
 
 
-This fish Mechaniloid eats
-microbes, converting them to
-energy, and this helps clean
-the water making it quite
-environmentally friendly.
-However, it is not so
-friendly to enemies that
-enter its territory.
+Este Mecanilóide peixe come
+micróbios, convertendo-os em
+energia, ajudando a limpar
+as águas e melhorando o meio
+ambiente. No entanto, não é
+tão amigável a inimigos que
+invadem seu território.
 <*********************>
 
 
@@ -636,14 +646,14 @@ Marine General
 <*********************>
 
 
-This sea anemone Mechaniloid
-was designed from the
-beginning as a weapon. It
-was meant to provide an
-obstacle for enemies in the
-water and is based on a
-biological organism that has
-long gone extinct.
+Este Mecanilóide anêmona foi
+concebido como arma desde o
+início. Foi criado para
+gerar obstáculos para
+inimigos na água e foi
+baseado em um organismo
+biológico que foi extinto
+muito tempo atrás.
 <*********************>
 
 
@@ -651,12 +661,14 @@ Mechadragon
 <*********************>
 
 
-These dragonfly Mechaniloids
-tend to move in groups and
-act as sentries. They begin
-to dart around upon sensing
-an enemy and transmit the
-imagery to another location.
+Estes Mecanilóides libélulas
+tendem a se mover em grupos
+e agir como sentinelas.
+Ao sentir a presença de
+inimigos, aproximam-se para
+filmar e transmitir imagens
+deste, para outro local
+remoto.
 <*********************>
 
 
@@ -664,14 +676,14 @@ Remettaur
 <*********************>
 
 
-A factory began to produce
-these special Mechaniloids
-on Slither Inc.'s request.
-Their helmets protect them
-from attacks and upon
-exploding, they will release
-smaller versions that run
-around and blow up.
+Uma fábrica começou a produ-
+zir esses Mecanilóides espe-
+ciais, a pedido da Serpent
+Ltda. Seus capacetes os
+protegem de ataques, e ao
+explodir, lançarão versões
+menores de si, que explo-
+dirão nos alvos.
 <*********************>
 
 
@@ -679,11 +691,12 @@ Moth Queen
 <*********************>
 
 
-This wild Mechaniloid makes
-its home in frozen areas. It
-is mostly harmless and
-people often gather them to
-put on display.
+Esta Mecanilóide selvagem
+faz o seu ninho em áreas
+congeladas. É geralmente
+inofensiva, e frequentemente
+se vê pessoas capturando-as
+e pondo à amostra.
 <*********************>
 
 
@@ -691,14 +704,14 @@ Releaf
 <*********************>
 
 
-This Mechaniloid camouflages
-itself as a leaf. It can
-remain well-hidden in
-foliage, but will join with
-others to drive away
-threats. Their wings are
-sharper than they look and
-can cause serious damage.
+Este Mecanilóide camufla-se
+como folha. Pode ficar
+oculto em folhagens, mas
+juntará-se aos outros para
+afastar ameaças. Suas asas
+são mais afiadas do que
+aparentam, e podem causar
+sérios ferimentos.
 <*********************>
 
 
@@ -706,14 +719,14 @@ Warp Prism
 <*********************>
 
 
-These mysterious entities
-were the result of research
-into ancient technology. The
-experiments conducted failed
-and resulted in these
-troublemakers. They will act
-aggressively towards
-perceived threats.
+Essas entidades misteriosas
+foram o resultado de pesqui-
+sas sobre tecnologia anciã.
+Os experimentos conduzidos
+falharam, e rsultaram nesses
+encrenqueiros. Podem ficar
+agressivos ao perceber
+ameaças.
 <*********************>
 
 
@@ -721,24 +734,25 @@ Rayfly
 <*********************>
 
 
-This giant flying machine
-drops bounce cannons from
-its cargo bays. It never
-comes in for a landing, so
-attacking it head-on is
-extremely difficult.
+Esta máquina voadora gigante
+solta canhões laterais de
+seus compartimentos de
+carga. Nunca aterrissa,
+então atacá-lo diretamente
+é bem difícil.
 <*********************>
 
 
-Omega
+Ômega
 <*********************>
 
 
-This mysterious Reploid was
-found in some ancient ruins.
-It was rumored to have been
-destroyed by a legendary red
-warrior.
+Este misterioso Replóide
+foi encontrado em ruínas
+antigas. Rumores dizem que
+ele havia sido destruído por
+um lendário guerreiro
+vermelho.
 <*********************>
 
 
@@ -746,50 +760,49 @@ Giga Aspis
 <*********************>
 
 
-Several large parts combine
-to create this giant snake
-Mechaniloid. Its body is
-covered in special plating
-that reflects all attacks.
-Its only weak spot is its
-head.
+Várias partes grandes
+combinaram-se para criar
+este Mecanilóide cobra
+gigante. Seu corpo é coberto
+de uma blindagem que reflete
+todos os ataques. Seu único
+ponto fraco é na cabeça.
 <*********************>
 
 
-Giro (Model Z)
+Giro (Modelo Z)
 <*********************>
 
 
-Giro transformed with the
-power of Model Z. He fell
-under the influence of
-Serpent and was used for
-evil.
+Giro transformado com o
+poder do Modelo Z. Ele caiu
+sob a influência de Serpent
+e foi usado para o mal.
 <*********************>
 
 
-Serpent (1st Form)
+Serpent (Primeira Forma)
 <*********************>
 
 
-Serpent transformed into a
-battle form with the power
-of the Biometal Model W
-fragment. The orange horns
-associated with Model W can
-be found on his head,
-shoulders and feet.
+Serpent transformado em uma
+forma de batalha com o poder
+do Biometal Modelo W.
+Chifres laranjas do Modelo W
+podem ser encontrados em sua
+cabeça, ombros e pé.
 <*********************>
 
 
-Serpent (2nd Form)
+Serpent (Segunda Forma)
 <*********************>
 
 
-Serpent's form after being
-absorbed into Model W. He
-continues to transform
-further upon taking damage.
+A forma de Serpent, após ser
+absorvido pelo Modelo W.
+A transformação muda ainda
+mais, à medida que leva
+danos.
 <*********************>
 
 
@@ -797,10 +810,10 @@ Purprill
 <*********************>
 
 
-Purprill the Mandroid. Half
-of the Model P data is
-contained in his massive
-arms.
+Purprill, o Mandróide.
+Metade dos dados do Modelo P
+está contida em seus braços
+enormes.
 <*********************>
 
 
@@ -808,9 +821,9 @@ Hivolt
 <*********************>
 
 
-Hivolt the Raptoroid. Half
-of the Model H data is
-contained in his wings.
+Hivolt, o Pterossauróide.
+Metade dos dados do Modelo H
+está contida em suas asas.
 <*********************>
 
 
@@ -818,9 +831,10 @@ Hurricaune
 <*********************>
 
 
-Hurricaune the Wolveroid.
-Half of the Model H data is
-contained in her neck.
+Hurricaune, a Carcajóide.
+Metade dos dados do Modelo H
+está contida no pescoço
+dela.
 <*********************>
 
 
@@ -828,12 +842,11 @@ Pandora
 <*********************>
 
 
-The mysterious woman that
-always accompanies
-Prometheus. She has mastered
-the power of thunder and
-ice. She prefers to attack
-from a distance.
+A mulher misteriosa que
+sempre acompanha Prometeus.
+Ela dominou os poderes de
+trovão e gelo. Prefere
+ataques à distância.
 <*********************>
 
 
@@ -841,9 +854,9 @@ Fistleo
 <*********************>
 
 
-Fistleo the Predatoroid.
-Half of the Model F data is
-contained in his head.
+Fistleo, o Leonóide.
+Metade dos dados do Modelo F
+está contida em sua cabeça.
 <*********************>
 
 
@@ -851,10 +864,10 @@ Flammole
 <*********************>
 
 
-Flammole the Moleroid. Half
-of the Model F data is
-contained in his powerful
-arms.
+Flammole, o Toupeiróide.
+Metade dos dados do Modelo F
+está contida em seus braços
+poderosos.
 <*********************>
 
 
@@ -862,24 +875,24 @@ Protectos
 <*********************>
 
 
-Protectos the Goreroid. Half
-of the Model P data is
-contained in his giant
-belly.
+Protectos, o Rinoceróide.
+Metade dos dados do Modelo P
+está contida em sua barriga
+gigante.
 <*********************>
 
 
-Prometheus
+Prometeus
 <*********************>
 
 
-The mysterious man that
-always accompanies Pandora.
-He has mastered normal
-attacks as well as flame
-attacks. The giant scythe he
-wields is bigger than his
-body.
+O homem misterioso que
+sempre acompanha Pandora.
+Ele dominou tanto ataques
+normais como flamejantes.
+A foice gigante que ele
+manuseia é maior que seu
+próprio corpo.
 <*********************>
 
 
@@ -887,10 +900,10 @@ Lurerre
 <*********************>
 
 
-Lurerre the Abysroid. Half
-of the Model L data is
-contained in the lure she
-uses.
+Lurerre, a Tambaróide.
+Metade dos dados do Modelo L
+está contida na isca que ela
+usa.
 <*********************>
 
 
@@ -898,9 +911,9 @@ Leganchor
 <*********************>
 
 
-Leganchor the Gelroid. Half
-of the Model L data is
-contained in his head.
+Leganchor, o Medusóide.
+Metade dos dados do Modelo L
+está contida em sua cabeça.
 <*********************>
 
 
@@ -908,14 +921,14 @@ Diadrake
 <*********************>
 
 
-This Mechaniloid belonged to
-a wealthy individual.
-Several days after purchase,
-it was infected by a virus,
-began to act strangely,
-and was disposed of. It is
-equipped with a dispersion
-laser in its mouth.
+Este Mecanilóide pertencia a
+um indivíduo rico. Vários
+dias após a compra, este foi
+infectado por um vírus, e
+passou a agir estranhamente,
+sendo descartado em seguida.
+É equipado com um laser de
+dispersão, em sua boca.
 <*********************>
 
 
@@ -923,14 +936,14 @@ Orehawk
 <*********************>
 
 
-This Mechaniloid belonged to
-a wealthy individual. It was
-programmed to obey its
-owner, but it ran away never
-to be heard from again. Its
-wings are like giant fans
-that can be launched as an
-attack mechanism. 
+Este Mecanilóide pertencia a
+um indivíduo rico. Foi
+programado para obedecer seu
+dono, mas este fugiu, e não
+se ouviu mais falar dele até
+então. Suas asas podem
+ser lançadas, como um
+mecanismo de ataque
 <*********************>
 
 
@@ -938,13 +951,14 @@ Deluxe Galleon Wing
 <*********************>
 
 
-A modified Galleon Wing that
-was introduced in combat on
-the assault against Guardian
-HQ. It has additional
-offensive functionality not
-found in the non-deluxe
-model such as nitro cans.
+Um Galleon Wing modificado
+que foi introduzido em
+combate durante o ataque do
+QG dos Guardiões. Possui
+novas funcionalidades de
+ataque não presentes no
+modelo comum, como por
+exemplo turbinas.
 <*********************>
 
 
@@ -952,14 +966,14 @@ King Flyer
 <*********************>
 
 
-This giant fly Mechaniloid
-is operated by remote
-control. It uses a special
-chemical fuel called
-Methanhydrate and has only
-recently been put into
-production. Its numbers are
-still very limited.
+Este Mecanilóide mosca
+gigante é operado por
+controle remoto. Utiliza um
+combustível químico especial
+chamado Hidrato de Metano e
+foi posto em produção recen-
+temente. Seus números ainda
+são muito limitados.
 <*********************>
 
 
@@ -967,14 +981,14 @@ Crushpactor
 <*********************>
 
 
-This compactor Mechaniloid
-was originally designed for
-crushing rocks, but has been
-retrofitted as a weapon.
-It's quite heavy, but once
-the treads get moving, it
-can move at incredible
-speeds.
+Este Mecanilóide compactador
+de lixo foi originalmente
+projetado para esmagar
+rochas, mas foi reabilitado
+como arma. É bem pesado, mas
+depois de ter pego o embalo,
+pode se mover a velocidades
+incríveis.
 <*********************>
 
 
@@ -982,14 +996,14 @@ Steephinx
 <*********************>
 
 
-This Mechaniloid belonged to
-a wealthy individual. A
-month after purchase, all
-functionality ceased and it
-was thrown away. It has
-three sets of logical
-circuits and its parts can
-operate independently.
+Este Mecanilóide pertencia a
+um indivíduo rico. Um mês
+após a compra, subitamente
+parou de funcionar, e foi
+jogado fora. Possui três
+conjuntos de circuitos
+lógicos e suas partes podem
+operar independentemente.
 <*********************>
 
 
@@ -997,13 +1011,14 @@ Tentalamia
 <*********************>
 
 
-This Mechaniloid can stretch
-out tentacles from four
-different holes to attack
-enemies. It has been known
-to steal life from victims
-as well, so caution is
-required around it.
+Este Mecanilóide pode
+estender tentáculos de
+quatro buracos diferentes,
+para atacar inimigos. Também
+é conhecido por roubar
+vitalidade das vítimas,
+logo recomenda-se cautela
+perto dele.
 <*********************>
 
 
@@ -1011,13 +1026,13 @@ Powmettaur
 <*********************>
 
 
-This giant Mettaur moves
-about by jumping around
-despite its enormous size.
-It was designed as an
-amusement park mascot, but
-ended up being converted to
-a Mechaniloid.
+Este Mettaur gigante move-se
+saltitando, apesar de seu
+tamanho enorme. Foi
+projetado para ser o mascote
+de um parque de diversões,
+mas acabou sendo convertido
+para um Mecanilóide.
 <*********************>
 
 
@@ -1025,14 +1040,14 @@ Lava Demon
 <*********************>
 
 
-No attacks can penetrate the
-magma surrounding this
-Reploid. It's blind, but
-can detect enemies by their
-movements. When an enemy is
-spotted, it can transform
-into several variations for
-attacking.
+Nenhum ataque pode penetrar
+o magma ao redor deste
+Replóide. É cego, mas pode
+detectar inimigos através
+de seus movimentos. Ao
+localizar um inimigo,
+transforma-se em diversas
+variações, para atacar.
 <*********************>
 
 
@@ -1040,13 +1055,13 @@ Hareng
 <*********************>
 
 
-He always has to be the best
-at whatever he does. Hareng
-does what he can to act
-cool, but when push comes to
-shove he tends to lose it
-and his true personality
-comes out.
+Ele sempre quer ser o melhor
+no que faz. Hareng faz o que
+pode para parecer legal, mas
+quando vem a pressão, ele
+tende a perder a pose, e sua
+verdadeira personalidade vem
+à tona.
 <*********************>
 
 
@@ -1054,38 +1069,41 @@ Anguille
 <*********************>
 
 
-He is quite reserved and is
-an expert at making others
-feel good about themselves.
-He serves as an assistant to
-the mechanic Silure. He can
-get emotional and when it
-comes to women, he does have
-a tendency to show off.
+Ele é bem reservado e é um
+perito em fazer os outros se
+sentirem bem consigo mesmos.
+Trabalha como assistente de
+Silure, o mecânico. Ele é
+bem emotivo, e quando o
+assunto é mulher, ele tende
+a ficar embaraçado.
 <*********************>
 
 
-Operators
+Operadoras
 <*********************>
 
 
-These three are in charge of
-Guardian HQ operations. They
-are (from left to right):
-Gardénia, Tulip and
-Marguerite.
+Essas três garotas estão
+encarregadas das operações
+do QG dos Guardiões.
+São elas (da esquerda para
+a direita): Gardénia, Tulip
+e Marguerite.
 <*********************>
 
 
-Guardians
+Guardiões
 <*********************>
 
 
-These are the most commonly
-seen Guardians. They might
-look alike, but they all
-have unique personalities
-once you get to know them.
+Esses são os membros dos
+Guardiões mais comumente
+vistos. Podem ser parecidos
+uns com os outros, mas ao
+conhecê-los, verá que todos
+possuem personalidades
+únicas.
 <*********************>
 
 
@@ -1093,14 +1111,14 @@ Carrelet
 <*********************>
 
 
-He is passionate about his
-work and tends to dislike
-anyone that doesn't take
-their work seriously. He
-places his faith in logic
-above all else and because
-of this has issues with the
-emotional Anguille.
+Ele tem paixão pelo seu
+trabalho e tende a desgostar
+de quem não leva o seu
+trabalho a sério. Ele põe
+sua fé na lógica acima de
+todas as coisas, e por causa
+disso, vive tendo confusões
+com Anguille, mais emotivo.
 <*********************>
 
 
@@ -1108,10 +1126,11 @@ Congre
 <*********************>
 
 
-He is easily startled and
-his assignment as a Guardian
-soldier is one of the seven
-great Guardian mysteries.
+Ele se assusta com muita
+facilidade. Seu alistamento
+como soldado do QG é um dos
+sete grandes mistérios dos
+Guardiões.
 <*********************>
 
 
@@ -1119,10 +1138,11 @@ Sardine
 <*********************>
 
 
-He is the only child Reploid
-in Guardian HQ. He is always
-playing with the toy Silure
-made him.
+É o único Replóide criança
+no QG dos Guardiões. Ele
+está sempre brincando com os
+brinquedos que Silure cria
+para ele.
 <*********************>
 
 
@@ -1130,13 +1150,13 @@ Silure
 <*********************>
 
 
-He is the head mechanic and
-Anguille's boss. He is busy,
-but is always willing to put
-together a toy in his free
-time. Fleuve has been known
-to consult with him from
-time to time.
+É o mecânico chefe, e chefe
+de Anguille. Ele é ocupado,
+mas sempre gosta de criar
+brinquedos para crianças nas
+horas vagas. Fleuve costuma
+consultá-lo de tempos em
+tempos.
 <*********************>
 
 
@@ -1144,14 +1164,14 @@ Giro
 <*********************>
 
 
-This young man owns his own
-transporter business, Giro
-Express. He looks after
-children who have lost their
-parents and is wise beyond
-his years. His full name is
-Girouette, but most people
-just call him Giro.
+Este jovem é dono de sua
+empresa de transportes,
+Girouette Expresso. Ele
+cuida de crianças órfãs, e é
+bem sábio, apesar de jovem.
+Seu nome completo é
+Girouette, mas a maioria das
+pessoas o chamam de Giro.
 <*********************>
 
 
@@ -1159,13 +1179,12 @@ Scombrésoce
 <*********************>
 
 
-He tends to stick his nose
-where it doesn't belong and
-this doesn't do anything to
-endear him to the other
-Guardians. Despite this bad
-side, he is always a
-gentleman to the ladies.
+Ele tende a meter seu nariz
+onde não é chamado, o que
+faz os outros Guardiões se
+afastarem dele. Apesar deste
+lado ruim, ele é sempre
+educado com as mulheres.
 <*********************>
 
 
@@ -1173,14 +1192,14 @@ Cédre
 <*********************>
 
 
-She can be harsh at times,
-but it's obvious that she
-cares. She does have a
-tendency to get hot-blooded.
-In order to cool her down,
-Prairie assigned her to
-Guardian HQ instead of out
-in the field.
+Ela pode ser ríspida às
+vezes, mas mesmo assim se
+importa com as pessoas. Ela
+também tende a ser explosiva
+às vezes. Para manter sua
+compostura, Prairie atribuiu
+a ela o QG dos Guardiões, ao
+invés de outras áreas.
 <*********************>
 
 
@@ -1188,12 +1207,13 @@ Serpent
 <*********************>
 
 
-This well-known president of
-Slither Inc. is considered a
-national hero for his
-handling of the energy
-crisis and the Maverick
-outbreak.
+O conhecido e popular
+presidente da Serpent Ltda.
+É considerado um herói
+nacional, graças à forma
+como ele lidou com a crise
+de energia e os surtos de
+Mavericks.
 <*********************>
 
 
@@ -1201,13 +1221,14 @@ Truite
 <*********************>
 
 
-He is slow and overly
-careful about everything.
-Despite being thoughtful, he
-tends to get confused when
-talking to other people. No
-one ever has the heart to
-tell him he is wrong though.
+Ele é lento e exageradamente
+cuidadoso com tudo que faz.
+Apesar de pensar demais
+antes de agir, ele tende a
+ficar confuso ao falar com
+outras pessoas. No entanto,
+ninguém nunca tentou
+avisá-lo quando se confunde.
 <*********************>
 
 
@@ -1215,11 +1236,11 @@ Thon
 <*********************>
 
 
-The biggest, scariest
-Guardian of them all. He is
-a big guy, but loses his
-tough edge in front of
-Prairie.
+O maior, e mais assustador,
+dentre os Guardiões. Ele é
+grande, mas em frente de
+Prairie, perde o seu ar de
+durão.
 <*********************>
 
 
@@ -1227,13 +1248,12 @@ Fleuve
 <*********************>
 
 
-He continues to perform
-research at Guardian HQ. He
-has a thirst for knowledge
-and would always choose
-reading a book as the
-perfect way to spend a free
-moment.
+Ele continua a realizar
+pesquisas no QG dos
+Guardiões. Possui uma sede
+de conhecimento, e nas horas
+vagas, sempre prefere ler um
+livro.
 <*********************>
 
 
@@ -1241,40 +1261,39 @@ Prairie
 <*********************>
 
 
-The second commander of the
-Guardians. She values the
-stuffed animal the first
-commander gave her a long
-time ago.
+A segunda comandante dos
+Guardiões. Ela gosta muito
+do bicho de pelúcia que a
+primeira comandante lhe deu,
+muito tempo atrás.
 <*********************>
 
 
-Stuffed Animal
+Bicho de Pelúcia
 <*********************>
 
 
-This cute stuffed animal is
-a present from the first
-Guardian commander to
-Prairie. It has seen better
-days and its back in
-particular seems to have
-been stitched up countless
-times.
+Este bicho de pelúcia fofo é
+um presente que a primeira
+comandante dos Guardiões deu
+à Prairie. O bichinho já
+teve dias melhores, e ao
+olhar atrás, parece que foi
+costurado várias vezes.
 <*********************>
 
 
-Townspeople
+Cidadãos
 <*********************>
 
 
-These people live freely
-under the umbrella of
-Slither Inc.'s protection.
-They are very leery of
-potential Mavericks and are
-not very talkative to
-strangers.
+Essas pessoas vivem
+livremente sob a proteção da
+Serpent Ltda. São precon-
+ceituosas com pessoas
+suspeitas de serem Mavericks
+e não falam muito com
+estranhos.
 <*********************>
 
 
@@ -1282,12 +1301,13 @@ Muguet
 <*********************>
 
 
-She is in charge of the
-medical facilities at
-Guardian HQ. Her bedside
-manner is a bit rough around
-the edges, but her treatment
-is top notch.
+Ela é a encarregada das
+instalações médicas no QG
+dos Guardiões. A forma como
+ela trata os pacientes é um
+pouco dura, mas suas
+habilidades são de
+primeira.
 <*********************>
 
 
@@ -1295,17 +1315,18 @@ Rose
 <*********************>
 
 
-She is the shy assistant to
-Muguet. A lot of people make
-the mistake of thinking she
-never speaks, but once
-someone gets her talking,
-she never stops.
+Ela é a assistente tímida de
+Muguet. Várias pessoas
+cometem o erro de pensar que
+ela nunca conversa, mas uma
+vez que alguém consiga
+fazê-la falar, ela não para
+mais.
 <*********************>
 
 
-This secret disk has not
-been analyzed yet.
+Este disco secreto ainda não
+foi analisado.
 <*********************>
 
 <FIM>
