@@ -2,188 +2,189 @@
 <#####################>
 
 <p 02><a 47><n 42>
-You're a transporter
-aren't ya?
+Você é da transpor-
+tadora, né?
 <--------------------->
 
 <p 02><a 47><n 42>
-I've got somethin' to
-ask ya.
+Tenho algo pra te
+pedir.
 <--------------------->
 
 <e 2A><a 47><n 42>
-Is that cool?
-  Yes
-  No
+Pode ser?
+  Sim
+  Não
 <*********************>
 
 <p 02><a 47><n 42>
-Thanks.
+Valeu.
 <--------------------->
 
 <p 02><a 47><n 42>
-I'm thinkin' to ask a
-girl to marry me and I
-need to make a ring.
+Tô pensando em pedir
+uma mina em casamento e
+preciso fazer um anel.
 <--------------------->
 
 <p 02><a 47><n 42>
-Not just any ring, but
-THE ring!
+Não um anel qualquer,
+mas O anel!
 <--------------------->
 
 <p 02><a 47><n 42>
-I need a Cold Pearl
-from a lake...
+Preciso de uma Pérola
+Gelada de um lago...
 <--------------------->
 
-As ya can guess from
-the name, it's gotta be
-a cold lake.
-<--------------------->
-
-<p 02><a 47><n 42>
-Could ya find one and
-bring it back?
+Como cê pode adivinhar
+pelo nome, só pode
+estar num lago gelado.
 <--------------------->
 
 <p 02><a 47><n 42>
-Help a guy out.
+Cê pode achar e trazer
+uma dessas pra mim?
+<--------------------->
+
+<p 02><a 47><n 42>
+Me ajudaí, vai lá.
 <*********************>
 
 <p 02><a 47><n 42>
-Oh, that's a shame.
+Ah, que pena.
 <--------------------->
 
 <p 02><a 47><n 42>
-If ya change your mind,
-ya know where to find
-me.
+Se cê mudar de ideia,
+sabe onde me achar.
 <*********************>
 
 <p 02><a 47><n 42>
-My future happiness
-rests in your hands!
-<*********************>
-
-<p 02><a 02><n 55>
-Find the rare pearl
-from the bottom of a
-cold lake.
+Minha felicidade futura
+está em suas mãos!
 <*********************>
 
 <p 02><a 02><n 55>
-  Yes
-  No
-<*********************>
-
-<p 02><a 47><n 42>
-*sigh* I'm dyin' to
-tell my girl how I
-feel...
-<--------------------->
-
-<p 02><a 47><n 42>
-Buuut, I can't make my
-move...
-<--------------------->
-
-<p 02><a 47><n 42>
-Not without that pearl.
-<*********************>
-
-<p 02><a 47><n 42>
-This is the legendary
-Cold Pearl!
-<--------------------->
-
-<p 02><a 47><n 42>
-Thanks! I'll get this
-puppy made into a ring
-right away.
-<*********************>
-
-<p 02><a 47><n 42>
-Oh yeah, I sent ya a
-little somethin' for
-your trouble.
-<--------------------->
-
-Check the transerver!
+Encontre a pérola rara
+do fundo de um lago
+gelado.
 <*********************>
 
 <p 02><a 02><n 55>
-Quest completed.
-<--------------------->
-
-<p 02><a 02><n 55>
-300 EC have been
-transferred to your
-account.
+  Sim
+  Não
 <*********************>
 
 <p 02><a 47><n 42>
-O-oh, it's you again!
-Thanks for earlier!
+Putz. Tô morrendo de
+vontade de dizer àquela
+mina como me sinto...
 <--------------------->
 
 <p 02><a 47><n 42>
-Ya wanna know what
-happened?
+Maaas, não posso fazer
+minha proposta...
+<--------------------->
+
+<p 02><a 47><n 42>
+Não sem aquela pérola.
+<*********************>
+
+<p 02><a 47><n 42>
+Essa é a lendária
+Pérola Gelada!
+<--------------------->
+
+<p 02><a 47><n 42>
+Valeu! Vou transformar
+essa belezinha num anel
+agora mesmo.
+<*********************>
+
+<p 02><a 47><n 42>
+Ah é, te mandei uns
+trocados pelo serviço.
+<--------------------->
+
+Dá uma conferida lá no
+transervidor!
+<*********************>
+
+<p 02><a 02><n 55>
+Pedido concluído.
+<--------------------->
+
+<p 02><a 02><n 55>
+Foram transferidos
+300 CE para a sua
+conta.
+<*********************>
+
+<p 02><a 47><n 42>
+A-Ah, é você de novo!
+Valeu por antes!
+<--------------------->
+
+<p 02><a 47><n 42>
+Deixa eu te contar o
+que rolou.
 <--------------------->
 
 <e 2B><a 47><n 42>
-Well, do ya?
-  Yes
-  No
+Tá afim de saber?
+  Sim
+  Não
 <*********************>
 
 <p 02><a 47><n 42>
-Well, to tell ya the
-truth, right at the
+Bem, pra te falar a
+verdade,
 <--------------------->
 
-moment I presented the
-ring...
-<--------------------->
-
-<p 02><a 47><n 42>
-The Cold Pearl melted!
+bem no momento que
+apresentei o anel...
 <--------------------->
 
 <p 02><a 47><n 42>
-There was a long
-silence...
+A Pérola Gelada
+derreteu!
 <--------------------->
 
 <p 02><a 47><n 42>
-But then, she broke
-it...
+Houve um longo
+silêncio...
 <--------------------->
 
 <p 02><a 47><n 42>
-"I'm just happy you
-cared so much..."
+E então, ela quebrou o
+gelo, dizendo...
 <--------------------->
 
 <p 02><a 47><n 42>
-Hohohoho!
+"Estou tão feliz por
+você ter se importado
+tanto..."
 <--------------------->
 
 <p 02><a 47><n 42>
-Thanks to you, I'm
-gettin' hitched!
+Rô, rô, rô, rô!
+<--------------------->
+
+<p 02><a 47><n 42>
+Graças a você, vou me
+casar!
 <*********************>
 
 <p 02><a 47><n 42>
-The ring is no good
-now...
+O anel já era, por
+agora...
 <--------------------->
 
 <p 02><a 47><n 42>
-But I'll work hard to
-make a new one. This
-time I'll make a set!
+Mas vou me esforçar pra
+fazer outro. Dessa vez
+vou fazer bonito!
 <*********************>
 
 <p 02><a 47><n 42>

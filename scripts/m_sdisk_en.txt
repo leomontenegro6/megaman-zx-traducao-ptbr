@@ -334,8 +334,8 @@ Spi-King
 Esta arma é composta da jun-
 ção de 30 pneus reciclados,
 com a adição de 8 espinhos
-perigosos. Os espinhos dão a
-habilidade de se locomover a
+em volta. Os espinhos dão a
+habilidade de se mover para
 qualquer lugar, independente
 das condições da superfície.
 <*********************>
@@ -463,7 +463,7 @@ são bastante territoriais.
 Tendem a viajar em grupos e
 são predispostos a se sacri-
 ficar por outros membros. Se
-dada a ocasião eles usarão
+dada a ocasião, eles usarão
 seu calor combinado para
 criar uma explosão.
 <*********************>
@@ -520,10 +520,10 @@ Buoybuoy
 
 Este Mecanilóide tartaruga
 marinha usa suas barbatanas
-para manter-se flutuando.
-Protege-se dos inimigos
-lançando bombas enquanto
-nada.
+para manter-se flutuando na
+água. Protege-se dos
+inimigos lançando bombas
+enquanto nada.
 <*********************>
 
 
@@ -723,7 +723,7 @@ Essas entidades misteriosas
 foram o resultado de pesqui-
 sas sobre tecnologia anciã.
 Os experimentos conduzidos
-falharam, e rsultaram nesses
+falharam, resultando nesses
 encrenqueiros. Podem ficar
 agressivos ao perceber
 ameaças.

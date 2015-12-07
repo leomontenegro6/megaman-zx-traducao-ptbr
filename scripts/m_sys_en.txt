@@ -218,11 +218,11 @@ Z
 <*********************>
 
 
-Área L-4 Lab. de Pesquisas
+Área L-4 Lab. Pesquisas
 <*********************>
 
 
-Área M-3 Restos
+Área M-3 Ruínas
 <*********************>
 
 
@@ -322,7 +322,7 @@ Purifique os Lagos
 <*********************>
 
 
-Encontre o Cogumelo
+Encontre Cogumelo
 <*********************>
 
 
@@ -378,19 +378,19 @@ Limpe a Sala
 <*********************>
 
 
-Entregue o Kit de Socorros
+Ache um Kit de Socorros
 <*********************>
 
 
-Entregue o Pacote de Energia
+Entregue a Bateria
 <*********************>
 
 
-Entregue o Kit de Socorros
+Ache um Kit de Socorros
 <*********************>
 
 
-Entregue o Pacote de Energia
+Entregue a Bateria
 <*********************>
 
 

@@ -205,7 +205,7 @@ pode fazer?
 <--------------------->
 
 <p 01><p 03><d A13E><a 1A><n 0F>
-Seu monstrinho! Você
+Seu fracote! Você
 não luta nada!
 <*********************>
 
@@ -247,7 +247,7 @@ Mesmo em espírito,
 continuarei a lutar!
 <--------------------->
 
-Hei de me tornar um,
+Hei-de me tornar um,
 com o Modelo W!
 <--------------------->
 
@@ -325,15 +325,15 @@ tudo.
 <*********************>
 
 <p 03><d B23E><a 1C><n 11>
-Argh! Continuarei a
-viver como um só, junto
-do Modelo W...
+Argh! Continuarei
+a viver junto do
+Modelo W...
 <--------------------->
 
 <p 03><d B33E><a 1C><n 11>
 Não importa quanto
-tempo levar, vou
-derrotá-lo!
+tempo levar, você será
+derrotado no final!
 <*********************>
 
 <p 03><d B43E><a 1E><n 13>
@@ -362,15 +362,14 @@ A juventude estava
 contra você...
 <--------------------->
 
-É preciso de anos de
-maturidade, para ser um
-verdadeiro Mega Man!
+Para ser um verdadeiro
+Mega Man, é preciso ter
+anos de maturidade!
 <*********************>
 
 <p 03><d B73E><a 1E><n 13>
-Se ao menos você se
-tornasse um com o
-Modelo W,
+Se ao menos tornasse-se
+um com o Modelo W,
 <--------------------->
 
 você também entenderia
@@ -378,8 +377,9 @@ a verdade.
 <--------------------->
 
 <p 03><d B83E><a 1E><n 13>
-Devemos evoluir... com
-um novo mundo.
+Com o advento de
+um novo mundo... Nós
+também devemos evoluir.
 <*********************>
 
 <p 03><d B93E><a 1F><n 14>
@@ -387,8 +387,7 @@ Rá, rá! Devia me
 agradecer.
 <--------------------->
 
-Tive todo o trabalho de
-cavar sua cova!
+Já cavei até sua cova!
 <--------------------->
 
 <p 03><d BA3E><a 1F><n 14>
@@ -406,7 +405,7 @@ pedaços novamente...
 <--------------------->
 
 <p 03><d BC3E><a 1F><n 14>
-Acho que, pra você,
+Acho que, para você,
 não vai ter enterro!
 <*********************>
 
@@ -418,8 +417,8 @@ tremendo o chão...
 
 <p 03><d BE3E><a 1F><n 14>
 Quando o Modelo W
-te pegar, você vai
-bater as botas!
+acabar com você, não
+diga que não avisei!
 <*********************>
 
 <p 03><d BF3E><a 20><n 15>
@@ -449,8 +448,8 @@ novo mundo!
 <*********************>
 
 <p 03><d C23E><a 20><n 15>
-Mestre Serpent... Ele
-deixará uma enorme
+Mestre Serpent...
+Deixará uma enorme
 marca na história!
 <--------------------->
 
@@ -502,7 +501,7 @@ pero deste país é seu!
 
 <p 03><d CA3E><a 14><n 0C>
 Juntando-se a nós,
-os fracos são liber-
+os fracos serão liber-
 tados do sofrimento!
 <--------------------->
 
@@ -926,9 +925,9 @@ Mas...!
 <*********************>
 
 <p 02><d 053F><a 31><n 05>
-Vent!
-Tudo está desmoronando!
-Você tem que sair daí!
+Vent! Tudo está
+desmoronando! Você tem
+que sair daqui!
 <*********************>
 
 <p 02><d 063F><a 08><n 01>

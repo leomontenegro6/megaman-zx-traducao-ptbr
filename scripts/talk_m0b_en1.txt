@@ -66,17 +66,17 @@ ainda mais poderoso,
 <--------------------->
 
 enterrado bem fundo
-no solo.
+neste lugar.
 <--------------------->
 
 <p 03><d 022B><a 1F><n 14>
-Mas! A gente não achou
-nada!
+Mas! Não achamos nada
+até agora!
 <--------------------->
 
 <p 03><d 032B><a 1F><n 14>
 Sou o Pseudoróide do
-Modlo F, Flammole.
+Modelo F, Flammole.
 <--------------------->
 
 <p 03><d 042B><a 1F><n 14>

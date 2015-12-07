@@ -44,8 +44,8 @@ mensagem nele também.
 <--------------------->
 
 <p 02><d B736><a 09><n 04>
-A mensagem é para a
-escolhida. Em outras
+A mensagem é para os
+escolhidos. Em outras
 palavras, você.
 <--------------------->
 
@@ -95,15 +95,15 @@ os outros!
 <*********************>
 
 <p 03><d BF36><a 31><n 05>
-Estou aliviada por
+Estou aliviado por
 ouvir isso de você,
 Aile.
 <--------------------->
 
 <p 03><d C036><a 31><n 05>
-Parece que todas
-as senhas foram
-remontadas.
+Enfim, parece que
+todas as senhas
+foram remontadas.
 <*********************>
 
 <p 03><d CA36><a 31><n 05>
@@ -165,7 +165,7 @@ próximo.
 <p 02><d D236><a 32><n 06>
 Abriremos a porta
 quando você estiver
-preparado.
+preparada.
 <*********************>
 
 <p 02><d D336><a 07><n 02>
@@ -181,19 +181,19 @@ senhas.
 <p 02><d D536><a 33><n 07>
 Eu sou o vento que
 sopra pelos céus,
-Ventus Airus.
+"Ventus Airus".
 <*********************>
 
 <p 02><d D636><a 35><n 09>
 Eu sou a água que flui
 em toda terra,
-Guacius Passio.
+"Guacius Passio".
 <*********************>
 
 <p 02><d D736><a 34><n 08>
 Eu sou o fogo que traz
 calor a todas as formas
-de vida, Flamma Wies.
+de vida, "Flamma Wies".
 <*********************>
 
 <p 02><d D836><a 36><n 0A>
@@ -202,7 +202,7 @@ nunca deixa o lado da
 justiça,
 <--------------------->
 
-Umbra Profess.
+"Umbra Profess".
 <*********************>
 
 <p 02><d D936><a 31><n 05>
@@ -211,13 +211,13 @@ ilumina todas as
 possibilidades,
 <--------------------->
 
-Lumine Infinitus...
+"Lumine Infinitus"...
 <*********************>
 
 <p 02><d DA36><a 32><n 06>
 Eu sou a coragem que
 luta por crenças,
-Fortitude Creed...
+"Fortitude Creed"...
 <*********************>
 
 <p 02><d DB36><a 31><n 05>
@@ -457,7 +457,7 @@ Modelo X e Z,
 
 com os dados históricos
 que obtive de heróis
-antigos.
+antepassados.
 <--------------------->
 
 <p 01><p 02><a 04><n 00>
@@ -491,16 +491,16 @@ o Modelo W.
 
 <p 01><p 02><a 04><n 00>
 Como um escolhido, você
-tem o poder de salvar
-ou destruir o mundo.
+tem o poder de salvar o
+mundo, ou destrui-lo.
 <--------------------->
 
 <p 01><p 02><a 04><n 00>
 Apenas espero que você
 use o poder para o bem,
-e que decida guiar
 <--------------------->
 
+e que decida guiar
 as pessoas para um
 futuro de luz.
 <*********************>

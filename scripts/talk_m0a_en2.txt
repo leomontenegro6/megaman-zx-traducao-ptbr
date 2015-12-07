@@ -41,8 +41,8 @@ irmã estava trabalhando
 <--------------------->
 
 enquanto ela ainda
-estava na unidade
-de reconhecimento.
+era da unidade de
+reconhecimento.
 <--------------------->
 
 <p 02><d 1627><a 05><n 02>
@@ -51,7 +51,7 @@ conter o restante dos
 dados desaparecidos
 <--------------------->
 
-naquele outro disco que
+daquele outro que
 encontramos no local da
 chamada de emergência.
 <--------------------->
@@ -69,7 +69,7 @@ Biometal.
 <p 02><d 1827><a 02><n 04>
 Deve haver algo
 importante, armazenado
-naquele disco.
+neste disco.
 <--------------------->
 
 <p 02><d 1927><a 02><n 04>
@@ -101,7 +101,7 @@ tentando fazer.
 <--------------------->
 
 <p 03><d 1C27><a 1E><n 13>
-Deveria respeitar os
+Você devia respeitar os
 mais velhos e escutar
 nossos conselhos.
 <--------------------->
@@ -163,8 +163,8 @@ diçada... nos jovens...
 
 <p 03><d 2527><a 35><n 09>
 Como alguém pôde dar
-meu poder a alguém
-assim?!
+meu poder a um ser
+como este?!
 <--------------------->
 
 <p 03><d 2627><a 35><n 09>
@@ -204,15 +204,15 @@ com o Biometal do
 Modelo W.
 <--------------------->
 
-Outros também ficaram
-ilesos ao entrar em
-contato com o Biometal,
+Não entendo como o
+Serpent foi o único
+afetado,
 <--------------------->
 
 <p 01><p 02><a 04><n 00>
-logo não entendo como
-o Serpent foi o único
-afetado.
+já que outros entraram
+em contato com o Bio-
+metal e saíram ilesos.
 <--------------------->
 
 <p 01><p 02><a 04><n 00>
@@ -239,12 +239,12 @@ suas emoções.
 <*********************>
 
 <p 02><a 04><n 00>
-No entanto, isso ainda
-deixa a dúvida
+No entanto, nós ainda
+não sabemos
 <--------------------->
 
-do que o Modelo W está
-atrás...
+qual é o verdadeiro
+objetivo do Modelo W...
 <--------------------->
 
 <p 02><a 04><n 00>
@@ -266,11 +266,10 @@ dados vazarem.
 <p 02><d 2B27><a 02><n 04>
 Ele certamente sabe
 como o povo deste país
-teria reagido,
+iria reagir,
 <--------------------->
 
-se eles soubessem
-a verdade.
+se soubesse a verdade.
 <--------------------->
 
 <p 02><d 2C27><a 02><n 04>
@@ -280,9 +279,9 @@ relatório da missão.
 <--------------------->
 
 <p 02><d 2D27><a 02><n 04>
-Não podemos deixar que
-a informação contida
-este disco vaze,
+Não podemos deixar a
+informação contida
+neste disco vazar,
 <--------------------->
 
 até que saibamos
@@ -308,8 +307,7 @@ coisa?
 
 <p 02><d 3027><a 02><n 04>
 Aile, você não vai
-se tornar o mesmo que
-ele.
+se tornar igual a ele.
 <--------------------->
 
 Lembre-se da coragem

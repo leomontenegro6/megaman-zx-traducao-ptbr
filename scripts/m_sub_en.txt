@@ -251,7 +251,7 @@ Nenhum em posse
 
 
 Itens utilizáveis
-Botão <btn_a>:OK Botão <btn_b>:Cancelar
+<btn_a>:OK <btn_b>:Cancelar
 <*********************>
 
 
@@ -260,7 +260,7 @@ Não precisa usar isso agora
 
 
 <dpad> <esquerda>/<direita>: Selecionar
-Botão <btn_a>: OK Botão <btn_b>: Cancelar
+<btn_a>: OK <btn_b>: Cancelar
 <*********************>
 
 
@@ -270,17 +270,17 @@ Nenhum em posse
 
 
 Itens equipáveis
-Botão <btn_a>:OK Botão <btn_b>: Cancelar
+<btn_a>:OK <btn_b>: Cancelar
 <*********************>
 
 
 <dpad> <esquerda>/<direita>: Selecionar
-Botão <btn_a>: Equipar
+<btn_a>: Equipar
 <*********************>
 
 
 <dpad> <esquerda>/<direita>: Selecionar
-Botão <btn_a>: Desequipar
+<btn_a>: Desequipar
 <*********************>
 
 
@@ -294,7 +294,7 @@ Itens auto-utilizáveis
 
 
 <dpad> <esquerda>/<direita>: Selecionar
-Botão <btn_b>: Voltar
+<btn_b>: Voltar
 <*********************>
 
 
@@ -351,7 +351,7 @@ vida.
 <*********************>
 
 
-<c 01>E-Tanque
+<c 01>E-Tank
 <c 00>Recupera sua
 vida total-
 mente. A
@@ -361,11 +361,11 @@ antiga.
 <*********************>
 
 
-<c 01>W-Tanque
-<c 00>Recupera toda
-a energia do
-Biometal em
-uso.
+<c 01>W-Tank
+<c 00>Recupera a
+energia de
+todos os
+Biometais.
 <*********************>
 
 
@@ -580,8 +580,9 @@ refrescante.
 <*********************>
 
 
-<c 01>Bicho Pelúcia
-<c 00>É precioso à
+<c 01>Bicho de
+Pelúcia<c 00>
+É precioso à
 Prairie. Serve
 como prova de
 ter passado no
@@ -814,8 +815,9 @@ dos Guardiões.
 <*********************>
 
 
-<c 01>P. Misteriosa
-<c 00>Esta pequena
+<c 01>Pedra
+Misteriosa<c 00>
+Esta pequena
 pedra achada na
 Área N emana
 uma aura
@@ -823,8 +825,9 @@ misteriosa.
 <*********************>
 
 
-<c 01>Chip Comput.
-<c 00>Este chip foi
+<c 01>Chip de
+Computador<c 00>
+Este chip foi
 encontrado em
 meio aos
 restos de um
@@ -833,11 +836,12 @@ Maverick na
 <*********************>
 
 
-<c 01>C. C. Roxo
-<c 00>Obviamente este
-cartão-chave
-abre portas
-roxas.
+<c 01>Cartão-Chave
+Roxo<c 00>
+Se este cartão-
+chave abre
+portas roxas?
+É óbvio, velho!
 <*********************>
 
 
@@ -874,8 +878,9 @@ reconhecimento.
 <*********************>
 
 
-<c 01>C. C. Amarelo
-<c 00>É fácil
+<c 01>Cartão-Chave
+Amarelo<c 00>
+É fácil
 adivinhar que
 isto abre
 portas
@@ -883,30 +888,34 @@ amarelas.
 <*********************>
 
 
-<c 01>C. C. Verde
-<c 00>Supõe-se que
+<c 01>Cartão-Chave
+Verde<c 00>
+Supõe-se que
 isto abre
 portas verdes.
 <*********************>
 
 
-<c 01>C. C. Vermelho
-<c 00>Provavelmente
+<c 01>Cartão-Chave
+Vermelho<c 00>
+Provavelmente
 abre portas
 vermelhas.
 <*********************>
 
 
-<c 01>C. C. Azul
-<c 00>Não é de se
+<c 01>Cartão-Chave
+Azul<c 00>
+Não é de se
 espantar que
 isto abra
 portas azuis.
 <*********************>
 
 
-<c 01>C. C. Branco
-<c 00>Não precisa ser
+<c 01>Cartão-Chave
+Branco<c 00>
+Não precisa ser
 gênio para adi-
 vinhar que isto
 abre portas

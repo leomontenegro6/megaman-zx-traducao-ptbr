@@ -90,7 +90,7 @@ reviver o Modelo W.
 <--------------------->
 
 <p 02><d 3423><a 1C><n 11>
-Sou o Pseudoróide do
+Sou a Pseudoróide do
 Modelo H, Hurricaune!
 <--------------------->
 
@@ -153,9 +153,9 @@ paciente.
 <*********************>
 
 <p 02><d 3C23><a 02><n 04>
-As pesoas estão naquela
-sala. Você tem que
-salvá-las.
+As pessoas estão
+naquela sala. Você
+tem que salvá-las.
 <*********************>
 
 <p 03><d 3D23><a 46><n 41>

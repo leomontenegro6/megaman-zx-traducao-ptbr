@@ -4,17 +4,18 @@
 <p 02><a 43><n 3E>
 Eu estava caminhando
 por uma passagem na
-montanha, quando uma
+montanha,
 <--------------------->
 
-máquina saltitante
-pulou e me assustou.
+quando uma máquina
+saltitante pulou e me
+assustou.
 <--------------------->
 
 <p 02><a 43><n 3E>
-Fiquei tão assustado,
+Fiquei tão assustada,
 que perdi a minha
-pochette...
+pochete...
 <--------------------->
 
 <p 02><a 43><n 3E>
@@ -24,18 +25,18 @@ para mim.
 <--------------------->
 
 <p 02><a 43><n 3E>
-Por favor... Você deve
-encontrá-la...
+Por favor... Você tem
+que achá-la...
 <*********************>
 
 <p 02><a 43><n 3E>
 Se eu perder aquela
-pochette, mamãe vai
+pochete, mamãe vai
 ficar muito brava.
 <*********************>
 
 <p 02><a 02><n 55>
-Encontrar a pochette
+Encontrar a pochete
 perdida na passagem na
 montanha na Área B.
 <*********************>
@@ -46,12 +47,12 @@ montanha na Área B.
 <*********************>
 
 <p 02><a 43><n 3E>
-Bem? Você já encontrou
-a pochette?
+E então? Já achou
+a pochete?
 <--------------------->
 
 <p 02><a 43><n 3E>
-Oh! Eu quase esqueci!
+Ah! Eu quase esqueci!
 <--------------------->
 
 <p 02><a 43><n 3E>
@@ -65,14 +66,14 @@ alto.
 <*********************>
 
 <p 02><a 43><n 3E>
-Minha pochette!!!
-Muito obrigado!
+Minha pochete!!!
+Muito obrigada!
 <*********************>
 
 <p 02><a 43><n 3E>
 Vou te enviar uma
-coisinha. Apenas não
-conte para mamãe...
+coisinha. Só não conta
+pra mamãe, tá?
 <--------------------->
 
 <p 02><a 43><n 3E>

@@ -92,7 +92,7 @@ cabeça por anos.
 
 <p 02><d A43A><a 07><n 02>
 Não sou nada parecido
-com você!
+com vocês!
 <--------------------->
 
 <p 03><d A53A><a 19><n 0E>
@@ -129,8 +129,8 @@ com o passar do tempo.
 
 <p 02><d A93A><a 07><n 02>
 Então você estiveram
-usando Serpent por todo
-esse tempo!
+usando Serpent esse
+tempo todo!
 <--------------------->
 
 <p 03><d AA3A><a 19><n 0E>
@@ -146,8 +146,8 @@ Modelo ZX!
 <*********************>
 
 <p 02><d AC3A><a 07><n 02>
-O que vocês estão
-tentando realizar?!
+Qual é o verdadeiro
+objetivo de vocês?!
 <--------------------->
 
 E por que eu tenho que

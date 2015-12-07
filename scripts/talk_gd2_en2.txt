@@ -279,12 +279,12 @@ você.
 
 <p 02><a 24><n 29>
 Afinal, você foi esco-
-lhido pelo Modelo X,
+lhida pelo Modelo X,
 certo?
 <*********************>
 
 <p 02><a 24><n 29>
-Está preparado para o
+Está preparada para o
 duro caminho a frente?
 <--------------------->
 
@@ -578,7 +578,7 @@ Excelente trabalho,
 <--------------------->
 
 <p 02><a 24><n 2A>
-Você é o único que sabe
+Você é a única que sabe
 bem como usar o poder
 <--------------------->
 
@@ -677,7 +677,8 @@ mãos.
 <--------------------->
 
 Estamos pondo nossa fé
-em você e o Biometal.
+em você e os
+Biometais.
 <--------------------->
 
 <p 02><a 09><n 04>
@@ -931,7 +932,7 @@ antes.
 
 <p 02><a 2E><n 22>
 Você parece tão
-crescido agora, <nome>.
+crescida agora, <nome>.
 <--------------------->
 
 <p 02><a 2E><n 22>

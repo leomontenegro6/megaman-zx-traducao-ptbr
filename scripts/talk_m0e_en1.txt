@@ -248,19 +248,19 @@ senhas.
 <p 02><d D536><a 33><n 07>
 Eu sou o vento que
 sopra pelos céus,
-Ventus Airus.
+"Ventus Airus".
 <*********************>
 
 <p 02><d D636><a 35><n 09>
 Eu sou a água que flui
 em toda terra,
-Guacius Passio.
+"Guacius Passio".
 <*********************>
 
 <p 02><d D736><a 34><n 08>
 Eu sou o fogo que traz
 calor a todas as formas
-de vida, Flamma Wies.
+de vida, "Flamma Wies".
 <*********************>
 
 <p 02><d D836><a 36><n 0A>
@@ -269,7 +269,7 @@ nunca deixa o lado da
 justiça,
 <--------------------->
 
-Umbra Profess.
+"Umbra Profess".
 <*********************>
 
 <p 02><d D936><a 31><n 05>
@@ -278,13 +278,13 @@ ilumina todas as
 possibilidades,
 <--------------------->
 
-Lumine Infinitus...
+"Lumine Infinitus"...
 <*********************>
 
 <p 02><d DA36><a 32><n 06>
 Eu sou a coragem que
 luta por crenças,
-Fortitude Creed...
+"Fortitude Creed"...
 <*********************>
 
 <p 02><d DB36><a 31><n 05>

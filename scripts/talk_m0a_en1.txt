@@ -41,8 +41,8 @@ irmã estava trabalhando
 <--------------------->
 
 enquanto ela ainda
-estava na unidade
-de reconhecimento.
+era da unidade de
+reconhecimento.
 <--------------------->
 
 <p 02><d 1627><a 05><n 01>
@@ -69,7 +69,7 @@ Biometal.
 <p 02><d 1827><a 02><n 04>
 Deve haver algo
 importante, armazenado
-naquele disco.
+neste disco.
 <--------------------->
 
 <p 02><d 1927><a 02><n 04>
@@ -101,7 +101,7 @@ tentando fazer.
 <--------------------->
 
 <p 03><d 1C27><a 1E><n 13>
-Deveria respeitar os
+Você devia respeitar os
 mais velhos e escutar
 nossos conselhos.
 <--------------------->
@@ -164,8 +164,8 @@ diçada... nos jovens...
 
 <p 03><d 2527><a 35><n 09>
 Como alguém pôde dar
-meu poder a alguém
-assim?!
+meu poder a um ser
+como este?!
 <--------------------->
 
 <p 03><d 2627><a 35><n 09>
@@ -267,11 +267,10 @@ dados vazarem.
 <p 02><d 2B27><a 02><n 04>
 Ele certamente sabe
 como o povo deste país
-teria reagido,
+iria reagir,
 <--------------------->
 
-se eles soubessem
-a verdade.
+se soubesse a verdade.
 <--------------------->
 
 <p 02><d 2C27><a 02><n 04>
@@ -281,9 +280,9 @@ relatório da missão.
 <--------------------->
 
 <p 02><d 2D27><a 02><n 04>
-Não podemos deixar que
-a informação contida
-este disco vaze,
+Não podemos deixar a
+informação contida
+neste disco vazar,
 <--------------------->
 
 até que saibamos

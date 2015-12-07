@@ -389,7 +389,7 @@ Volte à forma humana
 <p 01><a 02><n 55>
 Escolha a missão.
 <dpad>: Selecionar
-Botão <btn_a>: Confirmar
+<btn_a>: Confirmar
 <*********************>
 
 <p 01><e 01><a 02><n 55>
@@ -417,7 +417,7 @@ no processo.
 
 <p 02><a 23><n 2C>
 Cuidado, pois se a lava
-encostar, você morrerá.
+encostar, você já era.
 <*********************>
 
 <p 02><a 23><n 2C>
@@ -570,11 +570,11 @@ Ganhou um <c 03>Bolo<c 00>!
 <*********************>
 
 
-Ganhou um <c 03>E-Tanque<c 00>!
+Ganhou um <c 03>E-Tank<c 00>!
 <*********************>
 
 
-Ganhou um <c 03>A-Tanque<c 00>!
+Ganhou um <c 03>W-Tank<c 00>!
 <*********************>
 
 
@@ -658,7 +658,7 @@ Encontrou uma <c 03>Pochete<c 00>!
 <*********************>
 
 
-Encontrou uma <c 03>Pérola Fria<c 00>!
+Encontrou uma <c 03>Pérola Congelada<c 00>!
 <*********************>
 
 
@@ -678,7 +678,7 @@ Encontrou um <c 03>Kit de Socorros<c 00>!
 <*********************>
 
 
-Encontrou um <c 03>Pacote de Energia<c 00>!
+Encontrou uma <c 03>Bateria<c 00>!
 <*********************>
 
 
@@ -754,7 +754,7 @@ Entregou a <c 03>Pochete
 <*********************>
 
 
-Entregou a <c 03>Pérola Fria
+Entregou a <c 03>Pérola Congelada
 <*********************>
 
 
@@ -774,7 +774,7 @@ Entregou o <c 03>Kit de Socorros
 <*********************>
 
 
-Entregou o <c 03>Pacote de Energia
+Entregou a <c 03>Bateria
 <*********************>
 
 

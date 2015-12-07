@@ -839,7 +839,7 @@ jogador de futebol.
 
 <p 02><a 52><n 4D>
 Já era de se esperar...
-Ele nunca pára de falar
+Ele nunca para de falar
 de seus dias de glória.
 <*********************>
 
@@ -1162,7 +1162,7 @@ Innerpeace.
 <p 02><a 4B><n 46>
 Eu costumava ir lá com
 minha família para ver
-a Aurora. Bons tempos.
+a aurora. Bons tempos.
 <*********************>
 
 <p 02><a 4B><n 46>

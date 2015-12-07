@@ -3,12 +3,12 @@
 
 
 <dpad> <esquerda>/<direita>: Selecionar
-Botão <btn_a>: OK Botão <btn_b>: Cancelar
+<btn_a>: OK <btn_b>: Cancelar
 <*********************>
 
 
 <dpad> <cima>/<baixo>: Selecionar
-Botão <btn_a>: OK Botao <btn_b>: Cancelar
+<btn_a>: OK <btn_b>: Cancelar
 <*********************>
 
 

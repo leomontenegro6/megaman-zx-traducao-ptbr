@@ -218,7 +218,7 @@ pode fazer?
 <--------------------->
 
 <p 01><p 03><d A13E><a 1A><n 0F>
-Sua monstrinha! Você
+Sua fracote! Você
 não luta nada!
 <*********************>
 
@@ -242,7 +242,7 @@ alma está em chamas!
 
 <p 03><d A53E><a 21><n 16>
 Beleza, garotinha!
-Me mostra sua garra!
+Me mostre sua garra!
 <*********************>
 
 <p 03><d A63E><a 21><n 16>
@@ -260,7 +260,7 @@ Mesmo em espírito,
 continuarei a lutar!
 <--------------------->
 
-Hei de me tornar um,
+Hei-de me tornar um,
 com o Modelo W!
 <--------------------->
 
@@ -338,15 +338,15 @@ tudo.
 <*********************>
 
 <p 03><d B23E><a 1C><n 11>
-Argh! Continuarei a
-viver como um só, junto
-do Modelo W...
+Argh! Continuarei
+a viver junto do
+Modelo W...
 <--------------------->
 
 <p 03><d B33E><a 1C><n 11>
 Não importa quanto
-tempo levar, vou
-derrotá-lo!
+tempo levar, você será
+derrotada no final!
 <*********************>
 
 <p 03><d B43E><a 1E><n 13>
@@ -375,15 +375,14 @@ A juventude estava
 contra você...
 <--------------------->
 
-É preciso de anos de
-maturidade, para ser um
-verdadeiro Mega Man!
+Para ser um verdadeiro
+Mega Man, é preciso ter
+anos de maturidade!
 <*********************>
 
 <p 03><d B73E><a 1E><n 13>
-Se ao menos você se
-tornasse um com o
-Modelo W,
+Se ao menos tornasse-se
+um com o Modelo W,
 <--------------------->
 
 você também entenderia
@@ -391,8 +390,9 @@ a verdade.
 <--------------------->
 
 <p 03><d B83E><a 1E><n 13>
-Devemos evoluir... com
-um novo mundo.
+Com o advento de
+um novo mundo... Nós
+também devemos evoluir.
 <*********************>
 
 <p 03><d B93E><a 1F><n 14>
@@ -400,8 +400,7 @@ Rá, rá! Devia me
 agradecer.
 <--------------------->
 
-Tive todo o trabalho de
-cavar sua cova!
+Já cavei até sua cova!
 <--------------------->
 
 <p 03><d BA3E><a 1F><n 14>
@@ -411,15 +410,15 @@ enterrar!
 
 <p 03><d BB3E><a 1F><n 14>
 Hmm! Vai dar um
-trabalhando
+trabalhão
 <--------------------->
 
-juntar teus pedaços
+juntar seus pedaços
 de novo...
 <--------------------->
 
 <p 03><d BC3E><a 1F><n 14>
-Acho que, pra você,
+Acho que, para você,
 não vai ter enterro!
 <*********************>
 
@@ -431,8 +430,8 @@ tremendo o chão...
 
 <p 03><d BE3E><a 1F><n 14>
 Quando o Modelo W
-te pegar, você vai
-bater as botas!
+acabar com você, não
+diga que não avisei!
 <*********************>
 
 <p 03><d BF3E><a 20><n 15>
@@ -462,8 +461,8 @@ novo mundo!
 <*********************>
 
 <p 03><d C23E><a 20><n 15>
-Mestre Serpent... Ele
-deixará uma enorme
+Mestre Serpent...
+Deixará uma enorme
 marca na história!
 <--------------------->
 
@@ -515,7 +514,7 @@ pero deste país é seu!
 
 <p 03><d CA3E><a 14><n 0C>
 Juntando-se a nós,
-os fracos são liber-
+os fracos serão liber-
 tados do sofrimento!
 <--------------------->
 
@@ -545,7 +544,7 @@ garotinha preciosa.
 <--------------------->
 
 Está na hora de você
-cair na real.
+conhecer a verdade.
 <--------------------->
 
 <p 03><d CF3E><a 14><n 0C>
@@ -603,8 +602,8 @@ mesmo que você quer?!
 
 <p 03><d D43E><a 14><n 0C>
 Acha que estou fazendo
-tudo isso por causa do
-medo? Absurdo!
+tudo isso por medo?
+Absurdo!
 <--------------------->
 
 <p 03><d D63E><a 14><n 0C>
@@ -669,7 +668,7 @@ Pandora disseram. Você
 
 <p 03><d DE3E><a 15><n 0C>
 Agora mesmo, você está
-sendo controlado por
+sendo controlada por
 um forte sentimento...
 <*********************>
 
@@ -794,7 +793,7 @@ coração!
 <*********************>
 
 <p 02><d F13E><a 07><n 02>
-Estão certos. Eu fiz
+É verdade. Eu fiz
 uma promessa a você
 naquele dia!
 <--------------------->
@@ -887,7 +886,7 @@ ser!
 <p 02><d 053F><a 31><n 05>
 Aile! Tudo está
 desmoronando! Você tem
-que sair daí!
+que sair daqui!
 <*********************>
 
 <p 02><d 063F><a 08><n 02>
@@ -1000,7 +999,7 @@ Os Guardiões...
 <p 01><p 02><d 163F><a 05><n 02>
 O sacrifício de todos
 me deu algo a mais,
-além deste moder.
+além deste poder.
 <--------------------->
 
 Me deu a vontade
