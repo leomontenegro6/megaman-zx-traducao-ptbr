@@ -72,8 +72,8 @@ down below.
 <*********************>
 
 <e 01><a 02><n 55>
-  Yes
-  No
+  Sim
+  Não
 <*********************>
 
 <p 02><a 4F><n 4A>
@@ -125,9 +125,9 @@ Pedido concluído.
 <--------------------->
 
 <p 02><a 02><n 55>
-200 EC have been
-transferred to your
-account.
+Foram transferidos
+200 CE para a sua
+conta.
 <*********************>
 
 <p 02><a 4F><n 4A>

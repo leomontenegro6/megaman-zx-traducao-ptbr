@@ -188,39 +188,40 @@ vou fazer bonito!
 <*********************>
 
 <p 02><a 47><n 42>
-Yeah, I'd prolly
-just drone on about
-it anyway.
+É, talvez o anel vá
+ficar cafona, no fim
+das contas.
 <--------------------->
 
 <p 02><a 47><n 42>
-I just can't help
-myself sometimes.
+Mas às vezes não
+consigo evitar.
 <*********************>
 
 <p 02><a 4C><n 47>
-Once he gets excited,
-he forgets about the
-world around him.
+Quando ele se empolga,
+esquece o mundo à sua
+volta.
 <--------------------->
 
 <p 02><a 4C><n 47>
-But I can't help loving
-the oaf.
+Mas não consigo deixar
+de amar esse tonto.
 <--------------------->
 
 <p 02><a 4C><n 47>
-Love sometimes doesn't
-make sense...
+O amor às vezes não
+faz sentido...
 <--------------------->
 
 <p 02><a 4C><n 47>
-Do you have a special
-someone?
+Você tem alguém
+especial na sua vida?
 <--------------------->
 
-Someone that means more
-to you than anything?
+Alguém que signifique
+mais para você, do que
+qualquer coisa?
 <*********************>
 
 <FIM>

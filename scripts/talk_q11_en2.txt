@@ -2,99 +2,99 @@
 <#####################>
 
 <p 02><a 2F><n 23>
-Oh, it's you Aile!
+Ah, é você, Aile!
 <--------------------->
 
 <p 02><a 2F><n 23>
-I have something I want
-to ask you.
+Tem algo que quero lhe
+pedir.
 <--------------------->
 
 <p 02><a 2F><n 23>
-I'm trying to put
-something together,
+Estou tentando remontar
+algo aqui,
 <--------------------->
 
 <p 02><a 2F><n 23>
-but I'm missing a key
-component.
+mas está faltando um
+componente chave.
 <--------------------->
 
 <p 02><a 2F><n 23>
-That piece is sealed
-away inside of a rock
-found in Area K-1.
+Este componente está
+selado em uma rocha
+encontrada na Área K-1.
 <--------------------->
 
 <p 02><a 2F><n 23>
-Unfortunately, I can't
-go and get it.
+Infelizmente, não dá
+pra eu ir lá pegar.
 <--------------------->
 
 <p 02><a 2F><n 23>
-Would you be willing to
-find it and bring it
-back for me?
+Poderia encontrar esta
+rocha e trazê-la para
+mim?
 <*********************>
 
 <p 02><a 2F><n 23>
-If only I was young
-like you, I could get
-that rock myself.
+Se eu fosse jovem como
+você, já teria pego a
+rocha eu mesmo.
 <*********************>
 
 <p 02><a 02><n 55>
-Find the special rock
-in Area K-1 and
-deliver it to Silure.
+Encontre a rocha
+especial na Área K-1 e
+entregue-a a Silure.
 <*********************>
 
 <e 01><a 02><n 55>
-  Yes
-  No
+  Sim
+  Não
 <*********************>
 
 <p 02><a 2F><n 23>
-Did you find the rock
-already?
+Já achou a rocha?
 <--------------------->
 
 <p 02><a 2F><n 23>
-I'm sorry to make such
-a difficult request.
+Desculpe fazer um
+pedido tão difícil.
 <--------------------->
 
 <p 02><a 2F><n 23>
-But if you search
-carefully in Area K-1, 
+Mas se procurar com
+atenção na Área K-1,
 <--------------------->
 
-you should find it
-lying around somewhere.
+deve encontrar a rocha
+em algum lugar.
 <*********************>
 
 <p 02><a 2F><n 23>
-This is it! Thank you!
+É isso mesmo! Obrigado!
 <--------------------->
 
 <p 02><a 2F><n 23>
-Now that I have the
-final piece, I can make
-something good.
+Agora que tenho a
+última parte, posso
+fazer algo bom.
 <--------------------->
 
 <p 02><a 2F><n 23>
-You'll see what it is
-soon enough.
+Você verá isso bem
+em breve.
 <*********************>
 
 <p 02><a 2F><n 23>
-I'll send you a little
-something to compensate
+Enviei a você uma
+recompensa para
+compensá-lo.
 <--------------------->
 
-you for your trouble to
-the transerver.
+Está lá no
+transervidor.
 <*********************>
 
 <p 02><a 02><n 55>
@@ -102,9 +102,9 @@ Pedido concluído.
 <--------------------->
 
 <p 02><a 02><n 55>
-200 EC have been
-transferred to your
-account.
+Foram transferidos
+200 CE para a sua
+conta.
 <*********************>
 
 <FIM>
