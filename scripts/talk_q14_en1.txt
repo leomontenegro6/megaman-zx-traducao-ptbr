@@ -2,73 +2,74 @@
 <#####################>
 
 <p 02><a 4F><n 4A>
-*sigh* What am I going
-to do about my boy...
+Tch. O que eu faço com
+meu filho...
 <--------------------->
 
 <p 02><a 4F><n 4A>
-He never puts his toys
-away after playing with
-them,
+Ele nunca arruma seus
+brinquedos depois de
+brincar,
 <--------------------->
 
 <p 02><a 4F><n 4A>
-and he never listens
-to a word I say.
+e nunca escuta a uma
+palavra do que eu digo.
 <--------------------->
 
 <p 02><a 4F><n 4A>
-Hey, you.
+Ei, você.
 <--------------------->
 
 <p 02><a 4F><n 4A>
-I'm not sure if you're
-the right person to ask
-about this...
+Não sei se você é a
+pessoa certa para eu
+pedir isso...
 <--------------------->
 
 <p 02><a 4F><n 4A>
-But could you clean my
-place up for me?
+Mas você poderia
+organizar minha casa
+pra mim?
 <--------------------->
 
 <p 02><a 4F><n 4A>
-If you could provide an
-example of someone
-cleaning,
+Se você servir de
+exemplo ao organizar
+os brinquedos,
 <--------------------->
 
 <p 02><a 4F><n 4A>
-my boy might get the
-hint.
+meu filho talvez
+aprenda com você.
 <*********************>
 
 <p 02><a 4F><n 4A>
-I'm frankly embarrassed
-to make such a silly
-request,
+Francamente, estou
+embarassada por esse
+pedido tão bobo,
 <--------------------->
 
 <p 02><a 4F><n 4A>
-but I'll upload it to
-the transerver. I hope
-you'll consider it.
+mas cadastrei o pedido
+nos transervidores. Se
+tiver tempo, me ajude.
 <--------------------->
 
 <p 02><a 4F><n 4A>
-It'd be great if you
-could at least make
-sure the balls lying
+Seria ótimo se você
+pudesse ao menos pegar
+todas as bolas no chão,
 <--------------------->
 
-around are all placed
-in the room down below.
+e colocasse-as todas
+no quarto de baixo.
 <*********************>
 
 <p 02><a 02><n 55>
-Clean up the balls by
-moving them to the room
-down below.
+Organize as bolas
+movendo-as até o
+quarto de baixo.
 <*********************>
 
 <e 01><a 02><n 55>
@@ -77,47 +78,47 @@ down below.
 <*********************>
 
 <p 02><a 4F><n 4A>
-Did you put away all of
-the balls already?
+Já organizou todas as
+bolas?
 <--------------------->
 
 <p 02><a 4F><n 4A>
-I'll compensate you for
-the help,
+Vou recompensá-lo pela
+ajuda,
 <--------------------->
 
-so please try to get
-them all put away.
+então organize-as da
+melhor forma que puder.
 <--------------------->
 
 <p 02><a 4F><n 4A>
-I hurt my back
-yesterday and I just
+Machuquei minhas costas
+ontem
 <--------------------->
 
-can't do it without
-your help.
+e não consigo fazer
+isso sem sua ajuda.
 <*********************>
 
 <p 02><a 4F><n 4A>
-Oh wow! You put away
-all the balls!
+Uau! Você organizou
+todas as bolas!
 <--------------------->
 
 <p 02><a 4F><n 4A>
-Giro Express really can
-take anything,
-anywhere.
+A Girouette Expresso
+realmente leva qualquer
+coisa a qualquer lugar.
 <--------------------->
 
 <p 02><a 4F><n 4A>
-Thank you!
+Obrigada!
 <--------------------->
 
 <p 02><a 4F><n 4A>
-I sent along a little
-token of my gratitude
-to the transerver.
+Como sinal de gratidão,
+enviei a você o paga-
+mento no transervidor.
 <*********************>
 
 <p 02><a 02><n 55>
@@ -131,17 +132,18 @@ conta.
 <*********************>
 
 <p 02><a 4F><n 4A>
-My boy is all about
-cleaning his room now,
+Meu filho agora não
+deixa de arrumar seu
+quarto agora,
 <--------------------->
 
-thanks to your fine
-example.
+tudo graças a seu
+exemplo.
 <--------------------->
 
 <p 02><a 4F><n 4A>
-It feels great to have
-a clean house again!
+Como é bom ter uma casa
+limpa de novo!
 <*********************>
 
 <FIM>

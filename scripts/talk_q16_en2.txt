@@ -6,62 +6,62 @@ Uhm... Aile?
 <--------------------->
 
 <p 02><a 2E><n 22>
-I have something I need
-to ask you.
+Tenho algo a lhe pedir.
 <--------------------->
 
 <p 02><a 2E><n 22>
-Old Muguet is looking
-really tired lately.
+A Sra. Muguet parece
+estar bem cansada
+ultimamente.
 <--------------------->
 
 <p 02><a 2E><n 22>
-Could you find
-something to pick her
-spirits up?
+Você poderia achar algo
+para animá-la?
 <--------------------->
 
 <p 02><a 2E><n 22>
-Please, help an old
-woman out.
+Por favor, ajude esta
+velha senhora.
 <*********************>
 
 <p 02><a 2E><n 22>
-Muguet is treating all
-of the wounded here by
-herself.
+Muguet está tratando
+todos os enfermos aqui
+sozinha.
 <--------------------->
 
 <p 02><a 2E><n 22>
-And they just keep
-coming.
+E eles não param de
+chegar.
 <--------------------->
 
 <p 02><a 2E><n 22>
-I don't have enough
-training to be of much
-help to her.
+Não tenho treinamento
+o suiciente para
+ajudá-la.
 <--------------------->
 
 <p 02><a 2E><n 22>
-But I do what I can.
+Mas faço o que posso.
 <--------------------->
 
 <p 02><a 2E><n 22>
-I want to at least do
-something to ease her
-burden.
+Quero ao menos fazer
+algo para aliviar o
+peso que ela carrega.
 <--------------------->
 
 <p 02><a 2E><n 22>
-That's why I want to
-find something to give
-her a boost!
+É por isso que quero
+achar algo para reaver
+seu ânimo!
 <*********************>
 
 <p 02><a 02><n 55>
-Find the requested item
-in an Area L container.
+Encontre o item
+solicitado em um
+contêiner da Área L.
 <*********************>
 
 <e 01><a 02><n 55>
@@ -70,39 +70,40 @@ in an Area L container.
 <*********************>
 
 <p 02><a 2E><n 22>
-Did you find it yet?
+Já achou o item?
 <--------------------->
 
 <p 02><a 2E><n 22>
-I can't find anything
-either...
+Também não consigo
+achar nada...
 <--------------------->
 
 <p 02><a 2E><n 22>
-I know you're busy, but
-please look for it if
-you have time.
+Sei que está ocupado,
+mas por favor procure
+o item, se tiver tempo.
 <*********************>
 
 <p 02><a 2E><n 22>
-That's it! I'm sure
-this will perk her up
-when she uses it.
+É isso! Com certeza
+isto vai animá-la
+ao usar.
 <--------------------->
 
 <p 02><a 2E><n 22>
-Thanks for all of the
-help!
+Obrigado por toda a
+ajuda!
 <*********************>
 
 <p 02><a 2E><n 22>
-I sent a little thank
-you to the transerver.
+Enviei um presente a
+você como gratidão, nos
+transervidores.
 <--------------------->
 
 <p 02><a 2E><n 22>
-Don't forget to pick
-it up!
+Não esqueça de ir lá
+buscar!
 <*********************>
 
 <p 02><a 02><n 55>
@@ -110,9 +111,9 @@ Pedido concluído.
 <--------------------->
 
 <p 02><a 02><n 55>
-150 EC have been
-transferred to your
-account.
+Foram transferidos
+150 CE para a sua
+conta.
 <*********************>
 
 <p 02><a 2E><n 22>
@@ -120,31 +121,32 @@ H-hello Aile.
 <--------------------->
 
 <p 02><a 2E><n 22>
-Remember the energy
-pack you brought me
-before?
+Lembra-se da bateria
+que você me trouxe
+antes?
 <--------------------->
 
 <p 02><a 2E><n 22>
-I modified it a bit and
-gave it to Muguet.
+Modifiquei-a um pouco
+e entreguei à Muguet.
 <--------------------->
 
 <p 02><a 2E><n 22>
-She was so happy that
-she used it right away.
+Ela ficou tão feliz
+que nem esperou para
+usá-la.
 <--------------------->
 
 <p 02><a 2E><n 22>
-I'm usually not very
-useful to poor old
-Muguet.
+Geralmente não sou
+muito útil à
+Sra. Muguet.
 <--------------------->
 
 <p 02><a 2E><n 22>
-But this time it feels
-like I finally made a
-difference.
+Mas desta vez, sinto
+que finalmente fiz a
+diferença.
 <--------------------->
 
 <p 02><a 2E><n 22>

@@ -99,9 +99,9 @@ Pedido concluído.
 <--------------------->
 
 <p 02><a 02><n 55>
-150 EC have been
-transferred to your
-account.
+Foram transferidos
+150 CE para a sua
+conta.
 <*********************>
 
 <FIM>
