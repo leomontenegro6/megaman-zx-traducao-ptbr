@@ -2,57 +2,57 @@
 <#####################>
 
 <p 02><a 2F><n 23>
-Oh, it's you again
+Ah, é você de novo,
 Aile!
 <--------------------->
 
 <p 02><a 2F><n 23>
-Remember the rock you
-brought me earlier?
+Lembra-se da rocha que
+me trouxe antes?
 <--------------------->
 
-Well, it's too hard for
-me to break open.
-<--------------------->
-
-<p 02><a 2F><n 23>
-I can't make what I
-want if I can't get at
-the material inside.
+Bem, é dura demais para
+abrir.
 <--------------------->
 
 <p 02><a 2F><n 23>
-Could you take it and
-smash it open using the
-crusher in Area E?
+Não dá pra eu terminar
+o projeto se obter o
+material dentro.
 <--------------------->
 
 <p 02><a 2F><n 23>
-I sent Oeillet, another
-Guardian, to Area E.
-She should be waiting
+Poderia levá-la até a
+Área E, e esmagá-la com
+um compactador?
 <--------------------->
 
-there for you, so just
-pass her the rock and
-she'll do the rest.
+<p 02><a 2F><n 23>
+Enviei Oeillet, outra
+Guardiã, à Área E. Ela
+estará lhe aguardando,
+<--------------------->
+
+então basta entregá-la
+a rocha, e ela fará o
+resto.
 <*********************>
 
 <p 02><a 2F><n 23>
-Oeillet should be
-waiting for you at the
-crusher...
+Oeillet deve estar
+lhe esperando no
+compactador...
 <--------------------->
 
 <p 02><a 2F><n 23>
-If you give the rock to
-her, she should be able
-to handle the rest.
+Entregue-lhe a rocha, e
+ela faz o resto do
+serviço.
 <*********************>
 
 <p 02><a 02><n 55>
-Break open the rock and
-return the material to
+Quebre a rocha e traga
+o material interior a
 Silure.
 <*********************>
 
@@ -62,52 +62,52 @@ Silure.
 <*********************>
 
 <p 02><a 2F><n 23>
-Just don't damage the
-power supply at the
-plant.
+Cuidado para não dani-
+ficar o suprimento de
+energia da usina.
 <--------------------->
 
 <p 02><a 2F><n 23>
-The conveyor belt and
-crusher need power to
-run properly.
+A correia e o compac-
+tador precisam de ener-
+gia, para funcionar.
 <*********************>
 
 <p 02><a 24><n 28>
-I've heard the details
-from Silure.
+Ouvi os detalhes do
+Silure.
 <--------------------->
 
 <p 02><a 24><n 28>
-Leave it to me!
+Deixa comigo!
 <*********************>
 
 <p 02><a 24><n 28>
-With the conveyor belt
-stopped, we can't crush
-that rock!
+Com a correia parada,
+não dá pra esmagar essa
+rocha!
 <--------------------->
 
 <p 02><a 24><n 28>
-You'll have to leave
-Area E and wait for the
-power to come back on.
+Vai ter que deixar a
+Área E e esperar a
+energia voltar.
 <*********************>
 
 <p 02><a 2F><n 23>
-This is it! Now I can
-finally finish my
-masterpiece!
+É isso! Agora posso
+terminar minha
+obra-prima!
 <*********************>
 
 <p 02><a 2F><n 23>
-I'll send it to you at
-the transerver.
+Enviarei-o a você pelo
+transervidor.
 <--------------------->
 
 <p 02><a 2F><n 23>
-I'm sure you'll like
-it!
+Com certeza você vai
+gostar!
 <*********************>
 
 <p 02><a 02><n 55>
@@ -115,29 +115,29 @@ Pedido concluído.
 <--------------------->
 
 <p 02><a 02><n 55>
-300 EC and an item have
-been transferred to
-your account.
+Foram transferidos
+300 CE e um item para
+a sua conta.
 <*********************>
 
 <p 02><a 2F><n 23>
-Did you like what I
-made for you?
+Gostou do que fiz para
+você?
 <--------------------->
 
 <p 02><a 2F><n 23>
-I'll be happy just
-knowing it's doing some
-good.
+Fico feliz só de saber
+que você está fazendo
+bom uso dele.
 <*********************>
 
 <p 02><a 24><n 28>
-Once you get the
-material that was in
-the rock,
+Quando conseguir o
+material dentro da
+rocha,
 <--------------------->
 
-take it to Silure!
+leve-o a Silure!
 <*********************>
 
 <FIM>
