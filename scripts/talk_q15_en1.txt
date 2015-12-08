@@ -2,59 +2,58 @@
 <#####################>
 
 <p 02><a 2D><n 21>
-I've been so busy
-taking care of the
-injured that I
+Estive tão ocupada
+cuidando dos feridos,
 <--------------------->
 
 <p 02><a 2D><n 21>
-haven't had a free
-moment to go and get
-more medical supplies.
+que não tive tempo
+livre pra obter mais
+suprimentos médicos.
 <--------------------->
 
 <p 02><a 2D><n 21>
-Hey! You're a
-transporter. Perfect!
+Ei! Você é da
+transportadora.
+Perfeito!
 <--------------------->
 
 <p 02><a 2D><n 21>
-I know you're busy, but
-could you find medical
-supplies for me?
+Sei que está ocupado,
+mas poderia encontrar
+suprimentos médicos?
 <--------------------->
 
 <p 02><a 2D><n 21>
-Please bring back
-anything that might be
-useful.
+Traga qualquer coisa
+que possa ser útil.
 <--------------------->
 
 <p 02><a 2D><n 21>
-Lives are depending on
-it. I need your help.
+Vidas dependem disso.
+Preciso de sua ajuda.
 <*********************>
 
 <p 02><a 2D><n 21>
-Bring back anything
-that might work as a
-first aid kit.
+Traga qualquer coisa
+que possa servir como
+kit de socorros.
 <--------------------->
 
 <p 02><a 2D><n 21>
-Area L is infamous for
-being a Maverick
-stockpile.
+A Área L é conhecida
+como um armazém de
+Mavericks.
 <--------------------->
 
-You might find
-something there.
+Talvez encontre algo
+por lá.
 <*********************>
 
 <p 02><a 02><n 55>
-Bring back an aid kit
-from an enemy supply
-container.
+Traga um kit de
+socorros, de um dos
+contâineres na Área L.
 <*********************>
 
 <e 01><a 02><n 55>
@@ -63,35 +62,35 @@ container.
 <*********************>
 
 <p 02><a 2D><n 21>
-You haven't located the
-medical supplies yet?
+Ainda não achou os
+suprimentos médicos?
 <--------------------->
 
 <p 02><a 2D><n 21>
-I'll do what I can to
-treat the wounded,
+Farei o que puder para
+tratar os feridos,
 <--------------------->
 
-but I'll need supplies
-soon!
+mas precisarei de
+suprimentos em breve!
 <*********************>
 
 <p 02><a 2D><n 21>
-Thank the stars! You've
-brought back aid.
-This will do nicely.
+Graças aos céus! Você
+trouxe ajuda. Isto vai
+servir.
 <--------------------->
 
 <p 02><a 2D><n 21>
-Now I can finally give
-them the treatment they
-require.
+Agora finalmente posso
+fornecê-los o trata-
+mento que precisam.
 <*********************>
 
 <p 02><a 2D><n 21>
-If I start to run low
-again, I'll let you
-know.
+Quando os suprimentos
+ficarem perto de acabar
+de novo, eu te aviso.
 <*********************>
 
 <p 02><a 02><n 55>

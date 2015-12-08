@@ -2,7 +2,7 @@
 <#####################>
 
 <p 02><a 2E><n 22>
-Uhm... Aile?
+Ahn... Aile?
 <--------------------->
 
 <p 02><a 2E><n 22>
@@ -38,7 +38,7 @@ chegar.
 
 <p 02><a 2E><n 22>
 Não tenho treinamento
-o suiciente para
+o suficiente para
 ajudá-la.
 <--------------------->
 
@@ -117,7 +117,7 @@ conta.
 <*********************>
 
 <p 02><a 2E><n 22>
-H-hello Aile.
+O-Olá, Aile.
 <--------------------->
 
 <p 02><a 2E><n 22>
@@ -150,7 +150,7 @@ diferença.
 <--------------------->
 
 <p 02><a 2E><n 22>
-It's all thanks to you,
+É tudo graças a você,
 Aile.
 <*********************>
 
