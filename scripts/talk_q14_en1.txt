@@ -2,8 +2,8 @@
 <#####################>
 
 <p 02><a 4F><n 4A>
-Tch. O que eu faço com
-meu filho...
+Droga. Não sei o que eu
+faço com meu garoto...
 <--------------------->
 
 <p 02><a 4F><n 4A>
@@ -22,8 +22,8 @@ Ei, você.
 <--------------------->
 
 <p 02><a 4F><n 4A>
-Não sei se você é a
-pessoa certa para eu
+Não sei se você é o
+cara certo pra eu
 pedir isso...
 <--------------------->
 
@@ -46,14 +46,14 @@ aprenda com você.
 
 <p 02><a 4F><n 4A>
 Francamente, estou
-embarassada por esse
-pedido tão bobo,
+envergonhado por esse
+pedido tão besta,
 <--------------------->
 
 <p 02><a 4F><n 4A>
 mas cadastrei o pedido
 nos transervidores. Se
-tiver tempo, me ajude.
+tiver tempo, está lá.
 <--------------------->
 
 <p 02><a 4F><n 4A>
@@ -62,8 +62,8 @@ pudesse ao menos pegar
 todas as bolas no chão,
 <--------------------->
 
-e colocasse-as todas
-no quarto de baixo.
+e colocá-las no quarto
+de baixo.
 <*********************>
 
 <p 02><a 02><n 55>
@@ -83,8 +83,8 @@ bolas?
 <--------------------->
 
 <p 02><a 4F><n 4A>
-Vou recompensá-lo pela
-ajuda,
+Vou pagá-lo bem pelo
+seu serviço,
 <--------------------->
 
 então organize-as da
@@ -112,7 +112,7 @@ coisa a qualquer lugar.
 <--------------------->
 
 <p 02><a 4F><n 4A>
-Obrigada!
+Muito obrigado!
 <--------------------->
 
 <p 02><a 4F><n 4A>

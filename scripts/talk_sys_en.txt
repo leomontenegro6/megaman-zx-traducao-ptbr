@@ -267,7 +267,7 @@ Jogar este jogo?
 
 <m><a 04><n 57>
   Sim
-  Nao
+  Não
   Descrição
 <*********************>
 

@@ -125,8 +125,9 @@ hora do almoço, ele
 <--------------------->
 
 <p 02><a 42><n 3D>
-Você é esperto demais,
-para seu próprio bem...
+Você é um cãozinho
+espertinho até
+demais...
 <--------------------->
 
 <p 02><a 57><n 54>
