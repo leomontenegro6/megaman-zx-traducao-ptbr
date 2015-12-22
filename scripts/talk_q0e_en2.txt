@@ -15,7 +15,7 @@ QG dos Guardiões?
 
 <p 02><a 4B><n 46>
 Enviarei a carta pelo
-transervidor.
+Transervidor.
 <*********************>
 
 <p 02><a 02><n 55>

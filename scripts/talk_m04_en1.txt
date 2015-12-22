@@ -14,7 +14,7 @@ Guardiões.
 
 <p 02><d A30F><a 02><n 18>
 Para chegar no QG, use
-um transervidor com
+um Transervidor com
 opção de transportar.
 <*********************>
 
@@ -276,7 +276,7 @@ bem ao lado
 <--------------------->
 
 da sala do
-transervidor.
+Transervidor.
 <--------------------->
 
 <p 02><d C70F><a 09><n 04>
@@ -1154,7 +1154,7 @@ preparando as missões,
 <--------------------->
 
 adicionarei-as nos
-transervidores.
+Transervidores.
 <--------------------->
 
 <p 02><d 5110><a 0B><n 04>

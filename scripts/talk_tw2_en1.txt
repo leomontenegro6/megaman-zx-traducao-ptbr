@@ -8,7 +8,7 @@ direita,
 <--------------------->
 
 você verá uma porta que
-leva a um transervidor.
+leva a um Transervidor.
 <--------------------->
 
 <p 02><a 42><n 3D>
@@ -33,9 +33,9 @@ deveria ir lá.
 <--------------------->
 
 <p 02><a 42><n 3D>
-Pra chegar nos edi-
+Mas pra chegar nos edi-
 fícios da Área G, tem
-que pegar o viaduto.
+que cruzar o viaduto.
 <--------------------->
 
 <p 02><a 42><n 3D>
@@ -279,7 +279,7 @@ em direção à caverna.
 <*********************>
 
 <p 02><a 40><n 3B>
-Obrigando por antes,
+Obrigada por antes,
 senhor!
 <--------------------->
 
@@ -465,8 +465,9 @@ medo do escuro?
 <--------------------->
 
 <p 02><a 41><n 3C>
-Se eu for contar mais
-uma ovelha, vou gritar.
+Da última vez que
+tentei contar ovelhas,
+entrei em pânico.
 <*********************>
 
 <p 02><a 41><n 3C>
@@ -505,7 +506,7 @@ conversando com você
 nesse traje,
 <--------------------->
 
-ela me botará de
+ela vai me botar de
 castigo.
 <*********************>
 

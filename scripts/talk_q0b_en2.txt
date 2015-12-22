@@ -36,7 +36,7 @@ novo pela ajuda.
 
 <p 02><a 2A><n 1E>
 Eu enviei a carta pelo
-transervidor.
+Transervidor.
 <--------------------->
 
 <p 02><a 2A><n 1E>

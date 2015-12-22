@@ -23,12 +23,12 @@ se esqueceu de mim?
 <p 02><a 24><n 28>
 Deixa eu te contar
 um pouco mais sobre
-transervidores.
+Transervidores.
 <--------------------->
 
 <p 02><a 24><n 28>
 Há dois tipos distintos
-de transervidores: o
+de Transervidores: o
 amarelo e o vermelho.
 <--------------------->
 
@@ -60,7 +60,7 @@ rapidamente para outras
 <--------------------->
 
 vai precisar do
-transervidor com
+Transervidor com
 função de transporte.
 <--------------------->
 
@@ -71,7 +71,7 @@ relatórios,
 <--------------------->
 
 <p 02><a 24><n 28>
-qualquer transervidor
+qualquer Transervidor
 serve.
 <*********************>
 

@@ -32,7 +32,7 @@ mim?
 <p 02><a 42><n 3D>
 Fiz um pedido formal
 que já deve estar no
-transervidor.
+Transervidor.
 <*********************>
 
 <p 02><a 42><n 3D>
@@ -109,7 +109,7 @@ it's meaningless.
 
 <p 02><a 42><n 3D>
 Enviarei algo para o
-transervidor em
+Transervidor em
 agradecimento.
 <*********************>
 
@@ -125,7 +125,7 @@ para você.
 
 <p 02><a 42><n 3D>
 Enviarei para o
-transervidor também.
+Transervidor também.
 <--------------------->
 
 <p 02><a 42><n 3D>

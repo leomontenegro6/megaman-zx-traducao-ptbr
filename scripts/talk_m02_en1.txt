@@ -173,7 +173,7 @@ seguros.
 <--------------------->
 
 <p 02><d ED07><a 0D><n 03>
-Vou usar o transervidor
+Vou usar o Transervidor
 para voltar ao QG
 dos Guardiões.
 <--------------------->
@@ -191,7 +191,7 @@ alívio.
 
 <p 02><d F007><a 02><n 04>
 Ah, não esqueça de ir
-ao transervidor mais
+ao Transervidor mais
 próximo de você,
 <--------------------->
 

@@ -279,7 +279,7 @@ conclui seu teste.
 <--------------------->
 
 <p 02><d E00B><a 23><n 2E>
-Há um transervidor na
+Há um Transervidor na
 sala atrás de mim.
 <*********************>
 

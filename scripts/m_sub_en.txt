@@ -336,7 +336,7 @@ Servidor encontrado na área
 <*********************>
 
 
-2 servidores encontrados na área
+Dois servidores nesta área
 <dpad>: Escanear Mapa de Áreas
 <*********************>
 
@@ -1102,7 +1102,7 @@ Destino: Área K-3/K-4/K-5
 <*********************>
 
 
-Pedido: Limpe a Sala
+Pedido: Organize o Quarto
 Destino: Área C-1
 <*********************>
 
@@ -1302,7 +1302,7 @@ Relate o término da missão
 <*********************>
 
 
-Pedido: Limpe a Sala
+Pedido: Organize o quarto
 Relate o término da missão
 <*********************>
 

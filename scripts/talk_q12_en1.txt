@@ -102,7 +102,7 @@ obra-prima!
 
 <p 02><a 2F><n 23>
 Enviarei-o a você pelo
-transervidor.
+Transervidor.
 <--------------------->
 
 <p 02><a 2F><n 23>

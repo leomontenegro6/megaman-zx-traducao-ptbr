@@ -94,7 +94,7 @@ compensá-lo.
 <--------------------->
 
 Está lá no
-transervidor.
+Transervidor.
 <*********************>
 
 <p 02><a 02><n 55>

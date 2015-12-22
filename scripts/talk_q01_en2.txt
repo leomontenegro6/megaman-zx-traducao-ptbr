@@ -27,7 +27,7 @@ na Girouette Expresso.
 <--------------------->
 
 Então, quando puder,
-acesse o transervidor
+acesse o Transervidor
 e aceite o meu pedido.
 <--------------------->
 
@@ -54,8 +54,9 @@ penhascos altos e de
 difícil acesso.
 <--------------------->
 
-Por favor, ajude-me a
-encontrá-la.
+Por favor, encontre
+a flor milagrosa para
+mim.
 <*********************>
 
 <p 02><a 02><n 55>
@@ -115,7 +116,7 @@ conta!
 <p 02><a 4A><n 45>
 Não esqueça de pegar
 seus cristais no
-transervidor.
+Transervidor.
 <*********************>
 
 <p 02><a 02><n 55>

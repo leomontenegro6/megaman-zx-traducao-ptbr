@@ -807,12 +807,12 @@ Ele agora exagerar...
 
 <p 02><a 38><n 33>
 "Com um estilo de vida
-confortável,
+confortável, ficamos
+mal-acostumados,
 <--------------------->
 
-nós vivemos pressu-
-ponto que a vida é
-fácil hoje em dia..."
+achando que a vida é
+fácil, hoje em dia..."
 <--------------------->
 
 <p 02><a 38><n 33>
@@ -845,10 +845,11 @@ cinegrafista.
 <--------------------->
 
 <p 02><a 45><n 40>
-Innerpeace é muito...
+Innerpeace é um lugar
+muito...
 <--------------------->
 
-Bem, pacífica. Pensei
+Bem, pacífico. Pensei
 que fosse minha chance
 para um grande furo.
 <*********************>
@@ -971,8 +972,8 @@ as pessoas acreditam.
 <*********************>
 
 <p 02><a 45><n 40>
-A-Ah! Um Maverick aqui,
-em Innerpeace!?
+A-Ah! Um Maverick em
+Innerpeace!?
 <--------------------->
 
 <p 02><a 45><n 40>
@@ -993,8 +994,8 @@ comigo.
 
 <p 02><a 3C><n 37>
 Ele descobriu que eu
-tava fugindo pras
-fronteiras,
+tava indo pras
+fronteiras escondido,
 <--------------------->
 
 pra brincar por lá.
@@ -1007,7 +1008,7 @@ Jeff me dedurou.
 
 <p 02><a 3C><n 37>
 Nunca mais vou brincar
-com aquele cara.
+com aquele cagueta.
 <*********************>
 
 <p 02><a 3C><n 37>
@@ -1103,8 +1104,9 @@ Ah... Foi mal...
 <--------------------->
 
 <p 02><a 3C><n 37>
-Meu ai disse pra eu não
-falar com estranhos.
+Meu pai disse pra
+eu não falar com
+estranhos.
 <*********************>
 
 <p 02><a 3D><n 38>
@@ -1460,7 +1462,7 @@ deles, e pressione
 <p 02><a 50><n 4B>
 Vizinho a mim, a porta
 seguinte, que contém um
-transervidor,
+Transervidor,
 <--------------------->
 
 também leva ao viaduto.
@@ -1488,7 +1490,7 @@ mente.
 
 <p 02><a 50><n 4B>
 Falando nisso, o
-transervidor na sala
+Transervidor na sala
 ao lado,
 <--------------------->
 
@@ -1499,7 +1501,7 @@ comunicações.
 <p 02><a 50><n 4B>
 Para teletransportar,
 precisará achar outro
-tipo de transervidor.
+tipo de Transervidor.
 <--------------------->
 
 Estes possuem formato
@@ -1546,7 +1548,7 @@ próxima vez?
 
 <p 02><a 50><n 4B>
 Ei, <nome>! Já jogou
-"Destruidor F"?
+"Crusher F"?
 <--------------------->
 
 <p 02><a 50><n 4B>

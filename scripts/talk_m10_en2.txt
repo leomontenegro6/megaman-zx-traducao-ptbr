@@ -130,7 +130,7 @@ especial para nós duas.
 <p 02><d 943E><a 09><n 04>
 A missão final foi
 adicionada aos
-transervidores.
+Transervidores.
 <--------------------->
 
 <p 02><d 953E><a 09><n 04>

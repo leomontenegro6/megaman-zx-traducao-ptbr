@@ -29,14 +29,14 @@ pedir isso...
 
 <p 02><a 4F><n 4A>
 Mas você poderia
-organizar minha casa
-pra mim?
+organizar um dos meus
+quartos pra mim?
 <--------------------->
 
 <p 02><a 4F><n 4A>
 Se você servir de
 exemplo ao organizar
-os brinquedos,
+o meu quarto,
 <--------------------->
 
 <p 02><a 4F><n 4A>
@@ -52,7 +52,7 @@ pedido tão besta,
 
 <p 02><a 4F><n 4A>
 mas cadastrei o pedido
-nos transervidores. Se
+nos Transervidores. Se
 tiver tempo, está lá.
 <--------------------->
 
@@ -118,7 +118,7 @@ Muito obrigado!
 <p 02><a 4F><n 4A>
 Como sinal de gratidão,
 enviei a você o paga-
-mento no transervidor.
+mento no Transervidor.
 <*********************>
 
 <p 02><a 02><n 55>

@@ -49,7 +49,7 @@ voltaram.
 <--------------------->
 
 <p 03><d 5F1B><a 23><n 2C>
-Use este transervidor
+Use este Transervidor
 portátil. Por favor,
 você precisa salvá-los!
 <*********************>

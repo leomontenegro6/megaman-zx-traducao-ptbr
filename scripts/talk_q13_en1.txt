@@ -133,7 +133,7 @@ trabalhando.
 <p 02><a 30><n 24>
 Assim que eu terminar,
 enviarei o item a você
-pelo transervidor.
+pelo Transervidor.
 <--------------------->
 
 <p 02><a 30><n 24>

@@ -355,7 +355,7 @@ para casa.
 
 <p 02><a 53><n 4E>
 Enviei uma coisinha
-ao transervidor para
+ao Transervidor para
 você.
 <*********************>
 
@@ -382,24 +382,23 @@ o meu filho.
 
 <p 02><a 53><n 4E>
 Falei sobre várias
-coisas com o meu filho
+coisas com o meu filho,
+<--------------------->
+
+<p 02><a 53><n 4E>
 e foi a primeira vez
+que o ouvi falar comigo
+nesse tom.
 <--------------------->
 
 <p 02><a 53><n 4E>
-que o ouvi falar
-assim.
+Foi um grito atrás de
+outro.
 <--------------------->
 
 <p 02><a 53><n 4E>
-Foi apenas uma loucura
-atrás da outra.
-<--------------------->
-
-<p 02><a 53><n 4E>
-Nunca deixe ninguém
-dizer que ser mãe é
-uma tarefa fácil!
+Nunca diga que ser mãe
+é uma tarefa fácil!
 <*********************>
 
 <FIM>

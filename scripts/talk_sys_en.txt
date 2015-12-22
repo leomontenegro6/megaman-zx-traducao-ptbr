@@ -276,8 +276,8 @@ Cristais insuficientes
 <*********************>
 
 <a 04><n 57>
-<c 03>[Corrida de Dribles]
-<c 00>Cada partida custa
+<c 03>[Dribble Trouble]
+<c 00>Cada ficha custa
 20 CE.
 <--------------------->
 
@@ -287,38 +287,38 @@ antes do tempo acabar.
 <*********************>
 
 <a 04><n 57>
-<c 03>[Destruidor F]
-<c 00>Cada partida custa
+<c 03>[Crusher F]
+<c 00>Cada ficha custa
 40 CE.
 <--------------------->
 
 <a 04><n 57>
-Soque a bola na direção
-do inimigo para
-derrotá-lo.
+Soque as bolas na
+direção do inimigos,
+para derrotá-los.
 <*********************>
 
 <a 04><n 57>
-<c 03>[Mega Destruidor F]
-<c 00>Cada partida custa
+<c 03>[Mega Crusher F]
+<c 00>Cada ficha custa
 50 CE.
 <--------------------->
 
 <a 04><n 57>
-Soque a bola na direção
-do inimigo para
-derrotá-lo.
+Soque as bolas na
+direção do inimigos,
+para derrotá-los.
 <--------------------->
 
 <a 04><n 57>
-Esta versão do
-Destruidor F é mais
-difícil que a outra.
+Esta versão do jogo
+possui uma dificuldade
+maior que a anterior.
 <*********************>
 
 <a 04><n 57>
-<c 03>[Conversor de Energia]
-<c 00>Cada partida custa
+<c 03>[Energy Converter]
+<c 00>Cada ficha custa
 80 CE.
 <--------------------->
 
