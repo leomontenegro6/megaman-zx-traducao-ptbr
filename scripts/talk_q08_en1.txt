@@ -71,7 +71,7 @@ cliente.
 <*********************>
 
 <p 02><a 02><n 55>
-Entregar a carta para
+Entregue a carta para
 a mulher na Área C-2.
 <*********************>
 

@@ -3,16 +3,13 @@
 
 <p 02><d D107><a 02><n 55>
 Giro, o transportador,
-parece estar lidando
-<--------------------->
-
-com agressões de
-Mavericks na Área B.
+está na Área B, cercado
+por Mavericks.
 <--------------------->
 
 <p 02><d D207><a 02><n 55>
 Vá à Área B e descubra
-o seu paradeiro.
+o paradeiro de Giro.
 <*********************>
 
 <p 02><d D307><a 05><n 02>
@@ -31,43 +28,31 @@ Aile? À escuta?
 <--------------------->
 
 <p 02><d D607><a 02><n 04>
-Sobre o Maverick que
-nos atacou,
-<--------------------->
-
-há algo nessa coisa
-toda que está me
-incomodando.
+Há algo me incomodando
+sobre esses Mavericks
+que nos atacaram.
 <--------------------->
 
 <p 02><d D707><a 02><n 04>
-Deve haver uma pista
-nas ruínas
-<--------------------->
-
-sobre o que estaria
-causando os surtos
-dos Mavericks.
+Nas montanhas, deve
+haver uma pista sobre
+a causa desses surtos.
 <--------------------->
 
 <p 02><d D807><a 02><n 04>
-Verifique-as e veja se
+Ronde a área e veja se
 consegue encontrar
 algo.
 <*********************>
 
 <p 02><d D907><a 02><n 04>
-Deve haver uma pista
-nas ruínas
-<--------------------->
-
-sobre o que estaria
-causando os surtos
-dos Mavericks.
+Nas montanhas, deve
+haver uma pista sobre
+a causa desses surtos.
 <--------------------->
 
 <p 02><d DA07><a 02><n 04>
-Verifique-as e veja se
+Ronde a área e veja se
 consegue encontrar
 algo.
 <*********************>
@@ -84,12 +69,9 @@ um dos Mavericks.
 <--------------------->
 
 <p 02><d DD07><a 02><n 04>
-Se trouxer de volta ao
-QG, podemos analisá-lo.
-<--------------------->
-
-Pode nos dar a pista
-que precisamos.
+Traga-o ao QG para ana-
+lisarmos. Pode nos dar
+a pista que precisamos.
 <--------------------->
 
 <p 02><d DE07><a 02><n 04>
@@ -104,8 +86,9 @@ escolhida do Modelo X?
 <--------------------->
 
 <p 02><d E007><a 11><n 00>
-Sim, ela é muito
-especial para mim.
+Isso mesmo, Modelo Z.
+Ela é muito especial
+para mim.
 <*********************>
 
 <p 02><d E107><a 0D><n 03>
@@ -116,11 +99,8 @@ pelo Biometal.
 
 <p 03><d E207><a 07><n 02>
 Giro! O que é esse tal
-Biometal?
-<--------------------->
-
-Não entendo o que está
-acontecendo!
+Biometal? Não estou
+entendendo isso tudo!
 <--------------------->
 
 <p 02><d E307><a 0D><n 03>
@@ -130,32 +110,20 @@ o Biometal Modelo Z.
 
 <p 02><d E407><a 0D><n 03>
 Desculpe por ter guar-
-dado segredo disso
-de você.
-<--------------------->
-
-mas sou um membro dos
-Guardiões.
+dado segredo disso, mas
+sou um dos Guardiões.
 <--------------------->
 
 <p 02><d E507><a 0D><n 03>
-Você e eu somos ambos
-escolhidos.
-<--------------------->
-
+Ambos somos escolhidos.
 Podemos nos transformar
-com o poder do
-Biometal.
+graças ao Biometal.
 <--------------------->
 
 <p 02><d E607><a 0D><n 03>
 Recebi uma ordem para
-protegê-la das pessoas
-<--------------------->
-
-que estão atrás do
-poder que agora
-reside em você.
+protegê-la de pessoas
+à procura deste poder.
 <--------------------->
 
 <p 03><d E707><a 05><n 02>
@@ -164,13 +132,8 @@ Sou uma escolhida?
 
 <p 02><d E807><a 10><n 03>
 Não queria esconder
-isto de você. Eu plane-
-java contar tudo
-<--------------------->
-
-assim que o Biometal
-fosse entregue em
-segurança.
+isso. Eu ia contar tudo
+a você depois.
 <--------------------->
 
 <p 02><d E907><a 0D><n 03>
@@ -181,27 +144,19 @@ Guardiões?
 
 <p 02><d EA07><a 0D><n 03>
 O Biometal é a chave
-para entender o motivo
-<--------------------->
-
-pelo qual os surtos
-dos Mavericks estão
-acontecendo.
+para entender a razão
+dos Mavericks surtarem.
 <--------------------->
 
 <p 03><d EB07><a 08><n 02>
 Isso tudo é demais pra
-mim. Não sei se devo,
-Giro...
+mim. Não sei se devo...
 <--------------------->
 
 <p 02><d EC07><a 0D><n 03>
 Não quero forçá-la a
 fazer algo contra sua
-vontade.
-<--------------------->
-
-É sua decisão.
+vontade. É sua decisão.
 <--------------------->
 
 <p 02><d ED07><a 0D><n 03>
@@ -212,27 +167,20 @@ dos Guardiões.
 
 <p 02><d EE07><a 0D><n 03>
 Estarei aguardando sua
-decisão lá.
-<--------------------->
-
-Por favor, não demore
-muito.
+decisão lá. Por favor,
+não demore muito.
 <*********************>
 
 <p 02><d EF07><a 02><n 04>
-Parece que conseguiu
-encontrar Giro. É um
-alívio.
+Que alívio.
+Você conseguiu
+encontrar Giro.
 <--------------------->
 
 <p 02><d F007><a 02><n 04>
-Ah, não esqueça de ir
-ao Transervidor mais
-próximo de você,
-<--------------------->
-
-e escolher a opção
-"Relatar Missão".
+Vá ao Transervidor mais
+próximo e escolha a
+opção "Relatar Missão".
 <--------------------->
 
 <p 02><d F107><a 02><n 04>
@@ -242,14 +190,9 @@ missão foi concluída.
 <--------------------->
 
 <p 03><d F207><a 08><n 02>
-Será que Giro esteve
-comigo por todos esses
-anos
-<--------------------->
-
-só porque tinha ordens
-de proteger a mim,
-uma escolhida?
+Giro esteve comigo todo
+esse tempo, apenas sob
+ordens de me proteger?
 <--------------------->
 
 <p 03><d F307><a 08><n 02>

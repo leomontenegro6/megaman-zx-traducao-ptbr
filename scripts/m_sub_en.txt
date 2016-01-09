@@ -716,11 +716,13 @@ preso dentro.
 
 
 <c 01>Ceratânio
-<c 00>Este metal foi
-separado de uma
-pedra usando o
-imprensador da
-usina elétrica.
+<c 00>Metal extraído
+da rocha esma-
+gada na usina.
+Dizem que era
+de um robô que
+era ferro, fogo
+e puro aço.
 <*********************>
 
 
@@ -1077,7 +1079,7 @@ Destino: Área X-1 (HQ)
 <*********************>
 
 
-Pedido: Encontre a Bolsa
+Pedido: Ache a Pochete
 Destino: Área B-2
 <*********************>
 
@@ -1277,7 +1279,7 @@ Relate o término da missão
 <*********************>
 
 
-Pedido: Encontre a Bolsa
+Pedido: Ache a Pochete
 Relate o término da missão
 <*********************>
 

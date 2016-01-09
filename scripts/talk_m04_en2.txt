@@ -29,14 +29,9 @@ que fosse uma aeronave.
 <--------------------->
 
 <p 01><p 02><d A60F><a 09><n 04>
-Nós, Guardiões, temos
-que explorar o mundo,
-então precisamos de
-<--------------------->
-
-um método conveniente
-para permanecermos
-sempre móveis.
+Nós Guardiões rondamos
+o mundo, logo permane-
+cemos sempre móveis.
 <*********************>
 
 <p 02><d A70F><a 09><n 04>
@@ -48,10 +43,6 @@ dois estarem a salvo.
 Ei Prairie, achei uns
 chips de computador lá
 na Área B.
-<--------------------->
-
-É melhor você ficar
-com isso.
 <*********************>
 
 
@@ -59,25 +50,18 @@ Entregou <c 03>Chips de Computador
 <*********************>
 
 <p 03><d A90F><a 05><n 02>
-E eu trouxe de volta o
-certificado de que
-passei no teste...
-<--------------------->
-
-Ou pelo menos eu acho.
-É isso mesmo?
+E trouxe o certificado
+de que passei no teste,
+eu acho. É isso mesmo?
 <*********************>
 
 
-Entregou <c 03>Bichinho de Pelúcia
+Entregou <c 03>Bicho de Pelúcia
 <*********************>
 
 <p 02><d AA0F><a 0A><n 04>
-Sim, foi um presente
-da minha irmã. Isto me
-traz muitas memórias.
-<--------------------->
-
+Sim, era da minha irmã.
+É muito precioso a mim.
 Obrigada por devolver.
 <*********************>
 
@@ -104,12 +88,8 @@ dois em grave perigo.
 <--------------------->
 
 <p 02><d AF0F><a 09><n 04>
-Vamos nos encontrar no
-centro de comando,
-<--------------------->
-
-e explicarei tudo a
-vocês lá.
+Explicarei tudo a vocês
+no centro de comando.
 <--------------------->
 
 <p 02><d B00F><a 09><n 04>
@@ -127,12 +107,8 @@ Tch.
 <*********************>
 
 <p 02><d B30F><a 09><n 04>
-Permitam-me aproveitar
-esta oportunidade
-<--------------------->
-
-para lhes dar as boas
-vindas ao QG dos
+Permitam-me dar-lhes as
+boas vindas ao QG dos
 Guardiões.
 <--------------------->
 
@@ -141,49 +117,32 @@ E...
 <*********************>
 
 <p 01><p 02><d B50F><a 09><n 04>
-Eu sou Prairie, a
-comandante dos
-Guardiões.
+Eu sou a comandante dos
+Guardiões, Prairie.
 <--------------------->
 
 <p 03><d B60F><a 05><n 02>
 Q-Quê?! Prairie é a
-comandante de todos
-os Guardiões?!
-<--------------------->
-
-E-Então quer dizer
-que...
+comandante dos
+Guardiões?! E-Então...
 <--------------------->
 
 <p 01><p 03><d B70F><a 0D><n 03>
 Ela é uma cliente muito
-importante.
-<--------------------->
-
-E é exatamente por isso
-que quero que a chame
-pelo título apropriado.
+importante. Por isso
+trate-a com respeito.
 <--------------------->
 
 <p 03><d B80F><a 05><n 02>
-Mas Prairie tem a minha
-idade, né?
-<--------------------->
-
-Como é que pode uma
-garota da minha idade
+Mas como alguém quase
+da minha idade pode
 comandar os Guardiões?
 <*********************>
 
 <p 01><p 02><d B90F><a 0B><n 04>
 As máquinas conscientes
-conhecidas como
-Mavericks
-<--------------------->
-
-continuam atacando as
-pessoas.
+chamadas de Mavericks
+estão atacando civis.
 <*********************>
 
 <p 01><p 02><d BA0F><a 0B><n 04>
@@ -192,24 +151,15 @@ sequer devia existir.
 <--------------------->
 
 <p 01><p 02><d BB0F><a 0B><n 04>
-Centenas de anos atrás,
-homens e máquinas
-deixaram de lado
-<--------------------->
-
-suas diferenças,
-e concordaram em
-estabelecer uma trégua.
+Séculos atrás, homens e
+máquinas estabeleceram
+uma trégua nas guerras.
 <--------------------->
 
 <p 01><p 02><d BC0F><a 0B><n 04>
-Os Guardiões conti-
-nuaram a investigar
-a causa principal
-<--------------------->
-
-por trás dos atuais
-surtos de Mavericks.
+Os Guardiões estão
+investigando a causa
+dos Mavericks surtarem.
 <--------------------->
 
 <p 01><p 02><d BD0F><a 0B><n 04>
@@ -224,9 +174,9 @@ desaparecida?
 <*********************>
 
 <p 02><d BF0F><a 0C><n 04>
-Sim. E essa cientista
-também era a fundadora
-dos Guardiões.
+Essa cientista também
+era a fundadora dos
+Guardiões.
 <--------------------->
 
 <p 02><d C00F><a 0C><n 04>
@@ -238,69 +188,51 @@ Ah... Entendo.
 <--------------------->
 
 <p 03><d C20F><a 0D><n 03>
-Sim, e o Biometal que
+E o Biometal que nós
 estávamos transportando
-era desse laboratório.
+era de seu laboratório.
 <*********************>
 
 <p 02><d C30F><a 0B><n 04>
-Há muito tempo, o mundo
-de humanos e máquinas
-<--------------------->
-
-foi salvo por um grupo
-de heróis lendários.
+No passado, o mundo foi
+salvo diversas vezes
+por heróis lendários.
 <--------------------->
 
 <p 02><d C40F><a 0B><n 04>
-Os Biometais são
-fragmentos contendo
-<--------------------->
-
-a consciência desses
-heróis.
+A consciência deles
+ainda permanece viva,
+nos Biometais.
 <--------------------->
 
 <p 02><d C50F><a 0B><n 04>
-Talvez haja alguma
-pista sobre os surtos
-de Mavericks
-<--------------------->
-
-nos dados obtidos
-neste laboratório
-de pesquisa.
+Talvez achemos pistas
+sobre os surtos nos
+dados do laboratório.
 <*********************>
 
 <p 02><d C60F><a 09><n 04>
-Enfim, o laboratório
-pessoal de Fleuve fica
-bem ao lado
-<--------------------->
-
-da sala do
-Transervidor.
+Enfim, ao lado do
+Transervidor, fica a
+sala de Fleuve.
 <--------------------->
 
 <p 02><d C70F><a 09><n 04>
-Leve o Biometal lá,
-para ser analisado.
+Levem seus Biometais
+lá, para serem
+analisados.
 <--------------------->
 
 <p 02><d C80F><a 09><n 04>
 Estarei aqui analisando
 os chips de computador
-que você trouxe.
+que Aile trouxe.
 <*********************>
 
 <p 03><d C90F><a 22><n 18>
-Ah, ótimo, ótimo.
-Estive esperando por
-você!
-<--------------------->
-
-Agora, onde está o
-Biometal?
+Ah, ótimo. Estava lhe
+esperando. Agora, onde
+está o Biometal?
 <*********************>
 
 
@@ -312,13 +244,9 @@ Ah, excelente...
 <*********************>
 
 <p 03><d CB0F><a 22><n 18>
-A transferência de
-dados foi concluída.
-Agradecido!
-<--------------------->
-
-Pode pegar o Biometal
-de volta agora.
+Obrigado! A análise foi
+concluída. Pode pegar
+o Biometal de volta.
 <*********************>
 
 
@@ -326,32 +254,23 @@ Recuperou o <c 03>Biometal<c 00>
 <*********************>
 
 <p 02><d CC0F><a 02><n 55>
-Mavericks detectados
-na Área D!
+Surto de Mavericks
+detectados na Área D!
 <--------------------->
 
 <p 02><d CD0F><a 02><n 55>
-Os objetivos da missão
-serão retransmitidos
-quando chegarem.
-<--------------------->
-
 Movam-se em direção à
 área e aguardem por
 mais instruções.
 <*********************>
 
 <p 02><d CE0F><a 02><n 55>
-Repito! Mavericks
-detectados na Area D!
+Repito!
+Surto de Mavericks
+detectados na Área D!
 <--------------------->
 
 <p 02><d CF0F><a 02><n 55>
-Os objetivos da missão
-serão retransmitidos
-quando chegarem.
-<--------------------->
-
 Movam-se em direção à
 área e aguardem por
 mais instruções.
@@ -387,24 +306,15 @@ de Mavericks?
 <--------------------->
 
 <p 02><d D50F><a 0B><n 04>
-Após uma breve análise
-nos chips que você
-trouxe,
-<--------------------->
-
-descobri que há um
-programa controlando
-os Mavericks.
+Após analisar os chips,
+descobri um programa
+controlando Mavericks.
 <--------------------->
 
 <p 02><d D60F><a 0B><n 04>
-Há alguém por trás 
-desses ataques,
-<--------------------->
-
-e estão tentando fazer
-parecer ataques
-aleatórios.
+Há alguém por trás dos
+surtos, tentando fazer
+parecer aleatórios.
 <--------------------->
 
 <p 02><d D70F><a 0B><n 04>
@@ -414,44 +324,27 @@ vocês estão carregando.
 <--------------------->
 
 <p 03><d D80F><a 07><n 02>
-E onde estão as forças
-de segurança da Serpent
-Ltda?
-<--------------------->
-
-Por que ainda não
-chegaram?!
+E as patrulhas? Por que
+as patrulhas da Serpent
+Ltda não chegaram?!
 <--------------------->
 
 <p 02><d D90F><a 0B><n 04>
-Leva tempo para elas
-se locomoverem
-<--------------------->
-
-de seus pontos de
-patrulha até a sede
+Leva tempo para se
+deslocarem até a sede
 da empresa.
 <--------------------->
 
 <p 02><d DA0F><a 0B><n 04>
-Enquanto isto, as
-forças terrestres dos
-Guardiões
-<--------------------->
-
-estão se movendo
-para interceptar os
-Mavericks na Área D.
+Enquanto isso, vamos
+combater os Mavericks
+na Área D.
 <*********************>
 
 <p 02><d DB0F><a 02><n 2C>
-Forças terrestres
-relatando!
-<--------------------->
-
-Os Mavericks estão se
-dirigindo ao distrito
-residencial.
+Esquadrão relatando! Os
+Mavericks estão indo ao
+distrito residencial.
 <--------------------->
 
 <p 02><d DC0F><a 02><n 2C>
@@ -475,32 +368,21 @@ derrotá-los!
 <*********************>
 
 <p 02><d E00F><a 0F><n 03>
-Pense, Aile! Se ficar
-andando por aí com o
-Biometal,
-<--------------------->
-
-estará fazendo
-exatamente o que
+Pense, Aile! São os
+nossos Biometais que
 eles querem!
 <--------------------->
 
 <p 02><d E10F><a 0F><n 03>
-Você não sabe como
-lutar!
-<--------------------->
-
-É muito perigoso você
-ir para lá sozinha!
+Você não sabe lutar!
+É perigoso você ir para
+lá sozinha!
 <*********************>
 
 <p 03><d E20F><a 07><n 02>
-Então vai ficar parado
-aí sem fazer nada,
-<--------------------->
-
-olhando os Mavericks
-atacarem civis?!
+Então você não vai
+fazer nada, enquanto
+eles atacam civis?!
 <--------------------->
 
 <p 03><d E30F><a 07><n 02>
@@ -516,13 +398,9 @@ acontecer de novo?!
 <--------------------->
 
 <p 03><d E50F><a 07><n 02>
-Diferente de você, não
-consigo ficar parada
-sem fazer nada!
-<--------------------->
-
-Vou derrotar cada um
-deles!
+Eu não consigo ficar
+parada sem fazer nada!
+Vou derrotar todos!
 <*********************>
 
 <p 02><d E60F><a 0B><n 04>
@@ -535,7 +413,7 @@ me ouve?!
 <*********************>
 
 <p 02><d E80F><a 11><n 03>
-Espere, Aile!
+Ei, Aile!
 <*********************>
 
 <p 03><d E90F><a 07><n 02>
@@ -548,18 +426,14 @@ sozinha.
 <--------------------->
 
 <p 02><d EB0F><a 11><n 03>
-Independente de você
-ser ou não capaz de
-usar o Biometal,
-<--------------------->
-
-você é muito importante
-para mim.
+Sabendo usar o Biometal
+ou não, você é muito
+importante para mim.
 <--------------------->
 
 <p 02><d EC0F><a 11><n 03>
 Vou protegê-la!
-Vamos juntos!
+Vamos lá, Aile!
 <--------------------->
 
 <p 03><d ED0F><a 06><n 02>
@@ -581,7 +455,7 @@ Você tem que ajudá-lo!
 <*********************>
 
 <p 02><d F10F><a 07><n 02>
-Giro!?
+Hã? Giro!?
 <*********************>
 
 <p 03><d F20F><a 14><n 00>
@@ -610,7 +484,8 @@ Giro! O que houve!?
 <--------------------->
 
 <p 03><d F70F><a 13><n 03>
-Aile! A-Atire em mim...
+Aile!
+A-Atire em mim...
 <*********************>
 
 <p 02><d F80F><a 07><n 02>
@@ -623,27 +498,19 @@ Grr... aaargh!
 <*********************>
 
 <p 02><d FA0F><a 07><n 02>
-Girooo!
+G-Giro!
 <*********************>
 
 <p 03><d FB0F><a 14><n 00>
-Modelo X, o Mega Man
-azul... Modelo Z, o
-Mega Man vermelho...
-<--------------------->
-
-Estou desapontado com
-ambos.
+Modelo X e Modelo Z...
+Mega Mans azul e verme-
+lho... Ambos decepção.
 <--------------------->
 
 <p 03><d FC0F><a 14><n 00>
-Os Biometais que os
-Guardiões encontraram
-<--------------------->
-
-podem muito bem ser
-apenas pedaços de
-sucata.
+Os Guardiões devem ter
+confundido os Biometais
+com pedaços de sucata.
 <*********************>
 
 <p 02><d FD0F><a 07><n 02>
@@ -667,13 +534,9 @@ Ltda!
 <--------------------->
 
 <p 01><p 03><d 0110><a 14><n 0C>
-Vejo que minha
-reputação me
-precede.
-<--------------------->
-
-É melhor lembrar bem
-de mim, Mega Man azul!
+Exatamente. É melhor
+lembrar-se de mim,
+Mega Man azul!
 <*********************>
 
 <p 02><d 0210><a 07><n 02>
@@ -689,29 +552,22 @@ Será raiva... Ou medo?
 
 <p 03><d 0410><a 18><n 00>
 Hmph, pelo menos o
-de vermelho era bem
-mais desafiante
-<--------------------->
-
-do que uma garotinha
-como você.
+vermelho era mais
+astuto que você.
 <--------------------->
 
 <p 02><d 0510><a 07><n 02>
-Como pôde!?
+Como puderam fazer isso
+com Giro!?
 <*********************>
 
 <p 03><d 0610><a 14><n 0C>
-Prometheus.
+Prometeus.
 <--------------------->
 
 <p 03><d 0710><a 18><n 0D>
-Ah, coitadinho do
-Mega Man azul.
-<--------------------->
-
-O que você confunde com
-coragem é nada mais que
+Mega Man azul, sua
+coragem não passa de
 mera imprudência.
 <--------------------->
 
@@ -724,47 +580,37 @@ Não!
 <--------------------->
 
 <p 03><d 0A10><a 14><n 0C>
-Nós somos escolhidos,
-pois podemos controlar
-<--------------------->
-
-o sistema M.E.G.A.
-dos Biometais e se
+Nós podemos controlar o
+sistema M.E.G.A. e se
 transformar.
 <--------------------->
 
 <p 03><d 0B10><a 14><n 0C>
-Nós somos chamados de
-Mega Mans.
+Logo, somos os
+escolhidos, chamados
+de Mega Mans.
 <--------------------->
 
 <p 03><d 0C10><a 14><n 0C>
-Os poucos escolhidos
-são como pastores,
-<--------------------->
-
-que guiam o rebanho ao
-novo mundo.
+Os escolhidos são como
+pastores que guiam o
+rebanho ao novo mundo.
 <--------------------->
 
 <p 03><d 0D10><a 14><n 0C>
-Mas você provou, com
-suas habilidades
-patéticas,
-<--------------------->
-
-que nem todos os
-Mega Mans estão aptos
-para governar.
+Mas você provou que
+nem todos os Mega Mans
+estão aptos a governar.
 <*********************>
 
 <p 02><d 0E10><a 08><n 02>
-Iáááh!
+Á-Áááh!
 <--------------------->
 
 <p 03><d 0F10><a 14><n 0C>
-Remova as senhas dos
-Biometais deles.
+Pandora, remova as
+senhas dos Biometais
+deles.
 <--------------------->
 
 <p 03><d 1010><a 19><n 0E>
@@ -779,39 +625,26 @@ com eles?
 
 <p 03><d 1210><a 14><n 0C>
 Deixe-os para os
-Mavericks e voltem para
-onde vocês estavam.
+Mavericks e voltem
+aos seus postos.
 <--------------------->
 
 <p 03><d 1310><a 14><n 0C>
-Uma batalha entre as
-forças de segurança da
-Serpent Ltda,
-<--------------------->
-
-tidos como o bem,
-e os Mavericks, tidos
-como o mal.
+As patrulhas da Serpent
+Ltda logo enfrentarão
+os Mavericks.
 <--------------------->
 
 <p 03><d 1410><a 14><n 0C>
-Clássico.
-As pessoas desta
-cidade continuarão
-<--------------------->
-
-suas vidas, como de
-costume.
+As pessoas desta cidade
+continuarão suas vidas
+normais.
 <--------------------->
 
 <p 03><d 1510><a 14><n 0C>
-Precisamos que esta paz
-de fachada continue por
-um tempo a mais,
-<--------------------->
-
-para eu realizar meus
-planos gloriosos.
+Esta paz de fachada
+deve continuar, para eu
+realizar meu plano.
 <--------------------->
 
 <p 03><d 1610><a 14><n 0C>
@@ -830,7 +663,7 @@ concluída...
 <--------------------->
 
 <p 03><d 1910><a 14><n 0C>
-Giá, rá, rá!
+Rê, rê, rê!
 Agora temos todas as
 senhas.
 <--------------------->
@@ -842,17 +675,14 @@ Projeto Refúgio.
 <*********************>
 
 <p 03><d 1B10><a 18><n 0D>
-Estes dois já eram?
-<--------------------->
-
-Isto foi muito mais
-fácil do que ele havia
-previsto.
+Já acabou? Foi bem mais
+fácil do que aquele
+homem havia previsto.
 <*********************>
 
 <p 02><d 1C10><a 08><n 02>
-Argh... Não... consigo
-me mexer...
+Não...
+Meu poder se foi.
 <*********************>
 
 <p 03><d 1D10><a 12><n 03>
@@ -866,18 +696,15 @@ Giro! Está acordado!
 <--------------------->
 
 <p 03><d 1F10><a 12><n 03>
-Modelo Z, ouça...
+Ouça, Modelo Z...
 Não se preocupe...
 comigo...
 <--------------------->
 
 <p 03><d 2010><a 32><n 06>
-Tem certeza do que
-pretende me pedir?
-<--------------------->
-
-Seu corpo chegou num
-ponto irrecuperável.
+Tem certeza disso?
+Seu corpo está bastante
+machucado.
 <--------------------->
 
 <p 03><d 2110><a 32><n 06>
@@ -892,7 +719,7 @@ sua força... à Aile...
 <--------------------->
 
 <p 03><d 2310><a 32><n 06>
-Certo, farei isso...
+Assim farei...
 <--------------------->
 
 <p 03><d 2410><a 11><n 03>
@@ -905,9 +732,9 @@ Giro! Giro!!!
 <--------------------->
 
 <p 02><d 2610><a 08><n 02>
-É tudo minha culpa!
-Nunca devia ter vindo
-até aqui!
+Não! Eu nunca devia ter
+vindo até aqui! É tudo
+minha culpa!
 <--------------------->
 
 <p 02><d 2710><a 31><n 05>
@@ -916,29 +743,19 @@ chance.
 <--------------------->
 
 <p 02><d 2810><a 31><n 05>
-Se combinar os poderes
-dos dois Biometais,
-<--------------------->
-
-talvez você consiga se
-transformar novamente.
+Se combinar os dois
+Biometais, talvez você
+volte a se transformar.
 <--------------------->
 
 <p 02><d 2910><a 31><n 05>
-Não tenho certeza
-se você suportará
-a tensão
-<--------------------->
-
-de quando os dois
-fragmentos estiverem
-combinados.
+Mas não sei se seu
+corpo suportará o poder
+desta combinação.
 <*********************>
 
 <p 03><d 2A10><a 32><n 06>
-A decisão é sua.
-Você deve tomá-la
-sozinha.
+Cabe a você decidir.
 <--------------------->
 
 <p 03><d 2B10><a 32><n 06>
@@ -947,10 +764,7 @@ vontade para lutar?
 <--------------------->
 
 <p 03><d 2C10><a 32><n 06>
-Será que é capaz de
-continuar o trabalho
-<--------------------->
-
+Será capaz de continuar
 de onde aquele homem
 corajoso parou?
 <*********************>
@@ -960,18 +774,18 @@ Aile, nossa força...
 <--------------------->
 
 <p 01><p 02><d 2E10><a 32><n 06>
-É sua!
+Nossa força é sua!
 <--------------------->
 
 <p 01><p 02><d 2F10><a 32><n 06>
-E o espírito de Giro
-também está com você!
+E o espírito daquele
+homem também está com
+você!
 <--------------------->
 
 <p 01><p 02><d 3010><a 07><n 02>
 Serpent! Farei você
-pagar pelo que fez
-hoje!
+pagar por isso!
 <*********************>
 
 <p 02><d 3110><a 07><n 02>
@@ -985,20 +799,13 @@ Giro... Eu... Eu...
 
 <p 02><d 3310><a 02><n 04>
 Aile... A batalha entre
-as forças de segurança
-da Serpent Ltda,
-<--------------------->
-
-e os Mavericks, acabou
-de começar.
+a Serpent Ltda e os
+Mavericks já começou.
 <--------------------->
 
 <p 02><d 3410><a 02><n 04>
-Não pode ficar aí.
-É muito perigoso.
-<--------------------->
-
-Volte ao QG
+É muito perigoso ficar
+aí. Volte ao QG
 imediatamente.
 <--------------------->
 
@@ -1018,24 +825,15 @@ Vou proteger a todos!
 <*********************>
 
 <p 03><d 3810><a 08><n 02>
-Sou uma tola. Giro
-sabia que eu estava de
-cabeça quente
-<--------------------->
-
-e tentou me impedir,
-mas agi sem pensar
-mesmo assim.
+Sou uma tola. Giro ten-
+tou me impedir, mas agi
+sem pensar mesmo assim.
 <--------------------->
 
 <p 03><d 3910><a 08><n 02>
-Giro me salvou outra
-vez...
-<--------------------->
-
-Por que sempre acabo
-sendo a única a
-sobreviver?
+Giro me salvou de novo.
+Por que sempre sou a
+única a sobreviver?
 <--------------------->
 
 <p 02><d 3A10><a 0B><n 04>
@@ -1116,23 +914,15 @@ Modelo W agora?
 <--------------------->
 
 <p 02><d 4910><a 0C><n 04>
-Não tenho certeza...
-Alguns dados estavam
-corrompidos
-<--------------------->
-
-e não pudemos completar
-a análise.
+Não sei. Alguns dados
+estavam corrompidos e
+não pudemos analisar.
 <--------------------->
 
 <p 02><d 4A10><a 0B><n 04>
-O que sei é que as seis
-senhas, codificadas nos
-Biometais,
-<--------------------->
-
-são as chaves para
-acessá-lo.
+Mas sei que as senhas
+de 6 Biometais são as
+chaves para acessá-lo.
 <--------------------->
 
 <p 02><d 4B10><a 0B><n 04>
@@ -1142,7 +932,7 @@ que contém o núcleo.
 <--------------------->
 
 <p 02><d 4C10><a 0B><n 04>
-Consegui obter
+Conseguimos encontrar
 os Modelos X e Z
 primeiro...
 <--------------------->
@@ -1154,27 +944,19 @@ outros quatro.
 
 <p 03><d 4E10><a 07><n 02>
 Vamos ter que lutar e
-tomá-los de volta!
+tomá-los à força!
 <--------------------->
 
 <p 02><d 4F10><a 0B><n 04>
-Vou simular os dados e
-obter as localizações
-aproximadas
-<--------------------->
-
-dos Biometais, usando
-as assinaturas digitais
-dos Mavericks.
+Simularei os dados para
+obter a localização dos
+outros Biometais.
 <--------------------->
 
 <p 02><d 5010><a 0B><n 04>
-À medida que eu for
-preparando as missões,
-<--------------------->
-
-adicionarei-as nos
-Transervidores.
+Adicionarei as missões
+nos Transervidores aos
+poucos.
 <--------------------->
 
 <p 02><d 5110><a 0B><n 04>

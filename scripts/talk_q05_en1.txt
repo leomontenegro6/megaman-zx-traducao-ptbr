@@ -18,7 +18,7 @@ fácil como antes.
 <*********************>
 
 <p 02><a 02><n 55>
-Responder o quiz para
+Responda o quiz para
 o irmãozinho de Yu.
 <*********************>
 
@@ -28,8 +28,9 @@ o irmãozinho de Yu.
 <*********************>
 
 <p 02><a 3E><n 39>
-Os quizzes dele podem
-ser dificílimos...
+Os jogos de quiz dele
+podem ser bem
+difíceis...
 <--------------------->
 
 <p 02><a 3E><n 39>

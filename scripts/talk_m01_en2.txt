@@ -24,12 +24,9 @@ cliente.
 <--------------------->
 
 <p 02><d ED03><a 02><n 00>
-Você recebeu a
-encomenda da unidade
-<--------------------->
-
-de reconhecimento
-arqueológico?
+Recebeu a encomenda da
+unidade de reconhe-
+cimento arqueológico?
 <--------------------->
 
 <p 02><d EE03><a 0D><n 03>
@@ -79,22 +76,14 @@ este país.
 
 <p 01><p 03><d F703><a 08><n 02>
 O país talvez, mas há
-dez anos,
-<--------------------->
-
-a força de segurança
-deles não conseguiram
-salvar minha mãe.
+dez anos, não consegui-
+ram salvar minha mãe.
 <--------------------->
 
 <p 01><p 03><d F803><a 08><n 02>
-Estávamos cercados por
-Mavericks...
-<--------------------->
-
-Mesmo agora, ainda ouço
-os gritos de desespero
-das pessoas.
+Mavericks nos cercaram.
+Ainda tenho pesadelos
+com isso...
 <--------------------->
 
 <p 01><p 03><d F903><a 08><n 02>
@@ -108,12 +97,9 @@ a encontrei, sozinha.
 <--------------------->
 
 <p 01><p 02><d FB03><a 0D><n 03>
-Sei que é duro, mas
-não creio que sua mãe
-quisesse
-<--------------------->
-
-vê-la assim tão triste.
+Sei que é duro, mas não
+acho que sua mãe queria
+vê-la triste assim.
 <--------------------->
 
 <p 01><p 02><d FC03><a 0D><n 03>
@@ -135,14 +121,9 @@ mesmo?!
 <--------------------->
 
 <p 02><d FF03><a 0E><n 03>
-Rá, rá, rá! De todo
-modo, temos que ir
-andando.
-<--------------------->
-
-O cliente já está indo
-em direção ao ponto
-de encontro.
+Rá, rá, rá!
+Vamos indo. O cliente
+já está a caminho.
 <*********************>
 
 <p 03><d 0004><a 05><n 02>
@@ -152,45 +133,27 @@ quem faremos a entrega?
 <--------------------->
 
 <p 03><d 0104><a 05><n 02>
-Nem nos contaram o que
-há dentro da encomenda.
-<--------------------->
-
-E ainda dizem que
-querem a encomenda
-entregue pontualmente.
+Não nos falaram quase
+nada da encomenda, sem
+falar na pontualidade.
 <*********************>
 
 <p 02><d 0204><a 0D><n 03>
 Os Guardiões são uma
-força defensiva de
-manutenção da paz,
-<--------------------->
-
-criada com o intuito de
+força pacifista para
 combater Mavericks.
 <--------------------->
 
 <p 02><d 0304><a 0D><n 03>
-Agora mesmo, estão se
-movendo de um lugar a
-outro,
-<--------------------->
-
-investigando a causa
-dos surtos dos
-Mavericks.
+Atualmente, eles
+investigam a causa dos
+surtos dos Mavericks.
 <--------------------->
 
 <p 02><d 0404><a 0D><n 03>
 Quanto à encomenda,
 tente não fazer muitas
 perguntas.
-<--------------------->
-
-Tenho certeza que é
-algo muito importante,
-e muito perigoso.
 <--------------------->
 
 <p 02><d 0504><a 0D><n 03>
@@ -200,8 +163,7 @@ pode sobrar pra gente.
 <*********************>
 
 <p 03><d 0604><a 07><n 02>
-O-O que está 
-acontecendo!?
+M-Mas o quê...!?
 <--------------------->
 
 <p 02><d 0704><a 0F><n 03>
@@ -243,8 +205,8 @@ Aile! Você está bem!?
 
 <p 02><d 0F04><a 04><n 03>
 A encomenda! Deve ter
-caído perto de você.
-Você a encontrou?!
+caído perto daí.
+Consegue vê-la?!
 <*********************>
 
 <p 02><d 1004><a 05><n 02>
@@ -252,27 +214,20 @@ Será aquilo?
 <*********************>
 
 <p 02><d 1104><a 04><n 03>
-Ouça! Pegue a
-encomenda,
+Ouça!
+Pegue a encomenda,
 <--------------------->
 
 <p 02><d 1204><a 04><n 03>
-leve-a ao ponto
-de encontro,
-<--------------------->
-
 e entregue-a aos
-Guardiões!
+Guardiões, no ponto de
+encontro!
 <--------------------->
 
 <p 02><d 1304><a 04><n 03>
-Nos reencontraremos
-assim que eu cuidar das
-coisas aqui em cima!
-<--------------------->
-
-Proteja esta encomenda,
-custe o que custar!
+Assim que eu cuidar das
+coisas aqui em cima,
+nos veremos de novo!
 <*********************>
 
 <p 03><d 1404><a 23><n 2B>
@@ -281,7 +236,7 @@ está fazendo aqui!?
 <--------------------->
 
 <p 02><d 1504><a 05><n 02>
-C-Calma! Só vim
+E-Esperam! Só vim
 entregar uma encomenda.
 <*********************>
 
@@ -332,25 +287,22 @@ Aaargh!
 <*********************>
 
 <p 03><d 1F04><a 0C><n 04>
-Nãããão!
+P-Pessoal!
 <--------------------->
 
 <p 03><d 2004><a 23><n 2C>
-P-Pegue-o... e... vá!
+Rápido... Pegue o
+Biometal... e...
 <*********************>
 
 <p 02><d 2104><a 07><n 02>
-Rápido! Levante-se!
+Rápido, levante-se!
 Temos que fugir daqui!
 <--------------------->
 
 <p 02><d 2204><a 07><n 02>
 Eles querem a enco-
-menda! Você tem que
-deixá-la para trás.
-<--------------------->
-
-Se a levarmos junto,
+menda! Se a levarmos,
 eles vão nos perseguir!
 <*********************>
 
@@ -361,9 +313,9 @@ erradas!
 <--------------------->
 
 <p 02><d 2404><a 07><n 02>
+O que está dizendo?!
 Esse tal de Biometal é
 tão importante assim?!
-Nós temos que fugir!
 <--------------------->
 
 <p 03><d 2504><a 0C><n 04>
@@ -383,11 +335,8 @@ envolver...
 <--------------------->
 
 <p 02><d 2804><a 07><n 02>
-Mas ela parece pensar
-que o Biometal é algo
-muito importante.
-<--------------------->
-
+Mas não posso simples-
+mente abandoná-la aqui!
 Não sei o que fazer...
 <*********************>
 
@@ -402,8 +351,8 @@ minha força.
 
 <p 01><p 02><d 2B04><a 07><n 02>
 Arf... Arf... O que
-houve comigo?! Este é
-o poder do Biometal?!
+houve com meu corpo?!
+É o poder do Biometal?!
 <--------------------->
 
 <p 01><p 02><d 2C04><a 31><n 05>
@@ -418,13 +367,9 @@ minha cabeça!
 <--------------------->
 
 <p 01><p 02><d 2E04><a 31><n 05>
-Temos que nos afastar
-dessa região, senão
-aquela garota
-<--------------------->
-
-será atingida pelo
-fogo cruzado.
+Aquela garota poderá
+ser atingida. É melhor
+nos afastarmos daqui.
 <--------------------->
 
 <p 01><p 02><d 2F04><a 31><n 05>
@@ -439,38 +384,26 @@ derrotá-los!
 
 <p 02><d 3104><a 0B><n 04>
 Ela se transformou?!
-Será que ela é um dos
-escolhidos?
+Será que o Biometal
+a escolheu?
 <*********************>
 
 <p 03><d 3204><a 05><n 02>
-Só o que tenho que
-fazer é levar
-o Biometal
-<--------------------->
-
-até o ponto de
+Eu só preciso levar o
+Biometal até o ponto de
 encontro, certo?
 <--------------------->
 
 <p 03><d 3304><a 05><n 02>
-É muito perigoso me
-seguir, então...
-<--------------------->
-
-por favor, fique aqui
-esperando, até eu
-conseguir ajuda!
+É perigoso me seguir.
+Por favor, espere até
+eu conseguir ajuda!
 <--------------------->
 
 <p 03><d 3404><a 07><n 02>
-Eu estou pondo o meu
-pescoço na linha aqui,
-<--------------------->
-
-então podem esperar uma
-taxa de serviço extra,
-quando a conta chegar!
+Trabalho de risco esse!
+Vamos cobrar uma taxa
+extra na conta, viu?!
 <*********************>
 
 <p 02><d 3504><a 09><n 04>
@@ -507,13 +440,9 @@ Seja cuidadosa, Aile!
 <*********************>
 
 <p 02><d 3B04><a 05><n 02>
-De alguma forma,
-conseguimos derrotá-lo.
-<--------------------->
-
-Você me disse que
-seu nome é Modelo X.
-Por que me ajudou?
+Parece que conseguimos.
+Seu nome é Modelo X,
+né? Por que me ajudou?
 <--------------------->
 
 <p 02><d 3C04><a 31><n 05>
@@ -522,13 +451,9 @@ para ajudar pessoas?
 <--------------------->
 
 <p 02><d 3D04><a 31><n 05>
-Eu senti a sua
-determinação em ajudar
-aquela garota,
-<--------------------->
-
-mesmo apesar de nunca
-tê-la conhecido antes.
+Mesmo sem conhecê-la,
+senti sua bravura em
+ajudar aquela garota.
 <--------------------->
 
 <p 02><d 3E04><a 31><n 05>
@@ -538,14 +463,14 @@ poder, para ajudar.
 <--------------------->
 
 <p 02><d 3F04><a 05><n 02>
-Poder, né? Bem, seja lá
-o que fez, você salvou
-minha pele.
+Seu poder? Bom, seja
+lá o que fez, você
+salvou minha pele.
 <--------------------->
 
 <p 02><d 4004><a 08><n 02>
-Bravura por si só não é
-o bastante para enfren-
+Não basta ter bravura
+por si só, pra enfren-
 tar essas coisas...
 <--------------------->
 
@@ -571,29 +496,21 @@ precisando de ajuda.
 <*********************>
 
 <p 03><d 4504><a 23><n 2D>
-Não pode ser! Vamos,
-homens! Prairie e os
-outros precisam de nós!
+Como? Homens, a coman-
+dante Prairie e os ou-
+tros estão em apuros!
 <*********************>
 
 <p 02><d 4604><a 05><n 02>
-Por que a pressa?
-Esses tais Guardiões
-parecem achar
-<--------------------->
-
-que Prairie é muito
-importante.
+Comandante... Prairie?
+Ela parece importante
+para os Guardiões...
 <--------------------->
 
 <p 03><d 4704><a 22><n 18>
-Incrível!
-Você conseguiu
-conectar-se
-<--------------------->
-
-com o Biometal, e agora
-detém seus poderes.
+Incrível! Você se
+fundiu com o Biometal
+e consegue manuseá-lo.
 <--------------------->
 
 <p 03><d 4804><a 22><n 18>
@@ -606,9 +523,6 @@ aqui são e salvo.
 Ei, você viu o Giro?
 Outro transportador
 deveria estar aqui.
-<--------------------->
-
-Ele já chegou?
 <--------------------->
 
 <p 03><d 4A04><a 22><n 18>
@@ -629,20 +543,14 @@ General em seguida.
 <--------------------->
 
 <p 03><d 4D04><a 22><n 18>
-Esperem. Vocês chegaram
-a avistar outro
-transportador
-<--------------------->
-
-no trajeto até onde
-estavam os outros
-membros?
+Esperem. Aparentemente,
+um transportador desa-
+pareceu na região.
 <--------------------->
 
 <p 03><d 4E04><a 22><n 18>
-Aparentemente, um
-transportador desapa-
-receu na região.
+Vocês chegaram a
+avistá-lo?
 <--------------------->
 
 <p 02><d 4F04><a 02><n 2D>
@@ -653,7 +561,7 @@ fumaça surgindo na
 
 <p 02><d 5004><a 02><n 2D>
 Tudo indica que alguém
-está sendo atacado!
+está sendo atacado lá!
 <--------------------->
 
 <p 02><d 5104><a 08><n 02>
@@ -661,12 +569,9 @@ Não... Giro!
 <*********************>
 
 <p 02><d 5204><a 07><n 02>
-Desculpe, mas vou
-precisar do Biometal
-por mais tempo.
-<--------------------->
-
-Eu tenho que salvá-lo!
+Desculpe, mas vou ficar
+com o Biometal por mais
+tempo. Vou salvá-lo!
 <--------------------->
 
 <p 03><d 5304><a 22><n 18>
@@ -680,13 +585,8 @@ risco de novo?!
 
 <p 02><d 5504><a 07><n 02>
 Ah, entendi! Agora que
-sua preciosa encomenda
-voltou, você não liga
-<--------------------->
-
-para o cara que
-arriscou sua vida
-para entregá-la!
+a encomenda chegou, não
+ligam mais pro Giro!
 <--------------------->
 
 <p 03><d 5604><a 22><n 18>
@@ -694,7 +594,7 @@ M-Mas!
 <--------------------->
 
 <p 02><d 5704><a 02><n 04>
-Espere! Fleuve!
+Espere, Fleuve!
 Deixe ela ir!
 <--------------------->
 
@@ -704,8 +604,6 @@ Prairie!?
 
 <p 02><d 5904><a 02><n 04>
 Está tudo bem, Fleuve.
-<--------------------->
-
 Ela manterá o Biometal
 a salvo dos Mavericks.
 <--------------------->
@@ -715,9 +613,9 @@ Aile...
 <--------------------->
 
 <p 02><d 5B04><a 02><n 04>
-Você arriscou sua vida
-para me salvar, mesmo
-sem saber quem eu sou.
+Mesmo sem saber quem eu
+era, você arriscou sua
+vida para me salvar.
 <--------------------->
 
 <p 02><d 5C04><a 02><n 04>
@@ -739,34 +637,26 @@ Obrigada, Prairie.
 <--------------------->
 
 <p 03><d 6004><a 22><n 18>
-Certo, forneceremos
-apoio, então.
+Não podemos evitar.
+Assim sendo, nós
+forneceremos apoio.
 <--------------------->
 
 <p 03><d 6104><a 22><n 18>
 Talvez já saiba, mas
-esses são os chamados
-"Transervidores",
-<--------------------->
-
-dispositivos de dados
-espalhados por todo
-o país.
+esses dispositivos são
+os "Transervidores".
 <--------------------->
 
 <p 03><d 6204><a 22><n 18>
 Com esses dispositivos,
-você poderá salvar
-seu jogo,
-<--------------------->
-
-e verificar as missões
-pendentes para cumprir.
+poderá salvar o jogo e
+ver missões pendentes.
 <--------------------->
 
 <p 03><d 6304><a 22><n 18>
-Vamos começar salvando
-o jogo.
+Vamos começar com o
+salvamento.
 <*********************>
 
 <p 03><e 01><a 22><n 18>
@@ -781,12 +671,9 @@ com sucesso.
 <*********************>
 
 <p 03><d 6704><a 22><n 18>
-Não vai querer salvar
-o seu jogo?
-<--------------------->
-
-Espero que saiba
-o que está fazendo.
+Não vai salvar agora?
+Espero que saiba o que
+está fazendo.
 <*********************>
 
 <p 03><d 6504><a 22><n 18>
@@ -807,12 +694,8 @@ transportador.
 
 <p 03><d 6B04><a 22><n 18>
 A segunda é completar
-um teste para conseguir
-permissão
-<--------------------->
-
-para entrar no QG dos
-Guardiões.
+um teste para entrar no
+QG dos Guardiões.
 <--------------------->
 
 <p 03><d 6C04><a 22><n 18>
@@ -822,13 +705,9 @@ o Biometal ao QG.
 <--------------------->
 
 <p 03><d 6D04><a 22><n 18>
-No QG, assinaremos a
-solicitação de recebi-
-mento da encomenda,
-<--------------------->
-
-e seu trabalho estará
-terminado.
+No QG, confirmaremos o
+recebimento, e seu tra-
+balho estará terminado.
 <--------------------->
 
 <p 03><d 6E04><a 22><n 18>
@@ -844,9 +723,9 @@ dos Mavericks...
 <--------------------->
 
 <p 02><d 7004><a 07><n 02>
-Agora é minha vez de
-devolver o favor. Giro,
-aguenta firme! Tô indo!
+Agora é minha vez
+de devolver o favor.
+Aguente firme, Giro!
 <*********************>
 
 <FIM>

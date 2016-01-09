@@ -6,9 +6,9 @@ Obrigado, tio!
 <--------------------->
 
 <p 02><a 37><n 32>
-Fiquei um tanto
-perto demais do fogo,
-mas vou ficar bem.
+Fiquei perto demais do
+fogo, mas vou ficar
+bem.
 <--------------------->
 
 <p 02><a 37><n 32>
@@ -17,9 +17,8 @@ na hora!
 <*********************>
 
 <p 02><a 37><n 32>
-Estou com medo de ir
-lá fora, então vou
-ficar aqui.
+Estou com medo de sair,
+então vou ficar aqui.
 <*********************>
 
 <p 02><a 37><n 32>
@@ -34,14 +33,14 @@ deles, não é?
 
 <p 02><a 37><n 32>
 Até mesmo os próprios
-empregados dela ficaram
+empregados ficaram
 presos, junto comigo.
 <--------------------->
 
 <p 02><a 37><n 32>
-Mamãe costumava dizer
-que a Serpent Ltda
-salvou este país...
+Mamãe dizia que a
+Serpent Ltda salvou
+este país...
 <--------------------->
 
 <p 02><a 37><n 32>
@@ -56,8 +55,8 @@ primeira vez ontem!
 
 <p 02><a 37><n 32>
 Mas quando cheguei no
-viaduto, fiquei muito
-assustado.
+viaduto, fiquei com
+medo.
 <*********************>
 
 <p 02><a 37><n 32>
@@ -67,8 +66,8 @@ escondido pra sempre.
 
 <p 02><a 37><n 32>
 Quando vejo pessoas
-como você, encarando o
-perigo cara a cara...
+como você, desafiando
+perigos...
 <--------------------->
 
 <p 02><a 37><n 32>
@@ -130,11 +129,8 @@ banho sem se queimar.
 <*********************>
 
 <p 02><a 4D><n 48>
-Me pergunto que tipo de
-tesouro estaria
-escondido
-<--------------------->
-
+Que tipo de tesouro
+estaria escondido
 nos campos de lava?
 <--------------------->
 
@@ -168,13 +164,11 @@ deles,
 
 mas eles estão deixando
 muito a desejar ultima-
-mente! Isso me chateia!
+mente!
 <*********************>
 
 <p 02><a 4D><n 48>
 Ah, que besteira!
-<--------------------->
-
 Eu não devia ter falado
 mal da Serpent Ltda.
 <--------------------->
@@ -201,9 +195,8 @@ esconde-esconde!
 <--------------------->
 
 <p 02><a 3B><n 36>
-Quando cê vai voltar,
-pra gente brincar
-de novo?!
+Quando cê volta, pra
+gente brincar de novo?!
 <*********************>
 
 <p 02><a 3B><n 36>
@@ -214,11 +207,8 @@ no esconde-esconde?
 
 <p 02><a 3B><n 36>
 Acho que, se tivesse,
-<--------------------->
-
-então as pessoas iriam
-parar de me procurar,
-e isso não seria legal.
+ninguém ia querer brin-
+car, seria bem chato.
 <*********************>
 
 <p 02><a 3B><n 36>
@@ -332,25 +322,21 @@ contratá-los.
 <*********************>
 
 <p 02><a 55><n 51>
-Se não fosse pela
-Serpent Ltda, este
-lugar não seria metade
-<--------------------->
-
-do lugar que é hoje
-em dia.
+Não fosse pela Serpent,
+este lugar não seria
+metade do que é hoje.
 <--------------------->
 
 <p 02><a 55><n 51>
-Tenho orgulho de ser
-um empregado da melhor
-empresa do planeta!
+Tenho orgulho de
+trabalhar na melhor
+empresa do mundo!
 <*********************>
 
 <p 02><a 55><n 51>
 Deveríamos ter conosco
-alguém como você. Devia
-se juntar a nós!
+alguém como você.
+Junte-se a nós!
 <--------------------->
 
 <p 02><a 55><n 51>
@@ -402,14 +388,13 @@ para todos nós!
 
 <p 02><a 55><n 51>
 Que equipamento é
-esse aí, que está
-usando?!
+esse aí?!
 <--------------------->
 
 <p 02><a 55><n 51>
-Se continuar desse
-jeito, os guardas
-virão atrás de você.
+Se continuar assim, os
+guardas virão atrás de
+você.
 <--------------------->
 
 <p 02><a 55><n 51>
@@ -450,13 +435,9 @@ ao tesouro.
 <*********************>
 
 <p 02><a 3A><n 35>
-Nada supera a emoção de
-ouvir as pegadas do seu
-perseguidor,
-<--------------------->
-
-enquanto você está no
-seu esconderijo.
+Nada é mais emocionante
+que o som dos outros
+procurando você.
 <--------------------->
 
 <p 02><a 3A><n 35>
@@ -484,8 +465,8 @@ na Área J.
 <--------------------->
 
 <p 02><a 3A><n 35>
-mas é tão escuro ir lá,
-que fiquei com medo.
+mas é tão escuro que
+fiquei com medo.
 <*********************>
 
 <p 02><a 3A><n 35>
@@ -497,11 +478,7 @@ ou florestas.
 <p 02><a 3A><n 35>
 Acham que é perigoso,
 mas eu rio na cara do
-perigo.
-<--------------------->
-
-O perigo é meu melhor
-amigo. Pode crer...
+perigo!
 <*********************>
 
 <p 02><a 3A><n 35>
@@ -510,8 +487,8 @@ você?
 <--------------------->
 
 Estou tomando de conta
-do lugar, enquanto todo
-mundo está fora.
+do lugar, enquanto
+todos estão fora.
 <--------------------->
 
 <p 02><a 3A><n 35>
@@ -532,8 +509,7 @@ amigos.
 
 <p 02><a 3A><n 35>
 Que armadura legal!
-Onde posso comprar uma
-parecida?
+Onde tem pra comprar?
 <*********************>
 
 <p 02><a 3A><n 35>
@@ -568,9 +544,9 @@ nos salvou mais cedo?
 <--------------------->
 
 <p 02><a 4E><n 49>
-Pensava que bravura não
-mais existia, mas você
-restaurou minha fé.
+Tinha perdido a fé na
+humanidade, mas você a
+restaurou.
 <*********************>
 
 <p 02><a 4E><n 49>
@@ -582,10 +558,7 @@ voltou ao normal.
 <p 02><a 4E><n 49>
 Faço caminhadas na
 floresta, pescaria no
-lago...
-<--------------------->
-
-Ah, é uma bênção.
+lago... Ah, que bênção.
 <--------------------->
 
 <p 02><a 4E><n 49>
@@ -622,12 +595,8 @@ da Serpent Ltda!
 
 <p 02><a 4E><n 49>
 Deve ser um desses
-novos trajes
-fantasiosos
-<--------------------->
-
-e você está testando
-o equipamento.
+novos trajes fantasio-
+sos que está testando.
 <*********************>
 
 <p 02><a 4E><n 49>
@@ -637,13 +606,9 @@ que estava vestindo?
 <--------------------->
 
 <p 02><a 4E><n 49>
-Com esse traje, eu
-poderia escalar as
-mais altas montanhas,
-<--------------------->
-
-e mergulhar até o fundo
-do oceano!
+Com esse traje, daria
+pra escalar montanhas e
+mergulhar no oceano!
 <*********************>
 
 <p 02><a 4E><n 49>
@@ -654,8 +619,7 @@ no país me esperando.
 
 <p 02><a 4E><n 49>
 Quero explorar o máximo
-de ruínas e terras
-distantes possível,
+de lugares possíveis,
 <--------------------->
 
 enquanto estas pernas
@@ -680,9 +644,9 @@ enfrentar o perigo.
 <--------------------->
 
 <p 02><a 4E><n 49>
-Não importa quão velho
-eu esteja, sempre quero
-rir na cara do perigo!
+Posso estar velho, mas
+sempre quero rir na
+cara do perigo!
 <*********************>
 
 <p 02><a 4E><n 49>
@@ -704,9 +668,8 @@ Como conseguiu isso!?
 <--------------------->
 
 <p 02><a 4E><n 49>
-Troco o cristal por
-esse Chip Botas de
-Gelo!
+Troco esse cristal por
+um Chip Botas de Gelo!
 <--------------------->
 
 <p 02><a 4E><n 49>
@@ -721,7 +684,7 @@ Uou! Você me assustou!
 <p 02><a 4E><n 49>
 Incrível! Quem dera se
 eu tivesse um traje
-fantástico como o seu!
+como o seu!
 <*********************>
 
 <p 02><a 38><n 33>
@@ -753,7 +716,7 @@ telhado deste prédio.
 
 <p 02><a 38><n 33>
 Lá em cima, vive
-crescendo erva daninha
+crescendo relva
 o tempo todo.
 <*********************>
 
@@ -769,8 +732,7 @@ sido você.
 <--------------------->
 
 <p 02><a 38><n 33>
-Ah, não importa mais,
-de qualquer forma.
+Ah, não importa mais.
 <*********************>
 
 <p 02><a 38><n 33>
@@ -792,13 +754,12 @@ o tempo todo sem parar.
 <*********************>
 
 <p 02><a 38><n 33>
-Meu vovô vive dizendo
-as mesmas coisas todo
-tempo.
+Meu vovô sempre diz a
+mesma coisa.
 <--------------------->
 
 <p 02><a 38><n 33>
-Ele fica dizendo isso:
+Ele fica dizendo:
 "Antigamente, com o
 país sem energia,
 <--------------------->
@@ -810,8 +771,8 @@ bocados."
 
 <p 02><a 38><n 33>
 "Comparado ao que era,
-este país certamente é
-um paraíso agora."
+o país de agora é um
+paraíso."
 <--------------------->
 
 <p 02><a 38><n 33>
@@ -898,7 +859,7 @@ imagens embaçadas.
 <--------------------->
 
 <p 02><a 45><n 40>
-Mas mesmo assim, eu é
+E mesmo assim, eu é
 que não ia publicar
 esse tipo de conteúdo.
 <--------------------->
@@ -960,14 +921,9 @@ do salário este mês.
 <--------------------->
 
 <p 02><a 45><n 40>
-Preciso achar uma
-empresa que não se
-importe
-<--------------------->
-
-em fazer dinheiro o
-tempo todo, e trabalhar
-lá.
+Preciso trabalhar numa
+empresa que não seja
+tão capitalista assim.
 <*********************>
 
 <p 02><a 45><n 40>
@@ -1011,11 +967,8 @@ comigo.
 
 <p 02><a 3C><n 37>
 Ele descobriu que eu
-tava indo pras
-fronteiras escondido,
-<--------------------->
-
-pra brincar por lá.
+tava brincando nas
+fronteiras escondido.
 <--------------------->
 
 <p 02><a 3C><n 37>
@@ -1087,12 +1040,8 @@ criar tanta energia!
 
 <p 02><a 3C><n 37>
 Se eu estudar bastante,
-talvez eu consiga ser
-um figurão,
-<--------------------->
-
-igualzinho o presidente
-da Serpent Ltda.
+talvez eu vire alguém
+grande, como o Serpent.
 <--------------------->
 
 <p 02><a 3C><n 37>
@@ -1145,19 +1094,14 @@ da mãe de Jeff, né?
 <--------------------->
 
 <p 02><a 3D><n 38>
-Cara, aquela senhora se
-preocupa demais com a
-gente.
+Cara, a mãe dele se
+preocupa demais.
 <--------------------->
 
 <p 02><a 3D><n 38>
 Qual menino ia querer
 estudar dentro de casa,
-<--------------------->
-
-quando poderia muito
-bem estar na rua
-brincando?
+podendo brincar na rua?
 <*********************>
 
 <p 02><a 3D><n 38>
@@ -1310,12 +1254,9 @@ trabalhos perigosos.
 <--------------------->
 
 <p 02><a 55><n 50>
-Tô te avisando. Não
-faça nada suspeito
-<--------------------->
-
-no território da
-Serpent Ltda.
+Uma dica: Não faça nada
+suspeito no território
+da Serpent Ltda.
 <*********************>
 
 <p 02><a 55><n 50>
@@ -1385,30 +1326,20 @@ maior, comparado à
 
 <p 02><a 55><n 50>
 Deve ser o efeito
-psicológico
-<--------------------->
-
-de sua magnífica
-presença...
+psicológico de sua
+magnífica presença...
 <*********************>
 
 <p 02><a 55><n 50>
 Ultimamente, o
 presidente anda
-bem ocupado
-<--------------------->
-
-investigando os
-arredores da Área M.
+bem ocupado na Área M.
 <--------------------->
 
 <p 02><a 55><n 50>
 Estou feliz por não
-terem pedido para eu ir
-<--------------------->
-
-até um lugar perigoso
-como aquele.
+terem pedido para eu
+ir até aquele lugar.
 <*********************>
 
 <p 02><a 55><n 50>
@@ -1453,7 +1384,7 @@ Ora ora, quem é você?
 <p 02><a 50><n 4B>
 Meu nome é Morgan, e
 sou o dono deste
-estabelecimento.
+fliperama.
 <--------------------->
 
 <p 02><a 50><n 4B>
@@ -1481,32 +1412,21 @@ deles, e pressione
 <*********************>
 
 <p 02><a 50><n 4B>
-Vizinho a mim, a porta
-seguinte, que contém um
-Transervidor,
-<--------------------->
-
+A porta seguinte, que
+contém um Transervidor,
 também leva ao viaduto.
 <--------------------->
 
 <p 02><a 50><n 4B>
-Os arredores do viaduto
-estão repletos de
-Mavericks.
-<--------------------->
-
-então é melhor tomar
-cuidado, se for até lá.
+O viaduto está repleto
+de Mavericks, então
+cuidado ao ir lá.
 <--------------------->
 
 <p 02><a 50><n 4B>
-Eles partiram a pista
-em dois, para evitar
-que as pessoas
-<--------------------->
-
-andem por lá acidental-
-mente.
+Até partiram a pista em
+dois, pra evitar gente
+indo lá acidentalmente.
 <--------------------->
 
 <p 02><a 50><n 4B>
@@ -1558,13 +1478,13 @@ com você...
 <*********************>
 
 <p 02><a 50><n 4B>
-Quer jogar algo?
+Quer jogar videogame?
 <--------------------->
 
 <p 02><a 50><n 4B>
 Você parece ocupado,
-então que tal da
-próxima vez?
+então talvez da
+próxima vez...
 <*********************>
 
 <p 02><a 50><n 4B>
@@ -1668,12 +1588,8 @@ como o verdadeiro...
 
 <p 02><a 3E><n 39>
 A precisão do freio
-é boa,
-<--------------------->
-
-mas o acelerador não é
-tão responsivo como eu
-gostaria que fosse.
+é boa, mas o acelerador
+não é tão responsivo.
 <--------------------->
 
 <p 02><a 3E><n 39>
@@ -2173,12 +2089,12 @@ Valeu <nome>!
 <--------------------->
 
 <p 02><a 46><n 41>
-Pelo quê? Não me diga
+Como? Não me diga
 que se esqueceu...
 <--------------------->
 
 <p 02><a 46><n 41>
-Foi uma das pessoas que
+Fui uma das pessoas que
 você resgatou naquela
 sala escura.
 <--------------------->
@@ -2219,13 +2135,9 @@ na Serpent Ltda!
 <*********************>
 
 <p 02><a 46><n 41>
-Mas tenho orgulho do
-trabalho que faço hoje.
-<--------------------->
-
-<p 02><a 46><n 41>
-Muito embora ninguém
-acredite em mim...
+Mas me orgulho do meu
+meu trabalho, apesar de
+ninguém acreditar...
 <*********************>
 
 <p 02><a 46><n 41>
@@ -2242,11 +2154,8 @@ gia de última geração.
 
 <p 02><a 46><n 41>
 Mas isso é ridículo.
-<--------------------->
-
 Por que a Serpent Ltda
-estaria armazenando
-armamentos?
+precisaria disso?
 <*********************>
 
 <p 02><a 46><n 41>
@@ -2256,12 +2165,12 @@ O quê!?
 <p 02><a 46><n 41>
 Está dizendo que a
 Serpent Ltda estava por
-trás de nosso sequestro
+trás do sequestro,
 <--------------------->
 
 <p 02><a 46><n 41>
-e que eles pretendiam
-nos transformar em
+e que pretendiam nos
+transformar em
 Cyber-elfos?
 <--------------------->
 
@@ -2312,11 +2221,7 @@ uma beleza.
 
 <p 02><a 46><n 41>
 Opa! Que traje doido é
-esse aí!?
-<--------------------->
-
-<p 02><a 46><n 41>
-É você, <nome>?
+esse aí!? É você, <nome>?
 <--------------------->
 
 <p 02><a 46><n 41>
@@ -2330,12 +2235,9 @@ acabar surtando.
 <*********************>
 
 <p 02><a 4F><n 4A>
-Estou tão fora de forma
-ultimamente,
-<--------------------->
-
-que tentei passear, e
-o vento me levou.
+Eu ando tão fora de
+forma, que fui passear,
+e o vento me levou.
 <--------------------->
 
 <p 02><a 4F><n 4A>
@@ -2355,13 +2257,9 @@ você jogava bola.
 <*********************>
 
 <p 02><a 4F><n 4A>
-Ouvi dizer que há um
-jogo na Área C-2,
-<--------------------->
-
-onde o objetivo é
-driblar a bola até
-o gol.
+Ouvi falar de um jogo
+de dribles de bola, no
+fliperama da Área C-2.
 <--------------------->
 
 <p 02><a 4F><n 4A>
@@ -2371,28 +2269,21 @@ dê uma olhada depois.
 <*********************>
 
 <p 02><a 4F><n 4A>
-Se eu fosse dez anos
+Se eu fosse 10 anos
 mais jovem, estaria lá
 jogando também.
 <--------------------->
 
 <p 02><a 4F><n 4A>
-Mas o jogo exige tanto
-da minha coordenação
-motora
-<--------------------->
-
+Mas o jogo exige tanto,
 que este corpo cansado
 não aguenta mais.
 <*********************>
 
 <p 02><a 4F><n 4A>
 Tentei dar uns toques
-de bola ontem,
-<--------------------->
-
-mas acabei caindo de
-cara no chão.
+de bola ontem, mas
+acabei de cara no chão.
 <--------------------->
 
 <p 02><a 4F><n 4A>
@@ -2409,8 +2300,8 @@ de glória,
 
 <p 02><a 4F><n 4A>
 mas eu gostaria de
-correr no campo e fazer
-uns chutes a gol.
+jogar uma partida ao
+menos uma vez.
 <*********************>
 
 <p 02><a 4F><n 4A>

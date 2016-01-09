@@ -37,7 +37,7 @@ suprimentos inimigos.
 <p 02><a 02><n 55>
 Traga outro kit de
 socorros, de um dos
-contâineres na Área L.
+contêineres na Área L.
 <*********************>
 
 <e 01><a 02><n 55>

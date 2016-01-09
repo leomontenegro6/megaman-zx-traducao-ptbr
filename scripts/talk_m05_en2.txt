@@ -3,11 +3,8 @@
 
 <p 02><d 8913><a 02><n 55>
 Detectei uma assinatura
-de Biometal na Área E,
-<--------------------->
-
-do lado de fora do
-distrito residencial.
+de Biometal nas proxi-
+midades da Área E.
 <--------------------->
 
 <p 02><d 8A13><a 02><n 55>
@@ -39,19 +36,15 @@ energia.
 <--------------------->
 
 <p 02><d 8F13><a 02><n 04>
-Segundo nosso banco de
-dados, a usina estava
-desativada
-<--------------------->
-
-desde o dia em que foi
-saqueada por Mavericks.
+O banco de dados diz
+que foi desativada após
+Mavericks a saquearem.
 <--------------------->
 
 <p 02><d 9013><a 02><n 04>
-Há algo suspeito
-acontecendo. Tome
-cuidado, Aile.
+Há algo suspeito nesta
+usina. Tome cuidado,
+Aile.
 <*********************>
 
 <p 02><d 9113><a 05><n 02>
@@ -62,7 +55,7 @@ Giro morreu.
 
 <p 02><d 9213><a 02><n 04>
 Esta assinatura...
-Cyber-elfos!?
+Serão... Cyber-elfos!?
 <--------------------->
 
 <p 02><d 9313><a 05><n 02>
@@ -71,14 +64,9 @@ Cyber-elfo?
 <--------------------->
 
 <p 02><d 9413><a 02><n 04>
-Cyber-elfos são
-programas sensientes,
-criados a partir de
-<--------------------->
-
-pura energia, e com
-aparência similar a de
-elfos.
+Programas sencientes
+feitos de pura energia,
+com aparência de elfos.
 <--------------------->
 
 <p 02><d 9513><a 02><n 04>
@@ -103,12 +91,9 @@ neste lugar.
 <--------------------->
 
 <p 02><d 9913><a 02><n 04>
-Inacreditável!
+Que cruel!
 Cyber-elfos são seres
-vivos,
-<--------------------->
-
-igual a todos nós!
+vivos, igual a nós!
 <--------------------->
 
 <p 02><d 9A13><a 02><n 04>
@@ -117,12 +102,9 @@ desativar esta usina!
 <*********************>
 
 <p 03><d 9B13><a 1B><n 10>
-Hmph. Como foi que uma
+Hmph. Como uma
 garotinha como você
-<--------------------->
-
-veio parar num lugar
-como este?
+veio parar neste lugar?
 <--------------------->
 
 <p 03><d 9C13><a 1B><n 10>
@@ -138,32 +120,21 @@ tagarela, sabia?
 <--------------------->
 
 <p 03><d 9E13><a 1B><n 10>
-Ora, como está bem
-informada. Parece que
-<--------------------->
-
-posso pular as
-apresentações.
+Entendo, já está infor-
+mado. Então posso pular
+as apresentações.
 <--------------------->
 
 <p 03><d 9F13><a 1B><n 10>
-No entanto, não se
-engane.
-<--------------------->
-
-Não sou um simples
-fantoche, como os
-outros Mavericks.
+Mas não vá pensando que
+sou um fantoche, como
+os outros Mavericks.
 <--------------------->
 
 <p 03><d A013><a 1B><n 10>
-Sou um Mega Man
-artificial, criado
-com base
-<--------------------->
-
-nos poderes do meu
-Biometal.
+Sou um Mega Man artifi-
+cia, feito baseado nos
+poderes de Biometais.
 <--------------------->
 
 <p 03><d A113><a 1B><n 10>
@@ -172,7 +143,8 @@ Modelo H, Hivolt.
 <--------------------->
 
 <p 03><d A213><a 1B><n 10>
-Não tema. Tudo acabará
+Mas não precisa ter
+medo. Tudo acabará
 em breve.
 <--------------------->
 
@@ -183,18 +155,15 @@ de dormir para sempre!
 <*********************>
 
 <p 01><p 03><d A413><a 1B><n 10>
-A curiosidade matou o
-gato, e pelo visto
-você também.
+Lembre-se daquele
+ditado: A curiosidade
+matou o gato.
 <*********************>
 
 <p 03><d A513><a 1B><n 10>
-Rá... A energia que
-produzimos aqui
-<--------------------->
-
-já está a caminho de
-Mestre Serpent.
+Arf... A energia produ-
+zida já está a caminho
+de Mestre Serpent.
 <--------------------->
 
 <p 03><d A613><a 1B><n 10>
@@ -204,9 +173,9 @@ Modelo W.
 <--------------------->
 
 <p 03><d A713><a 1B><n 10>
-Pobre tola desiludida.
-Seu fim se aproxima com
-o início da nova era!
+Você é tola, Mega Man.
+Seu mundo mudará com o
+início de uma nova era!
 <*********************>
 
 <p 03><d A813><a 33><n 07>
@@ -226,17 +195,13 @@ sua ajuda, Modelo H.
 
 <p 02><d AB13><a 05><n 02>
 Tenho que derrotar
-Serpent e evitar a
-ressureição
-<--------------------->
-
-do Modelo W.
+Serpent e evitar que o
+Modelo W desperte.
 <--------------------->
 
 <p 03><d AC13><a 33><n 07>
-Acha mesmo que lutar
-acabará com este ciclo
-sem fim?
+Esta luta acabará mesmo
+com isso?
 <--------------------->
 
 <p 02><d AD13><a 05><n 02>
@@ -245,7 +210,8 @@ Hã?
 
 <p 03><d AE13><a 33><n 07>
 Tudo isto foi iniciado
-por um único homem.
+por um único homem com
+o Modelo W.
 <--------------------->
 
 <p 03><d AF13><a 33><n 07>
@@ -256,7 +222,7 @@ e impedir Serpent...
 
 <p 03><d B013><a 33><n 07>
 O que impedirá outro
-louco de ascender e
+homem de ascender e
 tomar o seu lugar?
 <--------------------->
 
@@ -266,43 +232,26 @@ saber disso?
 <--------------------->
 
 <p 02><d B213><a 08><n 02>
-O que eu sei de verdade
-é que Serpent está
-enganando
-<--------------------->
-
-todas as pessoas deste
-país.
+O que eu sei mesmo é
+que Serpent está enga-
+nando todos neste país.
 <--------------------->
 
 <p 02><d B313><a 07><n 02>
-Sou um dos únicos que
-conseguem ver essas
-mentiras!
-<--------------------->
-
-Não posso deixar que
-ele mate todo mundo!
+Ele mentiu para todos!
+Não vou deixar ele
+sacrificar este país!
 <--------------------->
 
 <p 03><d B413><a 33><n 07>
-Hmph. Esses humanos
-pelos quais lutamos
-bravamente
-<--------------------->
-
-para proteger, centenas
-de anos atrás, acabaram
-convencidos
+Hmph. Esses humanos que
+protegemos bravamente
+há séculos,
 <--------------------->
 
 <p 03><d B513><a 33><n 07>
-pela falsa sensação de
-segurança,
-<--------------------->
-
-oriunda da promessa
-vazia de paz.
+continuam iludidos pela
+promessa vazia de paz.
 <--------------------->
 
 <p 03><d B613><a 33><n 07>
@@ -312,19 +261,15 @@ significado.
 <--------------------->
 
 <p 03><d B713><a 33><n 07>
-Então, jovem herói,
-sim! Eu emprestarei a
-você minha força.
+Então, jovem heroína,
+eu emprestarei a você
+minha força.
 <--------------------->
 
 <p 03><d B813><a 33><n 07>
-Mas Serpent separou
-meus dados em duas
-metades.
-<--------------------->
-
-Há outro Pseudoróide
-com minha outra metade.
+Mas Serpent me dividiu,
+e deu minha outra parte
+a outro Pseudoróide.
 <--------------------->
 
 <p 03><d B913><a 33><n 07>

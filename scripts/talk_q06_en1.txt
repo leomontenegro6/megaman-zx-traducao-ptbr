@@ -30,7 +30,7 @@ terminar o serviço?
 <--------------------->
 
 <p 02><a 2C><n 20>
-Oh! Desculpe, vou
+Ah! Desculpe, vou
 explicar melhor.
 <--------------------->
 
@@ -57,7 +57,7 @@ aconteça.
 <*********************>
 
 <p 02><a 02><n 55>
-Espalhar neutralizador
+Espalhe o neutralizador
 na água dos lagos.
 <*********************>
 

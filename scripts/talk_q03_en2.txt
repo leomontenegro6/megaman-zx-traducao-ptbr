@@ -49,9 +49,9 @@ O que poderia ser?
 <*********************>
 
 <p 02><a 02><n 55>
-Achar o garoto perto
-do local onde ocorreu
-o incêndio.
+Ache o garoto perdido,
+próximo ao local onde
+ocorreu o incêndio.
 <*********************>
 
 <e 01><a 02><n 55>

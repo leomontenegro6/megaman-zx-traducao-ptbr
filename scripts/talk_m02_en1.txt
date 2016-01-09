@@ -3,16 +3,13 @@
 
 <p 02><d D107><a 02><n 55>
 Giro, o transportador,
-parece estar lidando
-<--------------------->
-
-com agressões de
-Mavericks na Área B.
+está na Área B, cercado
+por Mavericks.
 <--------------------->
 
 <p 02><d D207><a 02><n 55>
 Vá à Área B e descubra
-o seu paradeiro.
+o paradeiro de Giro.
 <*********************>
 
 <p 02><d D307><a 05><n 01>
@@ -31,43 +28,31 @@ Vent? À escuta?
 <--------------------->
 
 <p 02><d D607><a 02><n 04>
-Sobre o Maverick que
-nos atacou,
-<--------------------->
-
-há algo nessa coisa
-toda que está me
-incomodando.
+Há algo me incomodando
+sobre esses Mavericks
+que nos atacaram.
 <--------------------->
 
 <p 02><d D707><a 02><n 04>
-Deve haver uma pista
-nas ruínas
-<--------------------->
-
-sobre o que estaria
-causando os surtos
-dos Mavericks.
+Nas montanhas, deve
+haver uma pista sobre
+a causa desses surtos.
 <--------------------->
 
 <p 02><d D807><a 02><n 04>
-Verifique-as e veja se
+Ronde a área e veja se
 consegue encontrar
 algo.
 <*********************>
 
 <p 02><d D907><a 02><n 04>
-Deve haver uma pista
-nas ruínas
-<--------------------->
-
-sobre o que estaria
-causando os surtos
-dos Mavericks.
+Nas montanhas, deve
+haver uma pista sobre
+a causa desses surtos.
 <--------------------->
 
 <p 02><d DA07><a 02><n 04>
-Verifique-as e veja se
+Ronde a área e veja se
 consegue encontrar
 algo.
 <*********************>
@@ -84,12 +69,9 @@ um dos Mavericks.
 <--------------------->
 
 <p 02><d DD07><a 02><n 04>
-Se trouxer de volta ao
-QG, podemos analisá-lo.
-<--------------------->
-
-Pode nos dar a pista
-que precisamos.
+Traga-o ao QG para ana-
+lisarmos. Pode nos dar
+a pista que precisamos.
 <--------------------->
 
 <p 02><d DE07><a 02><n 04>
@@ -115,16 +97,13 @@ Chefe!
 
 <p 02><d E207><a 0D><n 03>
 Quando os Mavericks me
-cercaram,
-<--------------------->
-
-o Biometal de repente
-começou a brilhar.
+cercaram, o Biometal de
+repente se ativou.
 <--------------------->
 
 <p 02><d E307><a 0D><n 03>
-E no mesmo instante,
-estava combatendo-os
+E logo em seguida, eu
+estava combatendo-os,
 nesta forma.
 <--------------------->
 
@@ -153,13 +132,8 @@ pedido.
 
 <p 02><d E807><a 0D><n 03>
 Me disseram para manter
-segredo porque seria
-arriscado demais
-<--------------------->
-
-permitir que qualquer
-um soubesse do conteúdo
-da encomenda.
+segredo para evitar
+problemas.
 <--------------------->
 
 <p 03><d E907><a 05><n 01>
@@ -179,24 +153,21 @@ dos Guardiões.
 <--------------------->
 
 <p 02><d EE07><a 0D><n 03>
-Estarei esperando.
-Não demore muito.
+Estarei esperando
+no QG. Não demore
+muito.
 <*********************>
 
 <p 02><d EF07><a 02><n 04>
-Parece que conseguiu
-encontrar Giro. É um
-alívio.
+Que alívio.
+Você conseguiu
+encontrar Giro.
 <--------------------->
 
 <p 02><d F007><a 02><n 04>
-Ah, não esqueça de ir
-ao Transervidor mais
-próximo de você,
-<--------------------->
-
-e escolher a opção
-"Relatar Missão".
+Vá ao Transervidor mais
+próximo e escolha a
+opção "Relatar Missão".
 <--------------------->
 
 <p 02><d F107><a 02><n 04>

@@ -6,7 +6,7 @@ Obrigado, tia!
 <--------------------->
 
 <p 02><a 37><n 32>
-Fiquei um um tanto
+Fiquei um tanto
 perto demais do fogo,
 mas vou ficar bem.
 <--------------------->
@@ -1209,9 +1209,9 @@ viraram Mavericks.
 <--------------------->
 
 <p 02><a 3D><n 38>
-Psiu, eu devia estar
-falando com esquisi-
-tões como você.
+Psiu, eu não devia
+estar falando com um
+esquisitão como você.
 <*********************>
 
 <p 02><a 56><n 52>

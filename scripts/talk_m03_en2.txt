@@ -4,21 +4,13 @@
 <p 02><d B90B><a 02><n 55>
 Há um teste que você
 precisa passar, para
-obter permissão
-<--------------------->
-
-para entrar no QG dos
-Guardiões.
+entrar nos Guardiões.
 <--------------------->
 
 <p 02><d BA0B><a 02><n 55>
-Existem membros dos
-Guardiões disfarçados,
-escondidos na cidade,
-<--------------------->
-
-entre os habitantes da
-Área C.
+Entre os habitantes da
+Área C, há membros dos
+Guardiões disfarçados.
 <--------------------->
 
 <p 02><d BB0B><a 02><n 55>
@@ -28,22 +20,15 @@ você passou no teste.
 <*********************>
 
 <p 02><d BC0B><a 02><n 04>
-Um instante. Parece que
-as forças de segurança
-da Serpent Ltda
-<--------------------->
-
-estão começando a
-patrulhar a área.
+Espere. Parece que há
+patrulhas da Serpent
+Ltda rondando a região.
 <--------------------->
 
 <p 02><d BD0B><a 05><n 02>
 Patrulhas? É a primeira
 vez que ouço eles
-fazendo
-<--------------------->
-
-esse tipo de coisa.
+fazendo isso.
 <--------------------->
 
 <p 02><d BE0B><a 02><n 04>
@@ -53,45 +38,27 @@ ataques Mavericks.
 <--------------------->
 
 <p 02><d BF0B><a 02><n 04>
-Se ficar transformado,
-vão pensar que você
-é um deles,
-<--------------------->
-
-e vão te atacar assim
-que te avistarem.
+Se ficar transformada,
+vão pensar que você é
+um deles, e atacarão.
 <--------------------->
 
 <p 02><d C00B><a 02><n 04>
 Além disso, com essa
-aparência, certamente
-as pessoas da cidade
-<--------------------->
-
-evitarão se aproximar
-de você, muito menos
-conversar.
+aparência, as pessoas
+da cidade o evitarão.
 <--------------------->
 
 <p 02><d C10B><a 02><n 04>
-De todo modo, é muito
-perigoso ficar andando
-pela cidade
-<--------------------->
-
-estando transformado.
-Por isso, tenha
-cuidado.
+É perigoso andar pela
+cidade estando trans-
+formado. Tenha cuidado.
 <*********************>
 
 <p 02><d C20B><a 23><n 2E>
 Você vai se submeter
-ao teste para obter
-permissão
-<--------------------->
-
-para entrar no QG dos
-Guardiões, certo?
+ao teste para entrar no
+QG dos Guardiões, né?
 <*********************>
 
 <p 02><d C30B><a 23><n 2E>
@@ -120,11 +87,6 @@ neste lugar aberto.
 Mas você não vai achar
 meus companheiros assim
 tão facilmente.
-<--------------------->
-
-Eles estão em lugares
-que você não vai achar
-apenas passeando.
 <--------------------->
 
 <p 02><d C80B><a 24><n 28>
@@ -156,23 +118,15 @@ patrulhas de segurança.
 <--------------------->
 
 <p 02><d CD0B><a 25><n 19>
-Desde que eles
-continuem com o
-sinal verde,
-<--------------------->
-
-você está a salvo de
-ataque.
+Se estiverem emitindo
+sinal verde, eles não
+irão atacar.
 <--------------------->
 
 <p 02><d CE0B><a 25><n 19>
-Mas se for pego com uma
-arma, eles vão abrir
-fogo,
-<--------------------->
-
-e atacarão sem
-pestanejar!
+Mas se verem você com
+uma arma, abrirão fogo
+sem pestanejar!
 <--------------------->
 
 <p 02><d CF0B><a 25><n 19>
@@ -182,11 +136,12 @@ com o teste!
 <*********************>
 
 <p 02><d D00B><a 2B><n 1F>
-Caramba!
+Iiih!
 <--------------------->
 
 <p 02><d D10B><a 2B><n 1F>
-Ah! Finalmente você
+Ah! Obrigado!
+Finalmente você
 me achou.
 <--------------------->
 
@@ -202,12 +157,8 @@ aqui.
 <--------------------->
 
 <d D40B><a 2B><n 1F>
-Ufa! Achei que eles
-fossem me achar.
-<--------------------->
-
-Agora finalmente posso
-voltar ao QG.
+Ufa! Agora posso voltar
+ao QG.
 <*********************>
 
 <p 02><d D50B><a 2C><n 20>
@@ -230,7 +181,7 @@ escolha sua.
 
 <p 02><d D80B><a 2C><n 20>
 Vou pegar o meu rumo.
-Te vejo depois!
+Té mais, garota!
 <*********************>
 
 <p 02><d D90B><a 02><n 04>
@@ -256,21 +207,14 @@ Aqui, fique com isto.
 
 <p 03><d DD0B><a 05><n 02>
 Um bichinho de pelúcia?
-Rí, rí!
-<--------------------->
-
-Que fofinho!
-Mas isso é mesmo
-o meu certificado?!
+Rí, rí! Que fofo! Mas é
+mesmo o certificado?
 <--------------------->
 
 <p 02><d DE0B><a 23><n 2E>
-Melhor tomar conta
-desse bichinho.
-<--------------------->
-
-É uma das posses mais
-valiosas de Prairie.
+Esse bichinho vale
+muito à Prairie. Melhor
+tomar conta dele.
 <--------------------->
 
 <p 02><d DF0B><a 23><n 2E>

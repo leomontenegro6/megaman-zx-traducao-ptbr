@@ -53,7 +53,7 @@ por lá.
 <p 02><a 02><n 55>
 Traga um kit de
 socorros, de um dos
-contâineres na Área L.
+contêineres na Área L.
 <*********************>
 
 <e 01><a 02><n 55>

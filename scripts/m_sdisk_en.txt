@@ -1150,7 +1150,7 @@ Silure
 <*********************>
 
 
-É o mecânico chefe, e chefe
+É o mecânico-chefe, e patrão
 de Anguille. Ele é ocupado,
 mas sempre gosta de criar
 brinquedos para crianças nas
@@ -1248,12 +1248,11 @@ Fleuve
 <*********************>
 
 
-Ele continua a realizar
-pesquisas no QG dos
-Guardiões. Possui uma sede
-de conhecimento, e nas horas
-vagas, sempre prefere ler um
-livro.
+O pesquisador mais sábio do
+QG dos Guardiões. Possui uma
+sede de conhecimento, e nas
+horas vagas, sempre prefere
+ler um livro.
 <*********************>
 
 

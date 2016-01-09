@@ -111,8 +111,8 @@ fosse o escolhido.
 
 <p 01><p 02><a 26><n 1A>
 Mas agora percebo que
-há uma boa razão pelo
-Biometal te escolher.
+há uma boa razão para
+o Biometal te escolher.
 <--------------------->
 
 <p 01><p 02><a 26><n 1A>
@@ -568,7 +568,7 @@ só 1% da sua coragem...
 
 <p 02><a 2B><n 1F>
 Sei que não há nada
-que posso fazer por
+que eu possa fazer por
 você,
 <--------------------->
 
@@ -710,7 +710,7 @@ se brincar.
 <p 02><a 28><n 1C>
 Mas não conta pro tio
 Silure, senão ele vai
-ficar triste.
+ficar chateado.
 <*********************>
 
 <p 02><a 2F><n 23>
@@ -774,7 +774,7 @@ Falando nisso...
 <p 02><a 2F><n 23>
 Ouvi falar que a
 Serpent Ltda já começou
-a usar Biometal
+a usar Biometais
 <--------------------->
 
 para projetar uns
@@ -1090,7 +1090,7 @@ afetado seus sentidos.
 <p 02><a 29><n 1D>
 Adoraria te dar mais
 pacotinhos de sais, mas
-só tinha esse comigo.
+só tenho esse comigo.
 <*********************>
 
 <p 02><a 29><n 1D>
