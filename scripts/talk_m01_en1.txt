@@ -457,7 +457,7 @@ sionar sua coragem.
 <--------------------->
 
 <p 02><d 3F04><a 08><n 01>
-Eu? Coragem?
+Coragem?
 Não mesmo.
 <--------------------->
 

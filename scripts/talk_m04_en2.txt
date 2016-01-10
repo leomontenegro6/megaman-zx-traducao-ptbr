@@ -551,8 +551,8 @@ Será raiva... Ou medo?
 <*********************>
 
 <p 03><d 0410><a 18><n 00>
-Hmph, pelo menos o
-vermelho era mais
+Hmph, pelo menos o Mega
+Man vermelho era mais
 astuto que você.
 <--------------------->
 

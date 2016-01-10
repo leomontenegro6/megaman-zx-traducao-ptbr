@@ -131,7 +131,7 @@ sem pestanejar!
 <p 02><d CF0B><a 25><n 19>
 De todo modo, vou
 voltar ao QG. Boa sorte
-com o teste!
+a você!
 <*********************>
 
 <p 02><d D00B><a 2B><n 1F>
@@ -156,7 +156,8 @@ aqui.
 <--------------------->
 
 <d D40B><a 2B><n 1F>
-Ufa! Agora posso voltar
+Aah, que alívio!
+Agora posso voltar
 ao QG.
 <*********************>
 

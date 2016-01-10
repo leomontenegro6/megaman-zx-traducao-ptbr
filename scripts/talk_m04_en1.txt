@@ -490,8 +490,7 @@ A-Atire em mim...
 
 <p 02><d F80F><a 07><n 01>
 Pare com isso!
-Vamos, Chefe!
-Aguente firme!
+Chefe, aguente firme!
 <--------------------->
 
 <p 03><d F90F><a 13><n 03>
@@ -499,7 +498,7 @@ Grr... aaargh!
 <*********************>
 
 <p 02><d FA0F><a 07><n 01>
-Chefe!!!
+C-Chefe!!!
 <*********************>
 
 <p 03><d FB0F><a 14><n 00>
@@ -515,7 +514,7 @@ com pedaços de sucata.
 <*********************>
 
 <p 02><d FD0F><a 07><n 01>
-Quem é você!?
+Q-Quem é você!?
 <*********************>
 
 <p 01><p 03><d FE0F><a 14><n 0C>
@@ -552,8 +551,8 @@ Será raiva... Ou medo?
 <*********************>
 
 <p 03><d 0410><a 18><n 00>
-Hmph, pelo menos o
-vermelho era mais
+Hmph, pelo menos o Mega
+Man vermelho era mais
 astuto que você.
 <--------------------->
 
@@ -614,7 +613,7 @@ deles.
 <--------------------->
 
 <p 03><d 1010><a 19><n 0E>
-Assim farei...
+Entendido...
 <*********************>
 
 <p 03><d 1110><a 18><n 0D>
@@ -719,11 +718,11 @@ sua força... ao Vent...
 <--------------------->
 
 <p 03><d 2310><a 32><n 06>
-Entendido...
+Assim farei...
 <--------------------->
 
 <p 03><d 2410><a 11><n 03>
-Vent... seja forte...
+Vent... não desista...
 <*********************>
 
 <p 02><d 2510><a 08><n 01>
@@ -844,9 +843,8 @@ impedir Serpent.
 <--------------------->
 
 <p 03><d 3C10><a 05><n 01>
-O Chefe também queria
-o mesmo. Por isso ele
-me deu o Modelo Z.
+Preciso fazer isso pelo
+bem do Chefe.
 <--------------------->
 
 <p 02><d 3D10><a 0B><n 04>

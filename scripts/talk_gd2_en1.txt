@@ -433,7 +433,7 @@ raridade aqui?
 <--------------------->
 
 <p 02><a 27><n 1B>
-É chamado de E-Tanque.
+É chamado de E-Tank.
 <--------------------->
 
 <p 02><a 27><n 1B>

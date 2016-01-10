@@ -132,7 +132,7 @@ os outros Mavericks.
 
 <p 03><d A013><a 1B><n 10>
 Sou um Mega Man artifi-
-cia, feito baseado nos
+cial, feito baseado nos
 poderes de Biometais.
 <--------------------->
 
@@ -166,9 +166,9 @@ de Mestre Serpent.
 <--------------------->
 
 <p 03><d A613><a 1B><n 10>
-Só o que resta a ele é
-invadir o núcleo do
-Modelo W.
+Só o que resta ao
+mestre ele é invadir o
+núcleo do Modelo W.
 <--------------------->
 
 <p 03><d A713><a 1B><n 10>

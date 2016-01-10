@@ -14,12 +14,8 @@ nas proximidades.
 <--------------------->
 
 <p 02><d 7317><a 02><n 55>
-Seja lá quem tiver
-feito esta chamada,
-<--------------------->
-
-provavelmente está
-cercado pelos
+Quem fez esta chamada
+deve estar cercado por
 Mavericks.
 <--------------------->
 
@@ -46,7 +42,7 @@ com certeza veio desta
 <--------------------->
 
 <p 02><d 7817><a 02><n 04>
-O sinal está muito
+Mas o sinal está muito
 fraco para apontar a
 localização exata.
 <--------------------->
@@ -76,12 +72,8 @@ Hmm... Não tem ninguém.
 
 <p 02><d 7E17><a 02><n 04>
 Com certeza a fonte do
-sinal está vindo de um
-local próximo
-<--------------------->
-
-de sua localização
-atual.
+sinal está próxima de
+sua localização atual.
 <--------------------->
 
 <p 02><d 7F17><a 02><n 04>
@@ -91,12 +83,9 @@ perto. Tente achá-lo.
 <*********************>
 
 <p 02><d 8017><a 05><n 02>
-Prairie, estou próxima
-ao terminal que estava
-<--------------------->
-
-enviando a chamada de
-emergência.
+Prairie, achei o
+terminal que estava
+enviando os sinais.
 <--------------------->
 
 <p 02><d 8117><a 05><n 02>
@@ -105,7 +94,8 @@ por perto.
 <*********************>
 
 <p 02><d 8217><a 02><n 04>
-Como? O que será que
+Não vê ninguém?
+O que será que
 aconteceu aqui?
 <*********************>
 
@@ -116,13 +106,9 @@ terminal. Vou abri-lo.
 <--------------------->
 
 <p 02><a 04><n 56>
-Não tenho muito tempo.
-Rezo para que estes
-dados
-<--------------------->
-
-não caiam em mãos
-erradas.
+Não há tempo. Rezo para
+que estes dados não
+caiam em mãos erradas.
 <*********************>
 
 <p 02><a 04><n 56>
@@ -193,13 +179,9 @@ comandada pela irmã...
 <--------------------->
 
 <p 02><d 8617><a 02><n 04>
-A chamada de emergência
-deve ter sido ativada
-<--------------------->
-
-para fazer com que
-alguém encontrasse
-esses dados.
+A chamada deve ter sido
+ativada para que alguém
+encontrasse os dados.
 <--------------------->
 
 <p 02><d 8717><a 02><n 04>
@@ -216,10 +198,7 @@ Guardiões?!
 
 <p 02><d 8917><a 02><n 04>
 Nem eu sabia disso!
-Não há nada mencionando
-este fato
-<--------------------->
-
+Não há nada sobre isso
 na base de dados do QG!
 <--------------------->
 
@@ -252,18 +231,14 @@ Obrigada, Prairie!
 <*********************>
 
 <p 03><d 9017><a 1A><n 0F>
-Olha só! Que disco é
+Ora, ora! Que disco é
 esse que tem aí?
 <--------------------->
 
 <p 03><d 9117><a 1A><n 0F>
-Argh! Pensei ter dito
-aos Mavericks para
-deixar
-<--------------------->
-
-todo e qualquer assunto
-de importância comigo!
+Droga! Já disse que os
+assuntos de importância
+serão tratados comigo!
 <--------------------->
 
 <p 03><d 9217><a 1A><n 0F>
@@ -272,32 +247,20 @@ Hmph! Tolos inúteis!
 
 <p 02><d 9317><a 07><n 02>
 Devia saber que vocês
-estavam atrás deste
-disco!
-<--------------------->
-
-Onde está o restante
-dos dados!?
+estavam atrás do disco!
+Onde está o restante?!
 <--------------------->
 
 <p 03><d 9417><a 1A><n 0F>
-Céus... Você deve
-ser um desses intrusos
-horríveis que estão
-<--------------------->
-
-tentando impedir os
-planos de Mestre
-Serpent.
+Céus! É um desses
+intrusos tentanto
+impedir Mestre Serpent.
 <--------------------->
 
 <p 03><d 9517><a 1A><n 0F>
-Bem hmph! Não vou te
-dizer nada,
-<--------------------->
-
-pois vou te matar aqui,
-e agora!
+Nhéé! Não vou te
+dizer nada, pois vou
+te matar agora!
 <--------------------->
 
 <p 03><d 9617><a 1A><n 0F>
@@ -308,32 +271,29 @@ Modelo L, Lurerre.
 
 <p 03><d 9717><a 1A><n 0F>
 Vou fazer você em
-mil pedaços!
-<--------------------->
-
-Prepare-se para o seu
-fim, garotinha!
+mil pedaços! Prepare-se
+para o fim, pestinha!
 <*********************>
 
 <p 01><p 03><d 9817><a 1A><n 0F>
-Céus... Parece que
+Ora, ora... Parece que
 chegamos ao fim...
 <--------------------->
 
 <p 01><p 03><d 9917><a 1A><n 0F>
-O seu fim! Adeus,
+O seu fim, sua
 pestinha!
 <*********************>
 
 <p 03><d 9A17><a 1A><n 0F>
-Céus... Céus...
-Adeus mundo cruel.
+O... Ora, ora...
+Pensar que eu fui
+derrotada.
 <--------------------->
 
 <p 03><d 9B17><a 1A><n 0F>
-Não pode ser! Derrotada
-por uma nanica como
-você!
+Não pode ser!
+Sua... pestinha!!!
 <*********************>
 
 <p 03><d 9C17><a 35><n 09>
@@ -342,8 +302,8 @@ Modelo L.
 <--------------------->
 
 <p 03><d 9D17><a 35><n 09>
-Obrigada por me
-libertar deste corpo
+Obrigada. Agora estou
+livre deste corpo
 terrível.
 <--------------------->
 
@@ -355,26 +315,20 @@ dados, certo?
 
 <p 03><d 9F17><a 35><n 09>
 Sinto muito, mas já
-foram levados a
+foram levados. Estão em
 outro lugar.
 <--------------------->
 
 <p 03><d A017><a 35><n 09>
-Cem anos se passaram
-desde a guerra,
-<--------------------->
-
-mas parece que algumas
-coisas nunca mudarão.
+Mesmo cem anos após a
+guerra, algumas coisas
+nunca mudarão.
 <--------------------->
 
 <p 02><d A117><a 05><n 02>
 Há um homem chamado
-Serpent,
-<--------------------->
-
-e ele está tentando
-despertar o Modelo W.
+Serpent, tentando des-
+pertar o Modelo W.
 <--------------------->
 
 <p 02><d A217><a 05><n 02>
@@ -384,25 +338,21 @@ para impedi-lo.
 <--------------------->
 
 <p 03><d A317><a 35><n 09>
-Hmm... Modelo Z, ouvi a
-história sobre Serpent.
+Hmm... Ei, Modelo Z,
+ouvi a história sobre
+Serpent.
 <--------------------->
 
 <p 03><d A417><a 35><n 09>
-Sei que você estava
-conectado a um corpo
-hospedeiro,
-<--------------------->
-
-mas ouvi dizer que ele
-lhe derrotou em
-combate.
+Embora estivesse em um
+hospedeiro, ouvi dizer
+que ele o derrotou.
 <--------------------->
 
 <p 02><d A517><a 32><n 06>
-Sim... Minha falha
-causou a morte de um
-bom homem chamado Giro.
+Sim. Meu erro custou a
+vida de um homem cha-
+mado Giro. É a verdade.
 <--------------------->
 
 <p 03><d A617><a 35><n 09>
@@ -411,23 +361,15 @@ juntarei a vocês.
 <--------------------->
 
 <p 03><d A717><a 35><n 09>
-Será um desafio bem
-interessante,
-<--------------------->
-
-enfrentar o homem que
-venceu o grandioso
-Modelo Z.
+Será um bom desafio
+enfrentar quem derrotou
+o grandioso Modelo Z.
 <--------------------->
 
 <p 03><d A817><a 35><n 09>
 Darei a vocês minha
-senha,
-<--------------------->
-
-mas os dados estão
-divididos em duas
-metades.
+senha, mas fui dividida
+em duas metades.
 <--------------------->
 
 <p 03><d A917><a 35><n 09>
@@ -437,11 +379,9 @@ metade.
 <--------------------->
 
 <p 03><d AA17><a 35><n 09>
-Não poderei dar a você
-a senha completa,
-<--------------------->
-
+Não poderei dar a senha
 até você derrotá-lo.
+Lembre-se disso.
 <*********************>
 
 <FIM>

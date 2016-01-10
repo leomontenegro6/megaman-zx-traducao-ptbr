@@ -63,21 +63,18 @@ computador?
 <--------------------->
 
 <p 02><d DC07><a 02><n 04>
-Deve ser de um pedaço
-de metal que caiu de
-um dos Mavericks.
+Deve ter caído de um
+dos Mavericks.
 <--------------------->
 
 <p 02><d DD07><a 02><n 04>
-Traga-o ao QG para ana-
-lisarmos. Pode nos dar
-a pista que precisamos.
+Traga-o ao QG para
+analisarmos.
 <--------------------->
 
 <p 02><d DE07><a 02><n 04>
-Se encontrar qualquer
-outra coisa, traga
-de volta também.
+Pode nos dar a pista
+que precisamos.
 <*********************>
 
 <p 03><d DF07><a 07><n 01>
