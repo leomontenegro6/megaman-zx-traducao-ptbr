@@ -7,29 +7,21 @@ assinatura de Biometal.
 <--------------------->
 
 <p 02><d 421F><a 02><n 55>
-Está se movendo, e
-entrou na Área H
-sozinho.
+O Biometal está se
+movendo, e entrou na
+Área H sozinho.
 <--------------------->
 
 <p 02><d 431F><a 02><n 55>
-Na Área H, situa-se um
-parque de diversões
-<--------------------->
-
-que sofreu um severo
-ataque de Mavericks
-dez anos atrás.
+Lá, situa um parque de
+diversões atacado por
+Mavericks há dez anos.
 <--------------------->
 
 <p 02><d 441F><a 02><n 55>
 Está abandonado, mas
-parece que parte de
-sua maquinaria
-<--------------------->
-
-ainda está em
-funcionamento.
+parece que parte dele
+ainda está funcionando.
 <--------------------->
 
 <p 02><d 451F><a 02><n 55>
@@ -45,8 +37,8 @@ se concentrando nessa
 
 <p 02><d 471F><a 02><n 04>
 Parece que estão atrás
-do Biometal também,
-por isso cuidado!
+do Biometal também.
+Tome cuidado!
 <--------------------->
 
 <p 02><d 481F><a 05><n 01>
@@ -54,12 +46,13 @@ por isso cuidado!
 <--------------------->
 
 <p 02><d 491F><a 02><n 04>
-Vent? Está me ouvindo?
-O que foi?
+Vent? Está tudo bem?
+À escuta?
 <--------------------->
 
 <p 02><d 4A1F><a 05><n 01>
-A-ah, estou a caminho!
+A-ah, iniciando a
+missão!
 <--------------------->
 
 <p 02><d 4B1F><a 05><n 01>
@@ -69,18 +62,14 @@ vez...)
 <*********************>
 
 <p 02><d 4C1F><a 07><n 01>
-(Argh! Não era esse
-inimigo que estava
-com o Biometal.)
+Droga! Não era esse
+inimigo que estava com
+o Biometal?!
 <*********************>
 
 <p 02><d 4D1F><a 02><n 04>
-Vent, o que está
-havendo?
-<--------------------->
-
-Você está agindo
-estranhamente, desde
+Vent, o que foi? Você
+está estranho, desde
 que a missão começou.
 <--------------------->
 
@@ -96,55 +85,42 @@ O que há com você?
 <*********************>
 
 <p 02><d 501F><a 08><n 01>
-Já estive aqui antes...
-dez anos atrás.
+Há dez anos, eu estava
+aqui.
 <--------------------->
 
 <p 02><d 511F><a 08><n 01>
 Minha mãe me trouxe até
-aqui.
+este lugar.
 <--------------------->
 
 <p 02><d 521F><a 02><n 04>
-Dez anos atrás... Foi
-quando os Mavericks
-atacaram! Então...
+Dez anos... Foi quando
+os Mavericks atacaram!
+Então quer dizer que...
 <--------------------->
 
 <p 02><d 531F><a 08><n 01>
-Isso mesmo...
 Não consigo deixar de
 relembrar a tragédia.
 <--------------------->
 
 <p 02><d 541F><a 08><n 01>
-Talvez a história se
-repita,
-<--------------------->
-
-e mais uma vez eu seja
-incapaz de salvar as
-pessoas.
+Talvez aquilo se repita
+e eu não seja capaz de
+salvar as pessoas...
 <--------------------->
 
 <p 02><d 551F><a 02><n 04>
-Vent... Não se esqueça
-de que você não está
-sozinho.
-<--------------------->
-
-Não tente carregar o
-peso do mundo em seus
-ombros.
+Vent, você não está só.
+Não carregue esse peso
+sozinho nos ombros.
 <--------------------->
 
 <p 02><d 581F><a 02><n 04>
 Você tem a mim e aos
-outros Guardiões...
-<--------------------->
-
-E Giro também está
-olhando por você.
+outros Guardiões.
+E Giro também...
 <--------------------->
 
 <p 02><d 591F><a 02><n 04>
@@ -153,7 +129,7 @@ juntos.
 <*********************>
 
 <p 02><d 5A1F><a 05><n 01>
-Prairie... Obrigado.
+Obrigado... Prairie.
 <--------------------->
 
 <p 02><d 5B1F><a 06><n 01>
@@ -161,105 +137,79 @@ Continuando a missão!
 <*********************>
 
 <p 03><d 5C1F><a 1D><n 12>
-U, u, á, á! Então um
+Riá, rá rá! Então um
 Maverick veio pra me
 levar de volta?
 <--------------------->
 
 <p 03><d 5D1F><a 1D><n 12>
-Estava me divertindo
-muito brincando com
-meus novos poderes,
-<--------------------->
-
-neste lugar repleto de
-boas lembranças.
+Estava brincando com
+meu novo Biometal, aqui
+neste lugar nostálgico.
 <--------------------->
 
 <p 02><d 5E1F><a 05><n 01>
-Lembranças?
+Lugar nostálgico?
 <--------------------->
 
 <p 03><d 5F1F><a 1D><n 12>
-Dez anos atrás, eu era
-apenas mais um Maverick
-à solta neste lugar,
-<--------------------->
-
-até que Mestre Serpent
-percebeu o meu talento.
+Há dez anos, eu era um
+Maverick comum, quando
+Mestre Serpent me viu.
 <--------------------->
 
 <p 03><d 601F><a 1D><n 12>
-Agora sou um de seus
-executivos!
-<--------------------->
-
-U, u, á, á! É incrível!
+Agora sou um executivo
+da Serpent Ltda!
+É incrível! Riá, rá rá!
 <--------------------->
 
 <p 02><d 611F><a 07><n 01>
-Essa sua história de
-dez anos atrás limpou
-minha consciência.
-<--------------------->
-
-Agora não vou me sentir
-mal, depois que eu te
-detonar!
+Depois dessa sua histó-
+ria, me vingarei pelo
+que fez há dez anos!
 <--------------------->
 
 <p 03><d 621F><a 1D><n 12>
-U, u, á, á? Vai mesmo
-lugar comigo? Essa vai
-ser irada!
+Riá, rá? Vai mesmo
+lugar comigo?
+Que interessante!
 <--------------------->
 
 <p 03><d 631F><a 1D><n 12>
-Vou te mostrar como eu,
-o Pseudoróide do Modelo
-P, Purprill, sou forte!
+Eu, o Pseudoróide do
+Modelo P, Purprill, vou
+te mostrar meu poder!
 <*********************>
 
 <p 03><d 641F><a 1D><n 12>
-U, u, á, á!
-U, u, á, á!
-<--------------------->
-
-Você acaba de aprender
-que às vezes é melhor
-esquecer o passado!
+Riá, rá rá! Devia ter
+esquecido do que houve
+há dez anos!
 <--------------------->
 
 <p 03><d 651F><a 1D><n 12>
-Sou um executivo!
-<--------------------->
-
-Achou mesmo que eu ia
-perder pra um fracote
-que nem você?
+Achou mesmo que eu, um
+executivo, perderia pra
+um fracote como você?
 <*********************>
 
 <p 03><d 661F><a 1D><n 12>
-N-nããoo! Sou poderoso
-demais pra ser
-derrotado!
+Q-Que droga!
+Eu era forte!
+Eu era poderoso!
 <--------------------->
 
 <p 03><d 671F><a 1D><n 12>
-Sou um...  executivo...
 Eu deveria ser...
-imparável... U, u, ááá!
+imparável...
+Riá, rááá!
 <*********************>
 
 <p 03><d 681F><a 36><n 0A>
-Afogando-se no próprio
-poder...
-<--------------------->
-
-É um fim apropriado pra
-esse ralé que queria
-meu poder tanto assim.
+Afogou-se no próprio
+poder... Bem apropriado
+para esse ralé.
 <--------------------->
 
 <p 03><d 691F><a 36><n 0A>
@@ -269,32 +219,21 @@ Você lutou bravamente.
 <--------------------->
 
 <p 03><d 6A1F><a 36><n 0A>
-Modelo X, já que você
-está emprestando seu
-poder a esta jovem,
-<--------------------->
-
-devo presumir que a
-hora chegou?
+Modelo X, vejo que você
+emprestou seu poder.
+É chegada a hora?
 <--------------------->
 
 <p 02><d 6B1F><a 31><n 05>
-Sim. Alguém está
-tentando reviver o
-Modelo W.
-<--------------------->
-
-Você nos ajudará a
-impedi-lo?
+Sim. Alguém está ten-
+tando reviver o Modelo
+W. Poderia nos ajudar?
 <--------------------->
 
 <p 03><d 6C1F><a 36><n 0A>
-É nosso destino no
-passar das eras
-<--------------------->
-
-proteger o mundo dos
-homens.
+No passar das eras, é
+nosso destino proteger
+o mundo dos homens.
 <--------------------->
 
 <p 03><d 6D1F><a 36><n 0A>
@@ -304,39 +243,27 @@ para decepar o mal.
 <--------------------->
 
 <p 03><d 6E1F><a 36><n 0A>
-Peço perdão por não
-poder lhe passar toda
-a senha.
-<--------------------->
-
-Serpent dividiu meus
-dados em duas partes.
+Perdão por não poder
+dizer a senha. Serpent
+me dividiu em dois.
 <--------------------->
 
 <p 03><d 6F1F><a 36><n 0A>
 A outra parte está
-contida em um Pseudo-
-róide diferente.
+contida em outro
+Pseudoróide.
 <--------------------->
 
 <p 03><d 701F><a 36><n 0A>
-Enquanto este
-Pseudoróide continuar
-operacional,
-<--------------------->
-
-você não conseguirá
-chegar ao Modelo W.
+Enquanto este continuar
+operacional, não chega-
+remos ao Modelo W.
 <--------------------->
 
 <p 02><d 711F><a 05><n 01>
-Então quer dizer que há
-outro inimigo esperando
-por mim,
-<--------------------->
-
-com os poderes do
-Modelo P...
+Então há outro inimigo
+esperando por mim, com
+os poderes do Modelo P.
 <*********************>
 
 <p 01><p 02><d 461F><a 02><n 04>
@@ -347,8 +274,8 @@ se concentrando nesta
 
 <p 01><p 02><d 471F><a 02><n 04>
 Parece que estão atrás
-do Biometal também,
-então cuidado!
+do Biometal também.
+Tome cuidado!
 <--------------------->
 
 <p 01><p 02><d 481F><a 05><n 01>
@@ -356,12 +283,13 @@ então cuidado!
 <--------------------->
 
 <p 01><p 02><d 491F><a 02><n 04>
-Vent? Está me ouvindo?
-O que houve?
+Vent? Está tudo bem?
+À escuta?
 <--------------------->
 
 <p 01><p 02><d 4A1F><a 05><n 01>
-A-ah, estou a caminho!
+A-ah, iniciando a
+missão!
 <--------------------->
 
 <p 01><p 02><d 4B1F><a 05><n 01>

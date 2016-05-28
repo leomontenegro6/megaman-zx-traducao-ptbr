@@ -7,20 +7,14 @@ de Biometal na Área I.
 <--------------------->
 
 <p 02><d 2A23><a 02><n 55>
-Além do Biometal
-que encontramos,
-<--------------------->
-
-há outros sinais de
-vida na região.
+Além do Biometal,
+há outros sinais
+de vida na região.
 <--------------------->
 
 <p 02><d 2B23><a 02><n 55>
-Parece que alguns civis
-inocentes
-<--------------------->
-
-estão sendo mantidos
+Parece que há civis
+inocentes, presos
 dentro da instalação.
 <--------------------->
 
@@ -31,22 +25,14 @@ liberte os reféns.
 
 <p 02><d 2D23><a 02><n 04>
 Os sinais de vida
-parecem estar
-localizados
-<--------------------->
-
-lá no final da região.
+parecem situar-se
+no final da região.
 <--------------------->
 
 <p 02><d 2E23><a 02><n 04>
-Como você derrotou o
-outro, encarregado das
-operações na usina,
-<--------------------->
-
-alguns equipamentos
-não estão funcionando
-agora.
+Alguns equipamentos não
+funcionam, com o fim do
+encarregado da usina.
 <--------------------->
 
 <p 02><d 2F23><a 02><n 04>
@@ -56,37 +42,26 @@ eletricidade...
 <--------------------->
 
 <p 02><d 3023><a 05><n 01>
-Eletricidade. Certo,
+Eletricidade? Certo,
 vou ver se acho
 alguma pista.
 <*********************>
 
 <p 02><d 3123><a 1C><n 11>
-Deixe-me adivinhar,
-está aqui para salvar
-os coitados na sala?
-<--------------------->
-
-Temo que o cavalhei-
-rismo já morreu,
-meu jovem.
+Então você veio salvar
+os coitados na outra
+sala? Não permitirei!
 <--------------------->
 
 <p 02><d 3223><a 1C><n 11>
-Eles são sacríficios
-valiosos para a
-ressureição
-<--------------------->
-
-do Modelo W.
+Eles são valiosos para
+o Modelo W, e virarão
+Cyber-elfos.
 <--------------------->
 
 <p 02><d 3323><a 1C><n 11>
-Cyber-elfos expostos a
-dados sobre medo,
-<--------------------->
-
-são a chave para
+Expôr Cyber-elfos ao
+medo é a chave para
 reviver o Modelo W.
 <--------------------->
 
@@ -96,14 +71,9 @@ Modelo H, Hurricaune!
 <--------------------->
 
 <p 02><d 3523><a 1C><n 11>
-Você está prestes a se
-tornar o próximo
-sacrifício.
-<--------------------->
-
-Não esqueça de gritar
-para mim, antes de
-morrer!
+Grite para mim quando
+morrer, pois se tornará
+o próximo sacrifício!
 <*********************>
 
 <p 02><d 3623><a 1C><n 11>
@@ -113,50 +83,38 @@ foram deleitosos!
 <*********************>
 
 <p 02><d 3723><a 1C><n 11>
-Rá... Nada mau...
-<--------------------->
-
-Faça o que quiser com
-as pessoas na outra
-sala...
+Gah... Nada mau... Faça
+o que quiser com as
+pessoas na outra sala.
 <--------------------->
 
 <p 02><d 3823><a 1C><n 11>
-Não vai importar mesmo,
-pois o despertar do
-Modelo W
-<--------------------->
-
-ainda sim há
-de acontecer!
-A, rá, rá, rá!
+Mesmo salvando-as, o
+Modelo W despertará
+mesmo assim! Á, rá, rá!
 <*********************>
 
 <p 03><d 3923><a 33><n 07>
-Parece que você
-recuperou a senha e
-todo o meu poder.
+Parece que recuperou a
+senha e todo o meu
+poder, jovem herói.
 <--------------------->
 
 <p 03><d 3A23><a 33><n 07>
-Estou grato. Porém,
-levará tempo para
-recombinar a senha
-<--------------------->
-
-para algo que possa
-ser utilizável.
+Porém, levará tempo
+para recombinar a
+senha.
 <--------------------->
 
 <p 03><d 3B23><a 33><n 07>
-Por favor seja
-paciente.
+Por favor espere mais
+um pouco.
 <*********************>
 
 <p 02><d 3C23><a 02><n 04>
-As pessoas estão
-naquela sala. Você
-tem que salvá-las.
+As pessoas estão nesta
+sala. Você tem que
+salvá-las.
 <*********************>
 
 <p 03><d 3D23><a 46><n 41>
@@ -169,8 +127,7 @@ virar Cyber-elfos!
 <--------------------->
 
 <p 03><d 3F23><a 46><n 41>
-Obrigado por nos
-resgatar!
+Obrigado, mesmo!
 <--------------------->
 
 <p 02><d 4023><a 05><n 01>
@@ -179,33 +136,27 @@ Do que estão falando?
 <--------------------->
 
 <p 03><d 4123><a 46><n 41>
-Esses vilões, eles
-roubam nossas memórias
-<--------------------->
-
-e nos transformam em
-Cyber-elfos.
+Eles roubam nossas
+memórias, e nos trans-
+formam em Cyber-elfos.
 <--------------------->
 
 <p 03><d 4223><a 46><n 41>
-Eles também estavam
-tentando nos assustar,
-antes da transformação.
+Também estavam tentando
+nos assustar, antes da
+transformação.
 <--------------------->
 
 <p 03><d 4323><a 46><n 41>
-Eu vi eles...
-<--------------------->
-
-Vi os outros sendo
-transformados em Cyber-
-elfos, um por um.
+Eu vi... Vi meus amigos
+sendo transformados em
+Cyber-elfos, um a um.
 <--------------------->
 
 <p 02><d 4423><a 02><n 04>
 Então é assim que
 conseguem criar
-tantos deles...
+tantos Cyber-elfos...
 <--------------------->
 
 <p 02><d 4523><a 02><n 04>
@@ -217,7 +168,7 @@ imaginava.
 <p 02><d 4623><a 02><n 04>
 Enviaremos as pessoas à
 cidade. Obrigada por
-salvá-los, Vent.
+salvá-los.
 <*********************>
 
 <FIM>

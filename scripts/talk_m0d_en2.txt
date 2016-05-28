@@ -2,8 +2,8 @@
 <#####################>
 
 <p 02><d C932><a 02><n 04>
-Aile! Pode me ouvir?
-À escuta?!
+Aile! À escuta?!
+Pode me ouvir?!
 <--------------------->
 
 <p 02><d CA32><a 02><n 04>
@@ -19,9 +19,9 @@ em nossa direção!
 <--------------------->
 
 <p 02><d CC32><a 02><n 04>
-Aile! Venha até aqui!
-Precisamos de sua
-ajuda!
+Aile! venha até o
+QG dos Guardiões
+nos ajudar!
 <*********************>
 
 <p 03><d CD32><a 07><n 02>
@@ -36,14 +36,9 @@ em cima de nós!
 <--------------------->
 
 <p 02><d CF32><a 0B><n 04>
-Esta aeronave não foi
-projetada para combate
-pesado.
-<--------------------->
-
-Se o inimigo conseguir
-pousar, estaremos
-acabados!
+A aeronave não é boa em
+combate. Se pousarem em
+nós, seremos abatidos.
 <*********************>
 
 <p 02><d D032><a 02><n 55>
@@ -63,22 +58,18 @@ estibordo!
 <--------------------->
 
 <p 02><d D332><a 0B><n 04>
-Não deixe que se
+Não deixem que se
 aproximem!
 <*********************>
 
 <p 02><d D432><a 0B><n 04>
-Aile! Você tem que ir
-ao convés, e fazer o
-que puder,
-<--------------------->
-
-para impedir as tropas
-de pousarem na nave!
+Por favor, Aile! Vá ao
+convés e impeça as
+tropas de pousarem!
 <*********************>
 
 <p 03><d D532><a 07><n 02>
-A caminho! Não vou
+Entendi! Não vou
 deixar ninguém se
 machucar!
 <--------------------->
@@ -107,20 +98,21 @@ embaixo!
 <p 02><d DA32><a 02><n 04>
 Você tem que chegar até
 lá para proteger os
-motores! Rápido!
+motores!
 <--------------------->
 
 <p 02><d DB32><a 07><n 02>
-Hmph! Vou impedi-los!
+Hmph!
+Eu não vou deixar!
 <*********************>
 
 <p 02><d DC32><a 23><n 2C>
-Ei, vocês! Fiquem longe
-do reator!
+Que droga!
+Fiquem longe do reator!
 <*********************>
 
 <p 03><d DD32><a 19><n 0E>
-Nos dê passagem...
+Está atrapalhando...
 <*********************>
 
 <p 02><d DE32><a 07><n 02>
@@ -145,22 +137,14 @@ deveríamos chamar de
 
 <p 01><p 03><d E232><a 18><n 0D>
 Vim aqui para esmagar
-os Guardiões de uma vez
-por todas,
-<--------------------->
-
-mas será uma pena se
-tudo acabar tão
-facilmente.
+os Guardiões. Pena que
+não vai durar muito.
 <--------------------->
 
 <p 01><p 03><d E332><a 18><n 0D>
 Descobrirei se você é
 ou não digna de entrar
-neste grande jogo,
-<--------------------->
-
-criado por ele!
+no jogo criado por ele!
 <--------------------->
 
 <p 01><p 02><d E432><a 07><n 02>
@@ -182,7 +166,7 @@ diversão pra você.
 <p 03><d E732><a 18><n 0D>
 A não ser que ela seja
 frágil demais, e acabe
-em pedaços antes.
+morrendo antes.
 <*********************>
 
 <p 02><d E832><a 0B><n 04>
@@ -190,12 +174,12 @@ Aile!
 <--------------------->
 
 <p 02><d E932><a 07><n 02>
-Para trás, Prairie!
+Prairie, para trás!
 Cuidarei dele!
 <*********************>
 
 <p 03><d EA32><a 18><n 0D>
-Interessante... Você é
+Entendo... Você é
 mais forte do que eu
 esperava.
 <--------------------->
@@ -216,14 +200,9 @@ Só pode ser uma piada!
 <*********************>
 
 <p 03><d EE32><a 18><n 0D>
-Seu nome era mesmo
-<c 01>Aile,<c 00> ou será que
-não?
-<--------------------->
-
-Enfim, gostei do seu
-espírito de luta, então
-te pouparei desta vez!
+Seu nome é <c 01>Aile,<c 00> não é?
+Gostei de seu espírito.
+Vou poupá-la desta vez!
 <*********************>
 
 <p 02><d EF32><a 07><n 02>
@@ -232,13 +211,8 @@ E-Espere!
 
 <p 03><d F032><a 18><n 0D>
 Aile! Você ainda tem
-um longo caminho pela 
-frente, antes de achar
-<--------------------->
-
-que pode nos desafiar.
-Volte quando estiver
-pronta!
+muito a evoluir. Volte
+quando estiver pronta!
 <*********************>
 
 <p 03><d F132><a 18><n 0D>
@@ -264,7 +238,7 @@ se afastando!
 <p 02><d F732><a 0B><n 04>
 O inimigo recuou.
 Quero um relatório
-dos danos!
+dos danos.
 <--------------------->
 
 <p 02><d F832><a 0C><n 04>
@@ -277,8 +251,8 @@ Entendido.
 <*********************>
 
 <p 02><d FA32><a 0C><n 04>
-Aile, volte ao centro
-de comando.
+Aile, vamos até o
+centro de comando.
 <*********************>
 
 <p 03><d FB32><a 07><n 02>
@@ -300,12 +274,8 @@ está havendo.
 
 <p 02><d FE32><a 0B><n 04>
 Quem deu a Giro a ordem
-de protegê-la, não fui
-eu,
-<--------------------->
-
-e sim a primeira
-comandante.
+de protegê-la, foi a
+primeira comandante.
 <--------------------->
 
 <p 03><d FF32><a 05><n 02>
@@ -316,42 +286,26 @@ dante, você se refere
 
 <p 01><p 02><d 0033><a 0B><n 04>
 A ordem era de proteger
-qualquer pessoa que
-sobreviveu
-<--------------------->
-
-a qualquer tipo de
-ataque de Mavericks.
+todos os sobreviventes
+de surtos de Mavericks.
 <--------------------->
 
 <p 01><p 02><d 0133><a 0B><n 04>
 A princípio, não
-entendi o motivo
-<--------------------->
-
-pelo qual ela decidiu
-nos dar tal ordem.
+compreendi o motivo de
+tal ordem.
 <*********************>
 
 <p 01><p 02><d 0233><a 0B><n 04>
-Mas quando vi Giro
-se transformando no
-Mega Man Modelo Z,
-<--------------------->
-
-finalmente entendi
-a razão.
+Mas ao ver Giro se
+transformando no Mega
+Man Modelo Z, entendi.
 <--------------------->
 
 <p 01><p 02><d 0333><a 0B><n 04>
-Os sobreviventes de
-ataques de Mavericks
-compartilham
-<--------------------->
-
-a habilidade de se
-transformar, com o
-poder dos Biometais.
+Sobreviventes de surtos
+de Mavericks podem usar
+o poder dos Biometais.
 <--------------------->
 
 <p 01><p 02><d 0433><a 0B><n 04>
@@ -366,23 +320,15 @@ isso é tudo que sei.
 <*********************>
 
 <p 02><d 0633><a 0B><n 04>
-Eu não entendo por que
-alguns são escolhidos
-para virar Mega Mans,
-<--------------------->
-
-enquanto que outros
-não o são.
+Não entendo como alguns
+viram Mega Mans, e
+outros não.
 <--------------------->
 
 <p 02><d 0733><a 0B><n 04>
-O meu palpite é que, se
-tem alguém que sabe a
-verdade por trás disso,
-<--------------------->
-
-esse alguém é
-Serpent.
+O meu palpite é que
+Serpent talvez saiba a
+verdade por trás disso.
 <*********************>
 
 <p 03><d 0833><a 05><n 02>
@@ -393,11 +339,8 @@ que continuar lutando.
 
 <p 03><d 0933><a 07><n 02>
 Certo então, me dê a
-próxima missão.
-<--------------------->
-
-Tenho que descobrir
-quem eu sou de verdade!
+próxima missão. Vou
+descobrir quem eu sou!
 <*********************>
 
 <FIM>

@@ -8,22 +8,15 @@ cado por Mavericks.
 <--------------------->
 
 <p 02><d 5A1B><a 02><n 55>
-Há vários membros dos
-Guardiões na área,
-<--------------------->
-
-mas eles estão chamando
-reforços.
+Há vários Guardiões na
+área, mas eles estão
+chamando reforços.
 <--------------------->
 
 <p 02><d 5B1B><a 02><n 55>
-Também detectei a
-presença da assinatura
-de um Biometal,
-<--------------------->
-
-entre os Mavericks na
-região.
+E detectamos a leitura
+de um Biometal, dentre
+os Mavericks na região.
 <--------------------->
 
 <p 02><d 5C1B><a 02><n 55>
@@ -33,13 +26,9 @@ Mavericks.
 <*********************>
 
 <p 03><d 5D1B><a 23><n 2C>
-Aww... Os outros
-Guardiões seguiram em
-frente
-<--------------------->
-
-para tentar salvar mais
-pessoas.
+Aww... Os outros foram
+na frente, para salvar
+mais pessoas.
 <--------------------->
 
 <p 03><d 5E1B><a 23><n 2C>
@@ -55,23 +44,15 @@ você precisa salvá-los!
 <*********************>
 
 <p 03><d 601B><a 21><n 16>
-Ah, o Mega Man dos
-Guardiões chegou...
-<--------------------->
-
-E pensar que o "grande
-herói" deles seria, de
-fato, uma garotinha.
+Ah, chegou o o Mega Man
+dos Guardiões. E pensar
+que seria uma garota...
 <--------------------->
 
 <p 03><d 611B><a 21><n 16>
-Mas suponho que se
-os Mavericks te
-escolheram,
-<--------------------->
-
-então você deve ser
-o escolhido.
+Mas suponho que se os
+Mavericks a escolheram,
+então é verdade.
 <--------------------->
 
 <p 02><d 621B><a 07><n 02>
@@ -82,12 +63,8 @@ está falando?!
 
 <p 03><d 631B><a 21><n 16>
 Os Mavericks não
-estavam causando toda
-esta confusão
-<--------------------->
-
-apenas para se
-divertirem, sabia?
+estavam fazendo tumulto
+só por diversão, sabia?
 <--------------------->
 
 <p 03><d 641B><a 21><n 16>
@@ -97,14 +74,9 @@ perfeito para Modelo W.
 <--------------------->
 
 <p 03><d 651B><a 21><n 16>
-Está tudo ligado
-aos titulares dos
-Biometais.
-<--------------------->
-
-Os escolhidos.
-Os Mega Mans.
-Você.
+Estão todos ligados.
+Os escolhidos. Os Mega
+Mans. Você.
 <--------------------->
 
 <p 03><d 661B><a 21><n 16>
@@ -120,55 +92,43 @@ ram? Não pode ser!
 <--------------------->
 
 <p 03><d 681B><a 21><n 16>
-Ah, parece que não está
-querendo aceitar a
-verdade.
-<--------------------->
-
-Mas não importa, pois
-o Modelo W terá o
+Você pode não aceitar,
+mas o Modelo W terá o
 sacrifício que exige.
 <--------------------->
 
 <p 03><d 691B><a 21><n 16>
-Me chamo Fistleo.
 Sou o Pseudoróide
-do Modelo F.
+do Modelo F, Fistleo.
 <--------------------->
 
 <p 03><d 6A1B><a 21><n 16>
 Se não pretende aceitar
-seu destino,
-<--------------------->
-
-então terá de aceitar
-o seu fim.
+seu destino, então terá
+de aceitar o seu fim.
 <*********************>
 
 <p 03><d 6B1B><a 21><n 16>
-Hmph. Essa devia ter
+Ré. Essa devia ter
 sido mais fácil. Devo
 treinar mais.
 <*********************>
 
 <p 03><d 6C1B><a 21><n 16>
-Como isto aconteceu?!
-Fui transformado em
-um Pseudoróide...
+Bahh... Argh...
+Esta garota me derrotou
+mesmo assim...
 <--------------------->
 
 <p 03><d 6D1B><a 21><n 16>
-Eu devia ter o poder de
-um deus...
-<--------------------->
-
-Mas fui derrotado por
-uma mera garotinha!
+Eu devia ser o mais
+forte... Mas fui ven-
+cido por essa menina!
 <*********************>
 
 <p 03><d 6E1B><a 34><n 08>
-Maravilha! Valeu por me
-salvar!
+Rê, rê, rê!
+Valeu aí por me salvar!
 <--------------------->
 
 <p 03><d 6F1B><a 34><n 08>
@@ -188,34 +148,26 @@ expliquei nada!
 <--------------------->
 
 <p 03><d 721B><a 34><n 08>
-Eu sei, eu sei. Serpent
-está planejando algo
-sorrateiro,
-<--------------------->
-
-com os poderes do
-Modelo W.
+Serpent planeja algo
+horrível com o
+Modelo W, não é?
 <--------------------->
 
 <p 03><d 731B><a 34><n 08>
-É tudo tão complicado.
-<--------------------->
-
-Nem eu entendi direito
-o que houve.
+Mas é tudo tão compli-
+cado, que nem entendi
+direito.
 <--------------------->
 
 <p 03><d 741B><a 34><n 08>
-Mas sei que ele usou
-meu poder para fazer
-seu trabalho sujo.
+O que sei é que ele
+usou meu puder para
+o seu trabalho sujo.
 <--------------------->
 
 <p 03><d 751B><a 34><n 08>
-Se quiser dar o troco,
-serei o seu Biometal!
-<--------------------->
-
+Vou te dar meu poder
+pra gente dar o troco!
 Tem algo contra?
 <--------------------->
 
@@ -224,21 +176,15 @@ Não mesmo...
 <--------------------->
 
 <p 03><d 771B><a 34><n 08>
-Ah, a senha.
-<--------------------->
-
-Foi mal, mas não posso
-te dar a senha toda
-ainda.
+Sobre a senha. Não vou
+poder te dar a senha
+toda ainda.
 <--------------------->
 
 <p 03><d 781B><a 34><n 08>
-Serpent dividiu meu
-poder em dois,
-<--------------------->
-
-e a outra parte está
-com outro Pseudoróide.
+Serpent me dividiu em 2
+e a outra parte tá com
+outro Pseudoróide.
 <--------------------->
 
 <p 03><d 791B><a 34><n 08>

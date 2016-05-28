@@ -7,29 +7,21 @@ assinatura de Biometal.
 <--------------------->
 
 <p 02><d 421F><a 02><n 55>
-Está se movendo, e
-entrou na Área H
-sozinho.
+O Biometal está se
+movendo, e entrou na
+Área H sozinho.
 <--------------------->
 
 <p 02><d 431F><a 02><n 55>
-Na Área H, situa-se um
-parque de diversões
-<--------------------->
-
-que sofreu um severo
-ataque de Mavericks
-dez anos atrás.
+Lá, situa um parque de
+diversões atacado por
+Mavericks há dez anos.
 <--------------------->
 
 <p 02><d 441F><a 02><n 55>
 Está abandonado, mas
-parece que parte de
-sua maquinaria
-<--------------------->
-
-ainda está em
-funcionamento.
+parece que parte dele
+ainda está funcionando.
 <--------------------->
 
 <p 02><d 451F><a 02><n 55>
@@ -45,8 +37,8 @@ se concentrando nesta
 
 <p 02><d 471F><a 02><n 04>
 Parece que estão atrás
-do Biometal também,
-por isso cuidado!
+do Biometal também.
+Tome cuidado!
 <--------------------->
 
 <p 02><d 481F><a 08><n 02>
@@ -54,8 +46,8 @@ por isso cuidado!
 <--------------------->
 
 <p 02><d 491F><a 02><n 04>
-Aile? À escuta?
-O que houve?
+Aile? Está tudo bem?
+À escuta?
 <--------------------->
 
 <p 02><d 4A1F><a 05><n 02>
@@ -71,33 +63,21 @@ lugar...)
 <*********************>
 
 <p 02><d 4C1F><a 07><n 02>
-(Hmm, este não é o
-inimigo que está com
-o Biometal.)
-<--------------------->
-
-(Onde está? Não vejo a
-hora de sair daqui!)
+Droga! Cadê o inimigo
+com o Biometal?! Quero
+sair daqui logo!
 <*********************>
 
 <p 02><d 4D1F><a 02><n 04>
-Aile, o que está
-havendo?
-<--------------------->
-
-Notei que você está
-estranha, desde que
-a missão começou.
+Aile, o que foi? Você
+está estranha, desde
+que a missão começou.
 <--------------------->
 
 <p 02><d 4E1F><a 07><n 02>
 Prairie, de onde vem
 a assinatura do
-Biometal?!
-<--------------------->
-
-Seja rápida e me diga
-logo!
+Biometal?! Diga logo!
 <--------------------->
 
 <p 02><d 4F1F><a 02><n 04>
@@ -114,10 +94,7 @@ Mavericks...
 <p 02><d 511F><a 08><n 02>
 Fui separada de minha
 mãe durante o pânico,
-<--------------------->
-
-e foi Giro que me achou
-e me salvou.
+até que Giro me salvou.
 <--------------------->
 
 <p 02><d 521F><a 02><n 04>
@@ -134,12 +111,8 @@ boas como ruins.
 
 <p 02><d 541F><a 08><n 02>
 Não quero que aconteça
-nada com essas
-memórias.
-<--------------------->
-
-Quero que elas
-continuem como estão.
+nada com elas. Quero
+que continuem assim.
 <--------------------->
 
 <p 02><d 551F><a 02><n 04>
@@ -148,13 +121,9 @@ Sinto muito, eu...
 <--------------------->
 
 <p 02><d 561F><a 05><n 02>
-Não, sou eu quem devo
-me desculpar.
-<--------------------->
-
-Fiquei estressada, com
-as lembranças de minha
-mãe e Giro, voltando.
+Não, eu peço desculpas.
+Me exaltei ao relembrar
+de minha mãe e Giro.
 <--------------------->
 
 <p 02><d 571F><a 02><n 04>
@@ -164,11 +133,8 @@ você não está sozinha.
 
 <p 02><d 581F><a 02><n 04>
 Você tem a mim e aos
-outros Guardiões...
-<--------------------->
-
-E Giro também está
-olhando por você.
+outros Guardiões.
+E Giro também...
 <--------------------->
 
 <p 02><d 591F><a 02><n 04>
@@ -185,7 +151,7 @@ Continuando a missão!
 <*********************>
 
 <p 03><d 5C1F><a 1D><n 12>
-U, u, á, á! Então um
+Riá, rá rá! Então um
 Maverick veio pra me
 levar de volta?
 <--------------------->
@@ -197,13 +163,9 @@ seus empregados!
 <--------------------->
 
 <p 02><d 5E1F><a 07><n 02>
-Então é você que está
-com o Biometal!
-<--------------------->
-
-Desculpe, mas vou
-tomá-lo de você
-agora.
+Então você está com o
+Biometal. Desculpe, mas
+vou tomá-lo de você!
 <--------------------->
 
 <p 03><d 5F1F><a 1D><n 12>
@@ -219,60 +181,45 @@ mandar daqui é você!
 <--------------------->
 
 <p 03><d 611F><a 1D><n 12>
-U, u, á, á? Vai mesmo
-desafiar um dos execu-
-tivos da Serpent Ltda?
-<--------------------->
-
-Isso vai ser
-interessante.
+Riá, rá? Vai desafiar
+um dos executivos de
+Serpent? Interessante.
 <--------------------->
 
 <p 03><d 631F><a 1D><n 12>
-Vou te mostrar como eu,
-o Pseudoróide do Modelo
-P, Purprill, sou forte!
+Eu, o Pseudoróide do
+Modelo P, Purprill, vou
+te mostrar meu poder!
 <*********************>
 
 <p 03><d 641F><a 1D><n 12>
-U, u, á, á! U, u, á, á!
-Quem mandou vir pra
-cima de mim,
-<--------------------->
-
-com esse papinho de
-"lugar precioso"?
+Riá, rá rá! Quem mandou
+vir aqui com esse papo
+de "lugar precioso"?
 <--------------------->
 
 <p 03><d 651F><a 1D><n 12>
-Sou um executivo!
-<--------------------->
-
-Achou mesmo que eu ia
-perder pra uma magrela
-que nem você?
+Achou mesmo que eu, um
+executivo, perderia pra
+um fracote como você?
 <*********************>
 
 <p 03><d 661F><a 1D><n 12>
-N-nããoo! Sou poderoso
-demais pra ser
-derrotado!
+Q-Que droga!
+Eu era forte!
+Eu era poderoso!
 <--------------------->
 
 <p 03><d 671F><a 1D><n 12>
-Sou um...  executivo...
 Eu deveria ser...
-imparável... U, u, ááá!
+imparável...
+Riá, rááá!
 <*********************>
 
 <p 03><d 681F><a 36><n 0A>
-Afogando-se no próprio
-poder...
-<--------------------->
-
-É um fim apropriado pra
-esse ralé que queria
-meu poder tanto assim.
+Afogou-se no próprio
+poder... Bem apropriado
+para esse ralé.
 <--------------------->
 
 <p 03><d 691F><a 36><n 0A>
@@ -282,32 +229,21 @@ Você lutou bravamente.
 <--------------------->
 
 <p 03><d 6A1F><a 36><n 0A>
-Modelo X, já que você
-está emprestando seu
-poder a este rapaz,
-<--------------------->
-
-devo presumir que a
-hora chegou?
+Modelo X, vejo que você
+emprestou seu poder.
+É chegada a hora?
 <--------------------->
 
 <p 02><d 6B1F><a 31><n 05>
-Sim. Alguém está
-tentando reviver o
-Modelo W.
-<--------------------->
-
-Você nos ajudará a
-impedi-lo?
+Sim. Alguém está ten-
+tando reviver o Modelo
+W. Poderia nos ajudar?
 <--------------------->
 
 <p 03><d 6C1F><a 36><n 0A>
-É nosso destino no
-passar das eras
-<--------------------->
-
-proteger o mundo dos
-homens.
+No passar das eras, é
+nosso destino proteger
+o mundo dos homens.
 <--------------------->
 
 <p 03><d 6D1F><a 36><n 0A>
@@ -317,39 +253,27 @@ para decepar o mal.
 <--------------------->
 
 <p 03><d 6E1F><a 36><n 0A>
-Peço perdão por não
-poder lhe passar toda
-a senha.
-<--------------------->
-
-Serpent dividiu meus
-dados em duas partes.
+Perdão por não poder
+dizer a senha. Serpent
+me dividiu em dois.
 <--------------------->
 
 <p 03><d 6F1F><a 36><n 0A>
 A outra parte está
-contida em um Pseudo-
-róide diferente.
+contida em outro
+Pseudoróide.
 <--------------------->
 
 <p 03><d 701F><a 36><n 0A>
-Enquanto este
-Pseudoróide continuar
-operacional,
-<--------------------->
-
-você não conseguirá
-chegar ao Modelo W.
+Enquanto este continuar
+operacional, não chega-
+remos ao Modelo W.
 <--------------------->
 
 <p 02><d 711F><a 05><n 02>
 Melhor eu ficar alerta
-se tiver outro inimigo
-por aí
-<--------------------->
-
-com os poderes do
-Modelo P.
+com o outro que detém
+os poderes do Modelo P.
 <*********************>
 
 <p 02><d 461F><a 02><n 04>
@@ -360,8 +284,8 @@ se concentrando nesta
 
 <p 01><p 02><d 471F><a 02><n 04>
 Parece que estão atrás
-do Biometal também,
-então cuidado!
+do Biometal também.
+Tome cuidado!
 <--------------------->
 
 <p 02><d 481F><a 05><n 02>
@@ -369,8 +293,8 @@ então cuidado!
 <--------------------->
 
 <p 02><d 491F><a 02><n 04>
-Aile? À escuta?
-O que houve?
+Aile? Está tudo bem?
+À escuta?
 <--------------------->
 
 <p 02><d 4A1F><a 05><n 02>

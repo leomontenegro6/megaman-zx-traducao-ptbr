@@ -20,8 +20,8 @@ em nossa direção!
 
 <p 02><d CC32><a 02><n 04>
 Por favor venha até
-aqui! Precisamos de
-sua ajuda!
+o QG dos Guardiões
+nos ajudar!
 <*********************>
 
 <p 03><d CD32><a 07><n 01>
@@ -36,14 +36,9 @@ em cima de nós!
 <--------------------->
 
 <p 02><d CF32><a 0B><n 04>
-Esta aeronave não foi
-projetada para combate
-pesado.
-<--------------------->
-
-Se o inimigo conseguir
-pousar, estaremos
-acabados!
+A aeronave não é boa em
+combate. Se pousarem em
+nós, seremos abatidos.
 <*********************>
 
 <p 02><d D032><a 02><n 55>
@@ -63,33 +58,28 @@ estibordo!
 <--------------------->
 
 <p 02><d D332><a 0B><n 04>
-Não deixe que se
+Não deixem que se
 aproximem!
 <*********************>
 
 <p 02><d D432><a 0B><n 04>
-Vent! Você tem que
-chegar ao convés e
-fazer o que puder
-<--------------------->
-
-para impedir as tropas
-de pousarem na nave!
+Por favor, Vent! Vá ao
+convés e impeça as
+tropas de pousarem!
 <*********************>
 
 <p 03><d D532><a 07><n 01>
-Deixa comigo! Ninguém
-vai se machucar comigo
-aqui!
+Entendi! Ninguém vai se
+machucar comigo aqui!
 <--------------------->
 
 <p 03><d D632><a 07><n 01>
-Vou proteger os
-Guardiões!
+Vou proteger todos os
+membros dos Guardiões!
 <*********************>
 
 <p 02><d D732><a 07><n 01>
-São aqueles caras de
+São aqueles dois, de
 antes!
 <--------------------->
 
@@ -107,22 +97,21 @@ embaixo!
 <p 02><d DA32><a 02><n 04>
 Você tem que chegar até
 lá para proteger os
-motores! Rápido!
+motores!
 <--------------------->
 
 <p 02><d DB32><a 07><n 01>
-Hmph! Não se preocupe,
-eles não vão passar por
-mim!
+Hmph!
+Eu não vou deixar!
 <*********************>
 
 <p 02><d DC32><a 23><n 2C>
-Ei, vocês! Fiquem longe
-do reator!
+Que droga!
+Fiquem longe do reator!
 <*********************>
 
 <p 03><d DD32><a 19><n 0E>
-Nos dê passagem...
+Está atrapalhando...
 <*********************>
 
 <p 02><d DE32><a 07><n 01>
@@ -149,30 +138,22 @@ deveríamos chamar de
 <p 01><p 03><d E232><a 18><n 0D>
 A ordens de Serpent são
 para eliminar os Guar-
-diões, aqui e agora...
-<--------------------->
-
-Que desperdício.
+diões. Que desperdício.
 <--------------------->
 
 <p 01><p 03><d E332><a 18><n 0D>
-É chegada a hora do
-teste final, para ver
-se você fará
-<--------------------->
-
-um sacrifício digno
-para a ressureição do
-Modelo W.
+Chegou a hora de vermos
+se você é um sacrifício
+digno para o Modelo W.
 <--------------------->
 
 <p 01><p 02><d E432><a 07><n 01>
-Sacrifício!? Eu!?
+Eu!? Sacrifício!?
 <*********************>
 
 <p 03><d E532><a 19><n 0E>
-Prometeus... Não é
-justo...
+Prometeus...
+Não é justo...
 <--------------------->
 
 <p 03><d E632><a 18><n 0D>
@@ -184,7 +165,7 @@ diversão pra você.
 <p 03><d E732><a 18><n 0D>
 A não ser que ele seja
 frágil demais, e acabe
-em pedaços antes.
+morrendo antes.
 <*********************>
 
 <p 02><d E832><a 0B><n 04>
@@ -192,13 +173,13 @@ Vent!
 <--------------------->
 
 <p 02><d E932><a 07><n 01>
-Afaste-se, Prairie!
-Vou cuidar deles!
+Prairie, afaste-se!
+Vou derrotá-lo!
 <*********************>
 
 <p 03><d EA32><a 18><n 0D>
-Interessante... Você é
-mais forte do que eu
+Entendo... Você é mais
+forte do que eu
 esperava.
 <--------------------->
 
@@ -209,13 +190,9 @@ mais poder.
 <--------------------->
 
 <p 03><d EC32><a 18><n 0D>
-Excelente função.
-Aquela mulher sabia o
-que estava fazendo,
-<--------------------->
-
-quando ela criou aquele
-Biometal...
+Aquela mulher sabia das
+coisas, ao criar aquele
+Biometal.
 <*********************>
 
 <p 02><d ED32><a 0B><n 04>
@@ -224,7 +201,7 @@ Espere!
 
 <p 02><d EE32><a 0B><n 04>
 "Aquela mulher"?!
-Estão falando da irmã!
+Está falando da irmã!
 <*********************>
 
 <p 03><d EF32><a 18><n 0D>
@@ -234,27 +211,19 @@ deve ser desta era...
 <--------------------->
 
 <p 03><d F032><a 18><n 0D>
-Rá, rá...
-<--------------------->
-
-Que conexãozinha
-interessante essa
-que vocês dois possuem!
+Ré, ré... Que conexão
+interessante essa de
+vocês duas!
 <*********************>
 
 <p 02><d F132><a 07><n 01>
-Espere! Volte aqui!
+Espere! Vai fugir?
 <*********************>
 
 <p 03><d F232><a 18><n 0D>
-Hmph. Não seja tão
-rápido ao mostrar suas
-garras para mim, jovem.
-<--------------------->
-
-Vai acabar custando sua
-vida, tal como custou
-a do Mega Man vermelho.
+Rá! Não se apresse.
+Senão vai morrer igual
+ao Mega Man vermelho.
 <--------------------->
 
 <p 02><d F332><a 07><n 01>
@@ -263,19 +232,14 @@ Ora, seu!
 
 <p 03><d F432><a 18><n 0D>
 Rá, rá... Considere-se
-sortudo por ainda estar
-vivo.
-<--------------------->
-
-Lembre-se deste momento
-e como eu o deixei
-viver!
+sortudo por eu ainda
+tê-lo deixado viver!
 <--------------------->
 
 <p 03><d F532><a 18><n 0D>
 Mas se quer testar sua
-sorte, estaremos lhe
-esperando! Rá, rá, rá!
+sorte, então venha até
+nós! Rá, rá, rá!
 <*********************>
 
 <p 02><d F632><a 02><n 55>
@@ -287,7 +251,7 @@ se afastando!
 <p 02><d F732><a 0B><n 04>
 O inimigo recuou.
 Quero um relatório
-dos danos!
+dos danos.
 <--------------------->
 
 <p 02><d F832><a 0C><n 04>
@@ -300,39 +264,31 @@ Entendido.
 <*********************>
 
 <p 02><d FA32><a 0C><n 04>
-Vent, volte ao centro
-de comando.
+Vent, vamos até o
+centro de comando.
 <*********************>
 
 <p 02><d FB32><a 0B><n 04>
-Há algo que precisamos
-conversar.
+Vent, há algo que
+precisamos conversar.
 <--------------------->
 
 <p 03><d FC32><a 05><n 01>
 É sobre Prometeus
-dizendo que vocês dois
+dizendo que vocês duas
 não são desta era?
 <*********************>
 
 <p 02><d FD32><a 0C><n 04>
-Você sabia quem,
-muitos, muitos anos
-atrás,
-<--------------------->
-
-humanos e máquinas
-estavam em guerra
-entre si?
+Você sabia que, anos
+atrás, humanos e máqui-
+nas viviam em guerra?
 <*********************>
 
 <p 03><d FE32><a 05><n 01>
 Ouvi sobre, mas isso
 foi há séculos.
-<--------------------->
-
-Já virou história
-agora.
+Já virou história.
 <--------------------->
 
 <p 02><d FF32><a 0C><n 04>
@@ -354,50 +310,32 @@ de anos atrás?!
 <*********************>
 
 <p 01><p 02><d 0233><a 09><n 04>
-Mas a irmã... Ela não
-era uma Replóide.
-Ela era humana.
+Mas a irmã... Diferente
+de mim, ela era humana.
 <--------------------->
 
 <p 01><p 02><d 0333><a 09><n 04>
-Ela era uma cientista
-que tentou proteger
-nós Replóides,
-<--------------------->
-
-quando ninguém mais
-queria fazê-lo.
+Ela lutou para proteger
+a nós Replóides, quando
+ninguém mais o faria.
 <--------------------->
 
 <p 01><p 02><d 0433><a 09><n 04>
-No fim da guerra, ambos
-os humanos e Replóides
-viviam em harmonia,
-<--------------------->
-
-e a paz finalmente
-havia prevalecido.
+No fim da guerra, a paz
+finalmente surgiu entre
+humanos e Replóides.
 <--------------------->
 
 <p 01><p 02><d 0533><a 09><n 04>
-Mas então, as máquinas
-sencientes conhecidas
-como Mavericks
-<--------------------->
-
-continuaram a ameaçar
+Mas então, os Mavericks
+continuaram ameaçando
 a humanidade.
 <*********************>
 
 <p 01><p 02><d 0633><a 09><n 04>
 A irmã formou os
-Guardiões e tentou
-localizar a fonte 
-<--------------------->
-
-desses ataques de
-Mavericks, para tentar
-impedi-los.
+Guardiões para tentar
+impedir os Mavericks.
 <--------------------->
 
 <p 01><p 02><d 0733><a 0C><n 04>
@@ -406,33 +344,25 @@ Ela se foi. E...
 <*********************>
 
 <p 03><d 0833><a 05><n 01>
-Você esteve combatendo
-os Mavericks por
-séculos...
+E com isso você esteve
+combatendo os Mavericks
+por séculos...
 <--------------------->
 
 <p 03><d 0933><a 05><n 01>
 Você luta por aqueles
 que ama, igual a mim...
-<--------------------->
-
-Bom, não exatamente.
-Você está nisso a mais
-tempo que eu.
+E a mais tempo que eu.
 <*********************>
 
 <p 02><d 0A33><a 09><n 04>
-Vent.
+Vent...
 <--------------------->
 
 <p 03><d 0B33><a 05><n 01>
-O Chefe me disse para
-nunca desistir.
-<--------------------->
-
-Disse que eu ainda
-tinha algo que devo
-proteger.
+O Chefe disse para eu
+nunca desistir. Que eu
+tinha algo a proteger.
 <--------------------->
 
 <p 03><d 0C33><a 05><n 01>

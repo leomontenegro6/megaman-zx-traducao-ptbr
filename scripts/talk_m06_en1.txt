@@ -168,7 +168,7 @@ mudança súbita...
 <*********************>
 
 <p 03><d 8417><a 05><n 01>
-É o fim dos dados.
+Os dados terminal aqui.
 <--------------------->
 
 <p 02><d 8517><a 02><n 04>

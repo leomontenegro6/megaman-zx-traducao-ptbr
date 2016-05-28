@@ -8,22 +8,15 @@ cado por Mavericks.
 <--------------------->
 
 <p 02><d 5A1B><a 02><n 55>
-Há vários membros dos
-Guardiões na área,
-<--------------------->
-
-mas eles estão chamando
-reforços.
+Há vários Guardiões na
+área, mas eles estão
+chamando reforços.
 <--------------------->
 
 <p 02><d 5B1B><a 02><n 55>
-Também detectei a
-presença da assinatura
-de um Biometal,
-<--------------------->
-
-entre os Mavericks na
-região.
+E detectamos a leitura
+de um Biometal, dentre
+os Mavericks na região.
 <--------------------->
 
 <p 02><d 5C1B><a 02><n 55>
@@ -33,13 +26,9 @@ Mavericks.
 <*********************>
 
 <p 03><d 5D1B><a 23><n 2C>
-Aww... Os outros
-Guardiões seguiram em
-frente
-<--------------------->
-
-para tentar salvar mais
-pessoas.
+Aww... Os outros foram
+na frente, para salvar
+mais pessoas.
 <--------------------->
 
 <p 03><d 5E1B><a 23><n 2C>
@@ -55,28 +44,20 @@ você precisa salvá-los!
 <*********************>
 
 <p 03><d 601B><a 21><n 16>
-Vim até este lugar,
-esperando encontrar
-um grande guerreiro,
-<--------------------->
-
-mas você é apenas um
-garoto.
+Vim até aqui, esperando
+achar alguém forte, mas
+é apenas um garoto.
 <--------------------->
 
 <p 03><d 611B><a 21><n 16>
 Coordenar os Mavericks
-e sequestrar todas
-essas pessoas
-<--------------------->
-
-está interferindo no
-meu treinamento.
+e sequestrar as pessoas
+é uma perda de tempo.
 <--------------------->
 
 <p 02><d 621B><a 07><n 01>
 Sequestrar? O que você
-fez com todos?!
+fez com essas pessoas?!
 <--------------------->
 
 <p 03><d 631B><a 21><n 16>
@@ -85,47 +66,32 @@ contá-lo.
 <--------------------->
 
 <p 03><d 641B><a 21><n 16>
-Serpent prometeu me
-guiar além dos limites
-do meu treinamento,
-<--------------------->
-
-e me dar os poderes
-de um deus, se eu
-ajudá-lo.
+Serpent prometeu fazer
+de mim o mais forte do
+mundo, se eu ajudá-lo.
 <--------------------->
 
 <p 03><d 651B><a 21><n 16>
-Soou como uma excelente
-proposta.
-<--------------------->
-
-Farei o que for
-necessário para
-ganhar poder.
+Obtive este grandioso
+poder, após aceitar
+sua proposta.
 <--------------------->
 
 <p 02><d 661B><a 07><n 01>
-Isto não é poder de
-verdade! Não se conse-
-gue poder pelo mal.
+Não se consegue poder
+pelo mal. Isto não é
+poder de verdade!
 <--------------------->
 
 <p 03><d 671B><a 21><n 16>
-Talvez você prove ser
-um oponente astuto para
-mim, afinal.
-<--------------------->
-
-Meu Biometal está
-ardendo para arrancar
-um pedaço seu.
+Oh, você parece ser bom
+de briga. Meu Biometal
+não vê a hora de lutar.
 <--------------------->
 
 <p 03><d 691B><a 21><n 16>
-Me chamo Fistleo.
-Sou o Pseudoróide
-do Modelo F.
+Eu sou o Pseudoróide do
+Modelo F, Fistleo.
 <--------------------->
 
 <p 03><d 6A1B><a 21><n 16>
@@ -135,29 +101,26 @@ e verdadeiro!
 <*********************>
 
 <p 03><d 6B1B><a 21><n 16>
-Hmph. Essa devia ter
+Ré. Essa devia ter
 sido mais fácil. Devo
 treinar mais.
 <*********************>
 
 <p 03><d 6C1B><a 21><n 16>
-Como isto aconteceu?!
-Fui transformado em
-um Pseudoróide...
+Bahh... Argh...
+Este garoto me derrotou
+mesmo assim...
 <--------------------->
 
 <p 03><d 6D1B><a 21><n 16>
-Eu devia ter o poder de
-um deus...
-<--------------------->
-
-Mas fui derrotado por
-um garotinho!
+Eu devia ser o mais
+forte... Mas fui ven-
+cido por esse garoto!
 <*********************>
 
 <p 03><d 6E1B><a 34><n 08>
-Maravilha! Valeu por me
-salvar!
+Rê, rê, rê!
+Valeu aí por me salvar!
 <--------------------->
 
 <p 03><d 6F1B><a 34><n 08>
@@ -172,40 +135,32 @@ vai derrubar?
 <--------------------->
 
 <p 02><d 711B><a 05><n 01>
-C-Calminha aí. Nem te
+P-Peraí. Nem te
 falei o que está
 acontecendo.
 <--------------------->
 
 <p 03><d 721B><a 34><n 08>
-Eu sei, eu sei. Serpent
-está planejando algo
-sorrateiro,
-<--------------------->
-
-com os poderes do
-Modelo W.
+Serpent planeja algo
+horrível com o
+Modelo W, não é?
 <--------------------->
 
 <p 03><d 731B><a 34><n 08>
-É tudo tão complicado.
-<--------------------->
-
-Nem eu entendi direito
-o que houve.
+Mas é tudo tão compli-
+cado, que nem entendi
+direito.
 <--------------------->
 
 <p 03><d 741B><a 34><n 08>
-Mas sei que ele usou
-meu poder para fazer
-seu trabalho sujo.
+O que sei é que ele
+usou meu puder para
+o seu trabalho sujo.
 <--------------------->
 
 <p 03><d 751B><a 34><n 08>
-Se quiser dar o troco,
-serei o seu Biometal!
-<--------------------->
-
+Vou te dar meu poder
+pra gente dar o troco!
 Tem algo contra?
 <--------------------->
 
@@ -214,21 +169,15 @@ N-não...
 <--------------------->
 
 <p 03><d 771B><a 34><n 08>
-Ah, a senha.
-<--------------------->
-
-Foi mal, mas não posso
-te dar a senha toda
-ainda.
+Sobre a senha. Não vou
+poder te dar a senha
+toda ainda.
 <--------------------->
 
 <p 03><d 781B><a 34><n 08>
-Serpent dividiu meu
-poder em dois,
-<--------------------->
-
-e a outra parte está
-com outro Pseudoróide.
+Serpent me dividiu em 2
+e a outra parte tá com
+outro Pseudoróide.
 <--------------------->
 
 <p 03><d 791B><a 34><n 08>
@@ -751,7 +700,7 @@ edifício seguinte
 pelo andar de cima...
 <--------------------->
 
-'<p 02><a 51><n 4C>
+<p 02><a 51><n 4C>
 Os controles do sistema
 contra incêndios estão
 trancados lá.
