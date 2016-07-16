@@ -2,8 +2,8 @@
 <#####################>
 
 <p 02><d F92A><a 02><n 55>
-Uma unidade da Serpent
-Ltda foi detectada
+Um esquadrão da Serpent
+Ltda foi detectado
 na Área K.
 <--------------------->
 
@@ -13,18 +13,15 @@ Estão escavando algo.
 <--------------------->
 
 <p 02><d FB2A><a 02><n 55>
-Há um Pseudoróide
-com um Biometal,
-<--------------------->
-
-e ele está supervi-
-sionando a operação.
+Há um Pseudoróide com
+um Biometal, liberando
+o esquadrão.
 <--------------------->
 
 <p 02><d FC2A><a 02><n 55>
 Dirija-se à Área K e
 recupere o Biometal
-deste Pseudoróide.
+deste esquadrão.
 <*********************>
 
 <p 02><d FD2A><a 02><n 04>
@@ -34,18 +31,14 @@ fundo no subsolo.
 <--------------------->
 
 <p 02><d FE2A><a 02><n 04>
-Tente achar uma forma
-de descer.
+Deve haver uma forma de
+descer. Tente achá-la.
 <*********************>
 
 <p 03><d FF2A><a 1F><n 14>
-Hmm? Ah... É você.
-Você é o carinha que
-tá andando por aí
-<--------------------->
-
-roubando nossos
-Biometais.
+Hein? É você então?
+O tal carinha que está
+roubando os Biometais.
 <--------------------->
 
 <p 03><d 002B><a 1F><n 14>
@@ -54,24 +47,16 @@ a um quilômetro de
 distância.
 <--------------------->
 
-Você veio a mim tão
-rápido como uma broca
-perfurando o solo.
-<--------------------->
-
 <p 03><d 012B><a 1F><n 14>
 Mestre Serpent disse
 que havia um Biometal
-ainda mais poderoso,
-<--------------------->
-
-enterrado bem fundo
-neste lugar.
+mais poderoso aqui.
 <--------------------->
 
 <p 03><d 022B><a 1F><n 14>
-Mas! Não achamos nada
-até agora!
+Mas até agora não
+achamos nada desse
+tal Biometal!
 <--------------------->
 
 <p 03><d 032B><a 1F><n 14>
@@ -81,32 +66,26 @@ Modelo F, Flammole.
 
 <p 03><d 042B><a 1F><n 14>
 Vou te detonar, e todos
-os Biometais que você
-roubou,
-<--------------------->
-
+os Biometais roubados
 voltarão para nós!
 <*********************>
 
 <p 03><d 052B><a 1F><n 14>
-Rá! A força do Biometal
-foi desperdiçada em um
-nanico como você!
+Ré, ré, ré! O poder do
+Biometal foi perdido em
+um nanico como você!
 <*********************>
 
 <p 03><d 062B><a 1F><n 14>
-Agora entendi... Não
-foi a sua presença que
-eu tinha sentido...
+Agora entendi... Essa
+presença que eu tinha
+sentido... Não era sua.
 <--------------------->
 
 <p 03><d 072B><a 1F><n 14>
-Será que foi a do
-Modelo W? Ou...
-<--------------------->
-
-Seria algo totalmente
-diferente!?
+Será do Modelo W?
+Ou... de um Biometal
+totalmente diferente!?
 <--------------------->
 
 <p 03><d 082B><a 1F><n 14>
@@ -114,7 +93,7 @@ Aaargh!
 <*********************>
 
 <p 03><d 092B><a 34><n 08>
-Rá, rá! Que desperdício
+Ré, ré! Que desperdício
 um otário que nem esse
 ter usado meu poder!
 <--------------------->
@@ -122,13 +101,12 @@ ter usado meu poder!
 <p 03><d 0A2B><a 34><n 08>
 Foi mal, mas vai levar
 um tempinho até eu
-recuperar essa senha.
+recuperar a senha.
 <--------------------->
 
 <p 03><d 0B2B><a 34><n 08>
-Se preocupa não, pois
-te passo ela quando
-terminar.
+Espere só mais um
+pouco.
 <*********************>
 
 <FIM>

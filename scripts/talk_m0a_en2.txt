@@ -2,30 +2,21 @@
 <#####################>
 
 <p 02><d 1127><a 02><n 55>
-Recebemos um relatório
-sobre o disco de dados
-da unidade de
-<--------------------->
-
-reconhecimento dos
-Guardiões, interceptado
-pela Serpent Ltda.
+Analisamos o disco da
+unidade de reconheci-
+mento que resgatamos.
 <--------------------->
 
 <p 02><d 1227><a 02><n 55>
-Dizem que a unidade
-inimiga com o disco
-está se movendo.
+Aqui diz que unidades
+inimigas da Serpent
+Ltda estão com o disco.
 <--------------------->
 
 <p 02><d 1327><a 02><n 55>
-O inimigo está
-transportando-o através
-de um túnel,
-<--------------------->
-
-situado nas profundezas
-do mar, na Área J.
+Estão transportando
+o disco em um túnel
+marítimo, na Área J.
 <--------------------->
 
 <p 02><d 1427><a 02><n 55>
@@ -36,84 +27,56 @@ dados.
 
 <p 02><d 1527><a 02><n 04>
 O disco de dados contém
-o relatório em que a
-irmã estava trabalhando
-<--------------------->
-
-enquanto ela ainda
-era da unidade de
-reconhecimento.
+a outra parte daquele
+relatório da irmã.
 <--------------------->
 
 <p 02><d 1627><a 05><n 02>
-Então este disco deve
-conter o restante dos
-dados desaparecidos
-<--------------------->
-
-daquele outro que
-encontramos no local da
-chamada de emergência.
+Então contém o restante
+dos dados perdidos
+daquele outro disco...
 <--------------------->
 
 <p 02><d 1727><a 02><n 04>
-Encontramos a unidade
-de entrega inimiga,
-<--------------------->
-
-juntamente com uma
-assinatura de
-Biometal.
+Junto com a unidade
+inimiga, detectamos uma
+assinatura de Biometal.
 <--------------------->
 
 <p 02><d 1827><a 02><n 04>
-Deve haver algo
-importante, armazenado
-neste disco.
+Para ter tanta escolta,
+seu conteúdo deve ser
+bem importante.
 <--------------------->
 
 <p 02><d 1927><a 02><n 04>
-A assinatura do
-Biometal também está
-situada na mesma área.
-<--------------------->
-
-Tome cuidado, Aile.
+A assinatura deste
+Biometal também nessa
+mesma área. Cuidado.
 <*********************>
 
 <p 03><d 1A27><a 1E><n 13>
-Ruá, rá rá! Então você
-é o grande Mega Man
-<--------------------->
-
-que fica interferindo
-nos nossos planos.
+Ré, ré, ré, ré! Então é
+o Mega Man escolhido
+que tenta nos deter.
 <--------------------->
 
 <p 03><d 1B27><a 1E><n 13>
-Suponho que seja pedir
-demais esperar que
-alguém tão jovem
-<--------------------->
-
-entenda o que estamos
-tentando fazer.
+Não creio que alguém
+tão jovem como você
+entenda nossas razões.
 <--------------------->
 
 <p 03><d 1C27><a 1E><n 13>
-Você devia respeitar os
-mais velhos e escutar
-nossos conselhos.
+Os jovens devem respei-
+tar os mais velhos e
+escutar seus conselhos.
 <--------------------->
 
 <p 02><d 1D27><a 05><n 02>
-Você fica pedindo
-respeito,
-<--------------------->
-
-enquanto continua
-escondendo a verdade
-das pessoas?
+Você pede respeito,
+enquanto esconde a
+verdade das pessoas?
 <--------------------->
 
 <p 02><d 1E27><a 05><n 02>
@@ -122,9 +85,9 @@ seguir você é.
 <--------------------->
 
 <p 03><d 1F27><a 1E><n 13>
-Ruá, rá, rá! Às vezes
-a ignorância é uma
-bênção, pequenina!
+Rá, rá, rá, rá!
+Às vezes é melhor não
+saber da verdade!
 <--------------------->
 
 <p 03><d 2027><a 1E><n 13>
@@ -139,19 +102,13 @@ respeito.
 <*********************>
 
 <p 03><d 2227><a 1E><n 13>
-Essa foi boa,
-garotinha.
-<--------------------->
-
-Durma com os peixes,
-no fundo do mar.
+Essa foi muito boa,
+garotinha! Durma com os
+peixes no fundo do mar.
 <*********************>
 
 <p 03><d 2327><a 1E><n 13>
-Por que... Por que você
-luta tão bravamente?
-<--------------------->
-
+Por que você luta?
 Por que arrisca sua
 vida por esses tolos?
 <--------------------->
@@ -174,17 +131,14 @@ a senha.
 <--------------------->
 
 <p 03><d 2727><a 35><n 09>
-Me esforçarei para
-recuperá-la
-<--------------------->
-
-antes de você enfrentar
-o Modelo W.
+Estará pronta antes da
+luta contra o Modelo W.
+Espere mais um pouco.
 <*********************>
 
 <p 02><d 2827><a 02><n 04>
-Aile, o disco de dados
-está...
+Aile, esse disco de
+dados está...
 <--------------------->
 
 <p 02><d 2927><a 05><n 02>
@@ -194,17 +148,13 @@ nele.
 <*********************>
 
 <p 02><a 04><n 00>
-Serpent aniquilou a
-unidade de reconheci-
-mento,
+Serpent usou o Modelo W
+e aniquilou a unidade
+de reconhecimento.
 <*********************>
 
 <p 01><p 02><a 04><n 00>
-com o Biometal do
-Modelo W.
-<--------------------->
-
-Não entendo como o
+Não entendo como
 Serpent foi o único
 afetado,
 <--------------------->
@@ -222,8 +172,8 @@ diferença no caso dele.
 <--------------------->
 
 <p 01><p 02><a 04><n 00>
-Ele era um sobrevivente
-de um ataque de
+Ele era sobrevivente
+de um dos surtos de
 Mavericks.
 <--------------------->
 
@@ -248,13 +198,9 @@ objetivo do Modelo W...
 <--------------------->
 
 <p 02><a 04><n 00>
-Não tenho muito tempo.
-Rezo para que estes
-dados
-<--------------------->
-
-não caiam em mãos
-erradas.
+Não há tempo. Rezo para
+que estes dados não
+caiam em mãos erradas.
 <--------------------->
 
 <p 02><d 2A27><a 02><n 04>
@@ -264,12 +210,9 @@ dados vazarem.
 <--------------------->
 
 <p 02><d 2B27><a 02><n 04>
-Ele certamente sabe
-como o povo deste país
-iria reagir,
-<--------------------->
-
-se soubesse a verdade.
+A reação do povo deste
+país seria problemática
+ao saberem da verdade.
 <--------------------->
 
 <p 02><d 2C27><a 02><n 04>
@@ -279,14 +222,9 @@ relatório da missão.
 <--------------------->
 
 <p 02><d 2D27><a 02><n 04>
-Não podemos deixar a
-informação contida
-neste disco vazar,
-<--------------------->
-
-até que saibamos
-exatamente do que
-se trata.
+Esses dados ainda não
+podem ser revelado a
+público.
 <--------------------->
 
 <p 02><d 2E27><a 08><n 02>
@@ -296,23 +234,15 @@ ataques, igual a mim...
 <--------------------->
 
 <p 02><d 2F27><a 08><n 02>
-Se ele se tornou o que
-é agora,
-<--------------------->
-
-o que vai me impedir
-de virar a mesma
-coisa?
+Se ele virou o que é
+agora, o que me impede
+de virar o mesmo?
 <--------------------->
 
 <p 02><d 3027><a 02><n 04>
-Aile, você não vai
-se tornar igual a ele.
-<--------------------->
-
-Lembre-se da coragem
-que você mostrou,
-quando me salvou.
+Aile, você não é igual
+a ele. Lembre-se da sua
+coragem, ao me salvar.
 <--------------------->
 
 <p 02><d 3127><a 02><n 04>
