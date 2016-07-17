@@ -8,85 +8,69 @@ na Área L.
 <--------------------->
 
 <p 02><d E22E><a 02><n 55>
-Este laboratório é bem
-parecido com o outro
-<--------------------->
-
-onde a primeira
-comandante descobriu
-o Modelo X.
+É similar ao local onde
+a primeira comandante
+descobriu o Modelo X.
 <--------------------->
 
 <p 02><d E32E><a 02><n 55>
-Deve haver outras
-pistas sobre o Biometal
-no local.
+Deve haver dados
+adicionais sobre o
+Biometal, no local.
 <--------------------->
 
 <p 02><d E42E><a 02><n 55>
-O inimigo já está se
-movendo até a área.
+Unidades inimigas já
+estão se movendo até
+a área.
 <--------------------->
 
 <p 02><d E52E><a 02><n 55>
-Não podemos deixar
-esses dados cairem
-em mãos erradas.
+Até então, esses dados
+ainda não caíram nas
+mãos deles.
 <--------------------->
 
 <p 02><d E62E><a 02><n 55>
 Dirija-se à Área L e
-adquira os dados antes
-deles.
+adquira esses dados
+antes.
 <*********************>
 
 <p 02><d E72E><a 02><n 04>
-Vent! O inimigo iniciou
+Temos um problema!
+O inimigo iniciou
 seu ataque!
 <--------------------->
 
 <p 02><d E82E><a 02><n 04>
 Se não nos apressarmos,
-todos os dados do
-laboratório de pesquisa
-<--------------------->
-
+os dados do laboratório
 serão perdidos!
 <--------------------->
 
 <p 02><d E92E><a 02><n 04>
 A sala com os dados
-deve estar logo a
-frente!
+deve estar logo à
+frente! Apresse-se!
 <*********************>
 
 <p 03><d EA2E><a 20><n 15>
-Enfim você veio...
-<--------------------->
-
-O Mega Man tolo que
-se aliou aos Guardiões.
+Enfim chegou...
+O Mega Man tolo que se
+aliou aos Guardiões.
 <--------------------->
 
 <p 03><d EB2E><a 20><n 15>
-Todos os dados que
-encontramos aqui,
-<--------------------->
-
-agora estão no meu
-disco de dados
-interno.
+Os dados encontrados,
+agora estão no disco
+dentro do meu corpo.
 <--------------------->
 
 <p 03><d EC2E><a 20><n 15>
 Só preciso destruir
-esta sala, com você
-dentro,
-<--------------------->
-
-e todas as pontas
-soltas estarão
-amarradas.
+você e esta sala, e
+estará tudo acabado.
 <--------------------->
 
 <p 03><d ED2E><a 20><n 15>
@@ -107,9 +91,9 @@ a lugar algum.
 <*********************>
 
 <p 03><d F02E><a 20><n 15>
-Urgh! Não! Como alguém
-conseguiu atravessar
-minha armadura?!
+Urgh! Impossível! Como
+você conseguiu atra-
+vessar minha armadura?!
 <--------------------->
 
 <p 03><d F12E><a 20><n 15>
@@ -117,41 +101,32 @@ Rrrááárgh!
 <*********************>
 
 <p 03><d F22E><a 36><n 0A>
-No fim, até os mais
-poderosos acabam
-caindo.
-<--------------------->
-
-Uma armadura resistente
-não é nada, comparado à
+Um corpo resistente não
+é nada, comparado à
 força de vontade.
 <--------------------->
 
 <p 03><d F32E><a 36><n 0A>
 Levará um tempo até
 eu ser capaz de
-<--------------------->
-
-recuperar toda a
-senha.
+recuperar a senha.
 <--------------------->
 
 <p 03><d F42E><a 36><n 0A>
-No entanto, a senha
-estará pronta quando
+Deixarei a senha pronta
+para quando você
 precisar.
 <*********************>
 
 <p 02><d F52E><a 02><n 04>
-Esse disco de dados foi
-deixado para trás pela
-irmã. Só pode ser.
+Esse disco de dados só
+pode ter sido deixado
+para trás pela irmã.
 <--------------------->
 
 <p 02><d F62E><a 02><n 04>
-Por favor, não esqueça
-de trazê-lo de volta ao
-QG.
+Não esqueça de pegá-lo,
+antes de voltar.
 <*********************>
 
 <p 02><a 01><n 00>
@@ -171,9 +146,9 @@ Bio...tal do Modelo W.
 <--------------------->
 
 <p 02><d F72E><a 08><n 01>
-Parece que o disco de
-dados está corrompido.
-Não consigo ler.
+Não dá. Parece que o
+disco de dados está
+corrompido.
 <--------------------->
 
 <p 02><d F82E><a 02><n 04>
@@ -184,7 +159,7 @@ os dados, no QG.
 
 <p 02><d F92E><a 02><n 04>
 Por favor envie-o para
-nós, junto com o seu
+nós, junto do seu
 relatório da missão.
 <*********************>
 
