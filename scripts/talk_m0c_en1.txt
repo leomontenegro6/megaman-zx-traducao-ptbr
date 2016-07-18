@@ -39,14 +39,14 @@ antes.
 
 <p 02><d E72E><a 02><n 04>
 Temos um problema!
-O inimigo iniciou
-seu ataque!
+O inimigo iniciou seu
+ataque nesta área!
 <--------------------->
 
 <p 02><d E82E><a 02><n 04>
-Se não nos apressarmos,
-os dados do laboratório
-serão perdidos!
+Desse jeito, os dados
+do laboratório serão
+perdidos!
 <--------------------->
 
 <p 02><d E92E><a 02><n 04>
