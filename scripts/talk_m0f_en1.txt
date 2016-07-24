@@ -2,20 +2,15 @@
 <#####################>
 
 <p 02><d 993A><a 02><n 55>
-Estou detectando um
-surto de Mavericks
-repentino na Área O.
+Detectamos um surto de
+Mavericks repentino na
+Área O.
 <--------------------->
 
 <p 02><d 9A3A><a 02><n 55>
-O exército de Mavericks
-está se dirigindo ao
-viaduto,
-<--------------------->
-
-especificamente indo
-em direção ao distrito
-residencial.
+Os Mavericks estão no
+viaduto, a caminho do
+distrito residencial.
 <--------------------->
 
 <p 02><d 9B3A><a 02><n 55>
@@ -31,66 +26,47 @@ a Área O.
 
 <p 02><d 9D3A><a 02><n 04>
 O exército Maverick
-está chegando cada vez
-mais perto
-<--------------------->
-
-do distrito residencial
-a cada segundo que
-passa.
+está se aproximando do
+distrito residencial.
 <--------------------->
 
 <p 02><d 9E3A><a 02><n 04>
 Precisamos impedi-los,
-e evitar ao máximo
-<--------------------->
-
-as casualidades entre
-os Guardiões.
+e evitar o máximo de
+vítimas nos Guardiões.
 <--------------------->
 
 <p 02><d 9F3A><a 02><n 04>
-Encontre os líderes dos
-Mavericks, e acabe com
-eles!
+Vent, encontre os
+líderes dos Mavericks,
+e acabe com eles!
 <*********************>
 
 <p 02><d A03A><a 07><n 01>
-Devia saber que vocês
-dois estariam por trás
-disso,
-<--------------------->
-
-Pandora e Prometeus!
+Sabia que isso era obra
+de vocês, Prometeus e
+Pandora!
 <--------------------->
 
 <p 03><d A13A><a 18><n 0D>
-Bem, finalmente abrimos
-as curtinas,
-<--------------------->
-
-e chegamos para a nossa
-peça final!
+Bem, finalmente
+chegamos ao clímax!
 <--------------------->
 
 <p 03><d A23A><a 18><n 0D>
-Você e Serpent, os dois
-titulares dos poderes
-dos Biometais,
-<--------------------->
-
-lutando um contra o
-outro até o final!
+Você e Serpent, lutando
+até a morte, conforme o
+Destino da Destruição.
 <--------------------->
 
 <p 03><d A33A><a 18><n 0D>
-Sim... Foi exatamente
-como o Modelo W havia
-previsto.
+Sim... Tudo aconteceu
+exatamente como foi
+previsto pelo Modelo W.
 <--------------------->
 
 <p 02><d A43A><a 07><n 01>
-Modelo W!?
+Previsto pelo Modelo W?
 E o Serpent!?
 <--------------------->
 
@@ -101,33 +77,30 @@ consciência própria.
 
 <p 03><d A63A><a 19><n 0E>
 Ele pode... controlar
-os fracos.
+o coração dos fracos.
 <--------------------->
 
 <p 03><d A73A><a 18><n 0D>
-Você achou mesmo que
-Serpent tinha a força
-de vontade
-<--------------------->
-
-para controlar o
-Modelo W!?
+Achou mesmo que Serpent
+era digno de controlar
+o Modelo W!?
 <--------------------->
 
 <p 03><d A83A><a 18><n 0D>
 Ele não passa de um
-peão!
+brinquedo!
 <--------------------->
 
 <p 02><d A93A><a 07><n 01>
-Vocês estiverem usando
-Serpent desde o início!
+Vocês estiveram
+usando Serpent
+desde o início?!
 <--------------------->
 
 <p 03><d AA3A><a 19><n 0E>
 É tarde demais...
-O Modelo W... prestes
-a despertar.
+O Modelo W...
+Já vai despertar.
 <--------------------->
 
 <p 03><d AB3A><a 18><n 0D>
@@ -137,9 +110,9 @@ Modelo ZX!
 <*********************>
 
 <p 02><d AC3A><a 07><n 01>
-Se não estão do lado
-de Serpent, quem são
-vocês?
+Quem são vocês dois?
+Não são companheiros
+de Serpent?
 <--------------------->
 
 <p 03><d AD3A><a 19><n 0E>
@@ -148,35 +121,27 @@ Modelo W.
 <--------------------->
 
 <p 03><d AE3A><a 18><n 0D>
-Rá, rá, rá, rá! Se quer
-saber mais, vai ter que
+Rê, rê, rê, rê! Se quer
+saber tudo, vai ter que
 enfrentar o Modelo W!
 <--------------------->
 
 <p 03><d AF3A><a 18><n 0D>
 Você. Serpent.
-Os cidadãos deste país.
+Todos os cidadãos
+deste país.
 <--------------------->
 
 <p 03><d B03A><a 18><n 0D>
-Todos vocês eram apenas
-atores em uma peça de
-teatro,
-<--------------------->
-
-atuando em seus papéis,
-justo como o Modelo W
-havia escrito.
+Não passam de fantoches
+agindo conforme a
+vontade do Modelo W.
 <*********************>
 
 <p 02><d B13A><a 02><n 04>
-A atividade dos
-Mavericks está
-finalmente abaixando.
-<--------------------->
-
-Você deve ter derrotado
-seus líderes!
+Os Mavericks estão
+recuando. Você derrotou
+seus líderes?
 <--------------------->
 
 <p 02><d B23A><a 07><n 01>

@@ -2,20 +2,15 @@
 <#####################>
 
 <p 02><d 993A><a 02><n 55>
-Estou detectando um
-surto de Mavericks
-repentino na Área O.
+Detectamos um surto de
+Mavericks repentino na
+Área O.
 <--------------------->
 
 <p 02><d 9A3A><a 02><n 55>
-O exército de Mavericks
-está se dirigindo ao
-viaduto,
-<--------------------->
-
-especificamente indo
-em direção ao distrito
-residencial.
+Os Mavericks estão no
+viaduto, a caminho do
+distrito residencial.
 <--------------------->
 
 <p 02><d 9B3A><a 02><n 55>
@@ -31,47 +26,31 @@ Aile! Você chegou à
 
 <p 02><d 9D3A><a 02><n 04>
 O exército Maverick
-está chegando cada vez
-mais perto
-<--------------------->
-
-do distrito residencial
-a cada segundo que
-passa.
+está se aproximando do
+distrito residencial.
 <--------------------->
 
 <p 02><d 9E3A><a 02><n 04>
 Precisamos impedi-los,
-e evitar ao máximo
-<--------------------->
-
-as casualidades entre
-os Guardiões.
+e evitar o máximo de
+vítimas nos Guardiões.
 <--------------------->
 
 <p 02><d 9F3A><a 02><n 04>
-Encontre os líderes dos
-Mavericks, e acabe com
-eles!
+Aile, encontre os
+líderes dos Mavericks,
+e acabe com eles!
 <*********************>
 
 <p 02><d A03A><a 07><n 02>
-Que "surpresa".
-Vocês dois são
-os responsáveis
-<--------------------->
-
-por tudo isso, Pandora
-e Prometeus!
+Sabia que vocês são os
+responsáveis por isso,
+Prometeus e Pandora!
 <--------------------->
 
 <p 03><d A13A><a 18><n 0D>
-Bem, finalmente abrimos
-as curtinas,
-<--------------------->
-
-e chegamos para a nossa
-peça final!
+Bem, finalmente
+chegamos ao clímax!
 <--------------------->
 
 <p 03><d A23A><a 18><n 0D>
@@ -81,13 +60,9 @@ para o grande final.
 <--------------------->
 
 <p 03><d A33A><a 18><n 0D>
-Somos todos iguais.
-Vidas arrasadas por
-um destino cruel,
-<--------------------->
-
-que tem ficado na nossa
-cabeça por anos.
+Nós somos iguais. Vidas
+arrasadas por uma tra-
+gédia de anos atrás.
 <--------------------->
 
 <p 02><d A43A><a 07><n 02>
@@ -107,24 +82,15 @@ do Biometal...
 <--------------------->
 
 <p 03><d A73A><a 18><n 0D>
-Serpent fez um bom
-trabalho para nós.
-<--------------------->
-
-Ele serviu muito bem
-ao seu propósito, por
+Serpent serviu bem ao
+seu propósito, por
 escavar até o Modelo W.
 <--------------------->
 
 <p 03><d A83A><a 18><n 0D>
 É uma pena o Modelo W
 ser poderoso demais
-para ele controlar,
-<--------------------->
-
-e se insistir, acabará
-perdendo toda sua alma,
-com o passar do tempo.
+para ele controlar.
 <--------------------->
 
 <p 02><d A93A><a 07><n 02>
@@ -135,8 +101,8 @@ tempo todo!
 
 <p 03><d AA3A><a 19><n 0E>
 É tarde demais...
-O Modelo W... prestes
-a despertar.
+O Modelo W...
+Já vai despertar.
 <--------------------->
 
 <p 03><d AB3A><a 18><n 0D>
@@ -146,13 +112,9 @@ Modelo ZX!
 <*********************>
 
 <p 02><d AC3A><a 07><n 02>
-Qual é o verdadeiro
-objetivo de vocês?!
-<--------------------->
-
-E por que eu tenho que
-estar envolvida nisso
-tudo?!
+Qual é o objetivo de
+vocês?! Por que estou
+envolvida nisso tudo?!
 <--------------------->
 
 <p 03><d AD3A><a 19><n 0E>
@@ -162,7 +124,7 @@ até restar apenas um.
 <--------------------->
 
 <p 03><d AE3A><a 18><n 0D>
-Rá, rá, rá, rá! Se quer
+Rê, rê, rê, rê! Se quer
 saber a verdade, vai
 ter que lutar!
 <--------------------->
@@ -172,32 +134,21 @@ Você. Serpent. Nós.
 <--------------------->
 
 <p 03><d B03A><a 18><n 0D>
-Nós todos somos apenas
-peões em um enorme
-tabuleiro.
-<--------------------->
-
-O tabuleiro dele.
+Somos todos apenas
+peões no tabuleiro
+enorme daquele homem.
 <*********************>
 
 <p 02><d B13A><a 02><n 04>
-A atividade dos
-Mavericks está
-finalmente abaixando.
-<--------------------->
-
-Você deve ter derrotado
-seus líderes!
+Os Mavericks estão
+recuando. Você derrotou
+seus líderes?
 <--------------------->
 
 <p 02><d B23A><a 07><n 02>
-Esta luta ainda está
-longe de terminar.
-<--------------------->
-
-Conseguiu rastrear
-a localização do
-Modelo W?
+A luta ainda está longe
+de acabar. Descobriu o
+local do Modelo W?
 <--------------------->
 
 <p 02><d B33A><a 02><n 04>
