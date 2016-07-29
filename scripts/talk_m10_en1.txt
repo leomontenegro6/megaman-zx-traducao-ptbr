@@ -9,27 +9,19 @@ Modelo W.
 
 <p 02><d 823E><a 0B><n 04>
 Está no edifício mais
-alto de todos, situado
-no centro deste país:
-<--------------------->
-
-A sede da Serpent Ltda.
+alto do país: A sede da
+Serpent Ltda.
 <*********************>
 
 <p 01><p 02><d 833E><a 0B><n 04>
-Estou detectando uma
-enorme concentração de
-energia,
-<--------------------->
-
-acumulando-se dentro do
-edifício.
+Detectamos uma enorme
+concentração de energia
+dentro do edifício.
 <--------------------->
 
 <p 01><p 02><d 843E><a 0B><n 04>
 Algo grande está
-prestes a acontecer.
-Vai ser perigoso.
+prestes a acontecer lá.
 <--------------------->
 
 <p 01><p 03><d 853E><a 05><n 01>
@@ -50,14 +42,9 @@ vida em risco.
 <--------------------->
 
 <p 02><d 883E><a 0C><n 04>
-Se eu nunca tivesse
-feito aquele pedido à
-transportadora,
-<--------------------->
-
-você não teria se
-metido em toda essa
-confusão.
+Se eu não tivesse feito
+aquele pedido, você não
+teria que lutar.
 <--------------------->
 
 <p 02><d 893E><a 0C><n 04>
@@ -65,29 +52,30 @@ E Giro...
 <--------------------->
 
 <p 02><d 8A3E><a 0C><n 04>
-Sinto que eu o causei
-tanta dor e sofrimento.
+Eu causei tanta dor e
+sofrimento a ele...
 <--------------------->
 
 <p 03><d 8B3E><a 05><n 01>
-Por favor, não fique se
-martirizando. Eu sou
-grato a você.
+Não diga essas coisas.
+Eu sou grato a você,
+Prairie.
 <*********************>
 
 <p 02><d 8C3E><a 0C><n 04>
-Mesmo? Por quê?
+Mesmo?
 <--------------------->
 
 <p 03><d 8D3E><a 05><n 01>
-É culpa minha eu não
-ter conseguido salvar o
-Chefe. Não tinha força.
+Não consegui falar o
+Chefe porque eu não
+tinha força.
 <--------------------->
 
 <p 03><d 8E3E><a 05><n 01>
-Mas agora tenho os
-poderes dos Biometais.
+Mas agora é diferente:
+Tenho os poderes dos
+Biometais.
 <--------------------->
 
 <p 03><d 8F3E><a 05><n 01>
@@ -96,7 +84,7 @@ Biometais,
 <--------------------->
 
 <p 03><d 903E><a 05><n 01>
-finalmente tenho a
+eu finalmente tenho a
 força para proteger as
 pessoas próximas a mim.
 <--------------------->
@@ -106,12 +94,12 @@ Vent...
 <--------------------->
 
 <p 03><d 923E><a 05><n 01>
-Voltarei em breve.
+Estou indo.
 <--------------------->
 
 <p 03><d 933E><a 05><n 01>
-Estou indo acabar com
-todo este pesadelo!
+Acabarei de vez com
+todo este pesadelo.
 <--------------------->
 
 <p 02><d 943E><a 09><n 04>
@@ -126,56 +114,42 @@ vivo, tá?
 <*********************>
 
 <p 02><d 963E><a 02><n 55>
-Há uma assinatura de
-Biometal
-<--------------------->
-
-vindo da sede da
-Serpent Ltda, situada
-na Área D.
+Na Área D, onde fica a
+sede da Serpent Ltda,
 <--------------------->
 
 <p 02><d 973E><a 02><n 55>
-É o Modelo W.
+detectamos a leitura do
+Biometal Modelo W.
 <--------------------->
 
 <p 02><d 983E><a 02><n 55>
 Vá à sede da Serpent
-Ltda e destrua-o.
+Ltda e destrua o
+Modelo W.
 <*********************>
 
 <p 03><d 993E><a 1B><n 10>
-As curtinas estão se
-abrindo para uma nova
-era!
-<--------------------->
-
-Infelizmente, você não
-estará por perto,
-para vê-la.
+Agora mesmo, a nova era
+está prestes a chegar,
+e não pode impedi-la!
 <--------------------->
 
 <p 03><d 9A3E><a 1B><n 10>
 A luz do novo mundo
-brilha forte demais
-<--------------------->
-
-para pessoas como
-você!
+brilha muito forte para
+pessoas como você!
 <*********************>
 
 <p 01><p 03><d 9B3E><a 1B><n 10>
-Você não tem o que é
-preciso para entender
-nossa verdadeira visão.
-<--------------------->
-
-Que pena...
+Você não é capaz de
+entender nossa verda-
+deira visão. Que pena.
 <*********************>
 
 <p 03><d 9C3E><a 1B><n 10>
-Cof! Cof! Não tenho
-medo do fim!
+Arf... Não tenho
+medo da morte!
 <--------------------->
 
 <p 03><d 9D3E><a 1B><n 10>
@@ -185,23 +159,19 @@ e Mestre Serpent!
 <*********************>
 
 <p 03><d 9E3E><a 1A><n 0F>
-Inacreditável! Você
-esteve incomodando
-<--------------------->
-
-o pobrezinho do Mestre
-Serpent esse tempo
-todo!
+Horrível! Você tem
+incomodado Mestre Ser-
+pent esse tempo todo!
 <--------------------->
 
 <p 03><d 9F3E><a 1A><n 0F>
-Seu fedelho!
+Seu pestinha!
 Vou esmagá-lo agora!
 <*********************>
 
 <p 01><p 03><d A03E><a 1A><n 0F>
-Céus! Isso é tudo que
-pode fazer?
+Ora, ora... Isso é tudo
+que pode fazer?
 <--------------------->
 
 <p 01><p 03><d A13E><a 1A><n 0F>
@@ -228,95 +198,74 @@ alma está em chamas!
 <--------------------->
 
 <p 03><d A53E><a 21><n 16>
-Beleza! Me mostra tua
-força!
+Então, garoto!
+Me mostre sua força!
 <*********************>
 
 <p 03><d A63E><a 21><n 16>
-Se você não tem nem
-coragem de esquecer
-o passado,
-<--------------------->
-
-como espera sair
-vitorioso nessa luta?!
+Se não tem nem coragem
+de esquecer o passado,
+como espera vencer?!
 <*********************>
 
 <p 03><d A73E><a 21><n 16>
-Mesmo em espírito,
-continuarei a lutar!
-<--------------------->
-
-Hei-de me tornar um,
-com o Modelo W!
+O meu espírito há de se
+tornar um com o Modelo
+W, após nossa luta!
 <--------------------->
 
 <p 03><d A83E><a 21><n 16>
-Isso... É isso que
-Serpent queria dizer
-com poder de um deus!
-<--------------------->
-
-É incrível...
-Simplesmente incrível!
+Isso... É o que Serpent
+quis dizer com poderes
+divinos? Incrível!
 <*********************>
 
 <p 03><d A93E><a 1D><n 12>
-U, u, á, á! U, u, á, á!
-É um milagre! Voltei
-e me sinto o máximo!
+Riá, rá rá! Incrível!
+Voltei dos mortos e me
+sinto o máximo!
 <--------------------->
 
 <p 03><d AA3E><a 1D><n 12>
-Foi mal aí, mas não
-vai ser uma luta justa!
-<--------------------->
-
-Se bobear, vou acabar
-te derrubando com uma
+Foi mal aí, mas agora
+vou te derrubar com uma
 porrada só!
 <*********************>
 
 <p 03><d AB3E><a 1D><n 12>
-U, u, á, á! Sua alma é
+Rié, ré! Sua alma é
 fraca demais para ir
 junto do Modelo W!
 <*********************>
 
 <p 03><d AC3E><a 1D><n 12>
-U, u... á, á!
-Apanhei de novo!
-<--------------------->
-
-Bom, pelo menos eu pude
-viver um pouco mais.
+Riá rá... rá...
+Perdi de novo!
+Mas fazer o quê.
 <--------------------->
 
 <p 03><d AD3E><a 1D><n 12>
-Mestre Serpent! Eu cedo
+Mestre Serpent, eu cedo
 minha alma ao Modelo W
-por livre arbítrio!
+por vontade própria.
 <*********************>
 
 <p 03><d AE3E><a 1C><n 11>
-Hmph. Sua peste! Ainda
-tentando combater o
-inevitável.
-<--------------------->
-
-Mestre Serpent sairá
-vitorioso!
+Hmph. Que peste você é!
+Ainda ousa enfrentar
+o Mestre Serpent?!
 <--------------------->
 
 <p 03><d AF3E><a 1C><n 11>
-Vou aniquilá-lo, e
-então perceberá o quão
-fútil sua batalha foi!
+Então até que desista,
+enfrentarei você até
+aniquilá-lo!
 <*********************>
 
 <p 03><d B03E><a 1C><n 11>
-Você era bem corajoso
-por ousar me desafiar!
+Ao me desafiar com esse
+seu poder, você demons-
+trou muita bravura!
 <--------------------->
 
 <p 03><d B13E><a 1C><n 11>
@@ -325,7 +274,7 @@ tudo.
 <*********************>
 
 <p 03><d B23E><a 1C><n 11>
-Argh! Continuarei
+Argh! Eu continuarei
 a viver junto do
 Modelo W...
 <--------------------->
@@ -337,43 +286,27 @@ derrotado no final!
 <*********************>
 
 <p 03><d B43E><a 1E><n 13>
-A juventude realmente
-é desperdiçada nos
-jovens.
-<--------------------->
-
-Ainda continua a
-desafiar Mestre
-Serpent?!
+Ainda desafia o Mestre
+Serpent?! Jovens des-
+perdiçando a juventude.
 <--------------------->
 
 <p 03><d B53E><a 1E><n 13>
-Você é cego para a
-realidade! O mundo que
-Mestre Serpent criará
-<--------------------->
-
-é o próximo passo
-na evolução humana!
+O novo mundo de Mestre
+Serpent é o próximo
+passo da humanidade!
 <*********************>
 
 <p 03><d B63E><a 1E><n 13>
-A juventude estava
-contra você...
-<--------------------->
-
 Para ser um verdadeiro
 Mega Man, é preciso ter
 anos de maturidade!
 <*********************>
 
 <p 03><d B73E><a 1E><n 13>
-Se ao menos tornasse-se
-um com o Modelo W,
-<--------------------->
-
-você também entenderia
-a verdade.
+Se ao menos você se
+unisse com o Modelo W,
+nos entenderia.
 <--------------------->
 
 <p 03><d B83E><a 1E><n 13>
@@ -383,10 +316,8 @@ também devemos evoluir.
 <*********************>
 
 <p 03><d B93E><a 1F><n 14>
-Rá, rá! Devia me
-agradecer.
-<--------------------->
-
+Rê, rê, rê, rê!
+Devia me agradecer.
 Já cavei até sua cova!
 <--------------------->
 
@@ -396,12 +327,9 @@ enterrar!
 <*********************>
 
 <p 03><d BB3E><a 1F><n 14>
-Hmm! Acho que vai ser
-difícil
-<--------------------->
-
-juntar todos os seus
-pedaços novamente...
+Hmm! Juntar todos os
+seus pedaços novamente
+será trabalhoso...
 <--------------------->
 
 <p 03><d BC3E><a 1F><n 14>
@@ -410,25 +338,21 @@ não vai ter enterro!
 <*********************>
 
 <p 03><d BD3E><a 1F><n 14>
-Já sinto as ondas de
-choque do Modelo W
+Já sinto a pressão
+emitida pelo Modelo W
 tremendo o chão...
 <--------------------->
 
 <p 03><d BE3E><a 1F><n 14>
-Quando o Modelo W
-acabar com você, não
+Quando o buraco da sua
+cova se desfazer, não
 diga que não avisei!
 <*********************>
 
 <p 03><d BF3E><a 20><n 15>
-Nunca esperei que você
-conseguisse chegar tão
-longe na nossa sede...
-<--------------------->
-
-Mas é aqui que a sua
-jornada termina.
+Não achei que chegaria
+tão longe na nossa
+sede, mas acaba aqui.
 <--------------------->
 
 <p 03><d C03E><a 20><n 15>
@@ -438,13 +362,9 @@ será sua ruína!
 <*********************>
 
 <p 03><d C13E><a 20><n 15>
-Deveria se orgulhar!
-Você se tornou a
-primeira pedra de apoio
-<--------------------->
-
-na estrada para um
-novo mundo!
+Orgulhe-se! Agora você
+tornou-se pavimento, na
+estrada do novo mundo!
 <*********************>
 
 <p 03><d C23E><a 20><n 15>
@@ -464,29 +384,19 @@ tantos deles aqui?!
 <*********************>
 
 <p 03><d C53E><a 14><n 0C>
-Você deve estar se
-perguntando por que
-precisamos
-<--------------------->
-
-de tantos Cyber-elfos
-para despertar o
-Modelo W...
+Por que o despertar do
+Modelo W precisa de
+Cyber-elfos?
 <--------------------->
 
 <p 03><d C63E><a 14><n 0C>
-Hmph! Uma criança como
-você jamais entenderá.
+Você jamais entenderá.
 <*********************>
 
 <p 03><d C73E><a 14><n 0C>
-O medo que eles
-sentem...
-<--------------------->
-
-O medo se torna o
-poder que impulsiona
-o Modelo W!
+O medo que sentem...
+se torna o poder que
+impulsiona o Modelo W!
 <*********************>
 
 <p 02><d C83E><a 07><n 01>
@@ -508,15 +418,12 @@ tados do sofrimento!
 <p 03><d CB3E><a 14><n 0C>
 O Mega Man escolhido
 salvará as pessoas!
-<--------------------->
-
-Esta é a glória do
-Projeto Refúgio!
+É o Projeto Refúgio!
 <--------------------->
 
 <p 02><d CC3E><a 07><n 01>
-"Salvará todas as
-pessoas"?!
+"O Mega Man escolhido
+salvará as pessoas"?!
 <--------------------->
 
 <p 02><d CD3E><a 07><n 01>
@@ -525,71 +432,45 @@ esses Cyber-elfos?!
 <--------------------->
 
 <p 03><d CE3E><a 14><n 0C>
-Dez anos atrás, um
-surto de Mavericks
-vitimou várias pessoas.
+Há 10 anos, um surto de
+Mavericks fez várias
+vítimas neste país.
 <--------------------->
 
 <p 03><d CF3E><a 14><n 0C>
-A força de segurança da
-minha empresa acabou
-com esses Mavericks,
-<--------------------->
-
-e assim, acabei sendo
-reconhecido como herói.
+Minhas forças acabaram
+com esses Mavericks, e
+então virei um herói.
 <--------------------->
 
 <p 03><d D03E><a 14><n 0C>
-Desde então, este país
-foi atormentado por um
-surto atrás do outro,
-<--------------------->
-
-com minha empresa
-sempre vindo ao
-resgate no final.
+E então, vários surtos
+se repetiram, comigo
+salvando-os no final.
 <--------------------->
 
 <p 03><d D13E><a 14><n 0C>
-Consegui ganhar a
-confiança das pessoas,
-enquanto que,
-<--------------------->
-
-ao mesmo tempo, eu
-coletava os espítitos
-que precisava!
+Ganhava a confiança das
+pessoas, e coletava os
+espíritos das vítimas!
 <--------------------->
 
 <p 03><d D23E><a 14><n 0C>
 A história deste país é
-meramente uma faceta
-de um plano maior:
-<--------------------->
-
+apenas uma faceta do
 Projeto Refúgio.
 <--------------------->
 
 <p 02><d D33E><a 07><n 01>
-Então você usou as
-vítimas dos surtos de
-dez anos atrás,
-<--------------------->
-
-pessoas como a minha
-mãe, para criar os
-Cyber-elfos?!
+Então esses Cyber-elfos
+são as vítimas de dez
+anos, como minha mãe?!
 <--------------------->
 
 <p 02><d D43E><a 07><n 01>
-Todas elas! Minha mãe!
-O Chefe! A irmã de
-Prairie!
-<--------------------->
-
-Você está por trás de
-todas essas perdas!
+Tudo isso foi você!
+A minha mãe! O Chefe!
+A irmã de Prairie!
 <--------------------->
 
 <p 03><d D53E><a 14><n 0C>
@@ -598,29 +479,16 @@ apto! Os fortes vivem
 e os fracos morrem!
 <--------------------->
 
-É a clássica luta pela
-vida!
-<--------------------->
-
 <p 03><d D63E><a 14><n 0C>
-Os espíritos das
-pessoas me deram o
-que eu precisava
-<--------------------->
-
-para obter o poder do
-Modelo W!
+Seus espíritos me deram
+o necessário para obter
+o poder do Modelo W!
 <--------------------->
 
 <p 03><d D73E><a 14><n 0C>
-Olhe para você! Só está
-diante de mim hoje
-graças ao poder
-<--------------------->
-
-do Modelo Z, absorvido
-daquele Mega Man
-vermelho!
+E você? Só está aqui
+graças ao Modelo Z do
+Mega Man vermelho!
 <--------------------->
 
 <p 03><d D83E><a 14><n 0C>
@@ -641,7 +509,7 @@ o Modelo W!
 <*********************>
 
 <p 03><d DB3E><a 15><n 0C>
-Giá, rá, rá, rá!
+Rá, rá, rá, rá!
 <--------------------->
 
 <p 02><d DC3E><a 07><n 01>
@@ -650,9 +518,8 @@ Serpent?!
 <--------------------->
 
 <p 03><d DD3E><a 15><n 0C>
-É como Prometeus e
-Pandora disseram. Você
-é a chave final.
+É como Prometeus disse.
+Você é a chave final.
 <--------------------->
 
 <p 03><d DE3E><a 15><n 0C>
@@ -663,7 +530,7 @@ um forte sentimento...
 
 <p 03><d DF3E><a 15><n 0C>
 Tão forte, que excede
-até mesmo os meus!
+até mesmo o meu poder!
 <*********************>
 
 <p 02><d E03E><a 07><n 01>
@@ -678,19 +545,15 @@ guiando você agora...
 <--------------------->
 
 <p 03><d E23E><a 15><n 0C>
-Este sentimento não é
-bravura...
-<--------------------->
-
-E sequer veio de algum
-tipo de senso de
-justiça...
+Não é coragem, e sequer
+vem do seu senso de
+justiça.
 <--------------------->
 
 <p 03><d E33E><a 15><n 0C>
-É ódio. Seu ódio por
-mim e tudo que tomei
-de você!
+Esse sentimento por
+tudo que tomei de você,
+é ódio no seu coração!
 <--------------------->
 
 <p 02><d E43E><a 07><n 01>
@@ -698,15 +561,14 @@ O quê!?
 <*********************>
 
 <p 02><d E53E><a 08><n 01>
-Quer dizer que...
 Eu era a chave para
 despertar o Modelo W?
 <--------------------->
 
 <p 02><d E63E><a 08><n 01>
-Toda a dor...
-Todas essas batalhas...
-Foram um erro?
+Todas as minhas
+batalhas... Foram um
+erro?
 <--------------------->
 
 <p 02><d E73E><a 31><n 05>
@@ -723,42 +585,27 @@ Hã!?
 <*********************>
 
 <p 02><d EA3E><a 33><n 07>
-Não emprestamos nosso
-poder a você apenas
-<--------------------->
-
-por uma sede de
-vingança mesquinha...
+Nós não lhe emprestamos
+nosso poder apenas para
+se vingar...
 <--------------------->
 
 <p 02><d EB3E><a 34><n 08>
-Derrotar alguém só
-porque você não gosta
-da pessoa
-<--------------------->
-
-não passa de um simples
-ato de bullying.
+Enfrentar alguém apenas
+por ódio da pessoa não
+te levará a nada.
 <--------------------->
 
 <p 02><d EC3E><a 35><n 09>
-Não se renda ao seu
-ódio.
-<--------------------->
-
-Você tem que nadar
-contra a maré, senão
+Não se renda.
+Nade contra a maré, ou
 ficará preso no ciclo.
 <--------------------->
 
 <p 02><d ED3E><a 36><n 0A>
 Mesmo no túnel mais
-escuro,
-<--------------------->
-
-sempre há uma luz no
-fim, para você
-seguir.
+escuro, há uma luz no
+fim, para seguir.
 <*********************>
 
 <p 02><d EE3E><a 31><n 05>
@@ -768,40 +615,35 @@ no ódio.
 
 <p 02><d EF3E><a 31><n 05>
 Seu verdadeiro poder.
-Há uma fonte de bravura
+Há uma fonte de coragem
 dentro de você!
 <--------------------->
 
 <p 02><d F03E><a 32><n 06>
-Olhe dentro do seu
-coração!
+Olhe para dentro de
+você!
 <*********************>
 
 <p 02><d F13E><a 07><n 01>
 Tem razão. Eu fiz uma
-promessa a você
+promessa a vocês
 naquele dia!
 <--------------------->
 
 <p 02><d F23E><a 07><n 01>
-Eu disse que vou
-proteger as pessoas!
-Todas elas!
+Eu disse que protegerei
+as pessoas! Todas elas!
 <--------------------->
 
 <p 03><d F33E><a 16><n 0C>
-Muito bem. Se está tão
-seguro de si,
-<--------------------->
-
-vamos descobrir qual
-Mega Man está destinado
-a governar o mundo!
+Então vamos descobrir
+qual Mega Man governará
+o novo mundo!
 <--------------------->
 
 <p 02><d F43E><a 07><n 01>
-Governar o mundo não
-importa para mim!
+Para mim, isso não
+importa!
 <--------------------->
 
 <p 02><d F53E><a 07><n 01>
@@ -813,24 +655,19 @@ governar o mundo,
 <p 02><d F63E><a 07><n 01>
 então eu sou o Mega Man
 que é destinado a
-salvá-lo!
+protegê-lo!
 <*********************>
 
 <p 02><d F73E><a 07><n 01>
-Você não é um Mega Man,
-e muito menos um
-governador.
+Você não é um Mega Man.
+Muito menos governador
+do novo mundo.
 <--------------------->
 
 <p 02><d F83E><a 07><n 01>
-Você é apenas uma
-ferramenta, manipulada
-pelo Modelo W.
-<--------------------->
-
-Você brincou com vidas,
-e não passa de um
-simples Maverick!
+É apenas um fantoche do
+Modelo W. Não passa de
+um simples Maverick!
 <--------------------->
 
 <p 03><d F93E><a 17><n 0C>
@@ -842,18 +679,10 @@ de Maverick?!
 <p 03><d FA3E><a 17><n 0C>
 É você que está
 impedindo o progresso.
-Negando mudanças.
-<--------------------->
-
-Talvez o Maverick aqui
-seja você!
+O Maverick aqui é você!
 <--------------------->
 
 <p 03><d FB3E><a 17><n 0C>
-A sociedade é destinada
-a sofrer mudanças!
-<--------------------->
-
 As pessoas precisam se
 livrar de seus corpos
 e corações corruptos.
@@ -872,13 +701,9 @@ chama de "progresso"!
 <--------------------->
 
 <p 03><d FE3E><a 17><n 0C>
-Em um planeta...
-A vida nasce...
-Humanos e máquinas...
-<--------------------->
-
-Eras de guerra e paz
-vem e vão.
+No mundo, humanos e má-
+quinas nascem. Eras de
+guerra e paz vem e vão.
 <--------------------->
 
 <p 03><d FF3E><a 17><n 0C>
@@ -893,31 +718,21 @@ machuque. Quer proteger
 as pessoas importantes.
 <--------------------->
 
-Não quer perder nada.
-<--------------------->
-
 <p 03><d 013F><a 17><n 0C>
 Por agir baseado nesse
-desejo, você continua
-a fazer escolhas
-<--------------------->
-
-que evitam a dor.
+desejo, você faz esco-
+lhas que evitam a dor.
 <--------------------->
 
 <p 03><d 023F><a 17><n 0C>
 O Mega Man destinado a
-salvar o mundo?
+proteger o mundo?
 <--------------------->
 
 <p 03><d 033F><a 17><n 0C>
-Vidas imutáveis... Um
-mundo desprovido da luz
-da esperança.
-<--------------------->
-
-Qual é o sentido
-disso!?
+Um mundo desprovido da
+luz da esperança. Qual
+é o sentido disso?!
 <--------------------->
 
 <p 02><d 043F><a 07><n 01>
@@ -925,7 +740,7 @@ Mas...!
 <*********************>
 
 <p 02><d 053F><a 31><n 05>
-Vent! Tudo está
+Essa não! Tudo está
 desmoronando! Você tem
 que sair daqui!
 <*********************>
@@ -937,14 +752,15 @@ mudanças"...
 <--------------------->
 
 <p 02><d 073F><a 08><n 01>
-Não consegui pensar em
-nada para responder
-a isso.
+Eu não consegui pensar
+em uma resposta ao que
+Serpent disse.
 <*********************>
 
 <p 03><d 083F><a 0D><n 03>
-Bom, por que você
-decidiu lutar?
+Sendo assim, por que
+decidiu lutar naquele
+dia?
 <*********************>
 
 <p 03><d 093F><a 0D><n 03>
@@ -956,11 +772,6 @@ mudar o mundo.
 Você decidiu que não
 queria se tornar um
 escravo do destino.
-<--------------------->
-
-Você é a pessoa que
-lutou para mudar aquele
-destino.
 <--------------------->
 
 <p 02><d 0B3F><a 05><n 01>
@@ -984,30 +795,19 @@ clientes com respeito.
 <p 03><d 0F3F><a 0D><n 03>
 Você me ignorava. Era
 sempre descuidado
-<--------------------->
-
 e fugia sozinho.
 <*********************>
 
 <p 03><d 103F><a 0D><n 03>
-É, definitivamente você
-era horrível de lidar.
-<--------------------->
-
 Você me deixava louco,
-mas eu sempre me
-importava com você.
+mas sempre foi meu
+pupilo predileto.
 <--------------------->
 
 <p 03><d 113F><a 0D><n 03>
-Mesmo nas horas que
-você me tirava do
-sério...
-<--------------------->
-
-Cada momento é uma
-preciosa lembrança
-para mim.
+Mesmo quando você me
+tirava do sério, cada
+momento me é precioso.
 <--------------------->
 
 <p 02><d 123F><a 05><n 01>
@@ -1021,12 +821,8 @@ e dor, o que sobra?
 <--------------------->
 
 <p 01><p 03><d 143F><a 0D><n 03>
-Serpent jogou tudo
-fora, até não sobrar
-mais nada,
-<--------------------->
-
-e assim, tentou mudar o
+Serpent jogou tudo isso
+fora, e tentou mudar o
 mundo.
 <--------------------->
 
@@ -1038,11 +834,7 @@ fazer?
 <p 01><p 02><d 163F><a 05><n 01>
 Jamais vou superar a
 dor de ter perdido
-pessoas importantes,
-<--------------------->
-
-como você e a minha
-mãe.
+você e a minha mãe.
 <--------------------->
 
 <p 01><p 02><d 173F><a 05><n 01>
@@ -1053,16 +845,13 @@ vivo.
 
 <p 01><p 02><d 183F><a 07><n 01>
 Lembranças difíceis...
-Memórias tristes.
-<--------------------->
-
-Mas mesmo assim, não
-quero perdê-las!
+Memórias tristes. Mas
+não quero perdê-las.
 <--------------------->
 
 <p 01><p 02><d 193F><a 07><n 01>
-Vou proteger todas
-essas memórias!
+Por isso, vou proteger
+todas essas memórias.
 <*********************>
 
 <p 03><d 1A3F><a 0E><n 03>
@@ -1071,9 +860,9 @@ Guie o mundo.
 <--------------------->
 
 <p 03><d 1B3F><a 0E><n 03>
-Traga ao mundo o futuro
-que você acredita que
-merece.
+Traga a este mundo
+o futuro que você
+acredita que merece.
 <*********************>
 
 <p 03><d 1C3F><a 0E><n 03>
@@ -1084,12 +873,12 @@ transportador.
 
 <p 02><d 1D3F><a 31><n 05>
 Todos escondem alguma
-fraqueza dolorosa em
-seus corações.
+fraqueza dolorosa no
+coração.
 <--------------------->
 
 <p 02><d 1E3F><a 31><n 05>
-Mas esta dor é o que
+Mas, esta dor é o que
 faz as pessoas enten-
 derem uns aos outros.
 <--------------------->
@@ -1102,11 +891,8 @@ futuro.
 
 <p 02><d 203F><a 32><n 06>
 Esta é a luta que você,
-e cada ser vivo neste
-planeta,
-<--------------------->
-
-devem travar.
+e todo ser vivo neste
+planeta, deve travar.
 <*********************>
 
 <p 02><d 213F><a 0A><n 04>
@@ -1114,12 +900,9 @@ Vent!
 <*********************>
 
 <p 01><p 03><d 223F><a 05><n 01>
-Desafiar nossos
-destinos e criar o
-próprio futuro.
-<--------------------->
-
-Esta é nossa luta.
+Desafiar nossos desti-
+nos e criar o próprio
+futuro. É a nossa luta.
 <--------------------->
 
 <p 01><p 03><d 233F><a 05><n 01>
