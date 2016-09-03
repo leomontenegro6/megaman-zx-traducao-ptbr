@@ -2,19 +2,20 @@
 <#####################>
 
 <p 02><d E903><a 0D><n 03>
-Alô! Obrigado por ligar
-para a melhor transpor-
-tadora da região!
+Alô! Nós transportamos
+seu produto para
+qualquer lugar!
 <--------------------->
 
 <p 02><d EA03><a 0D><n 03>
-A Girouette Expresso
-transporta seu produto
-para qualquer lugar!
+Nós somos a transpor-
+tadora "Girouette
+Expresso"!
 <--------------------->
 
 <p 02><d EB03><a 02><n 00>
-Giro? É você?
+É o Giro, da
+transportadora?
 <--------------------->
 
 <p 02><d EC03><a 0D><n 03>

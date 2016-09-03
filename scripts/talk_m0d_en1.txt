@@ -152,7 +152,7 @@ Eu!? Sacrifício!?
 <*********************>
 
 <p 03><d E532><a 19><n 0E>
-Prometeus...
+Prometeu...
 Não é justo...
 <--------------------->
 
@@ -274,7 +274,7 @@ precisamos conversar.
 <--------------------->
 
 <p 03><d FC32><a 05><n 01>
-É sobre Prometeus
+É sobre Prometeu
 dizendo que vocês duas
 não são desta era?
 <*********************>
@@ -300,11 +300,11 @@ guerra.
 <p 02><d 0033><a 0C><n 04>
 Fui projetada para ser
 parecida com humanos.
-Sou uma Replóide.
+Sou uma replóide.
 <--------------------->
 
 <p 03><d 0133><a 07><n 01>
-Você é uma Replóide
+Você é uma replóide
 construída a centenas
 de anos atrás?!
 <*********************>
@@ -316,14 +316,14 @@ de mim, ela era humana.
 
 <p 01><p 02><d 0333><a 09><n 04>
 Ela lutou para proteger
-a nós Replóides, quando
+a nós replóides, quando
 ninguém mais o faria.
 <--------------------->
 
 <p 01><p 02><d 0433><a 09><n 04>
 No fim da guerra, a paz
 finalmente surgiu entre
-humanos e Replóides.
+humanos e replóides.
 <--------------------->
 
 <p 01><p 02><d 0533><a 09><n 04>

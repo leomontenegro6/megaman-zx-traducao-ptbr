@@ -194,7 +194,7 @@ no ar, enquanto usa sua arma
 buster para atacar. Sua
 armação é bem mais leve que
 a de um Galleon normal, de
-modo a  auxiliar no vôo.
+modo a auxiliar no vôo.
 <*********************>
 
 
@@ -747,7 +747,7 @@ então atacá-lo diretamente
 <*********************>
 
 
-Este misterioso Replóide
+Este misterioso replóide
 foi encontrado em ruínas
 antigas. Rumores dizem que
 ele havia sido destruído por
@@ -843,7 +843,7 @@ Pandora
 
 
 A mulher misteriosa que
-sempre acompanha Prometeus.
+sempre acompanha Prometeu.
 Ela dominou os poderes de
 trovão e gelo. Prefere
 ataques à distância.
@@ -882,7 +882,7 @@ gigante.
 <*********************>
 
 
-Prometeus
+Prometeu
 <*********************>
 
 
@@ -1042,7 +1042,7 @@ Lava Demon
 
 Nenhum ataque pode penetrar
 o magma ao redor deste
-Replóide. É cego, mas pode
+replóide. É cego, mas pode
 detectar inimigos através
 de seus movimentos. Ao
 localizar um inimigo,
@@ -1138,7 +1138,7 @@ Sardine
 <*********************>
 
 
-É o único Replóide criança
+É o único replóide criança
 no QG dos Guardiões. Ele
 está sempre brincando com os
 brinquedos que Silure cria
