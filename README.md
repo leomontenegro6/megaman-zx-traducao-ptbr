@@ -38,17 +38,19 @@ Havia conhecido a nova saga ZX da franquia Mega Man alguns anos atrás, mas por 
 
 No entanto, levando em consideração que no passado eu também havia traduzido os quatro jogos da saga Mega Man Zero de Gameboy Advance, alguns anos atrás eu havia tentato iniciar um projeto para traduzir os jogos da saga Mega Man ZX para português, começando pelo desenvolvimento de uma ferramenta para extrair e reinserir textos dinamicamente. Mas a falta de tempo, misturado com a falta de paciência para terminar a ferramenta e corrigir seus bugs, acabou mantendo o projeto parado.
 
-Mas uns 2 meses atrás, após eu ter zerado pela primeira vez ambos os jogos da franquia alguns meses atrás, decidi tocar o projeto pra frente, terminando o desenvolvimento e teste da ferramenta, e iniciando a tradução em seguida. Decidi pôr todos os arquivos e descobertas na nuvem, aqui no Github, e aqui estão: a ferramenta de dumper/inserter, as imagens deste tópico, arquivos contendo informações da rom, e é claro, os scripts traduzidos.
+Mas após eu ter zerado pela primeira vez ambos os jogos da franquia alguns meses atrás, decidi tocar o projeto pra frente, terminando o desenvolvimento e teste da ferramenta, e iniciando a tradução em seguida. Decidi pôr todos os arquivos e descobertas na nuvem, aqui no Github, e aqui estão: a ferramenta de dumper/inserter, as imagens deste tópico, arquivos contendo informações da rom, e é claro, os scripts traduzidos.
 
-Consegui a ajuda do Ondinha na tradução de alguns scripts, e juntos, já traduzimos mais da metade dos scripts do jogo. No entanto, embora a rom do jogo já venha com todos os acentos, ainda estão pendentes todas as edições gráficas, juntamente com a possível legendagem de alguns vídeos do jogo (provavelmente a tarefa mais difícil). Pretendo ver isto após a tradução de todos os scripts.
+Com a ajuda de vários colegas romhackers, conseguimos várias façanhas neste projeto. Uma delas foi o "undub" do jogo original, onde ao conseguirmos adaptar a tradução original, oriunda da versão americana do jogo, para a versão original japonesa, conseguimos manter o áudio original das missões principais do jogo.
+
+A versão mais recente do projeto, lançada em setembro de 2016, conta com todos os textos traduzidos, e cerca de 80% dos gráficos editados. Futuramente, serão editados o restante dos gráficos, bem como as legendas nos poucos vídeos que o jogo possui.
 
 # Status da Tradução
 
-Textos: 67%
+Textos: 100%
 
 Acentos: 100%
 
-Gráficos: 0%
+Gráficos: 80%
 
 Vídeos: 0%
 
