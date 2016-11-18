@@ -1,0 +1,25 @@
+Header
+00000000 00000002
+00000004 00000010 - localização do tileset (comprimido)
+00000008 00000408 - localização do tilemap
+0000000C 00002438 - tamanho do arquivo
+
+Tileset
+00000010 00000014 - localização da imagem comprimida
+00000014 000003C4 - tamanho do arquivo comprimido
+00000018 80220100 - stamp?
+0000001C 000003CC - tamanho total
+00000020 08080020 - stamp?
+
+Ao fim do arquivo comprimido, adicionar: 000003E0 00007FFF
+
+Adicionar padding de 24 00h
+
+Tilemap
+00000408 00000010 - endereço do primeiro tilemap (e também quantidade de ponteiros, se divido por 4)
+0000040C 00000818 - endereço do segundo tilemap
+00000410 00001020 - endereço do terceiro tilemap
+00000414 00001828 - endereço do quarto tilemap
+
+Início de cada tilemap:
+00000000 00200020 ... Após, ler 1024 entradas (2048 bytes, bg 256x256)
