@@ -762,11 +762,3 @@ pop     r4
 bx      r14
 
 .pool
-
-;; Alterações feitas para não travar a rom por causa dos textos maiores
-
-.org 0x02007edc
-.dw 0x023e0000
-
-.org 0x02000b60
-.dw 0x0208dcb4

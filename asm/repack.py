@@ -124,7 +124,7 @@ MAIN_FILES = [  "ndsheader.bin" ,
                 "arm7ovltable.bin" ,
                 "fnt.bin" ,
                 "fat.bin" ,
-                "banner.bin" ]
+                "banner.bin " ]
 
 if __name__ == "__main__":
         
@@ -266,7 +266,7 @@ if __name__ == "__main__":
         romsize = fd.tell()
         print "Rom size ", romsize
         padding = 2**int(math.log(romsize,2)+1) - romsize
-        # fd.write( "\0" * padding )
+        fd.write( "\0" * padding )
         
         # Atualização dos endereços
         fd.seek( 0x20 )
