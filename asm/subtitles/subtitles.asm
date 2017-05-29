@@ -763,6 +763,11 @@ bx      r14
 
 .pool
 
+.org 0x020be6b8
+.import "names.gba"                                         ; nomes em inglês
+.org 0x020bf118
+.import "letters.gba"                                       ; alfabeto latino
+
 ;; Alterações feitas para não travar a rom por causa dos textos maiores
 
 .org 0x02007edc
