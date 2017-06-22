@@ -1,14 +1,14 @@
 # [NDS] Mega Man ZX - Tradução PT-BR
 
-Este é um projeto de tradução do jogo Mega Man ZX, de Nintendo DS, para português do Brasil. O projeto foi baseado na versão americana do jogo.
+Este é um projeto de tradução do jogo Mega Man ZX, de Nintendo DS, para português do Brasil. O projeto iniciou-se com base na versão americana do jogo, e posteriormente foi migrado para a versão japonesa para fins de Undub.
 
 Mega Man ZX é o primeiro jogo da sexta saga da franquia Mega Man. Lançado em 2006, é a continuação direta de Mega Man Zero 4. Pela primeira vez na franquia, o jogo oferece a opção de selecionar um protagonista masculino (Vent) ou feminino (Aile), antes de começar a jogar. Alguns diálogos variam em função do personagem escolhido, dando uma certa variedade no jogo.
 
 # Informações
 
-Nome do jogo: Mega Man ZX
+Nome do jogo: Mega Man ZX / Rock Man ZX
 
-Versão: Americana
+Versão: Americana / Japonesa
 
 Plataforma: Nintendo DS
 
