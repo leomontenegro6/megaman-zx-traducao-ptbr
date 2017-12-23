@@ -47,13 +47,14 @@ if __name__ == "__main__":
         offset = 0
         tileset = array.array("c")
         tilemaps = []
-        dc = {}        
-        for g in os.listdir( path ):          
+        for g in os.listdir( path ):  
             with open( os.path.join( path , g ), "rb" ) as fd :   
             
                 buff = fd.read()
                 tilesdict = create_tilesdict( buff , 4 )
-                
+
+                dc = {}
+
                 for x in tilesdict: 
                     if dc.has_key(tilesdict[x]):
                         continue
@@ -65,42 +66,14 @@ if __name__ == "__main__":
                         continue                        
                     else:
                         dc.update({tilesdict[x]:offset})
-                        offset += 1   
-
-        newdc = {}
-        
-        for x in dc:
-            newdc.update({dc[x]:x})
-        for x in newdc:
-            tileset.extend(newdc[x])                        
-        
-        for g in os.listdir( path ):  
-            with open( os.path.join( path , g ), "rb" ) as fd :   
-            
-                buff = fd.read()
-                tilesdict = create_tilesdict( buff , 4 )
-
-                # dc = {}
-
-                # for x in tilesdict: 
-                    # if dc.has_key(tilesdict[x]):
-                        # continue
-                    # elif dc.has_key(horizontal(tilesdict[x])):
-                        # continue
-                    # elif dc.has_key(vertical(tilesdict[x])):
-                        # continue
-                    # elif dc.has_key(diagonal(tilesdict[x])):
-                        # continue                        
-                    # else:
-                        # dc.update({tilesdict[x]:offset})
-                        # offset += 1
+                        offset += 1
                         
-                # newdc = {}
+                newdc = {}
                 
-                # for x in dc:
-                    # newdc.update({dc[x]:x})
-                # for x in newdc:
-                    # tileset.extend(newdc[x])
+                for x in dc:
+                    newdc.update({dc[x]:x})
+                for x in newdc:
+                    tileset.extend(newdc[x])
                     
                 tm = array.array("c")
                 for x in tilesdict:
