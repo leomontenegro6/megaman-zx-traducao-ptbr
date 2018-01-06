@@ -775,36 +775,88 @@ bx      r14
 
 ;; Alterações feitas para não travar a rom por causa dos textos maiores
 
-.org 0x02007edc
-.dw 0x023e0000
+.org 0x02007EDC
+.dw 0x023E0000
 
-; .org 0x02000b60  ; o arm9.bin não será mais usado comprimido
-; .dw 0x0208dcb4
+; É necessário ter o arquivo 053 de obj_fnt.bin e obj_dat.bin atualizados para as alterações abaixo funcionarem.
+; Tabelas de Ponteiros
+.org 0x020E4FA8 ;  É necessário reposicionar o tilemap, visto que temos mais caracteres que o original
+.dw TILEMAP_MISSION_START_Ptr , TILEMAP_MISSION_FAILED_Ptr , TILEMAP_GAME_OVER_Ptr , TILEMAP_MISSION_COMPLETE_Ptr
 
-; É necessário ter o arquivo 053 de obj_fnt.bin e obj_dat.bin atualizados para funcionar essas alterações.
+.org 0x020E4F88 ;  É necessário reposicionar as animações, visto que temos mais caracteres que o original
+.dw OAM_MISSION_START_Ptr , OAM_MISSION_FAILED_Ptr , OAM_GAME_OVER_Ptr , OAM_MISSION_COMPLETE_Ptr
+
+; ======== MISSION FAILED ========
+.org 0x020C7CC0 ; Posição zerada do arm9.bin
+;.org 0x020E4F78; Posição original
+.align
+TILEMAP_MISSION_FAILED_Ptr:
+; TILEMAP
+;      M     I     S     S     I     O     N     F     A     I     L     E     D    \0
+;.db 0x00, 0x01, 0x02, 0x02, 0x01, 0x03, 0x04, 0x05, 0x06, 0x01, 0x07, 0x08, 0x09, 0xFF
+;      M     I     S     S     Ã     O     F     R     A     C     A     S     S     A     D     A    \0
+.db 0x00, 0x01, 0x02, 0x02, 0x03, 0x04, 0x05, 0x06, 0x07, 0x08, 0x07, 0x02, 0x02, 0x07, 0x09, 0x07, 0xFF
+;.org 0x020E5034; Posição original
+.align
+OAM_MISSION_FAILED_Ptr: ; Posição X de cada letra
+.dw 0xFFFF9800, 0xFFFFA700, 0xFFFFB300  ; M I S
+.dw 0xFFFFC000, 0xFFFFCD00, 0xFFFFDB00  ; S Ã O
+.dw 0xFFFFF400, 0x00000200, 0x00001000  ; F R A
+.dw 0x00001D00, 0x00002800, 0x00003500  ; C A S
+.dw 0x00004200, 0x00005000, 0x00005E00  ; S A D
+.dw 0x00006B00                          ; A   
+
 ; ======== MISSION START ========
-.org 0x020E4F68
+.org 0x020C7E34 ; Posição zerada do arm9.bin
+;.org 0x020E4F68; Posição original
+.align
 TILEMAP_MISSION_START_Ptr:
 ; TILEMAP
 ;      M     I     S     S     I     O     N     S     T     A     R     T    \0     
 ;.db 0x0A, 0x0B, 0x0C, 0x0C, 0x0B, 0x0D, 0x0E, 0x0C, 0x0F, 0x10, 0x11, 0x0F, 0xFF
 ;      I     N     I     C     I     A     R     M     I     S     S     Ã     O    \0   
 .db 0x0B, 0x0E, 0x0B, 0x28, 0x0B, 0x10, 0x11, 0x0A, 0x0B, 0x0C, 0x0C, 0x0F, 0x0D, 0xFF
-; OAMs associadas
-.org 0x020E5004
-OAM_MISSION_START_Ptr: ; Alterar esses valores para melhorar o posicionamento do gráfico
+;.org 0x020E5004; Posição original
+.align
+OAM_MISSION_START_Ptr: ; Posição X de cada letra
 .dw 0xFFFFAD00, 0xFFFFBC00, 0xFFFFC800  ; I N I
 .dw 0xFFFFD500, 0xFFFFE100, 0xFFFFED00  ; C I A
 .dw 0xFFFFFC00, 0x00001600, 0x00002400  ; R M I
 .dw 0x00003100, 0x00004000, 0x00004E00  ; S S Ã
 .dw 0x00005C00                          ; O
 
+; ======== GAME OVER ========
+.org 0x020C7B70 ; Posição zerada do arm9.bin
+;.org 0x020E4F5C; Posição original
+.align
+TILEMAP_GAME_OVER_Ptr:
+; TILEMAP
+;      G     A     M     E     O     V     E     R    \0
+;.db 0x12, 0x13, 0x14, 0x15, 0x16, 0x17, 0x15, 0x19, 0xFF
+;      F     I     M     D     E     J     O     G     O    \0
+.db 0x12, 0x13, 0x14, 0x15, 0x16, 0x17, 0x18, 0x19, 0x18, 0xFF
+;.org 0x020E4FE4; Posição original
+.align
+OAM_GAME_OVER_Ptr: ; Posição X de cada letra
+.dw 0xFFFFB900, 0xFFFFC800, 0xFFFFD600  ; F I M
+.dw 0xFFFFF400, 0x00000200, 0x00001e00  ; D E J
+.dw 0x00002B00, 0x00003900, 0x00004700  ; O G O
+
 ; ======== MISSION COMPLETE ========
 
-; ======== MISSION FAILED ========
+.org 0x020E4F98 ; Posição original - NÃO FOI NECESSÁRIO ALTERAR!
+.align
+TILEMAP_MISSION_COMPLETE_Ptr:
+;      M     I     S     S     I     O     N     C     O     M     P     L     E     T     E    \0
+;.db 0x1E, 0x1F, 0x20, 0x20, 0x1F, 0x21, 0x22, 0x23, 0x21, 0x1F, 0x24, 0x25, 0x26, 0x27, 0x26, 0xFF
+;      M     I     S     S     Ã     O     C     O     N     C     L     U     Í    D     A    \0
+.db 0x1E, 0x1F, 0x20, 0x20, 0x21, 0x22, 0x23, 0x22, 0x24, 0x23, 0x25, 0x26, 0x27, 0x29, 0x2A, 0xFF
 
-; ======== GAME OVER ========
-
-; Tabelas de Ponteiros
-.org 0x020E4F88
-.dw OAM_MISSION_START_Ptr
+.org 0x020E5068; Posição original - NÃO FOI NECESSÁRIO ALTERAR!
+.align
+OAM_MISSION_COMPLETE_Ptr: ; Posição X de cada letra
+.dw 0xFFFFA500, 0xFFFFB200, 0xFFFFBD00  ; M I S
+.dw 0xFFFFC900, 0xFFFFD400, 0xFFFFE200  ; S Ã O
+.dw 0xFFFFFA00, 0x00000600, 0x00001200  ; C O N
+.dw 0x00001F00, 0x00002D00, 0x00003900  ; C L U
+.dw 0x00004600, 0x00005100, 0x00005D00  ; Í D A

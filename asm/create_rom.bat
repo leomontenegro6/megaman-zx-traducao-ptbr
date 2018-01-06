@@ -1,5 +1,7 @@
 @echo off
 
+cls
+
 echo "Assembling arm9.bin"
 cd subtitles
 ..\armips.exe subtitles.asm

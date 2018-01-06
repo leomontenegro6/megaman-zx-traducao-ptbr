@@ -71,29 +71,31 @@ Label_TblPtr_0:
 .dh Label_Generic0_69 - Label_TblPtr_0 - 4 , 0x030F  ; 0x27
 
 .dh Label_Generic0_84 - Label_TblPtr_0 - 4 , 0x0101  ; 0x28 - (NÃO EXISTE NO ORIGINAL - CRIADO PARA EXPANDIR "MISSION START")
+.dh Label_Generic0_85 - Label_TblPtr_0 - 4 , 0x0301  ; 0x29 - (NÃO EXISTE NO ORIGINAL - CRIADO PARA EXPANDIR "MISSION START")
+.dh Label_Generic0_86 - Label_TblPtr_0 - 4 , 0x0301  ; 0x2A - (NÃO EXISTE NO ORIGINAL - CRIADO PARA EXPANDIR "MISSION START")
 
 .align
 ; OAMs dos caracteres... TileNu, Formato do sprite, 
 Label_Generic0_0:
-.db 0x00, 0x20, 0xF6, 0xF4
+.db 0x00, 0x20, 0xF6, 0xF4  ; M - MISSION FAILED  / M - MISSÃO FRACASSADA
 Label_Generic0_1:
-.db 0x14, 0xA0, 0xFA, 0xF4
+.db 0x14, 0xA0, 0xFA, 0xF4  ; I - MISSION FAILED  / I - MISSÃO FRACASSADA
 Label_Generic0_2:
-.db 0x04, 0xA0, 0xF9, 0xF4
+.db 0x04, 0xA0, 0xF9, 0xF4  ; S - MISSION FAILED  / S - MISSÃO FRACASSADA
 Label_Generic0_3:
-.db 0x06, 0xA0, 0xF9, 0xF4
+.db 0x06, 0xA0, 0xF9, 0xF4  ; O - MISSION FAILED  / Ã - MISSÃO FRACASSADA
 Label_Generic0_4:
-.db 0x08, 0xA0, 0xF8, 0xF4
+.db 0x08, 0xA0, 0xF8, 0xF4  ; N - MISSION FAILED  / O - MISSÃO FRACASSADA
 Label_Generic0_5:
-.db 0x0A, 0xA0, 0xF8, 0xF4
+.db 0x0A, 0xA0, 0xF8, 0xF4  ; F - MISSION FAILED  / F - MISSÃO FRACASSADA
 Label_Generic0_6:
-.db 0x0C, 0xA0, 0xF8, 0xF4
+.db 0x0C, 0xA0, 0xF8, 0xF4  ; A - MISSION FAILED  / R - MISSÃO FRACASSADA
 Label_Generic0_7:
-.db 0x0E, 0xA0, 0xF8, 0xF4
+.db 0x0E, 0xA0, 0xF8, 0xF4  ; L - MISSION FAILED  / A - MISSÃO FRACASSADA
 Label_Generic0_8:
-.db 0x10, 0xA0, 0xF8, 0xF4
+.db 0x10, 0xA0, 0xF8, 0xF4  ; E - MISSION FAILED  / C - MISSÃO FRACASSADA
 Label_Generic0_9:
-.db 0x12, 0xA0, 0xF8, 0xF4
+.db 0x12, 0xA0, 0xF8, 0xF4  ; D - MISSION FAILED  / D - MISSÃO FRACASSADA
 Label_Generic0_10:
 .db 0x08, 0xA0, 0xF3, 0xF4
 Label_Generic0_11:
@@ -161,23 +163,23 @@ Label_Generic0_41:
 Label_Generic0_42:
 .db 0x00, 0x20, 0xA7, 0xF4
 Label_Generic0_43:
-.db 0x00, 0x20, 0xF8, 0xF4
+.db 0x00, 0xA0, 0xF8, 0xF4  ; G - GAME OVER  / F - FIM DE JOGO
 Label_Generic0_44:
-.db 0x14, 0xA0, 0xF8, 0xF4
+.db 0x02, 0xA0, 0xF8, 0xF4  ; A - GAME OVER  / I - FIM DE JOGO
 Label_Generic0_45:
-.db 0x04, 0x20, 0xF6, 0xF4
+.db 0x04, 0x20, 0xF6, 0xF4  ; M - GAME OVER  / M - FIM DE JOGO
 Label_Generic0_46:
-.db 0x10, 0xA0, 0xF8, 0xF4
+.db 0x08, 0xA0, 0xF8, 0xF4  ; E - GAME OVER  / D - FIM DE JOGO
 Label_Generic0_47:
-.db 0x12, 0xA0, 0xF8, 0xF4
+.db 0x0A, 0xA0, 0xF8, 0xF4  ; O - GAME OVER  / E - FIM DE JOGO
 Label_Generic0_48:
-.db 0x08, 0x20, 0xF6, 0xF4
+.db 0x0C, 0xA0, 0xF6, 0xF4  ; V - GAME OVER  / J - FIM DE JOGO
 Label_Generic0_49:
-.db 0x0C, 0xA0, 0xF8, 0xF4
+.db 0x0E, 0xA0, 0xF8, 0xF4  ; E - GAME OVER  / O - FIM DE JOGO
 Label_Generic0_50:
-.db 0x0E, 0xA0, 0xF8, 0xF4
+.db 0x10, 0x20, 0xF8, 0xF4  ; R - GAME OVER  / G - FIM DE JOGO
 Label_Generic0_51:
-.db 0x0E, 0xA0, 0x33, 0xF4
+.db 0x0E, 0xA0, 0x33, 0xF4 
 Label_Generic0_52:
 .db 0x0C, 0xA0, 0x25, 0xF4
 Label_Generic0_53:
@@ -193,27 +195,27 @@ Label_Generic0_57:
 Label_Generic0_58:
 .db 0x00, 0x20, 0xBE, 0xF4
 Label_Generic0_59:
-.db 0x00, 0x20, 0xF6, 0xF4
+.db 0x00, 0x20, 0xF6, 0xF4  ; M - MISSION COMPLETE  / M - MISSÃO CONCLUÍDA  
 Label_Generic0_60:
-.db 0x12, 0xA0, 0xFA, 0xF4
+.db 0x12, 0xA0, 0xFA, 0xF4  ; I - MISSION COMPLETE  / I - MISSÃO CONCLUÍDA
 Label_Generic0_61:
-.db 0x14, 0xA0, 0xF9, 0xF4
+.db 0x14, 0xA0, 0xF9, 0xF4  ; S - MISSION COMPLETE  / S - MISSÃO CONCLUÍDA
 Label_Generic0_62:
-.db 0x04, 0xA0, 0xF9, 0xF4
+.db 0x04, 0xA0, 0xF9, 0xF4  ; O - MISSION COMPLETE  / Ã - MISSÃO CONCLUÍDA
 Label_Generic0_63:
-.db 0x06, 0xA0, 0xF8, 0xF4
+.db 0x06, 0xA0, 0xF8, 0xF4  ; N - MISSION COMPLETE  / O - MISSÃO CONCLUÍDA
 Label_Generic0_64:
-.db 0x08, 0xA0, 0xF9, 0xF4
+.db 0x08, 0xA0, 0xF9, 0xF4  ; C - MISSION COMPLETE  / C - MISSÃO CONCLUÍDA
 Label_Generic0_65:
-.db 0x0A, 0xA0, 0xF8, 0xF4
+.db 0x0A, 0xA0, 0xF8, 0xF4  ; P - MISSION COMPLETE  / N - MISSÃO CONCLUÍDA
 Label_Generic0_66:
-.db 0x0C, 0xA0, 0xF9, 0xF4
+.db 0x0C, 0xA0, 0xF9, 0xF4  ; L - MISSION COMPLETE  / L - MISSÃO CONCLUÍDA
 Label_Generic0_67:
-.db 0x0E, 0xA0, 0xF8, 0xF4
+.db 0x0E, 0xA0, 0xF8, 0xF4  ; E - MISSION COMPLETE  / U - MISSÃO CONCLUÍDA
 Label_Generic0_68:
-.db 0x10, 0xA0, 0xF9, 0xF4
+.db 0x10, 0xA0, 0xF9, 0xF4  ; T - MISSION COMPLETE  / Í - MISSÃO CONCLUÍDA
 Label_Generic0_69:
-.db 0x0E, 0xA0, 0x55, 0xF4
+.db 0x0E, 0xA0, 0x55, 0xF4  
 Label_Generic0_70:
 .db 0x10, 0xA0, 0x49, 0xF4
 Label_Generic0_71:
@@ -242,24 +244,29 @@ Label_Generic0_82:
 .db 0x00, 0x20, 0x9B, 0xF4
 Label_Generic0_83:
 .db 0x08, 0xA0, 0xFA, 0xF4
-
+; As entradas abaixo não existem no original!
 Label_Generic0_84:
-.db 0x12, 0xA0, 0xF9, 0xF4 ; C - MISSION START  / C - INICIAR MISSÃO (NÃO EXISTE NO ORIGINAL - CRIADO PARA EXPANDIR "MISSION START")
+.db 0x12, 0xA0, 0xF9, 0xF4  ;  - MISSION START  / C - INICIAR MISSÃO (NÃO EXISTE NO ORIGINAL - CRIADO PARA EXPANDIR "MISSION START")
+Label_Generic0_85:
+.db 0x16, 0xA0, 0xF9, 0xF4  ;  - MISSION COMPLETE  / D - MISSÃO CONCLUÍDA (NÃO EXISTE NO ORIGINAL - CRIADO PARA EXPANDIR "MISSION COMPLETE")
+Label_Generic0_86:
+.db 0x18, 0xA0, 0xF9, 0xF4  ;  - MISSION COMPLETE  / A - MISSÃO CONCLUÍDA (NÃO EXISTE NO ORIGINAL - CRIADO PARA EXPANDIR "MISSION COMPLETE")
 
 .align
 Label_TblPtr_1:
 .dw 0x00000004
 ; Tabela de Ponteiros
-.dh Label_Generic1_0 - Label_TblPtr_1 - 4
-.dh Label_Generic1_1 - Label_TblPtr_1 - 4
-.dh Label_Generic1_2 - Label_TblPtr_1 - 4
-.dh Label_Generic1_3 - Label_TblPtr_1 - 4
-.dh Label_Generic1_4 - Label_TblPtr_1 - 4
-.dh Label_Generic1_5 - Label_TblPtr_1 - 4
-.dh Label_Generic1_6 - Label_TblPtr_1 - 4
-.dh Label_Generic1_7 - Label_TblPtr_1 - 4
-.dh Label_Generic1_8 - Label_TblPtr_1 - 4
-.dh Label_Generic1_9 - Label_TblPtr_1 - 4
+.dh Label_Generic1_0 - Label_TblPtr_1 - 4       ; 0x00: 00    - M / M
+.dh Label_Generic1_1 - Label_TblPtr_1 - 4       ; 0x01: 01    - I / I 
+.dh Label_Generic1_2 - Label_TblPtr_1 - 4       ; 0x02: 02    - S / S 
+.dh Label_Generic1_3 - Label_TblPtr_1 - 4       ; 0x03: 03    - O / Ã
+.dh Label_Generic1_4 - Label_TblPtr_1 - 4       ; 0x04: 04    - N / O
+.dh Label_Generic1_5 - Label_TblPtr_1 - 4       ; 0x05: 05    - F / F
+.dh Label_Generic1_6 - Label_TblPtr_1 - 4       ; 0x06: 06    - A / R
+.dh Label_Generic1_7 - Label_TblPtr_1 - 4       ; 0x07: 07    - L / A
+.dh Label_Generic1_8 - Label_TblPtr_1 - 4       ; 0x08: 08    - E / C
+.dh Label_Generic1_9 - Label_TblPtr_1 - 4       ; 0x09: 09    - D / D
+
 .dh Label_Generic1_10 - Label_TblPtr_1 - 4      ; 0x0A: 0B    - M / M
 .dh Label_Generic1_11 - Label_TblPtr_1 - 4      ; 0x0B: 0C    - I / I
 .dh Label_Generic1_12 - Label_TblPtr_1 - 4      ; 0x0C: 0D    - S / S
@@ -268,30 +275,39 @@ Label_TblPtr_1:
 .dh Label_Generic1_15 - Label_TblPtr_1 - 4      ; 0x0F: 10    - T / Ã
 .dh Label_Generic1_16 - Label_TblPtr_1 - 4      ; 0x10: 11    - A / A
 .dh Label_Generic1_17 - Label_TblPtr_1 - 4      ; 0x11: 12    - R / R
-.dh Label_Generic1_18 - Label_TblPtr_1 - 4
-.dh Label_Generic1_19 - Label_TblPtr_1 - 4
-.dh Label_Generic1_20 - Label_TblPtr_1 - 4
-.dh Label_Generic1_21 - Label_TblPtr_1 - 4
-.dh Label_Generic1_22 - Label_TblPtr_1 - 4
-.dh Label_Generic1_23 - Label_TblPtr_1 - 4
-.dh Label_Generic1_24 - Label_TblPtr_1 - 4
-.dh Label_Generic1_25 - Label_TblPtr_1 - 4
-.dh Label_Generic1_26 - Label_TblPtr_1 - 4
-.dh Label_Generic1_27 - Label_TblPtr_1 - 4
-.dh Label_Generic1_28 - Label_TblPtr_1 - 4
-.dh Label_Generic1_29 - Label_TblPtr_1 - 4
-.dh Label_Generic1_30 - Label_TblPtr_1 - 4
-.dh Label_Generic1_31 - Label_TblPtr_1 - 4
-.dh Label_Generic1_32 - Label_TblPtr_1 - 4
-.dh Label_Generic1_33 - Label_TblPtr_1 - 4
-.dh Label_Generic1_34 - Label_TblPtr_1 - 4
-.dh Label_Generic1_35 - Label_TblPtr_1 - 4
-.dh Label_Generic1_36 - Label_TblPtr_1 - 4
-.dh Label_Generic1_37 - Label_TblPtr_1 - 4
-.dh Label_Generic1_38 - Label_TblPtr_1 - 4
-.dh Label_Generic1_39 - Label_TblPtr_1 - 4
+
+.dh Label_Generic1_18 - Label_TblPtr_1 - 4      ; 0x12: 14    - G / F
+.dh Label_Generic1_19 - Label_TblPtr_1 - 4      ; 0x13: 15    - A / I
+.dh Label_Generic1_20 - Label_TblPtr_1 - 4      ; 0x14: 16    - M / M
+.dh Label_Generic1_21 - Label_TblPtr_1 - 4      ; 0x15: 17    - E / D
+.dh Label_Generic1_22 - Label_TblPtr_1 - 4      ; 0x16: 18    - O / E
+.dh Label_Generic1_23 - Label_TblPtr_1 - 4      ; 0x17: 19    - V / J
+.dh Label_Generic1_24 - Label_TblPtr_1 - 4      ; 0x18: 1A    - E / O
+.dh Label_Generic1_25 - Label_TblPtr_1 - 4      ; 0x19: 1B    - R / G
+; MISSIONCOMPLETE
+; MISONCPLET
+; MISSÃOCONCLUIDA
+; MISÃOCNLUÍDA
+.dh Label_Generic1_26 - Label_TblPtr_1 - 4      ; 0x1A: 0A
+.dh Label_Generic1_27 - Label_TblPtr_1 - 4      ; 0x1B: 13
+.dh Label_Generic1_28 - Label_TblPtr_1 - 4      ; 0x1C: 1C
+.dh Label_Generic1_29 - Label_TblPtr_1 - 4      ; 0x1D: 27
+
+.dh Label_Generic1_30 - Label_TblPtr_1 - 4      ; 0x1E: 1D    - M / M
+.dh Label_Generic1_31 - Label_TblPtr_1 - 4      ; 0x1F: 1E    - I / I
+.dh Label_Generic1_32 - Label_TblPtr_1 - 4      ; 0x20: 1F    - S / S
+.dh Label_Generic1_33 - Label_TblPtr_1 - 4      ; 0x21: 20    - O / Ã
+.dh Label_Generic1_34 - Label_TblPtr_1 - 4      ; 0x22: 21    - N / O
+.dh Label_Generic1_35 - Label_TblPtr_1 - 4      ; 0x23: 22    - C / C
+.dh Label_Generic1_36 - Label_TblPtr_1 - 4      ; 0x24: 23    - P / N
+.dh Label_Generic1_37 - Label_TblPtr_1 - 4      ; 0x25: 24    - L / L 
+.dh Label_Generic1_38 - Label_TblPtr_1 - 4      ; 0x26: 25    - E / U
+.dh Label_Generic1_39 - Label_TblPtr_1 - 4      ; 0x27: 26    - T / Í
+
 ; Novas letras
 .dh Label_Generic1_40 - Label_TblPtr_1 - 4      ; 0x28: 28    - C (NÃO EXISTE NO ORIGINAL - CRIADO PARA EXPANDIR "MISSION START")
+.dh Label_Generic1_41 - Label_TblPtr_1 - 4      ; 0x29: 29    - D (NÃO EXISTE NO ORIGINAL - CRIADO PARA EXPANDIR "MISSION COMPLETE")
+.dh Label_Generic1_42 - Label_TblPtr_1 - 4      ; 0x2A: 2A    - A (NÃO EXISTE NO ORIGINAL - CRIADO PARA EXPANDIR "MISSION COMPLETE")
 
 .align
 Label_Generic1_0:
@@ -374,9 +390,14 @@ Label_Generic1_38:
 .db 0x25, 0x01, 0x00, 0xFF
 Label_Generic1_39:
 .db 0x26, 0x01, 0x00, 0xFF
-
-Label_Generic1_40: ; Esta entrada não existe no original!!
+; As entradas abaixo não existem no original!
+Label_Generic1_40:
 .db 0x28, 0x01, 0x00, 0xFF
+Label_Generic1_41:
+.db 0x29, 0x01, 0x00, 0xFF
+Label_Generic1_42:
+.db 0x2A, 0x01, 0x00, 0xFF
+
 
 ; Os includes abaixo são pedaços do arquivo original que não foram modificados!
 .align
@@ -386,5 +407,3 @@ Label_TblPtr_2:
 .align
 Label_TblPtr_3:
 .import "include_3.bin"   
-
-; Acrescentar bytes de padding!!!!
