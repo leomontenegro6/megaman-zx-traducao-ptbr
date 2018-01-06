@@ -19,26 +19,26 @@ fnt_files = []
 ovly_files = []
 
 def Crc16(string):
-	polynomial = 0xA001
-	
-	table = array.array('H')
-	#Geração dos polinômios
-	for byte in range(256):
-		crc = 0
-		for bit in range(8):
-			if (byte ^ crc) & 1:
-				crc = (crc >> 1) ^ polynomial
-			else:
-				crc >>= 1
-			byte >>= 1
-		table.append(crc)
+    polynomial = 0xA001
+    
+    table = array.array('H')
+    #Geração dos polinômios
+    for byte in range(256):
+        crc = 0
+        for bit in range(8):
+            if (byte ^ crc) & 1:
+                crc = (crc >> 1) ^ polynomial
+            else:
+                crc >>= 1
+            byte >>= 1
+        table.append(crc)
 
-	#Cálculo do CHECKSUM
-	crc = 0xffff
-	for x in string:
-		crc = (crc >> 8) ^ table[(crc ^ ord(x)) & 0xff]
-		
-	return crc
+    #Cálculo do CHECKSUM
+    crc = 0xffff
+    for x in string:
+        crc = (crc >> 8) ^ table[(crc ^ ord(x)) & 0xff]
+        
+    return crc
 
 class Folder(list):
     def __init__( self , root , id , parent ):

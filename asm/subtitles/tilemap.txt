@@ -1,3 +1,4 @@
+- Legendas
 Header
 00000000 00000002
 00000004 00000010 - localização do tileset (comprimido)
@@ -23,3 +24,37 @@ Tilemap
 
 Início de cada tilemap:
 00000000 00200020 ... Após, ler 1024 entradas (2048 bytes, bg 256x256)
+
+=======
+- title.bin
+Rotina que interpreta o arquivo em 02002b92 .. 20197aa
+
+Main Header
+00000000 00000008 - não é lido pela rotina .. são 8 arquivos ?
+00000004 021c4028 - endereço de ram onde está o header dos arquivos. subtrair de 021c4000 para ter o endereço absoluto.
+
+Header
+00000028 00000078 - somar o valor desse uint32_t com o endereço do uint32_t para ter o endereço absoluto do arquivo (nesse caso 28h + 78h)
+0000002C 00007330 - tamanho do arquivo
+00000030     0100 - ?
+00000032     8044 - ?
+00000034 0000739c - somar o valor desse uint32_t com o endereço do uint32_t para ter o endereço absoluto do arquivo (nesse caso 34h + 739c)
+00000038     0000 - quantos bytes copiar
+0000003A     0800 - ?
+
+RockmanZX - 28
+
+3c4e4 encontra-se o tilemap de rockmanzx
+
+[60202d4] == 02
+
+Rotina thumb em 020176a0
+2017970
+
+2017990 - escreve a parte de cima (letra)
+20179b0 - escreve a parte debaixo (letra)
+2017a06 - escreve a parte de cima (cursor)
+2017a26 - escreve a parte debaixo (cursor)
+
+
+

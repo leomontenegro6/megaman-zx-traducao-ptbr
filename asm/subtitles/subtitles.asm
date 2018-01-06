@@ -9,16 +9,21 @@
 
 .nds
 
-.open "arm9_jp.bin", "arm9mod.bin", 0x02000000
+.open "arm9_jp.bin", "arm9.bin", 0x02000000
 
 .arm                                                    ; ARM code
-                                    
+                                   
 .thumb                                                  ; THUMB code
 
+; Adicionar rotina para não comprimir o arm
+.org 0x02000b60
+.dw 0                       ; desliga a compressão do arm9.bin
+
+; ===== APENAS LEGENDA ======
 ; Será feita a alteração da rotina original que chama as subrotinas
 
 GoToExit            equ 0x0201BF2E
-
+NULL                equ 0
 
 .org 0x02000cc0
 bl      RotinaBBB
@@ -697,7 +702,7 @@ Subtitle_06:
 ; Tabela de ponteiros
 .align
 Subtitles_PtrTable:
-.dw Subtitle_00 , Subtitle_01 , Subtitle_02 , Subtitle_03 , Subtitle_05 , Subtitle_06
+.dw Subtitle_00 , Subtitle_01 , Subtitle_02 , Subtitle_03 , NULL , Subtitle_05 , Subtitle_06 ; O 0 é um ponteiro nulo para o vídeo 4, que não existe.
 
 Ram_Ptr:
 .dw 0 , 0
@@ -766,12 +771,40 @@ bx      r14
 .org 0x020be6b8
 .import "names.gba"                                         ; nomes em inglês
 .org 0x020bf118
-.import "letters.gba"                                       ; alfabeto latino
+.import "chars.gba"                                       ; alfabeto latino
 
 ;; Alterações feitas para não travar a rom por causa dos textos maiores
 
 .org 0x02007edc
 .dw 0x023e0000
 
-.org 0x02000b60
-.dw 0x0208dcb4
+; .org 0x02000b60  ; o arm9.bin não será mais usado comprimido
+; .dw 0x0208dcb4
+
+; É necessário ter o arquivo 053 de obj_fnt.bin e obj_dat.bin atualizados para funcionar essas alterações.
+; ======== MISSION START ========
+.org 0x020E4F68
+TILEMAP_MISSION_START_Ptr:
+; TILEMAP
+;      M     I     S     S     I     O     N     S     T     A     R     T    \0     
+;.db 0x0A, 0x0B, 0x0C, 0x0C, 0x0B, 0x0D, 0x0E, 0x0C, 0x0F, 0x10, 0x11, 0x0F, 0xFF
+;      I     N     I     C     I     A     R     M     I     S     S     Ã     O    \0   
+.db 0x0B, 0x0E, 0x0B, 0x28, 0x0B, 0x10, 0x11, 0x0A, 0x0B, 0x0C, 0x0C, 0x0F, 0x0D, 0xFF
+; OAMs associadas
+.org 0x020E5004
+OAM_MISSION_START_Ptr: ; Alterar esses valores para melhorar o posicionamento do gráfico
+.dw 0xFFFFAD00, 0xFFFFBC00, 0xFFFFC800  ; I N I
+.dw 0xFFFFD500, 0xFFFFE100, 0xFFFFED00  ; C I A
+.dw 0xFFFFFC00, 0x00001600, 0x00002400  ; R M I
+.dw 0x00003100, 0x00004000, 0x00004E00  ; S S Ã
+.dw 0x00005C00                          ; O
+
+; ======== MISSION COMPLETE ========
+
+; ======== MISSION FAILED ========
+
+; ======== GAME OVER ========
+
+; Tabelas de Ponteiros
+.org 0x020E4F88
+.dw OAM_MISSION_START_Ptr

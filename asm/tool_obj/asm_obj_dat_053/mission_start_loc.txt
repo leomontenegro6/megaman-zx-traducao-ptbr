@@ -1,0 +1,167 @@
+copiado de 020f87f8
+[020f87f8] = 0d6
+
+r4 = 807790d6
+
+0200a638
+0201bc3e
+
+d690 7780 f281
+
+90d6 8077 81f2
+
+bx r2  { 02009a7d }
+
+[0215a428] = 81ea
++8 = 81f2
+[0215a428] = 0ea
+
+vem do endereço 20101c4
+
+M   223c820 = 00                I
+I   223c824 = 10                N
+S   223c828 = 04                I
+S   223c828 = 04                C
+I   223c824 = 10                I
+O   223c82c = 06                A
+N   223c830 = 08                R
+
+S   223c828 = 04                M
+T   223c834 = 0A                I
+A   223c838 = 0C                S
+R   223c83c = 0E                S
+T   223c834 = 0A                A
+                                O
+                                
+INCARMSÃO                                
+
+{02009a8e} [215A41c] == 0223c724 (base)  + 10c = 223c830
+           [215A42E] == 0f
+           
+0223c724 + [0223c724 + (0f<<2)]
+[0215a41c] == 24
+
+em 223c710 há uma tabela de ponteiros.
+00000010 00000204 000002f8 00000374
+
+Em [20f5b74] == 223c710
+Ponteiro montado em 020105b6
+223c710 + 10 + 4  = 0223c724
+
+em 0223c990 começa os ponteiros do MSONTARI ( 0B 0C ... )
+
+Esse gráfico está no endereço 0x4d228 em obj_fnt.bin
+
+608 57C
+644 5B8
+828 828
+608 57c
+
+[0215a5f4] = 0c
+[0215a591] = 0c
+
+(lido em 02085b2c) 
+
+COLOCAR BREAKPOINT EM 02002A5A .. cópia do tileset para VRAM.
+
+Ponteiro para MSONTARI [020f738c] = 221f068
+[02105410] = 221f054 + 14
+r5 = 221f054
+[20f5374] = 221f054
+[20f529c] = 221f054
+
+0x600 = 3AD8B0
+0x604 = 3AE178 (obj+fnt.bin)
+r5 = 3AE178 - 3AD8B0  (ponteiro 193h e 194h do obj_fnt)
+221e78c + 8c8 = 221f054
+[20f529c] == 8c
+
+Posso usar 590h em obj_fnt.bin para realocar o ponteiro 193? (ponteiro 164h + 1)
+
+Localização do ponteiro: 0193h em 020c681a
+
+Em obj_dat.bin, o ponteiro 2 e 1 montam 221e78c
+Em obj_fnt.bin, o ponteiro 194 e 193 montam 8c8 (0193h localizado em 020c681a arm9.bin)
+
+Para modificar o tileset de MISSION START é necessário editar o arquivo 053.bin de obj_fnt.bin
+
+NOTA!!! A LEITURA DOS ARQUIVOS É LINEAR. NÃO É POSSÍVEL EXPANDIR OU MOVER OS ARQUIVOS SEM FAZER O UNPACK/REPACK DO ARQUIVO!!!
+
+Resumão:                      INCARMSÃO
+    Na VRAM temos o seguinte: MSONTARI (4D228h em obj_fnt.bin)
+    O tamanho desse tileset é 0x900 e está em 221F06Dh (4C6F0h em obj_fnt.bin)
+
+    O ponteiro para MISSION START está em 020E4F68h (E4F68h em arm9.bin)
+                    M   I   S   S   I   O   N   S   T   A   R   T   \0
+                    0A  0B  0C  0C  0B  0D  0E  0C  0F  10  11  0F  FF
+                    
+                    I   N   I   C   I   A   R   M   I   S   S   Ã   O   \0
+                    0B  0E  0B  28  0B  10  11  0A  0B  0C  0C  0F  0D  FF
+                    
+    Que é mapeado na ordem em que os caracteres aparecem de forma única na string em 0223CA80h ( 8BECh em obj_dat.bin)
+                    M   I   S   O   N   T   A   R
+                    0B  0C  0D  0E  0F  10  11  12
+                    
+    O ponteiro base é calculado somando 0223C710h + 10h (896Ch em obj_dat.bin) + 4h (Hardcoded)                 
+                    
+    Somando o valor anterior x4 com o ponteiro base 0223C724h é possível achar o ponteiro para o tile nu relativo (MSONTARI)
+        M   223C820 = 00                    
+        I   223C824 = 10
+        S   223C828 = 04
+        S   223C828 = 04
+        I   223C824 = 10
+        O   223C82C = 06
+        N   223C830 = 08
+
+        S   223C828 = 04
+        T   223C834 = 0A
+        A   223C838 = 0C
+        R   223C83C = 0E
+        T   223C834 = 0A
+        
+        
+        
+    A esse valor é somado 1EAh, que é o tile base do gráfico
+    
+    Para mudar a VRAM (0640F500h)
+    
+    4c6f0 = 0900 em obj_fnt.bin
+    
+Como alterar as OAMs.
+
+[700000a] == 0c9
+[20f8802] == 0c9
+
+[21576ed] == 80
+[2194764] == 80
+
+00018000
+0001b4ff - 00010000 = b4ff 
+b4ff >> 8 b4
+
+r7 = 2194764
+
+[215754c] == 020000
+[215a178] == 01d1ff         [215a188] = 005200
+[215a204] == 01c3ff
+[215a290] == 01b4ff
+[215a31c] == 01a7ff
+[215a3a8] == 0199ff
+[215a434] == 017fff
+[215a4c0] == 0170ff
+[215a54c] == 0164ff
+[215a5d8] == 0158ff
+[215a664] == 014bff
+[215a6f0] == 013fff
+[215a77c] == 0130ff
+
+Em 20e4f88h há o ponteiro para a posição X das OAMs
+20e5004 + 2c == 5200
+É necessário reposicionar o ponteiro para o fim do arm9.bin 
+
+
+02085ae0
+02085b28
+
+r3 = 43d5c2ff .. rom travando kkkk
+r5 = 2162aa8
