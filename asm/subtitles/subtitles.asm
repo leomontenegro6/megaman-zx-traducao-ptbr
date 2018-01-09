@@ -778,6 +778,16 @@ bx      r14
 .org 0x02007EDC
 .dw 0x023E0000
 
+;; É necessário ter alterado o title.bin - Animação da tela inicial
+.org 0x020CB32C
+;      M     E     G     A     M     E     R     G     I     R     A
+.db 0x04, 0x04, 0x04, 0x04, 0x04, 0x12, 0x12, 0x12, 0x12, 0x12, 0x04    ; Cada byte é o tempo em cada letra. A soma deve dar 72h
+
+.org 0x020CB376
+;      U     M           N     O     V     O           H     E     R     O     I
+.db 0x04, 0x04, 0x06, 0x04, 0x04, 0x04, 0x04, 0x06, 0x04, 0x04, 0x04, 0x04, 0x04 ; Cada byte é o tempo em cada letra. A soma deve dar 38h
+
+
 ; É necessário ter o arquivo 053 de obj_fnt.bin e obj_dat.bin atualizados para as alterações abaixo funcionarem.
 ; Tabelas de Ponteiros
 .org 0x020E4FA8 ;  É necessário reposicionar o tilemap, visto que temos mais caracteres que o original

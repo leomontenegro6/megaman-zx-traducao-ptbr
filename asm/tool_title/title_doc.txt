@@ -1,0 +1,80 @@
+Sobre o arquivo title.bin
+
+Em 0xC4A0 temos o tileset de M.E.G.A SYSTEM. O ponteiro para esse gráfico está em 0x48 (subtrair esse valor do endereço)
+Em 0xE834 temos a paleta de cores para esse gráfico. O ponteiro para essa paleta de cores está em 0x5C (subtrair esse valor do endereço)
+
+Em 0x3A794 temos os tilemaps (todos dentro de um arquivo). O ponteiro para esse tilemap está em 0x08 (não é necessário subtrair valor algum)
+- Esse arquivo foi descomprimido para o arquivo tilemap_general.bin
+
+O tilemap para MEGA SYSTEM Laranja é a sexta entrada (0x2878) dentro de tilemap_general.bin
+
+TODO:
+    Fazer com que a tool descomprima os arquivos interessantes, e não que seja um processo manual
+    Fazer a criação dos tilemaps
+    Montar tudo isso -_-
+
+0x4771c
+Primeira tabela de ponteiros
+0x8003a794 -> Comprimido
+0x0003f870 -> Descomprimido
+0x80040ab0
+0x000446f4
+0x80044984
+0x80044ddc
+0x80046268
+0x0004771c
+
+Segunda tabela de ponteiros
+0x00000078 -> Ponteiro pro arquivo + f.tell()
+0x00007320 -> Tamanho do arquivo
+0x80460100 -> ??
+0x0000738C -> Ponteiro pra paleta de cores + f.tell()
+0x00080000 -> ??
+
+0x00007384
+0x000050e0
+0x80460100
+0x0000c458
+0x00080000
+
+0x0000c450
+0x00002394
+0x80220100
+0x0000e7d8 -> Ponteiro pra paleta de cores + f.tell()
+0x000800a0 -> Tamanho da paleta de cores (metade inferior da palavra)
+
+0x0000e870
+0x0000ff00
+0x80440100
+0x0001e764
+0x00080000
+
+0x0001e75c
+0x0000c040
+0x80440100
+0x0002a790
+0x00080000
+
+0x0002a788
+0x0000ff80
+0x80440100
+0x0003a6fc
+0x00080000
+
+[620a190] == 3d
+[2202ef4] == 3d
+[232d349] == 3d
+
+[6024000] == 18
+
+UM NOVO HEROI --
+ [60202d4] == 0b1
+ [6020314] == 0ba
+ 
+ [214cc24]
+ 
+ BRK 20157f4
+ BRK 201780c
+ 
+ Para acrescentar mais duas letras em UM NOVO HEROI: 0xcb37a em arm9.bin
+ Para acrescentar mais duas letras em MEGAMERGICA: 0xcb32c em arm9.bin
