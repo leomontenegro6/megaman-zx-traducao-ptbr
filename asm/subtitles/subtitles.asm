@@ -711,6 +711,7 @@ Ram_Ptr:
 Ram_Ptr2:
 .import "frames.bin"
 
+;; Qual o sentido desta rotina?????
 .org 0x020e94ac
 RotinaAAA:
 push    r4
@@ -778,13 +779,59 @@ bx      r14
 .org 0x02007EDC
 .dw 0x023E0000
 
-;; É necessário ter alterado o title.bin - Animação da tela inicial
+;; Correções da tela carregar jogo
+; Sobreposição do ÁREA
+.org 0x020280A4
+.db 0x98 ; 0x88
+.org 0x020280D2
+.db 0x98 ; 0x88
+.org 0x0202810A
+.db 0x98 ; 0x88
+; EC para CE
+.org 0x02028130
+.db 0x90 ; 0x88
+.org 0x0202818C
+.db 0x80 ; 0x88
+; Corrigir o espaçamento das horas
+; XX:YY'ZZ
+.org 0x02027EC0
+.db 0x20 ; :
+.org 0x02027EEE
+.db 0x22 ; 0x1c '
+.org 0x02027F24
+.db 0x20 ; X
+.org 0x02027F5A
+.db 0x20 ; X
+.org 0x02027F96
+.db 0x20 ; 0x1c Y
+.org 0x02027FD0
+.db 0x20 ; 0x1c Y
+.org 0x0202800C
+.db 0x20 ; 0x18 Z
+.org 0x02028048
+.db 0x20 ; 0x18 Z
+
+;; Correção do marcador sobrepondo SIM e NÃO
+; Se o marcador estiver em Não (é necessário desenhar o marcador)
+.org 0x0202872C
+.db 0x02 ; 0x01
+.org 0x02028778
+.db 0x02 ; 0x01
+.org 0x02028976
+.db 0x02 ; 0x01
+.org 0x02028A74
+.db 0x02 ; 0x01
+; Se o marcador estiver em Sim (é necessário apagar o marcador)
+.org 0x2028B28
+.db 0x02 ; 0x01
+
+;; É necessário ter alterado o o arquivo 000_1_image.bin de title.bin - Animação da tela inicial
 .org 0x020CB32C
-;      M     E     G     A     M     E     R     G     I     R     A
+;      M     E     G     A     M     E     R     G     I     R     Á
 .db 0x04, 0x04, 0x04, 0x04, 0x04, 0x12, 0x12, 0x12, 0x12, 0x12, 0x04    ; Cada byte é o tempo em cada letra. A soma deve dar 72h
 
 .org 0x020CB376
-;      U     M           N     O     V     O           H     E     R     O     I
+;      U     M           N     O     V     O           H     E     R     Ó     I
 .db 0x04, 0x04, 0x06, 0x04, 0x04, 0x04, 0x04, 0x06, 0x04, 0x04, 0x04, 0x04, 0x04 ; Cada byte é o tempo em cada letra. A soma deve dar 38h
 
 
@@ -797,7 +844,7 @@ bx      r14
 .dw OAM_MISSION_START_Ptr , OAM_MISSION_FAILED_Ptr , OAM_GAME_OVER_Ptr , OAM_MISSION_COMPLETE_Ptr
 
 ; ======== MISSION FAILED ========
-.org 0x020C7CC0 ; Posição zerada do arm9.bin
+.org 0x020C7CC0 ; Posição zerada do arm9.bin <- onde está frames.bin
 ;.org 0x020E4F78; Posição original
 .align
 TILEMAP_MISSION_FAILED_Ptr:
@@ -817,7 +864,7 @@ OAM_MISSION_FAILED_Ptr: ; Posição X de cada letra
 .dw 0x00006B00                          ; A   
 
 ; ======== MISSION START ========
-.org 0x020C7E34 ; Posição zerada do arm9.bin
+.org 0x020C7E34 ; Posição zerada do arm9.bin <- onde está frames.bin
 ;.org 0x020E4F68; Posição original
 .align
 TILEMAP_MISSION_START_Ptr:
@@ -836,7 +883,7 @@ OAM_MISSION_START_Ptr: ; Posição X de cada letra
 .dw 0x00005C00                          ; O
 
 ; ======== GAME OVER ========
-.org 0x020C7B70 ; Posição zerada do arm9.bin
+.org 0x020C7B70 ; Posição zerada do arm9.bin <- onde está frames.bin
 ;.org 0x020E4F5C; Posição original
 .align
 TILEMAP_GAME_OVER_Ptr:
