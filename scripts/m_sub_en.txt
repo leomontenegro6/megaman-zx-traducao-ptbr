@@ -227,7 +227,7 @@ Restante:<c 01>0
 <*********************>
 
 
-SELECT: Editor do Buster
+SELECT: Editor do Canhão
 Edite usando a tela inferior
 <*********************>
 
@@ -241,7 +241,7 @@ Escolha a arma para editar
 
 
 Alinhe os quadrados para
-conectar o caminho do buster
+conectar o caminho do canhão
 <*********************>
 
 

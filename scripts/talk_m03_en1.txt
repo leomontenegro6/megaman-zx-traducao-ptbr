@@ -10,7 +10,7 @@ entrar nos Guardiões.
 <p 02><d BA0B><a 02><n 55>
 Entre os habitantes da
 Área C, há membros dos
-Guardiões disfarçados.
+Guardiões escondidos.
 <--------------------->
 
 <p 02><d BB0B><a 02><n 55>

@@ -26,17 +26,17 @@ Dados corrompidos
 
 
 Sobrescrever dados?
-  Sim    Não
+  Sim     Não
 <*********************>
 
 
 Carregar jogo?
-  Sim    Não
+  Sim     Não
 <*********************>
 
 
 Deletar jogo salvo?
-  Sim    Não
+  Sim     Não
 <*********************>
 
 

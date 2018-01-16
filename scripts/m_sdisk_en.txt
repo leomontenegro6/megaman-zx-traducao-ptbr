@@ -190,8 +190,8 @@ Galleon Wing
 Este Galleon possui uma uni-
 dade de vôo anexada nas suas
 costas. Pode voar livremente
-no ar, enquanto usa sua arma
-buster para atacar. Sua
+no ar, enquanto usa seu
+canhão para atacar. Sua
 armação é bem mais leve que
 a de um Galleon normal, de
 modo a auxiliar no vôo.
@@ -205,8 +205,8 @@ Galleon Shroud
 Este Galleon utiliza uma
 casamata para proteção. Abre
 uma escotilha para atirar
-com sua bazuca, e usa sua
-arma buster de dentro da
+com sua bazuca, e usa seu
+canhão de dentro da
 casamata. Se o Galleon de
 dentro é abatido, a casamata
 é destruída junto com ele.
@@ -249,7 +249,7 @@ Galleon Hunter
 
 Este é o modelo básico de
 Galleon, equipado com
-busters nos braços. É
+canhões nos braços. É
 programado para seguir
 ordens e concluir sua
 missão a todo custo.
@@ -263,7 +263,7 @@ Galleon Sledder
 Esta unidade recebeu treina-
 mento para melhor manusear
 seus equipamentos. Usam uma
-bazuca de cima, e um buster
+bazuca de cima, e um canhão
 de baixo. Há duas turbinas
 acopladas à plataforma.
 <*********************>
