@@ -21,6 +21,11 @@ call pack_title.bat
 cd..
 copy "tool_title\new\title.bin" "ROM Original\ROCK\data\title.bin" /B/Y
 
+cd tool_elf
+call pack_elf.bat
+cd..
+copy "tool_elf\new\elf.bin" "ROM Original\ROCK\data\elf.bin" /B/Y 
+
 echo "Repacking rom"
 cd "ROM Original"
 call empacotar_rom.bat

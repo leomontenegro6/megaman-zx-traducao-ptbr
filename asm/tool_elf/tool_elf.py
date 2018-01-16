@@ -11,14 +11,17 @@ import sys
 
 COMPRESSION_FLAG = [0, 0, 0, 0, 0, 0x80000000, 0 ]
 
-PTR2_MARK = [0x80460100,0x80460100,0x80220100,0x80440100,0x80440100,0x80440100]
+PTR2_MARK = [0x80200100,0x80200100,0x80200100]
+P = [ 0x08, 0x0B, 0x0C ]
 
 def Unpack(src, dst):
-    print ">> Unpacking title.bin"
+    print ">> Unpacking elf.bin"
+    
+    ptr_table_1_path = os.path.join( dst, "ptr_table_1" )
+    if not os.path.isdir(ptr_table_1_path):
+        os.makedirs(ptr_table_1_path)    
+    
     with open( src , "rb" ) as fd:
-        ptr_table_1_path = os.path.join( dst, "ptr_table_1" )
-        if not os.path.isdir(ptr_table_1_path):
-            os.makedirs(ptr_table_1_path)
             
         fd.seek( 0x04 )       
         for i in range(6):
@@ -62,41 +65,27 @@ def Unpack(src, dst):
 # 0x00007320 -> Tamanho do arquivo
 # 0x80460100 -> ??
 # 0x0000738C -> Ponteiro pra paleta de cores + f.tell()
-# 0x00080000 -> ??
-            
-            
-            
-        
-        # if not os.path.isdir(ptr_table_2_path):
-            # os.makedirs(ptr_table_2_path)
-            
-        # fd.seek( 0x28 )
-        # for i in range(6):
-            # p = fd.tell()
-            # addr, size = struct.unpack("<LL", fd.read(8))
-            # addr += p
-            # fd.read(12)
-            # link = fd.tell()
-            # print hex(addr), hex(link), size
-            
-            # fd.seek(addr)
-            # with open( os.path.join(ptr_table_2_path , "%03d.bin" % i) , "wb" ) as out:
-                # out.write( fd.read( size ) )
-            # fd.seek( link )             
+# 0x00080000 -> ??          
 
 def Pack(src, dst):
-    print ">> Packing title.bin"
-    with open( dst, "wb" ) as fd:
-        fd.write( struct.pack("<L", 0x000008 ))
-        fd.write( struct.pack("<L", 0x000028 ))
+    print ">> Packing elf.bin"
     
-        ptr_table_2_path = os.path.join( src, "ptr_table_2" )
+    ptr_table_1_path = os.path.join( src, "ptr_table_1" )
+    if not os.path.isdir(ptr_table_1_path):
+        os.makedirs(ptr_table_1_path)  
+
+    ptr_table_2_path = os.path.join( ptr_table_1_path, "004" )
+    if not os.path.isdir(ptr_table_2_path):
+        os.makedirs(ptr_table_2_path)
+
+    files = os.listdir(ptr_table_2_path)
+    splitted_files = [ f for f in files if "palette" not in f ]
+    splitted_pallete = [ f for f in files if "palette" in f ]        
     
-        files = os.listdir(ptr_table_2_path)
-        splitted_files = [ f for f in files if "palette" not in f ]
-        splitted_pallete = [ f for f in files if "palette" in f ]
-        
-        fd.seek(0xa0)
+    # Este arquivo importa
+    with open( os.path.join( ptr_table_1_path , "004.bin" ), "wb" ) as fd:
+
+        fd.seek(0x3c)
         
         ptr_table_2_table = []
         
@@ -122,15 +111,25 @@ def Pack(src, dst):
             else:
                 psize = 0
             
-            ptr_table_2_table.append( (addr, size, PTR2_MARK[i], paddr, psize) )
+            ptr_table_2_table.append( (addr, size, PTR2_MARK[i], paddr, psize) )   
             
-        ptr_table_1_path = os.path.join( src, "ptr_table_1" )            
-        files = os.listdir(ptr_table_1_path)
+        fd.seek(0x0)           
+        for i, p in enumerate(ptr_table_2_table):
+            fd.write( struct.pack( "<L", p[0] - fd.tell() ))
+            fd.write( struct.pack( "<L", p[1] ))
+            fd.write( struct.pack( "<L", p[2] ))
+            fd.write( struct.pack( "<L", p[3] - fd.tell() ))
+            fd.write( struct.pack( "<L", p[4] | 0x00080000 | ( P[i] << 24 ) ))        
+    
+    with open( dst, "wb" ) as fd:    
+        fd.write( struct.pack("<L", 0x000006) )
+        fd.seek( 0x20 )
+        
         ptr_table_1_table = []
-        for i, f in enumerate(files): 
+        for i, f in enumerate(range(6)): 
             addr = fd.tell()
         
-            input = open( os.path.join(ptr_table_1_path, f), "rb" )
+            input = open( os.path.join(ptr_table_1_path, "%03d.bin" % f), "rb" )
             fd.write( input.read() )
             input.close()
             
@@ -138,19 +137,12 @@ def Pack(src, dst):
                 fd.write( "\x00" * (4 - (fd.tell() % 4)) )            
             
             ptr_table_1_table.append(addr)
-        ptr_table_1_table.append(fd.tell())
+        ptr_table_1_table.append(fd.tell())        
         
-        fd.seek( 0x08 )
+        fd.seek( 0x04 )
         for i, p in enumerate(ptr_table_1_table):
-            fd.write( struct.pack( "<L", p | COMPRESSION_FLAG[i] ))
-            
-        for i, p in enumerate(ptr_table_2_table):
-            fd.write( struct.pack( "<L", p[0] - fd.tell() ))
-            fd.write( struct.pack( "<L", p[1] ))
-            fd.write( struct.pack( "<L", p[2] ))
-            fd.write( struct.pack( "<L", p[3] - fd.tell() ))
-            fd.write( struct.pack( "<L", p[4] | 0x00080000 ))
-
+            fd.write( struct.pack( "<L", p | COMPRESSION_FLAG[i] ))    
+    
 if __name__ == "__main__":
 
     import argparse
