@@ -169,14 +169,14 @@ def DecodeImage( src, dst, tmmap, codec, **kwargs ):
     tmoffs = kwargs.get("tmoffs", 0 )
     tmaddr = kwargs.get("tmaddr", 0 )
     tmsize = kwargs.get("tmsize", os.path.getsize(tmmap))
-    print tmaddr , tmsize , os.path.getsize(tmmap)
+    #print tmaddr , tmsize , os.path.getsize(tmmap)
     assert (tmaddr + tmsize) <= os.path.getsize(tmmap) , "Out of range" 
     
     # Tileset params
     tsaddr = kwargs.get("tsaddr", 0)
     tssize = kwargs.get("tssize", os.path.getsize(src))
     if tssize == 0 : tssize = os.path.getsize(src)
-    print tsaddr , tssize , os.path.getsize(src)
+    #print tsaddr , tssize , os.path.getsize(src)
     assert (tsaddr + tssize) <= os.path.getsize(src) , "Out of range" 
    
     # tsfull = kwargs.get("tsfull", src)

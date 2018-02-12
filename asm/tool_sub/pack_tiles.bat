@@ -12,4 +12,8 @@ copy /B/Y "asm_sub_000_001\001_ts_sem_avatar.bin"+"asm_sub_000_001\001_image_ape
 
 rem Gera o tilemap da imagem completa
 pypy tool_tilemap.py -m p -f "asm_sub_000_001\001_image.bin" -tsf "new_sub\ptr_table_1\000\001.bin" -tsF "asm_sub_000_001\001_tileset_full.bin" -c 8 -tsa 0x0 -tmf "new_sub\ptr_table_1\001.bin" -tma 0x83c -tms 2048 -tmo 0 -odr -oib
-rem pypy tool_tilemap.py -m p -f "asm_sub_000_002\002_image.bin" -tsf "new_sub\ptr_table_1\000\002.bin" -c 8 -tsa 0x0 -tmf "new_sub\ptr_table_1\001.bin" -tma 0x1044 -tms 2048 -tmo 512
+
+rem Tileset 002
+copy /B/Y "asm_sub_000_002\002_002_image.bin"+"asm_sub_000_002\002_001_image.bin" "asm_sub_000_002\002_image_full.bin"
+pypy tool_tilemap.py -m p -f "asm_sub_000_002\002_001_image.bin" -tsf "new_sub\ptr_table_1\000\002.bin" -tsF "asm_sub_000_002\002_image_full.bin" -c 8 -tsa 0x0 -tmf "new_sub\ptr_table_1\001.bin" -tma 0x1044 -tms 2048 -tmo 512
+pypy tool_tilemap.py -m p -f "asm_sub_000_002\002_002_image.bin" -tsf "new_sub\ptr_table_1\000\002.bin" -tsF "asm_sub_000_002\002_image_full.bin" -c 8 -tsa 0x0 -tmf "new_sub\ptr_table_1\001.bin" -tma 0x4074 -tms 2048 -tmo 512
