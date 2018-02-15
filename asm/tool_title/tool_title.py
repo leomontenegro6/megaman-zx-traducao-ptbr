@@ -33,7 +33,7 @@ def Unpack(src, dst):
                 out.write( fd.read( size ) )                
             fd.seek( link )
             
-        
+        ptr_table_2_path = os.path.join( dst, "ptr_table_2" )
         if not os.path.isdir(ptr_table_2_path):
             os.makedirs(ptr_table_2_path)
             

@@ -17,3 +17,6 @@ rem Tileset 002
 copy /B/Y "asm_sub_000_002\002_002_image.bin"+"asm_sub_000_002\002_001_image.bin" "asm_sub_000_002\002_image_full.bin"
 pypy tool_tilemap.py -m p -f "asm_sub_000_002\002_001_image.bin" -tsf "new_sub\ptr_table_1\000\002.bin" -tsF "asm_sub_000_002\002_image_full.bin" -c 8 -tsa 0x0 -tmf "new_sub\ptr_table_1\001.bin" -tma 0x1044 -tms 2048 -tmo 512
 pypy tool_tilemap.py -m p -f "asm_sub_000_002\002_002_image.bin" -tsf "new_sub\ptr_table_1\000\002.bin" -tsF "asm_sub_000_002\002_image_full.bin" -c 8 -tsa 0x0 -tmf "new_sub\ptr_table_1\001.bin" -tma 0x4074 -tms 2048 -tmo 512
+
+rem Tileset 003
+pypy tool_tilemap.py -m p -f "asm_sub_000_003\003_001_image.bin" -tsf "new_sub\ptr_table_1\000\003.bin" -c 8 -tsa 0x0 -tmf "new_sub\ptr_table_1\001.bin" -tma 0x184c -tms 2048 -tmo 512
