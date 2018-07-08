@@ -6,8 +6,8 @@ import struct
 
 from rhCompression import lzss
 
-PATH_SUBTITLES = "./subtitles/en"
-PATH_OUTPUT = "./subtitles/out-en"
+PATH_SUBTITLES = "./subtitles/ptbr"
+PATH_OUTPUT = "./subtitles/out-ptbr2"
 
 def vertical(buffer):
     c = ''
@@ -31,11 +31,11 @@ def create_tilesdict( buff , codec ):
     if codec == 4:
         lenght = len(buff) / 32
         for x in range(lenght):
-            tilesdict.update({x:buff[32*x:32*(x+1)]})
+            tilesdict.update({x:buff[32*x:32*(x+1)].tostring()})
     else:
         lenght = len(buff) / 64
         for x in range(lenght):
-            tilesdict.update({x:buff[64*x:64*(x+1)]})
+            tilesdict.update({x:buff[64*x:64*(x+1)].tostring()})
     return tilesdict
 
 if __name__ == "__main__":

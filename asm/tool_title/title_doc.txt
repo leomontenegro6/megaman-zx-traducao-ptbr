@@ -1,4 +1,4 @@
-Sobre o arquivo title.bin
+﻿Sobre o arquivo title.bin
 
 Em 0xC4A0 temos o tileset de M.E.G.A SYSTEM. O ponteiro para esse gráfico está em 0x48 (subtrair esse valor do endereço)
 Em 0xE834 temos a paleta de cores para esse gráfico. O ponteiro para essa paleta de cores está em 0x5C (subtrair esse valor do endereço)
@@ -77,4 +77,4 @@ UM NOVO HEROI --
  BRK 201780c
  
  Para acrescentar mais duas letras em UM NOVO HEROI: 0xcb37a em arm9.bin
- Para acrescentar mais duas letras em MEGAMERGICA: 0xcb32c em arm9.bin
+ Para acrescentar mais duas letras em MEGAMERGIRA: 0xcb32c em arm9.bin

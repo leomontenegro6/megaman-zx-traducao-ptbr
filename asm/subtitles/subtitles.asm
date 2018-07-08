@@ -825,7 +825,7 @@ bx      r14
 .org 0x2028B28
 .db 0x02 ; 0x01
 
-;; É necessário ter alterado o o arquivo 000_1_image.bin de title.bin - Animação da tela inicial
+;; É necessário ter alterado o arquivo 000_1_image.bin de title.bin - Animação da tela inicial
 .org 0x020CB32C
 ;      M     E     G     A     M     E     R     G     I     R     Á
 .db 0x04, 0x04, 0x04, 0x04, 0x04, 0x12, 0x12, 0x12, 0x12, 0x12, 0x04    ; Cada byte é o tempo em cada letra. A soma deve dar 72h
@@ -833,7 +833,6 @@ bx      r14
 .org 0x020CB376
 ;      U     M           N     O     V     O           H     E     R     Ó     I
 .db 0x04, 0x04, 0x06, 0x04, 0x04, 0x04, 0x04, 0x06, 0x04, 0x04, 0x04, 0x04, 0x04 ; Cada byte é o tempo em cada letra. A soma deve dar 38h
-
 
 ; É necessário ter o arquivo 053 de obj_fnt.bin e obj_dat.bin atualizados para as alterações abaixo funcionarem.
 ; Tabelas de Ponteiros
@@ -917,3 +916,113 @@ OAM_MISSION_COMPLETE_Ptr: ; Posição X de cada letra
 .dw 0xFFFFFA00, 0x00000600, 0x00001200  ; C O N
 .dw 0x00001F00, 0x00002D00, 0x00003900  ; C L U
 .dw 0x00004600, 0x00005100, 0x00005D00  ; Í D A
+
+; =========== MEGAMAN ============
+
+; É necessário ter o arquivo 145 de obj_fnt.bin e obj_dat.bin atualizados (copiados da ROM americana) para as alterações abaixo funcionarem.
+
+.org 0x020DA438 ; Posição original - NÃO FOI NECESSÁRIO ALTERAR
+.align
+SPRITES_MEGAMAN_Ptr:
+;.db 0x00, 0x01, 0x02, 0x03, 0x04
+;      M     E     G     A     M     A     N
+.db 0x05, 0x06, 0x07, 0x08, 0x09, 0x0A, 0x0B
+
+;; Foi necessário reescrever a função porque ela estava hardcoded para apenas 5 caracteres. Mesmo na ROM americana, é uma rotina para cada caracteres
+;; Foi trocada por um loop
+.org 0x2017444
+SPRITES_MEGAMAN_Intro:
+push    {r4-r7,r14}
+add     sp,-14h
+mov     r4,r0
+cmp     r1,1h
+beq     2017450h
+b       20175dch
+mov     r6,0h
+mov     r7,0h
+SPRITES_MEGAMAN_LoopIter:
+ldr     r0,=06890042h       ; É necessário para ligar o modo ext pal na VRAM F. Na rom us é feito em 0201B002. Na rom jp, é feito em 0201ACDA, mas é gravado 0
+ldr     r1,=020f7774h       ; Na rom us, é gravado em 020f59f4
+str     r0,[r1]             ; Debug hardcore e místico
+;;cmp     r6, 5h              ; 5 caracteres
+cmp     r6, 7h              ; 7 caracteres
+beq     0x0201751E  
+ldr     r3,=SPRITES_MEGAMAN_OAM       ; Endereço inicial das OAMS. Na rom original é em 20CB420h
+mov     r0,4h               ; Posição X
+add     r0,r7
+ldsh    r0,[r3,r0]
+str     r0,[sp]
+mov     r0,6h               ; Posição Y
+add     r0,r7
+ldsh    r0,[r3,r0]
+str     r0,[sp,4h]
+mov     r0,8h               ; Momento em que aparece na tela
+add     r0,r7
+ldsh    r0,[r3,r0]
+str     r0,[sp,8h]
+mov     r0,0ah
+add     r0,r7
+ldsh    r0,[r3,r0]
+str     r0,[sp,0ch]
+mov     r0,r4
+mov     r1,r6               ; Indice da letra
+mov     r2,r7               ; Endereço das definições da OAM
+ldsh    r2,[r3,r2]
+mov     r5,r7
+add     r5,2h
+ldsh    r3,[r3,r5]
+bl      2033C98h
+add     r7, 0ch             ; base_address da palavra
+add     r6, 1h
+b       SPRITES_MEGAMAN_LoopIter
+.pool
+
+;; Como otimizei a função com um loop, vai sobrar espaço para colocar as informações das OAMs
+SPRITES_MEGAMAN_OAM:
+; .dh 0x0080, 0xffe0, 0x002c, 0x0059, 0x0018, 0x0008
+; .dh 0x0096, 0xffe0, 0x0042, 0x0059, 0x0020, 0x0008
+; .dh 0x00af, 0xffe0, 0x005b, 0x0059, 0x0028, 0x0008
+; .dh 0x00c8, 0xffe0, 0x0074, 0x0059, 0x0030, 0x0008
+; .dh 0x00de, 0xffe0, 0x008a, 0x0059, 0x0038, 0x0008
+; .dh 0x00c8, 0xffe0, 0x00a3, 0x0059, 0x0040, 0x0008
+; .dh 0x00de, 0xffe0, 0x00bc, 0x0059, 0x0048, 0x0008
+.dh 0x0087, 0xffdb, 0x0020, 0x0058, 0x0028, 0x0006
+.dh 0x009f, 0xffdb, 0x0038, 0x0058, 0x002e, 0x0006
+.dh 0x00af, 0xffdb, 0x0048, 0x0058, 0x0034, 0x0006
+.dh 0x00c4, 0xffdb, 0x005d, 0x0058, 0x003a, 0x0006
+.dh 0x00d7, 0xffdb, 0x0070, 0x0058, 0x0040, 0x0006
+.dh 0x00ec, 0xffdb, 0x0085, 0x0058, 0x0046, 0x0006
+.dh 0x00ff, 0xffdb, 0x0098, 0x0058, 0x004e, 0x0006
+
+.org 0x020175DA
+pop     {r4-r7,r15}
+.org 0x02017600
+pop     {r4-r7,r15}
+.org 0x02017668
+pop     {r4-r7,r15}
+.org 0x02017670
+pop     {r4-r7,r15}
+
+;;  Animação do ZX - Rotação do ZX
+.org 0x0201a8ae
+mov     r1,0aah
+.org 0x0201a8b2
+mov     r1,52h
+.org 0x0201a8be
+mov     r3,22h  ; 4ch original
+
+;; Animação do ZX - Tremida do logo
+.org 0x0201a9ce
+mov     r6,53h
+.org 0x0201a9e0
+mov     r3,22h  ; mov r0,38h  Posição eixo X Foi necessário alterar a ordem dos registradores pois não havia espaço
+str     r3,[sp] ; str r0,[sp]
+.org 0x0201a9ec
+mov     r0,38h  ; mov r3,4ch  Posição eixo Y Foi necessário alterar a ordem dos registradores pois não havia espaço
+
+;; Animação do ZX - Final estático
+.org 0x0201aa4e
+mov     r3,22h  ; mov r0,38h  Posição eixo X Foi necessário alterar a ordem dos registradores pois não havia espaço
+str     r3,[sp] ; str r0,[sp]
+.org 0x0201aa5e
+mov     r0,38h  ; mov r3,4ch  Posição eixo Y Foi necessário alterar a ordem dos registradores pois não havia
