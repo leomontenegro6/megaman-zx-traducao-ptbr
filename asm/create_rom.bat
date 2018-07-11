@@ -41,6 +41,8 @@ call pack_sub.bat
 cd..
 copy "tool_sub\new\sub.bin" "ROM Modificada\ROCK\data\sub.bin" /B/Y 
 
+copy "tool_game_parm\new\game_parm.bin" "ROM Modificada\ROCK\data\game_parm.bin" /B/Y 
+
 rem Copia os binários commitados pelo Solid One
 copy "..\graficos\face.bin" "ROM Modificada\ROCK\data\face.bin" /B/Y 
 copy "..\graficos\font_pal.bin" "ROM Modificada\ROCK\data\font_pal.bin" /B/Y 
@@ -146,4 +148,5 @@ copy "..\scripts\reinseridos\talk_tw2_en2.bin" "ROM Modificada\ROCK\data\talk_tw
 echo "Repacking rom"
 cd "ROM Modificada"
 call empacotar_rom.bat
+call do_patch.bat
 cd ..

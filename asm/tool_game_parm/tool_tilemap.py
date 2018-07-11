@@ -62,7 +62,7 @@ def reduce_tilesdict( tilesdict ):
             
     return ret 
 
-def EncodeImage( src, dst, full, entry, codec ):
+def EncodeImage( src, dst, map, full, entry, codec ):
     # Monta o tileset a partir da imagem full (concatenação de todas as imagens)
     with open( full, "rb" ) as fd :    
         tilesdict = create_tilesdict( fd.read() , codec )
@@ -96,18 +96,14 @@ def EncodeImage( src, dst, full, entry, codec ):
                 raise Exception
                 sys.exit(1)
 
+    size = 0x20*0x20
     # Atualiza o tilemap
-    with open("tilemap_general_novo.bin", "r+b") as fd:
-        fd.seek( 4 * entry )
-        addr, next = struct.unpack( "<LL", fd.read(8) )
-        size = (next - addr)/2 -4
-        fd.seek( addr + 8 )                
-        
+    with open(map, "r+b") as fd:             
         palette = []
         for i in range(size):
             palette.append(struct.unpack("<H", fd.read(2))[0] & 0xF000)
 
-        fd.seek( addr+8)
+        fd.seek(0)
         for i in range(size):
             fd.write(struct.pack("<H", palette[i] | tilemap[i]))
 
@@ -159,5 +155,5 @@ if __name__ == "__main__":
     if args.mode == "u":
         DecodeImage( args.src , args.dst , args.map , args.entry , args.codec )
     elif args.mode == "p":
-        EncodeImage( args.src , args.dst , args.full , args.entry , args.codec )
+        EncodeImage( args.src , args.dst , args.map, args.full , args.entry , args.codec )
     

@@ -69,5 +69,22 @@ def Unpack( src, dst ):
         
 if __name__ == "__main__":
 
-    Unpack( "old/game_parm_sp.bin" , "old_game_parm" )
+    import argparse
+    
+    os.chdir( sys.path[0] )
+    #os.system( 'cls' )
+
+    parser = argparse.ArgumentParser()
+    parser.add_argument( '-m', dest = "mode", type = str, required = True )
+    parser.add_argument( '-s', dest = "src", type = str, nargs = "?", required = True )
+    parser.add_argument( '-d', dest = "dst", type = str, nargs = "?", required = True )
+    
+    args = parser.parse_args()            
+
+    if args.mode == "u":
+        Unpack( args.src , args.dst )
+    elif args.mode == "p": 
+        Pack( args.src , args.dst  )
+    else:
+        sys.exit(1)      
     
