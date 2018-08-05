@@ -11,22 +11,32 @@ import struct
 import sys
 import array
 
-def vertical(buffer):
+def vertical(buffer, codec):
     c = ''
-    for y in range(8)[::-1]:
-        c += buffer[4*y:4*(y+1)]
+    if codec == 4:
+        for y in range(8)[::-1]:
+            c += buffer[4*y:4*(y+1)]    
+    else:
+        for y in range(8)[::-1]:
+            c += buffer[8*y:8*(y+1)]
     return c
 
-def horizontal(buffer):
+def horizontal(buffer, codec):
     c = ''
-    for y in range(8):
-        reverse = buffer[4*y:4*(y+1)][::-1]
-        for w in range(4):
-            c += chr((ord(reverse[w]) << 4 | ord(reverse[w]) >> 4) & 0xFF)
+    if codec == 4:
+        for y in range(8):
+            reverse = buffer[4*y:4*(y+1)][::-1]
+            for w in range(4):
+                c += chr((ord(reverse[w]) << 4 | ord(reverse[w]) >> 4) & 0xFF)    
+    else:
+        for y in range(8):
+            reverse = buffer[8*y:8*(y+1)][::-1]
+            for w in range(8):
+                c += reverse[w]
     return c
     
-def diagonal(buffer):
-    return horizontal(vertical(buffer))
+def diagonal(buffer, codec):
+    return horizontal(vertical(buffer, codec), codec)    
 
 def create_tilesdict( buff , codec ):
     tilesdict = {}
@@ -128,14 +138,13 @@ def DecodeImage( src, dst, map, entry, codec ):
             key &= 0xFFF
             
             if (key & 0xC00) == 0xC00 :
-                out.write(diagonal(tilesdict[(key & 0x3FF)]))
+                out.write(diagonal(tilesdict[(key & 0x3FF)], codec))
             elif (key & 0x800) == 0x800:
-                out.write(vertical(tilesdict[(key & 0x3FF)]))
+                out.write(vertical(tilesdict[(key & 0x3FF)], codec))
             elif (key & 0x400) == 0x400:
-                out.write(horizontal(tilesdict[(key & 0x3FF)]))
+                out.write(horizontal(tilesdict[(key & 0x3FF)], codec))
             else:
-                out.write(tilesdict[(key & 0x3FF)])     
-                
+                out.write(tilesdict[(key & 0x3FF)])                     
         out.close()
 
 if __name__ == "__main__":
