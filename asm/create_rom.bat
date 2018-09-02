@@ -41,13 +41,18 @@ call pack_sub.bat
 cd..
 copy "tool_sub\new\sub.bin" "ROM Modificada\ROCK\data\sub.bin" /B/Y 
 
+cd tool_g_over
+call pack_g_over.bat
+cd..
+copy "tool_g_over\new\g_over.bin" "ROM Modificada\ROCK\data\g_over.bin" /B/Y 
+
 copy "tool_game_parm\new\game_parm.bin" "ROM Modificada\ROCK\data\game_parm.bin" /B/Y 
 
 rem Copia os binários commitados pelo Solid One
 copy "..\graficos\face.bin" "ROM Modificada\ROCK\data\face.bin" /B/Y 
 copy "..\graficos\font_pal.bin" "ROM Modificada\ROCK\data\font_pal.bin" /B/Y 
 copy "..\graficos\g_back.bin" "ROM Modificada\ROCK\data\g_back.bin" /B/Y 
-copy "..\graficos\g_over.bin" "ROM Modificada\ROCK\data\g_over.bin" /B/Y 
+REM copy "..\graficos\g_over.bin" "ROM Modificada\ROCK\data\g_over.bin" /B/Y 
 copy "..\graficos\miss.bin" "ROM Modificada\ROCK\data\miss.bin" /B/Y 
 copy "..\graficos\repair.bin" "ROM Modificada\ROCK\data\repair.bin" /B/Y 
 copy "..\graficos\sec_disk.bin" "ROM Modificada\ROCK\data\sec_disk.bin" /B/Y 

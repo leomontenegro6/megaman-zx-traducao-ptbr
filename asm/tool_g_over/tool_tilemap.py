@@ -50,17 +50,17 @@ def create_tilesdict( buff , codec ):
             tilesdict.update({x:buff[64*x:64*(x+1)]})
     return tilesdict
 
-def reduce_tilesdict( tilesdict ):
+def reduce_tilesdict( tilesdict, codec ):
     offset = 0 
     reduced_tilesdict = dict()
     for x in tilesdict: 
         if reduced_tilesdict.has_key(tilesdict[x]):
             continue
-        elif reduced_tilesdict.has_key(horizontal(tilesdict[x])):
+        elif reduced_tilesdict.has_key(horizontal(tilesdict[x],codec)):
             continue
-        elif reduced_tilesdict.has_key(vertical(tilesdict[x])):
+        elif reduced_tilesdict.has_key(vertical(tilesdict[x],codec)):
             continue
-        elif reduced_tilesdict.has_key(diagonal(tilesdict[x])):
+        elif reduced_tilesdict.has_key(diagonal(tilesdict[x],codec)):
             continue                        
         else:
             reduced_tilesdict.update({tilesdict[x]:offset})
@@ -72,12 +72,12 @@ def reduce_tilesdict( tilesdict ):
             
     return ret 
 
-def EncodeImage( src, dst, full, entry, codec ):
+def EncodeImage( src, dst, maps, full, entry, codec ):
     # Monta o tileset a partir da imagem full (concatenação de todas as imagens)
     with open( full, "rb" ) as fd :    
         tilesdict = create_tilesdict( fd.read() , codec )
         # Simplifica o dicionário de tiles para apenas tiles únicos
-        reduced_td = reduce_tilesdict(tilesdict)
+        reduced_td = reduce_tilesdict(tilesdict, codec)
         
         # Monta o tileset
         tileset = array.array("c")
@@ -96,30 +96,33 @@ def EncodeImage( src, dst, full, entry, codec ):
         for i in range(len(tilesdict)):
             if tilesdict[i] in val:
                 tilemap.append( 0x0000 | val.index(tilesdict[i]))
-            elif horizontal(tilesdict[i]) in val:
-                tilemap.append( 0x0400 | val.index(horizontal(tilesdict[i])))
-            elif vertical(tilesdict[i]) in val:
-                tilemap.append( 0x0800 | val.index(vertical(tilesdict[i])))
-            elif diagonal(tilesdict[i]) in val:
-                tilemap.append( 0x0C00 | val.index(diagonal(tilesdict[i])))   
+            elif horizontal(tilesdict[i], codec) in val:
+                tilemap.append( 0x0400 | val.index(horizontal(tilesdict[i], codec)))
+            elif vertical(tilesdict[i], codec) in val:
+                tilemap.append( 0x0800 | val.index(vertical(tilesdict[i], codec)))
+            elif diagonal(tilesdict[i], codec) in val:
+                tilemap.append( 0x0C00 | val.index(diagonal(tilesdict[i], codec)))   
             else:
                 raise Exception
                 sys.exit(1)
 
     # Atualiza o tilemap
-    with open("tilemap_general_novo.bin", "r+b") as fd:
-        fd.seek( 4 * entry )
-        addr, next = struct.unpack( "<LL", fd.read(8) )
-        size = (next - addr)/2 -4
-        fd.seek( addr + 8 )                
-        
-        palette = []
-        for i in range(size):
-            palette.append(struct.unpack("<H", fd.read(2))[0] & 0xF000)
+    with open(maps, "wb") as fd:
+        # fd.seek( 4 * entry )
+        # addr, next = struct.unpack( "<LL", fd.read(8) )
+        # size = (next - addr)/2 -4
+        # fd.seek( addr + 8 )  
 
-        fd.seek( addr+8)
+        size = 0x20*0x20        
+        
+        # palette = []
+        # for i in range(size):
+            # palette.append(struct.unpack("<H", fd.read(2))[0] & 0xF000)
+
+        # fd.seek( addr+8)
         for i in range(size):
-            fd.write(struct.pack("<H", palette[i] | tilemap[i]))
+            #fd.write(struct.pack("<H", palette[i] | tilemap[i]))
+            fd.write(struct.pack("<H", tilemap[i]))
 
 def DecodeImage( src, dst, map, entry, codec ):
 

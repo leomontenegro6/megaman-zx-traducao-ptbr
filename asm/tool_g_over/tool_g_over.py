@@ -92,10 +92,7 @@ def Unpack(src, dst):
             fd.seek( addr_2 + 4 )
             w, h = struct.unpack("<2H", fd.read(4))
             size = w*h*2 
-            od.write( fd.read( size ) )           
-            
-
-                
+            od.write( fd.read( size ) )                           
             
 # 0x00000078 -> Ponteiro pro arquivo + f.tell()
 # 0x00007320 -> Tamanho do arquivo
@@ -104,68 +101,64 @@ def Unpack(src, dst):
 # 0x00080000 -> ??          
 
 def Pack(src, dst):
-    print ">> Packing elf.bin"
+    print ">> Packing g_over.bin"
     
-    ptr_table_1_path = os.path.join( src, "ptr_table_1" )
-    if not os.path.isdir(ptr_table_1_path):
-        os.makedirs(ptr_table_1_path)  
-
-    ptr_table_2_path = os.path.join( ptr_table_1_path, "004" )
-    if not os.path.isdir(ptr_table_2_path):
-        os.makedirs(ptr_table_2_path)
-
-    files = os.listdir(ptr_table_2_path)
-    splitted_files = [ f for f in files if "palette" not in f ]
-    splitted_pallete = [ f for f in files if "palette" in f ]        
+    # pack 000.bin
+    with open( os.path.join( src , "000.bin" ), "r+b" ) as fd:
+        path = "asm_g_over_000"
+        
+        fd.seek( 40 )
     
-    # Este arquivo importa
-    with open( os.path.join( ptr_table_1_path , "004.bin" ), "wb" ) as fd:
-
-        fd.seek(0x3c)
+        for i in range( 2 ):       
+            with open( os.path.join( path , "%03d.bin" % i ) , "rb" ) as od:
+                data = od.read()
         
-        ptr_table_2_table = []
-        
-        for i, f in enumerate(splitted_files):
             addr = fd.tell()
+            fd.write( data )
+            link = fd.tell()
+            
+            fd.seek( 20 * i )
+            fd.write( struct.pack("<L", (addr - fd.tell()) ) )
+            fd.write( struct.pack("<L", len(data)) )
+            
+            fd.seek( link )   
+
+    # pack 001.bin
+    with open( os.path.join( src , "001_descomprimido.bin" ), "r+b" ) as fd:
+        print os.path.join( src , "001_descomprimido.bin" )
+        addr_0 = struct.unpack("<L" , fd.read(4))[0]
+        addr_1 = struct.unpack("<L" , fd.read(4))[0]
+        addr_2 = struct.unpack("<L" , fd.read(4))[0]
+               
+        path = "asm_g_over_001"
+            
+        with open( os.path.join( path , "001_000.bin" ) , "rb" ) as od:
+            fd.seek( addr_0 + 8)
+            #w, h = struct.unpack("<2H", fd.read(4))
+            #size = w*h*2   
+            fd.write( od.read() )
         
-            input = open( os.path.join(ptr_table_2_path, f), "rb" )
-            buff = input.read()
-            fd.write( buff )
-            input.close()
-            if ( fd.tell() % 4 != 0 ):
-                fd.write( "\x00" * (4 - (fd.tell() % 4)) )
-            
-            size = len(buff)
-            paddr = fd.tell()            
-            if ("%03d_palette.bin" % i) in splitted_pallete:
-                input = open( os.path.join(ptr_table_2_path, ("%03d_palette.bin" % i)), "rb" )
-                buff = input.read()
-                fd.write( buff )
-                input.close()
-                
-                psize = len(buff)
-            else:
-                psize = 0
-            
-            ptr_table_2_table.append( (addr, size, PTR2_MARK[i], paddr, psize) )   
-            
-        fd.seek(0x0)           
-        for i, p in enumerate(ptr_table_2_table):
-            fd.write( struct.pack( "<L", p[0] - fd.tell() ))
-            fd.write( struct.pack( "<L", p[1] ))
-            fd.write( struct.pack( "<L", p[2] ))
-            fd.write( struct.pack( "<L", p[3] - fd.tell() ))
-            fd.write( struct.pack( "<L", p[4] | 0x00080000 | ( P[i] << 24 ) ))        
+        with open( os.path.join( path , "001_001.bin" ) , "rb" ) as od:
+            fd.seek( addr_1 + 8 )
+            #w, h = struct.unpack("<2H", fd.read(4))
+            #size = w*h*2 
+            fd.write( od.read() )
+                       
+    with open( os.path.join( src , "001_descomprimido.bin" ), "rb" ) as fd:
+        ret = lzss.compress( fd )
+        with open( os.path.join( src , "001.bin" ), "wb" ) as gd:
+            ret.tofile( gd )    
+    
     
     with open( dst, "wb" ) as fd:    
-        fd.write( struct.pack("<L", 0x000006) )
-        fd.seek( 0x20 )
+        fd.write( struct.pack("<L", 0x000005) )
+        fd.seek( 0x1c )
         
         ptr_table_1_table = []
-        for i, f in enumerate(range(6)): 
+        for i, f in enumerate(range(5)): 
             addr = fd.tell()
         
-            input = open( os.path.join(ptr_table_1_path, "%03d.bin" % f), "rb" )
+            input = open( os.path.join(src, "%03d.bin" % f), "rb" )
             fd.write( input.read() )
             input.close()
             
@@ -177,7 +170,82 @@ def Pack(src, dst):
         
         fd.seek( 0x04 )
         for i, p in enumerate(ptr_table_1_table):
-            fd.write( struct.pack( "<L", p | COMPRESSION_FLAG[i] ))    
+            fd.write( struct.pack( "<L", p | COMPRESSION_FLAG[i] ))        
+   
+    
+    
+    # ptr_table_1_path = os.path.join( src, "ptr_table_1" )
+    # if not os.path.isdir(ptr_table_1_path):
+        # os.makedirs(ptr_table_1_path)  
+
+    # ptr_table_2_path = os.path.join( ptr_table_1_path, "004" )
+    # if not os.path.isdir(ptr_table_2_path):
+        # os.makedirs(ptr_table_2_path)
+
+    # files = os.listdir(ptr_table_2_path)
+    # splitted_files = [ f for f in files if "palette" not in f ]
+    # splitted_pallete = [ f for f in files if "palette" in f ]        
+    
+    # # Este arquivo importa
+    # with open( os.path.join( ptr_table_1_path , "004.bin" ), "wb" ) as fd:
+
+        # fd.seek(0x3c)
+        
+        # ptr_table_2_table = []
+        
+        # for i, f in enumerate(splitted_files):
+            # addr = fd.tell()
+        
+            # input = open( os.path.join(ptr_table_2_path, f), "rb" )
+            # buff = input.read()
+            # fd.write( buff )
+            # input.close()
+            # if ( fd.tell() % 4 != 0 ):
+                # fd.write( "\x00" * (4 - (fd.tell() % 4)) )
+            
+            # size = len(buff)
+            # paddr = fd.tell()            
+            # if ("%03d_palette.bin" % i) in splitted_pallete:
+                # input = open( os.path.join(ptr_table_2_path, ("%03d_palette.bin" % i)), "rb" )
+                # buff = input.read()
+                # fd.write( buff )
+                # input.close()
+                
+                # psize = len(buff)
+            # else:
+                # psize = 0
+            
+            # ptr_table_2_table.append( (addr, size, PTR2_MARK[i], paddr, psize) )   
+            
+        # fd.seek(0x0)           
+        # for i, p in enumerate(ptr_table_2_table):
+            # fd.write( struct.pack( "<L", p[0] - fd.tell() ))
+            # fd.write( struct.pack( "<L", p[1] ))
+            # fd.write( struct.pack( "<L", p[2] ))
+            # fd.write( struct.pack( "<L", p[3] - fd.tell() ))
+            # fd.write( struct.pack( "<L", p[4] | 0x00080000 | ( P[i] << 24 ) ))        
+    
+    # with open( dst, "wb" ) as fd:    
+        # fd.write( struct.pack("<L", 0x000006) )
+        # fd.seek( 0x20 )
+        
+        # ptr_table_1_table = []
+        # for i, f in enumerate(range(6)): 
+            # addr = fd.tell()
+        
+            # input = open( os.path.join(ptr_table_1_path, "%03d.bin" % f), "rb" )
+            # fd.write( input.read() )
+            # input.close()
+            
+            # if ( fd.tell() % 4 != 0 ):
+                # fd.write( "\x00" * (4 - (fd.tell() % 4)) )            
+            
+            # ptr_table_1_table.append(addr)
+        # ptr_table_1_table.append(fd.tell())        
+        
+        # fd.seek( 0x04 )
+        # for i, p in enumerate(ptr_table_1_table):
+            # fd.write( struct.pack( "<L", p | COMPRESSION_FLAG[i] ))    
     
 if __name__ == "__main__":
 
